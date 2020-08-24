@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<LocalizedText>
+		<!-- Ruleset -->
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_RULESET_TITLE">
+			<Text>Chế độ Red Death (Battle Royale)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION">
+			<Text>Chế độ Red Death (Battle Royale)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_RULESET_TEASER">
+			<Text>Red Death là phần quay của Civilization VI trên chế độ Battle Royale. Vào vai những người sống sót tranh giành tấm vé duy nhất rời hành tinh đang chết.</Text>
+		</Replace>
+		<!-- Victories  -->
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_VICTORY_TITLE">
+			<Text>Đứng trước Thử thách của Royale</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_VICTORY_DESC">
+			<Text>Là phe cuối cùng còn trụ lại.</Text>
+		</Replace>
+		<!-- Aliens Civilization text -->
+		<Replace Language='en_US' Tag="LOC_LEADER_CIVROYALE_SCENARIO_ALIENS_NAME">
+			<Text>Aliens (Người ngoài hành tinh)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_NAME">
+			<Text>Aliens (Người ngoài hành tinh)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_DESCRIPTION">
+			<Text>Aliens Chúa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_ADJECTIVE">
+			<Text>Aliens (Người ngoài hành tinh)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALIENS_XENO_REGENERATION_ABILITY_NAME">
+			<Text>Tái tạo Xenological</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALIENS_XENO_REGENERATION_ABILITY_DESCRIPTION">
+			<Text>Tất cả các đơn vị hồi máu mỗi lượt khi ra khỏi nước, Red Death, hoặc bụi phóng xạ WMD bất kể di chuyển hay hành động. Aliens hồi máu chậm hơn 50%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALIENS_XENO_STEALTH_ABILITY_NAME">
+			<Text>Ngụy trang Xenological</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALIENS_XENO_STEALTH_ABILITY_DESCRIPTION">
+			<Text>Tất cả các đơn vị có thể sử dụng Xenological Ngụy trang để trở nên vô hình với hầu hết các đơn vị. Các đơn vị địch liền kề có thể nhìn thấy các đơn vị Ngụy trang. Tấn công sẽ hủy kích hoạt Ngụy trang Xenological. Xenological Ngụy trang tồn tại trong 6 lượt và mất 6 lượt để sạc lại.</Text>
+		</Replace>
+
+		<!-- Cultist Civilization text -->
+		<Replace Language='en_US' Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME">
+			<Text>Cultists (Tín đồ)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME">
+			<Text>Cultists (Tín đồ)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION">
+			<Text>Cultists Giáo chủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE">
+			<Text>Cultists (Tín đồ)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTISTS_SIGHT_ABILITY_NAME">
+			<Text>Sự khai sáng cuối cùng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTISTS_SIGHT_ABILITY_DESCRIPTION">
+			<Text>Tất cả các đơn vị được +3 tầm nhìn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTISTS_UNDYING_EYE_ABILITY_NAME">
+			<Text>Con mắt bất tử</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTISTS_UNDYING_EYE_ABILITY_DESCRIPTION">
+			<Text>Các tín đồ bắt đầu trò chơi với một người tàn tật GDR (mà họ tôn thờ). Người tàn tật GDR bắt đầu với tổn thương nặng và không hồi phục hoặc nhận kinh nghiệm bình thường. GDR được thăng hạng nhờ sự sẵn sàng hy sinh của các đơn vị Tu sĩ liền kề.</Text>
+		</Replace>
+
+		<!-- Edgelord Civilization text -->
+		<Replace Language='en_US' Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME">
+			<Text>Borderlords (Lãnh chúa biên giới)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME">
+			<Text>Borderlords (Lãnh chúa biên giới)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION">
+			<Text>Borderlords (Lãnh chúa tàn nhẫn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE">
+			<Text>Borderlords (Lãnh chúa biên giới)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EDGELORDS_EDGENESS_ABILITY_NAME">
+			<Text>Sống trên các cạnh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EDGENESS_ABILITY_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh Chiến đấu trong 3 ô trở lên ở gần biên giới Vùng an toàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EDGELORDS_GRIEVING_GIFT_ABILITY_NAME">
+			<Text>Món quà đau đớn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EDGELORDS_GRIEVING_GIFT_ABILITY_DESCRIPTION">
+			<Text>Là một hành động tự do, bất kỳ đơn vị Borderlord nào cũng có thể chỉ định một ô cho Món quà Đau đớn bị mắc kẹt trong lượt tiếp theo. Món quà Đau đớn sẽ giống như một Nguồn cung cấp bình thường cho tất cả những người chơi khác. Các Borderlord có thể lưu trữ tối đa hai Quà tặng Đau đớn và họ mất 5 lượt để nạp lại.</Text>
+		</Replace>
+
+		<!-- Jocks Civilization text -->
+		<Replace Language='en_US' Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME">
+			<Text>Jocks</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME">
+			<Text>Jocks</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION">
+			<Text>Meanest Jocks</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE">
+			<Text>Jocks</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_JOCK_COMBAT_BONUS_ABILITY_NAME">
+			<Text>Nhân chứng hoàn hảo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_JOCK_COMBAT_BONUS_ABILITY_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh Chiến đấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_JOCK_HAIL_MARY_ABILITY_NAME">
+			<Text>Hail Mary Hoàn hảo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_JOCK_HAIL_MARY_ABILITY_DESCRIPTION">
+			<Text>Nhận một hạt nhân chiến thuật nhỏ "Hail Mary" từ bất kỳ đơn vị chiến đấu nào sau mỗi 6 lượt.</Text>
+		</Replace>
+		
+
+		<!-- Mutants Civilization text -->
+		<Replace Language='en_US' Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME">
+			<Text>Mutants (Kẻ Đột biến)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME">
+			<Text>Mutants (Kẻ Đột biến)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION">
+			<Text>Mutants Đầy sẹo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE">
+			<Text>Mutants (Kẻ Đột biến)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME">
+			<Text>Nhân cách vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION">
+			<Text>-50% sát thương Red Death.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME">
+			<Text>Di chuyển phóng xạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION">
+			<Text>+3 [ICON_Movement] Di chuyển cho tất cả các đơn vị trong Red Death. -50% sát thương Red Death</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME">
+			<Text>Nhân cách vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION">
+			<Text>Các đơn vị Mutant hấp thụ 8 Phí bức xạ mỗi lượt bắt đầu từ vụ nổ Red Death hoặc WMD. Các đơn vị Mutant lây lan Red Death tới các ô không bị ô nhiễm một lần mỗi phí Phóng xạ. Các đơn vị Mutant không nhận sát thương từ Red Death lây lan của Mutant.</Text>
+		</Replace>		
+
+		<!-- Preppers Civilization text -->
+		<Replace Language='en_US' Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME">
+			<Text>Doomsday Preppers (Kẻ chu toàn)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME">
+			<Text>Preppers (Kẻ chu toàn)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION">
+			<Text>Insane Doomsday Preppers (Kẻ chu toàn điên rồ)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE">
+			<Text>Preppers (Kẻ chu toàn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PREPPERS_EXPERIENCE_ABILITY_NAME">
+			<Text>Luôn chuẩn bị cho điều tệ nhất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PREPPERS_EXPERIENCE_ABILITY_DESCRIPTION">
+			<Text>Tất cả các đơn vị đều có + 100% tiền thưởng kinh nghiệm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PREPPERS_IMPROVISED_TRAPS_ABILITY_NAME">
+			<Text>Bẫy cải tiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PREPPERS_IMPROVISED_TRAPS_ABILITY_DESCRIPTION">
+			<Text>Tất cả các đơn vị Prepper có thể xây dựng một số cải tiến Bẫy cải tiến có giới hạn. Bẫy cải tiến phát nổ và gây 25 sát thương nếu bất kỳ đơn vị nào di chuyển lên ô có bẫy. Preppers tìm thêm Bẫy cải tiến bằng cách khám phá Tàn tích thành phố, Trại lính đột kích hoặc Hòm tiếp tế. Bẫy cải tiến vô hình đối với tất cả các phe không phải Prepper.</Text>
+		</Replace>
+
+		<!-- Pirates Civilization text -->
+		<Replace Language='en_US' Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME">
+			<Text>Pirates (Cướp biển)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME">
+			<Text>Pirates (Cướp biển)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION">
+			<Text>Irradiated Pirates (Thuyền trưởng)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE">
+			<Text>Pirates (Cướp biển)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PIRATES_WATER_LOGGED_ABILITY_NAME">
+			<Text>Nhật kí của nước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PIRATES_WATER_LOGGED_ABILITY_DESCRIPTION">
+			<Text>Tất cả các đơn vị chịu ít hơn 50% sát thương khi ở dưới nước và bỏ qua chi phí di chuyển khi lên và xuống nước.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PIRATES_BURIED_TREASURE_ABILITY_NAME">
+			<Text>Kho báu bị chôn vùi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PIRATES_BURIED_TREASURE_ABILITY_DESCRIPTION">
+			<Text>Pirates bắt đầu trò chơi với một bản đồ kho báu bị chôn vùi được thể hiện bằng một nguồn cung cấp thêm trên bản đồ. Pirates nhận được phần thưởng đặc biệt và một bản đồ kho báu mới được chôn cất bằng cách đến địa điểm đó. Được tự do hành động, Pirates có thể đốt bản đồ kho báu của họ và nhận một bản đồ mới sau mỗi 6 lượt.</Text>
+		</Replace>
+
+		<!-- Scientists Civilization text -->
+		<Replace Language='en_US' Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME">
+			<Text>Mad Scientists (Nhà khoa học điên)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME">
+			<Text>Mad Scientists (Nhà khoa học điên)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION">
+			<Text>Ethically Challenged Scientists (Nhà khoa học suy đồi)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE">
+			<Text>Mad Scientists (Nhà khoa học điên)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCIENTISTS_HEAL_FASTER_ABILITY_NAME">
+			<Text>Chỉ một chút đau đớn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCIENTISTS_HEAL_FASTER_ABILITY_DESCRIPTION">
+			<Text>Tất cả các đơn vị hồi máu nhanh hơn gấp 2 lần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCIENTISTS_UNIT_SHIELDS_ABILITY_NAME">
+			<Text>Vắc xin toàn năng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCIENTISTS_UNIT_SHIELDS_ABILITY_DESCRIPTION">
+			<Text>Tất cả các đơn vị có thể triển khai Vắc xin toàn năng +10 [ICON_Strength] Sức mạnh Chiến đấu trong khi phòng thủ. Vắc xin toàn năng cũng cung cấp khả năng miễn nhiễm hoàn toàn với nước, Red Death và WMD do vụ nổ. Vắc xin toàn năng tồn tại trong 4 lượt và mất 6 lượt để hồi lại.</Text>
+		</Replace>
+
+		<!-- Wanderers Civilization text -->
+		<Replace Language='en_US' Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME">
+			<Text>Wanderers (Kẻ nhanh nhạy)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME">
+			<Text>Wanderers (Kẻ nhanh nhạy)</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION">
+			<Text>Wanderers Chuột chũi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE">
+			<Text>Wanderers (Kẻ nhanh nhạy)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WANDERERS_MOVE_BONUS_ABILITY_NAME">
+			<Text>Hẹn gặp lại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WANDERERS_MOVE_BONUS_ABILITY_DESCRIPTION">
+			<Text>Bộ binh và Xạ thủ Máy cũng như Dân thường trong đội hình với họ, có khả năng di chuyển [ICON_Movement] nhanh hơn trên địa hình Rừng, Rừng nhiệt đới và Đồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WANDERERS_ROAD_VISION_ABILITY_NAME">
+			<Text>Tầm nhìn đường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WANDERERS_ROAD_VISION_ABILITY_DESCRIPTION">
+			<Text>Là một hành động tự do, bất kỳ đơn vị nào cũng có thể tiết lộ tất cả các ô đã khám phá trước đó trong 1 lượt. Mất 3 lượt để hổi lại.</Text>
+		</Replace>
+
+		<!-- Zombies Civilization text -->
+		<Replace Language='en_US' Tag="LOC_LEADER_CIVROYALE_SCENARIO_ZOMBIES_NAME">
+			<Text>Zombies</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_NAME">
+			<Text>Zombies</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_DESCRIPTION">
+			<Text>Zombie Beastmasters</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_ADJECTIVE">
+			<Text>Zombies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_WEAPONIZED_ZOMBIES_ABILITY_NAME">
+			<Text>Vũ khí hóa Zombies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_WEAPONIZED_ZOMBIES_ABILITY_DESCRIPTION">
+			<Text>Zombie Beastmasters đã thay thế tất cả các đơn vị chiến đấu bằng Zombie Hordes gần như không được kiểm soát. Tàn tích thành phố, Trại lính đột kích và Hòm tiếp tế cung cấp thêm các đám Zombie thay vì các đơn vị truyền thống. Zombie Hordes tạo ra Zombie Horde mới khi chúng chiến đấu tiêu diệt một đơn vị kẻ thù không phải là zombie. Zombie Hordes không phải chịu hình phạt chiến đấu khi bị thiệt hại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_BRAINS_ABILITY_NAME">
+			<Text>Não bộ vô cực!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_BRAINS_ABILITY_DESCRIPTION">
+			<Text>Zombie Hordes không hồi máu bình thường và gây sát thương chậm theo thời gian. Zombie Hordes hồi máu khi chúng tiêu diệt đơn vị hoặc được thăng cấp. Tàn tích thành phố, Trại lính đột kích và Hòm tiếp tế cũng chữa lành cho Đám Zombie. Zombie Hordes có thể cảm nhận được đơn vị kẻ địch không nhìn thấy gần nhất cách xa 8 ô. Zombie Hordes có +5 [ICON_Strength] Sức mạnh Chiến đấu khi phòng thủ trước các cuộc tấn công tầm xa.</Text>
+		</Replace>
+		
+		<!-- Hall of Fame Text -->
+		<Replace Language='en_US' Tag="LOC_HOF_STAT_PLAYER_CITY_RUINS">
+			<Text>Khám phá phế tích thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_STAT_RAIDERS_KILLED">
+			<Text>Raiders đã bị giết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_STAT_RAIDER_CAMPS">
+			<Text>Trại Raider đã được lọc sạch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_RAIDER_KILLS">
+			<Text>Raiders đã bị giết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_RAIDER_CAMPS">
+			<Text>Trại Raider đã được lọc sạch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_CITY_RUINS">
+			<Text>Khám phá phế tích thành phố</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

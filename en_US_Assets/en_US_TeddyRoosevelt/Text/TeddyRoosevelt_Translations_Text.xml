@@ -1,0 +1,1391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY" Language="pt_BR">
+      <Text>Teddy Rough Rider anda com o porrete na mão em seu continente, mas ao deixá-lo quieto, ele não fará nada.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY" Language="pt_BR">
+      <Text>Teddy Roosevelt Rough Rider possui +5 de força de combate em seu continente natal e a habilidade de dominar cidades-estados por meio do comércio. Ele deseja realizar uma expansão rápida pelo continente enquanto ganha o apoio de todas as cidades-estados próximas. A habilidade de civilização dos Fundadores torna a escolha de governo importante e pode prepará-lo para qualquer tipo de vitória. Suas duas unidades exclusivas pós-industriais, incluindo a favorita Rough Riders, o tornam capaz de atacar com especial vigor a partir do século XX.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY" Language="pt_BR">
+      <Text>Teddy Alce sabe que nada é mais importante do que a conservação de paisagens deslumbrantes, pois os Estados Unidos progridem rápido colocando Parques Nacionais próximos às principais cidades.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY" Language="pt_BR">
+      <Text>Teddy Alce defende as escolhas de governo República Clássica, República Mercante e, então, Democracia, pois elas lhe dão os espaços de política econômica e de base necessários para ele atingir uma Vitória Cultural. Com seu Estúdio de Cinema, seu bônus de Parque Nacional e a habilidade de ganhar ciência e cultura de painéis de tirar o fôlego, Teddy é um colosso cultural, especialmente quando possui terras de grande beleza natural.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE" Language="pt_BR">
+      <Text>É importante deixar um território melhor para nossos descendentes.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE" Language="pt_BR">
+      <Text>Teddy Roosevelt (Alce)</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_NAME" Language="pt_BR">
+      <Text>O Alce</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION" Language="pt_BR">
+      <Text>Quer se estabelecer perto de painéis de apelo alto e construir distritos e maravilhas de apelo alto. Gosta de quem faz o mesmo. Não gosta de quem se envolve em territórios de apelo baixo.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="pt_BR">
+      <Text>Soube que você tem feito uma caminhada de primeira por ali.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY" Language="pt_BR">
+      <Text>Somos definidos pela maneira como vivos com o temos ao nosso redor. Lembre-se disso.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY" Language="pt_BR">
+      <Text>(Você tem muitas áreas com apelo alto dentro de seu império.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY" Language="pt_BR">
+      <Text>(Você não tem áreas com apelo alto dentro de seu império.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Se devo escolher entre a justiça e a paz, eu escolho a justiça.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Eu queria ter evitado isso, você sabe, mas sua noção de paz não me deixou escolha.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Parabéns. Ao contrário dos Estados Unidos da América, sua nação irá longe.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Não posso dizer não a isso.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Não temos interesse no momento.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Você ganhou meu respeito. Vamos declarar nossa amizade?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Você tem meus agradecimentos.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Isso é muito triste.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Eu dou à sua delegação as boas-vindas aos grandes Estados Unidos da América.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Temos que declinar.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>É bom ver você. Minha delegação diplomática deve estar chegando em breve com algumas tortas de maçã fresquinhas. Sei que eles terão uma recepção calorosa.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Como se atreve!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Eu não posso tolerar um governante sem dignidade e o mundo precisa ser informado. (Denuncia você)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Bem-vindo aos Estados Unidos da América. Se você se comportar bem, nos considere amigos.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Temos uma cidade perto. Gostaria de visitar? Poderia mostrar os ursos de pelúcia que estão na moda agora.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Não posso dizer não a isso.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Gostaria de trocar informações sobre nossas capitais, promover o livre comércio entre as nossas nações e tudo mais.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Continue, então.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Você ganhou meu respeito. Vamos formar uma aliança?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>É dever da nossa nação proteger nossos direitos e interesses. Isso está feito. Vamos seguir com a paz.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Não está falando sério!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Eu protegi os interesses da nação e os nossos direitos. Isto está feito. Agora, nós podemos viver em paz.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Estamos felizes em abrir nossas fronteiras às suas unidades.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Não temos interesse no momento.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Pode permitir que nossas unidades cruzem o seu território?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Suas tropas marcham tão perto da minha fronteira que começo a questionar sua integridade.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Obrigado por manter a paz no continente. Isso é bom, parabéns.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="pt_BR">
+      <Text>(Você manteve a paz no continente natal dele.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pt_BR">
+      <Text>Nenhum homem está acima da lei. É dever seu lembrar-se disso.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="pt_BR">
+      <Text>(Você atacou alguém no continente natal dele.)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY" Language="fr_FR">
+      <Text>Theodore Roosevelt le "Rough Rider" contrôle son continent d'une main de fer, mais il reste pacifique tant qu'il n'est pas menacé.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY" Language="fr_FR">
+      <Text>La puissance de combat de Theodore Roosevelt le "Rough Rider" augmente de 5 points sur son continent d'origine et il peut influencer les cités-états via le commerce. Il cherche à agrandir rapidement son territoire sur le continent, tout en gagnant le soutien de toutes les cités-états à proximité. La capacité Pères fondateurs de l'Amérique donne un poids particulier au choix de son gouvernement et peut lui permettre de poursuivre n'importe quel type de victoire. Ses deux unités exclusives post-industrielles, dont les fameux Rough Riders, lui permettent de frapper avec une force implacable à partir du XXe siècle.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY" Language="fr_FR">
+      <Text>Theodore Roosevelt "l'Élan" sait à quel point il est important de préserver une nature époustouflante, c'est pourquoi l'Amérique progresse plus vite avec des parcs nationaux à proximité de ses grandes villes.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY" Language="fr_FR">
+      <Text>Theodore Roosevelt "l'Élan" préfère les choix gouvernementaux d'une république classique, d'une république maritime, puis d'une démocratie : il peut ainsi profiter des emplacements de doctrines économiques et aléatoires qu'il lui faut pour obtenir une victoire culturelle. Grâce à son studio de cinéma, au bonus de ses parcs nationaux et à sa capacité à générer de la science et de la culture sur les cases d'un attrait époustouflant, Theodore Roosevelt est un monstre culturel, surtout lorsqu'il possède des terres à la beauté naturelle immense.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE" Language="fr_FR">
+      <Text>Il est important de laisser un meilleur territoire à nos descendants.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE" Language="fr_FR">
+      <Text>Theodore Roosevelt (Élan)</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_NAME" Language="fr_FR">
+      <Text>L'Élan</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION" Language="fr_FR">
+      <Text>Cherche à s'installer près de cases à l'attrait élevé et à construire des merveilles et quartiers attrayants, et apprécie les dirigeants faisant de même. N'apprécie pas les territoires sans attrait particulier.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="fr_FR">
+      <Text>J'ai entendu dire que vos chemins de randonnée sont épatants.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY" Language="fr_FR">
+      <Text>Ne l'oubliez pas : un homme est défini par la manière dont il traite son environnement.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY" Language="fr_FR">
+      <Text>(Votre empire dispose de nombreux lieux attrayants.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY" Language="fr_FR">
+      <Text>(Votre empire ne dispose pas de suffisamment de lieux attrayants.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Si je dois choisir entre la vertu et la paix, je choisis la vertu.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Je voulais éviter d'en venir aux mains, mais l'idée que vous vous faites de la paix ne me laisse pas le choix.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Félicitations. Contrairement aux États-Unis d'Amérique, votre nation ira loin.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Je ne peux pas refuser.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Nous ne sommes pas intéressés pour l'instant.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Vous avez mérité mon respect. Et si nous faisions une déclaration d'amitié ?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Avec mes remerciements.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>C'est bien dommage.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Je souhaite la bienvenue à votre délégation aux États-Unis d'Amérique.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Nous devons refuser.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>C'est un plaisir de vous voir. Mes diplomates seront bientôt chez vous avec des tartes aux pommes tout juste sorties du four. Je pense que vous les accueillerez chaleureusement.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Comment osez-vous !</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>La dignité est essentielle à tout bon dirigeant. Il faut que le monde sache que vous n'en avez aucune. (Dénonciation)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Bienvenue aux États-Unis d'Amérique. Si vous vous conduisez bien, vous ne trouverez ici que des amis.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>L'une de nos villes est toute proche. Souhaitez-vous la visiter ? Je vous expliquerai pourquoi les ours en peluche sont devenus aussi célèbres.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Je ne peux pas refuser.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Je souhaiterais échanger des informations sur nos capitales et favoriser le commerce entre nos deux nations, entre autres choses.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Je vous écoute.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Vous méritez mon respect. Et si nous formions une alliance ?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Il est du devoir de notre nation de protéger ses droits et ses intérêts. Nous l'avons fait. L'heure est venue de faire la paix.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Vous plaisantez ?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>J'ai protégé les intérêts de la nation et nos droits fondamentaux. Nous pouvons maintenant vivre en paix.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>C'est avec plaisir que nous ouvrons nos frontières à vos unités.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Nous ne sommes pas intéressés pour l'instant.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Permettrez-vous à nos unités de traverser votre territoire ?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Vos troupes manœuvrent si près de nos frontières que je commence à douter de votre intégrité.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Merci d'avoir maintenu la paix sur le continent. Et encore bravo !</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="fr_FR">
+      <Text>(Vous avez maintenu la paix sur son continent d'origine.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="fr_FR">
+      <Text>Nul n'est au-dessus de la loi. Il vous appartient de ne pas l'oublier.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="fr_FR">
+      <Text>(Vous avez attaqué un joueur sur son continent.)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY" Language="de_DE">
+      <Text>Roosevelt (Rough Rider) regiert auf seinem Kontinent mit eiserner Hand, aber wenn man ihn in Ruhe lässt, bleibt er friedlich.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY" Language="de_DE">
+      <Text>Roosevelt (Rough Rider) verfügt auf seinem Heimatkontinent über +5 Kampfstärke und die Fähigkeit, Stadtstaaten durch Handel unter seine Kontrolle zu bringen. Er will sein Reich schnell auf dem Kontinent erweitern und dabei die Unterstützung aller benachbarten Stadtstaaten erlangen. Durch seine Zivilisationsfähigkeit 'Gründerväter' gewinnt die Regierungswahl bei ihm an Wichtigkeit, da er durch sie jeden Siegtyp anvisieren kann. Seine beiden nachindustriellen Spezialeinheiten, darunter die von ihm bevorzugten Rough Riders, machen ihn insbesondere ab dem 20. Jahrhundert zu einem starken Gegner.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY" Language="de_DE">
+      <Text>Roosevelt (Bull Moose) weiß, dass es nichts Wichtigeres gibt als den Erhalt atemberaubend schöner Natur, sodass Amerika zügig Nationalparks direkt vor den Toren seiner Großstädte errichtet.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY" Language="de_DE">
+      <Text>Roosevelt (Bull Moose) bevorzugt die Regierungsoptionen der klassischen Republik, der Handelsrepublik und schließlich der Demokratie: Durch sie erhält er Wirtschafts- und Joker-Politikplätze, die er für einen Kultursieg benötigt. Durch sein Filmstudio, seinen Nationalpark-Bonus und seine Fähigkeit, Wissenschaft und Kultur durch atemberaubende Geländefelder zu verdienen, ist Roosevelt ein kulturelles Schwergewicht, insbesondere, wenn er Land mit großer natürlicher Schönheit besitzt.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE" Language="de_DE">
+      <Text>Es ist wichtig, unseren Nachkommen ein besseres Land zu hinterlassen.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE" Language="de_DE">
+      <Text>Teddy Roosevelt (Bull Moose)</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_NAME" Language="de_DE">
+      <Text>Bull Moose (der Elchbulle)</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION" Language="de_DE">
+      <Text>Siedelt bevorzugt in der Nähe von Geländefeldern mit hoher Anziehungskraft, baut Bezirke und Wunder mit hoher Anziehungskraft und mag Anführer, die das Gleiche tun. Mag niemanden, der in Bereichen mit geringer Anziehungskraft siedelt.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="de_DE">
+      <Text>Wie ich höre, kann man ausgezeichnet wandern bei Euch.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY" Language="de_DE">
+      <Text>Der Umgang mit unserer Umwelt macht uns aus. Vergesst das nicht.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY" Language="de_DE">
+      <Text>(Ihr verfügt in Eurem Reich über zahlreiche Gebiete mit hoher Anziehungskraft)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY" Language="de_DE">
+      <Text>(Ihr verfügt in Eurem Reich nicht über genügend Gebiete mit hoher Anziehungskraft)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Wenn ich mich zwischen Rechtschaffenheit und Frieden entscheiden muss, wähle ich Rechtschaffenheit.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Ich hatte gehofft, dies vermeiden zu können, aber Eure Vorstellung von Frieden lässt mir keine andere Wahl.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Glückwunsch. Eure Nation wird es weit bringen, anders als die Vereinigten Staaten.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Das Angebot kann ich nicht ablehnen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Wir haben derzeit kein Interesse.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Ihr habt Euch meinen Respekt verdient. Wollen wir der Welt unsere Freundschaft verkünden?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Ihr habt meinen Dank.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Das ist wirklich bedauerlich.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Ich heiße Eure Delegation in den großartigen Vereinigten Staaten von Amerika willkommen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Wir müssen ablehnen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Schön, Euch zu sehen. Meine diplomatische Delegation sollte bald mit frisch gebackenem Apfelkuchen ankommen. Heißt sie recht herzlich willkommen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Wie könnt Ihr es wagen?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Ich kann mich nicht an einen Herrscher halten, der keine Würde hat. Die Welt muss davon erfahren. (Denunziert Euch)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Willkommen in den Vereinigten Staaten von Amerika. Solange Ihr Euch angemessen benehmt, könnt Ihr auf unsere Freundschaft zählen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Wir haben eine Stadt in der Nähe. Habt Ihr Interesse an einem Besuch? Ich könnte Euch die Stoffbären zeigen, die jetzt immer beliebter werden.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Das Angebot kann ich nicht ablehnen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Ich würde gerne Informationen über unsere Hauptstädte austauschen, freien Handel zwischen unseren Nationen begünstigen und vieles mehr.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Nun, fahrt fort.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Ihr habt Euch meinen Respekt verdient. Sollen wir ein Bündnis eingehen?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Es ist die Pflicht unserer Nation, unsere Rechte und Interessen zu wahren. Diese Pflicht ist erfüllt. Lasst uns nun Frieden schließen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Ihr könnt das nicht ernst meinen!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Ich habe die Interessen der Nation gewahrt und unsere Rechte beschützt. Diese Aufgabe ist erfüllt. Nun können wir in Frieden miteinander leben.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Wir freuen uns, unsere Grenzen für Eure Einheiten zu öffnen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Wir haben derzeit kein Interesse.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Werdet Ihr unseren Einheiten die Durchquerung Eures Territoriums gestatten?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Ihr stationiert Eure Truppen so nahe an meinen Grenzen, dass ich beginne, Eure Integrität in Frage zu stellen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Habt Dank für die Wahrung des Friedens auf dem Kontinent. Gratulation!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="de_DE">
+      <Text>(Ihr habt den Frieden auf seinem Heimatkontinent bewahrt)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="de_DE">
+      <Text>Niemand steht über dem Gesetz. Ihr solltet Euch daran erinnern.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="de_DE">
+      <Text>(Ihr habt jemanden auf seinem Heimatkontinent angegriffen.)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY" Language="it_IT">
+      <Text>Teddy Rough Rider gira con un grosso bastone quand'è sul suo continente, ma se non lo infastidisci se ne starà in pace.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY" Language="it_IT">
+      <Text>Teddy Roosevelt il Rough Rider gode di un bonus di +5 alla Forza di combattimento sul suo continente d'origine e ha l'abilità di portare le città-stato dalla sua parte attraverso il commercio. Teddy punta a espandersi rapidamente nel continente mentre guadagna il supporto di tutte le città-stato vicine. L'abilità Padri fondatori pone molta importanza sulla scelta della forma di governo e gli permette di puntare a qualsiasi tipo di vittoria. A partire dal XX secolo le sue due unità esclusive di epoca post-industriale, tra cui i prediletti Rough Rider, gli permettono di colpire con particolare efficacia.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY" Language="it_IT">
+      <Text>Teddy l'Alce sa che la cosa più importante è la conservazione dei panorami mozzafiato della nazione, dal momento che l'America si sviluppa rapidamente quando crea Parchi nazionali vicino alle sue città principali.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY" Language="it_IT">
+      <Text>Come forme di governo, Teddy l'Alce preferisce Repubblica Classica, Repubblica Mercantile e infine Democrazia, poiché queste gli mettono a disposizione gli slot per Politiche economiche e jolly di cui ha bisogno per puntare a una Vittoria culturale. Grazie ai bonus forniti da Studi cinematografici e Parchi Nazionali e all'abilità di guadagnare Scienza e Cultura dalle caselle Mozzafiato, Teddy può arrivare ad avere una forza culturale inarrestabile, soprattutto quando occupa territori di grande bellezza naturale.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE" Language="it_IT">
+      <Text>È importante lasciare ai nostri discendenti una terra migliore.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE" Language="it_IT">
+      <Text>Teddy Roosevelt (l'Alce)</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_NAME" Language="it_IT">
+      <Text>L'Alce</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION" Language="it_IT">
+      <Text>Cerca di insediarsi vicino a caselle con molto Appeal e costruisce distretti e Meraviglie che aumentano l'Appeal. Apprezza chi fa lo stesso e disapprova chi colonizza territori a basso Appeal.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="it_IT">
+      <Text>Ho sentito dire che da voi si possono fare delle escursioni da favola.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY" Language="it_IT">
+      <Text>Siamo definiti dal modo in cui viviamo con l'ambiente che ci circonda. Ricordalo sempre.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY" Language="it_IT">
+      <Text>(Hai molte zone con alto Appeal nel tuo impero.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY" Language="it_IT">
+      <Text>(Non hai abbastanza zone con alto Appeal nel tuo impero.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Se devo scegliere tra giustizia e pace, non posso che scegliere la giustizia.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Volevo evitare tutto questo, davvero, ma la tua idea di pace non mi lascia altra scelta.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Congratulazioni. La tua nazione farà strada... a differenza degli Stati Uniti d'America.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Non posso certo rifiutare.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Al momento non ci interessa.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Hai meritato il mio rispetto. Vogliamo dichiarare a tutti la nostra amicizia?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Hai tutti i miei ringraziamenti.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Una bella sfortuna.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Do il benvenuto alla tua delegazione nei grandi Stati Uniti d'America.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Dobbiamo rifiutare.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Che piacere vederti. La mia delegazione diplomatica arriverà presto con alcune torte di mele appena sfornate. Sono certo che la accoglierai con favore.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Come osi!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Non posso tollerare che qualcuno governi senza dignità; tutto il mondo deve saperlo. (Ti denuncia)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Ti do il benvenuto negli Stati Uniti d'America. Se ti comporterai bene potremo essere amici.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Abbiamo una città qui vicino. Vorresti visitarla? Potrei mostrarti gli orsi impagliati di cui tutti vanno pazzi.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Non posso certo rifiutare.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Mi piacerebbe scambiare qualche informazione sulle nostre capitali; questo promuoverebbe il libero mercato tra le nostre nazioni, eccetera eccetera.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Avanti, parla.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Hai guadagnato il mio rispetto. Vogliamo formare un'alleanza?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>La nostra nazione ha il dovere di proteggere i suoi diritti e i suoi interessi. Questo è stato fatto; ora possiamo andare in pace.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Non puoi dire sul serio!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Ho protetto i diritti della nazione e difeso i suoi interessi. Il lavoro è compiuto; ora possiamo vivere in pace.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Siamo lieti di aprire i nostri confini alle tue unità.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Al momento non ci interessa.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Permetterai alle nostre unità di attraversare il tuo territorio?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Le tue truppe marciano così vicino ai nostri confini che comincio a dubitare della tua integrità.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Ti ringrazio per i tuoi sforzi per mantenere la pace sul continente. Hip hip urrà!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="it_IT">
+      <Text>(Hai mantenuto la pace sul suo continente d'origine)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="it_IT">
+      <Text>Nessun uomo è al di sopra della legge. Dovresti ricordarlo sempre.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="it_IT">
+      <Text>(Hai attaccato qualcuno sul suo continente d'origine.)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY" Language="ja_JP">
+      <Text>ラフライダー・テディは、自分の大陸では強大な武力を発揮しますが、自ら戦争を仕掛けることはありません。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY" Language="ja_JP">
+      <Text>ラフライダー・テディは、首都がある大陸では戦闘力に+5のボーナスを付くほか、交易によって都市国家への影響力を強める能力を持っています。彼は、近隣の全都市国家の支持を得ようとする一方で、首都がある大陸での迅速な拡大を目指します。文明の固有能力である「建国の父祖」にとって、政府の選択は重要です。この能力を使いこなせば、どのタイプの勝利にも手が届きます。ラフライダーを含む産業時代以降の2つの固有ユニットにより、20世紀以降、ラフライダー・テディの軍事力は一段と強力になります。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY" Language="ja_JP">
+      <Text>ブルムース・テディは、美しい景観を守ることの価値を知っています。大都市の郊外に国立公園を建設すると、アメリカは迅速に発展していきます。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY" Language="ja_JP">
+      <Text>文化による勝利を目指すために欠かせない経済政策スロットとワイルドカード政策スロットを得られるので、ブルムース・テディは共和制、商業共和制、さらには民主主義を好みます。映画スタジオ、国立公園によるボーナス、そしてアピールが「最高」のタイルから科学力と文化力を得る能力を持つブルムース・テディは、いわば文化の巨人です。自然美あふれる土地を領有すれば、その勢いは一段と強まります。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE" Language="ja_JP">
+      <Text>子孫のためにより良い土地を残しておくことが大切だ。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE" Language="ja_JP">
+      <Text>テディ・ルーズベルト (ブルムース)</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_NAME" Language="ja_JP">
+      <Text>ブルムース</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION" Language="ja_JP">
+      <Text>アピールの高いタイルの近くに都市を築き、アピールの高い区域や遺産を築くことを目指す。同様の行動をとる文明を好み、アピールの低い領土に甘んじる文明を嫌う。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="ja_JP">
+      <Text>聞くところによると、大幅な増資をしたそうではないか。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY" Language="ja_JP">
+      <Text>他人にどう思われるかは、暮らしている環境によって決まる。それを忘れてはいかんな。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY" Language="ja_JP">
+      <Text>(あなたの文明内にはアピールの高い地域が十分にある)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY" Language="ja_JP">
+      <Text>(あなたの文明にはアピールの高い地域が不足している)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>正義と平和のどちらかを選ばねばならないのなら、私は迷わず正義を選ぶぞ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>私としては、こういう事態は回避したいと願っていたのだがね。平和というものについての貴君の考え方が、我が国にこの選択をさせてしまったのだよ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>おめでとう。アメリカ合衆国に代わって、貴君の国が栄えることになろう。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>ノーとは言えないな。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>今はやめておこう。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>私は貴君に惜しみない敬意を抱いている。さあ、ともに我らの友好関係を宣言しようではないか。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>感謝の意を受け取ってほしい。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>それは残念だ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>貴君の派遣した使節団は、偉大なるアメリカ合衆国にておおいに歓迎されるだろう。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>駄目だ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>会えてなによりだ。じきにこちらの外交使節が焼きたてのアップルパイを持って到着するはずだ。温かく迎えてくれたまえ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>なんたる暴挙！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>品位なき主導者に支配されるわけにはいかない。貴君のおこないは世界中が知るところとなるだろう。(非難)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>ようこそ、アメリカ合衆国へ。行儀よい振る舞いを心がけるなら、我々を友人と思ってくれていい。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>近くに都市があるのだが、訪問してみないかね？ よければぬいぐるみをご覧に入れよう。昨今なかなかの人気でね。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>ノーとは言えないな。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>お互いの首都について情報を交換したい。両国家間の自由貿易も促進したい。他にも要望はいろいろだ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>よろしい、続けてくれたまえ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>貴君は尊敬に価する。同盟を交わすかね？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>自らの権利と利益を守るのは、国家の義務にほかならない。その務めは果たされた。これからは平和のうちに歩もう。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>本気ではあるまい？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>国益と権利を守るという務めは果たした。これからはお互い平和に暮らせるはずだ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>喜んで通行を認めよう。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>今はやめておこう。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>領内の通行を許可してもらいたい。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>国境付近に軍を動かすとは、貴君の真意はどこにあるのだろうな。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>大陸の平和を保ってくれて感謝する。貴君はさすがだな！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="ja_JP">
+      <Text>(相手の大陸の平和を保った)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ja_JP">
+      <Text>何人たりとも法を無視することはできない。それを忘れてはいかんな。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="ja_JP">
+      <Text>(相手と同じ大陸の第三者を攻撃した)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY" Language="ko_KR">
+      <Text>의용 기병대 루즈벨트는 그의 대륙에서 강경정책을 펼치지만, 그를 내버려 두면 평화를 유지합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY" Language="ko_KR">
+      <Text>의용 기병대 루즈벨트는 고향 대륙에서 전투력 +5를 얻고 교역을 통해 도시 국가를 자신의 지배하에 둘 수 있습니다. 그는 고향 대륙에서 빠르게 확장해나가며 주변 도시 국가의 지지를 얻고 싶어합니다. 헌법의 제정자들 문명 능력을 사용하면 선택한 정부 제도가 강화되므로 모든 유형의 승리를 쉽게 거둘 수 있습니다. 또한 의용 기병대를 비롯한 두 가지 탈공업사회 특유 유닛을 활용하여 20세기 이후의 시대에서 강력한 군사력을 과시합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY" Language="ko_KR">
+      <Text>불 무스 루즈벨트는 멋진 자연 경관을 보존하는 것보다 더 중요한 문제는 없다는 걸 잘 아는데, 이는 미국은 주요 도시 주변에 국립공원을 배치하면 더욱 빠르게 발전하기 때문입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY" Language="ko_KR">
+      <Text>불 무스 테디는 고전 공화제, 상인 공화제, 민주주의를 선호하며, 이러한 정부 제도는 미국이 문화 승리를 하는 데 필요한 경제 및 와일드카드 정책 슬롯을 제공합니다. 영화 스튜디오, 국립공원 보너스, 그리고 놀라운 매력도 타일에서 과학과 문화를 획득하는 능력을 지닌 루즈벨트는 놀라운 매력을 가진 지역을 보유할 경우 엄청난 문화적 발전을 이루어냅니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE" Language="ko_KR">
+      <Text>우리 후손들에게 더 나은 대지를 물려줘야 합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE" Language="ko_KR">
+      <Text>테오도어 루즈벨트(불 무스)</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_NAME" Language="ko_KR">
+      <Text>불 무스</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION" Language="ko_KR">
+      <Text>매력도가 높은 타일 근처에 정착해 매력도 높은 특수지구와 불가사의를 건설하길 원하며, 이렇게 행동하는 사람을 좋아합니다. 매력도가 낮은 영토를 보유한 사람을 싫어합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="ko_KR">
+      <Text>저쪽에서 수도 하이킹이 있다고 들었습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY" Language="ko_KR">
+      <Text>우리는 어떻게 주변과 함께 살아가느냐에 의해 정의됩니다. 기억하십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY" Language="ko_KR">
+      <Text>(제국에 매력도가 높은 영역이 많습니다.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY" Language="ko_KR">
+      <Text>(제국에 매력도가 충분히 높은 영역이 없습니다.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>평화와 정의 사이에 선택해야 한다면, 정의를 선택하겠습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>사실 오늘 같은 상황은 피하려 했지만, 평화에 대한 그대와 내 생각이 너무도 다릅니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>축하합니다. 미국 대신 귀국이 번영할 것입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>거기에 싫다고 할 수 없군요.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>지금으로써는 관심이 없습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>당신은 우리의 존경을 받을 자격이 충분합니다. 서로의 친분 관계를 선포하는 것은 어떻겠습니까?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>감사드립니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>정말 안타깝군요.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>위대한 미합중국에 온 당신의 대표단을 환영합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>거절하겠습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>만나서 반갑습니다. 곧 우리 외교 대표단이 갓 구운 애플파이를 갖고 도착할 것입니다. 그들을 따뜻이 환영해 줄 것이라 믿습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>어떻게 감히 그럴 수 있습니까!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>저는 위엄이 없는 지도자를 견딜 수 없습니다. 전 세계가 알아야 합니다.(공개 비난)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>미합중국은 당신을 환영합니다. 당신이 잘만 처신한다면 우리의 친구가 될 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>인근에 우리 도시가 있는데, 방문해 보시겠습니까? 요즘 한창 인기가 많은 곰 인형을 보여 줄 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>거기에 싫다고 할 수 없군요.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>서로의 수도에 관한 정보를 교환하고, 국가 간의 자유 무역을 장려하는 등, 여러 많은 일을 같이 하고 싶습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>자, 계속해 보십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>당신은 우리의 존경을 받을 자격이 충분합니다. 함께 동맹을 형성하겠습니까?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>우리의 권익을 보호하는 것은 국가의 의무입니다. 그 의무를 다한 만큼, 이제 평화롭게 앞날을 맞이할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>농담이 지나칩니다!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>우리가 국가의 권익을 지키고 보호하였습니다. 그 의무를 다한 만큼, 이제 평화롭게 살아갈 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>당신의 유닛을 위해 우리 국경을 기쁘게 개방하겠습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>지금으로써는 관심이 없습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>우리 유닛이 당신 영토를 지나가는 것을 허락하겠습니까?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>병력을 이렇게 가까이 우리 국경으로 이동시키다니, 당신의 진실성에 의구심이 들기 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>대륙의 평화를 지켜주어 감사합니다. 참 대단합니다!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="ko_KR">
+      <Text>(당신은 그의 고향 대륙의 평화를 지켜냈습니다.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ko_KR">
+      <Text>모든 인간은 법 아래 평등합니다. 이를 잘 기억하십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="ko_KR">
+      <Text>(당신은 그의 고향 대륙에 있는 누군가를 공격했습니다.)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY" Language="pl_PL">
+      <Text>Teddy Rough Rider na swoim kontynencie nosi przy sobie wielki kij, ale jeśli się go nie zaczepia, odwdzięcza się tym samym.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY" Language="pl_PL">
+      <Text>Teddy Roosevelt Rough Rider cieszy się premią +5 do siły bojowej na ojczystym kontynencie i potrafi zyskiwać przychylność miast-państw dzięki nawiązywaniu z nimi kontaktów handlowych. Jego celem jest szybka ekspansja na ojczystym kontynencie oraz zdobycie wsparcia wszystkich pobliskich miast-państw. Umiejętność cywilizacji „Ojcowie założyciele” sprawia, że decyzja o wyborze ustroju jest w jego przypadku bardzo ważna i może otworzyć mu drogę do dowolnego typu zwycięstwa. Dzięki dwóm unikalnym jednostkom postindustrialnym, w tym jego ulubionym rough riderom, wraz z nastaniem XX wieku staje się przywódcą, z którym trzeba się szczególnie liczyć.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY" Language="pl_PL">
+      <Text>Teddy Roosevelt Łoś wie, że najważniejsze jest dbanie o zapierające dech w piersiach krajobrazy. Ameryka rozwija się szybko, gdy w pobliżu jej największych miast znajdują się parki narodowe.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY" Language="pl_PL">
+      <Text>Teddy Roosevelt Łoś faworyzuje ustroje republiki klasycznej, republiki kupieckiej i demokracji, ponieważ dają mu one miejsca na doktryny ekonomiczne i dzikie karty, których potrzebuje, dążąc do zwycięstwa kulturowego. Dzięki studiu filmowemu, premii zapewnianej przez parki narodowe oraz umiejętności pozyskiwania nauki i kultury z pól o niesamowitym poziomie atrakcyjności Teddy jest kulturowym hegemonem, zwłaszcza gdy posiada terytorium o wyjątkowym naturalnym pięknie.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE" Language="pl_PL">
+      <Text>Świat, który przekażemy naszym potomkom, musi być lepszy od tego, który sami zastaliśmy.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE" Language="pl_PL">
+      <Text>Teddy Roosevelt (Łoś)</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_NAME" Language="pl_PL">
+      <Text>Łoś</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION" Language="pl_PL">
+      <Text>Chce osiedlać się w pobliżu pól o wysokim poziomie atrakcyjności oraz wznosić atrakcyjne dzielnice i cuda. Lubi tych, którzy postępują jak on. Nie lubi cywilizacji, które zadowalają się terytorium o niskim poziomie atrakcyjności.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="pl_PL">
+      <Text>Słyszałem, że macie u siebie niesamowite trasy do pieszych wycieczek.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY" Language="pl_PL">
+      <Text>Definiuje nas to, w jakim otoczeniu żyjemy. Pamiętaj o tym.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY" Language="pl_PL">
+      <Text>(Na twoim terytorium znajduje się wiele obszarów o wysokim poziomie atrakcyjności).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY" Language="pl_PL">
+      <Text>(Na twoim terytorium znajduje się zbyt mało obszarów o wysokim poziomie atrakcyjności).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Jeśli muszę wybierać między praworządnością a pokojem, zdecyduję się na to pierwsze.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Wiesz, chciałem tego uniknąć, ale twoje pojmowanie pokoju nie pozostawia mi wyboru.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Gratulacje. Twój kraj zajdzie daleko w miejsce Stanów Zjednoczonych Ameryki.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Takiej propozycji nie sposób odrzucić.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Nie jesteśmy chwilowo zainteresowani.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Udało ci się zdobyć mój szacunek. Może zadeklarujemy wzajemną przyjaźń?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Serdecznie dziękuję.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>To bardzo niedobrze.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Witam twoją delegację w wielkich Stanach Zjednoczonych Ameryki.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Musimy odmówić.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Dobrze cię widzieć. Wkrótce powinno przybyć do was moje poselstwo dyplomatyczne ze świeżą szarlotką. Z pewnością serdecznie ich powitacie.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Jak śmiesz?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Nie mogę znieść władcy bez honoru i cały świat musi się o tym dowiedzieć. (Potępia cię).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Witaj w Stanach Zjednoczonych Ameryki. Jeśli będziesz należycie się zachowywać, możesz uważać nas za przyjaciół.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Mamy w pobliżu miasto. Może zechcesz je odwiedzić? Mogę ci pokazać bardzo popularne teraz pluszowe misie.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Takiej propozycji nie sposób odrzucić.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Chciałbym wymienić się informacjami o stolicach. Promować handel między narodami i tak dalej.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>No, słucham.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Udało ci się zdobyć mój szacunek. Może zawrzemy sojusz?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Obowiązkiem naszego narodu jest strzec swych praw i interesów. Zadbaliśmy o to, zawrzyjmy więc już pokój.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Nie mówisz chyba poważnie?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Chroniłem interesy narodu i strzegłem naszych praw. To już zrobione. Teraz możemy żyć w pokoju.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Z radością otworzymy granice dla waszych jednostek.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Nie jesteśmy chwilowo zainteresowani.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Czy pozwolicie naszym jednostkom przejść przez wasze terytorium?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Rozstawiasz swoje wojska tak blisko naszych granic, że zaczynam zastanawiać się nad twoją wiarygodnością.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Dziękuję za utrzymywanie pokoju na kontynencie. Dobra robota!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="pl_PL">
+      <Text>(Utrzymujesz pokój na jego rodzimym kontynencie).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="pl_PL">
+      <Text>Nikt nie stoi ponad prawem. Warto ci to chyba przypomnieć.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="pl_PL">
+      <Text>(Zaatakowaliśmy kogoś na jego rodzimym kontynencie).</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+      <Text>Теодор «Тедди» Рузвельт правит своим континентом с помощью большой дубинки, но если ему не досаждать, он вас не тронет.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY" Language="ru_RU">
+      <Text>Теодор «Тедди» Рузвельт (мужественный всадник) получает +5 к боевой мощи на родном континенте, а также возможность переманить города-государства на свою сторону за счет торговли. Он стремится быстро расширить свои земли на континенте и ищет поддержки у ближайших городов-государств. Такая способность цивилизации, как «Отцы-основатели», позволит добиться любой победы при правильном выборе правительства. Два уникальных юнита постиндустриальной эпохи, включая «Мужественных всадников», значительно увеличивают силу Теодора с XX века и далее.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+      <Text>Теодор «Тедди» Рузвельт (прогрессивист) понимает, что нет ничего важнее охраны природы, особенно живописных ландшафтов. Америка будет развиваться быстрее, если рядом с крупными городами разместить национальные парки.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY" Language="ru_RU">
+      <Text>Теодор «Тедди» Рузвельт (прогрессивист) предпочитает такие формы правления, как «Античная республика», «Торговая республика» и «Демократия»: благодаря им он может получить экономическую и универсальную ячейки политического курса. Киностудия, бонусы от национальных парков и возможность генерировать науку и культуру благодаря клеткам с потрясающим престижем превращают Тедди в настоящий локомотив культурного прогресса, особенно при наличии территорий с живописным ландшафтом.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE" Language="ru_RU">
+      <Text>Самое главное — оставить потомкам процветающую страну.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE" Language="ru_RU">
+      <Text>Теодор Рузвельт (прогрессивист)</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_NAME" Language="ru_RU">
+      <Text>Прогрессивист</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION" Language="ru_RU">
+      <Text>Стремится основывать поселения рядом с престижными клетками и строить престижные районы и чудеса. Любит всех, кто стремится к тому же. Не любит правителей, занимающих малопрестижную территорию.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="ru_RU">
+      <Text>Говорят, у вас там отличные тропинки для хайкинга.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY" Language="ru_RU">
+      <Text>Главное в нас то, как мы обращаемся с окружающей средой. Помните об этом.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY" Language="ru_RU">
+      <Text>(В вашей империи много регионов с высоким престижем.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY" Language="ru_RU">
+      <Text>(В вашей империи недостаточно регионов с высоким престижем.)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Если приходится выбирать между миром и справедливостью, я выбираю справедливость.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Я хотел бы этого избежать, но ваш подход к миру не оставил мне выбора.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Поздравляю. Не Соединенные Штаты Америки, но вашу страну теперь ждет блестящее будущее.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Я не могу отказаться.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Прямо сейчас нам это неинтересно.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Вы заслужили мое уважение. Объявим всем о нашей дружбе?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Я благодарю вас.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Жаль, жаль.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Я приветствую вашу делегацию в Соединенных Штатах Америки.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Мы вынуждены отказаться.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Приветствую! Мои дипломаты скоро прибудут к вам и привезут свежие яблочные пироги. Уверен, вы встретите их достойно.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Да как вы смеете!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Я не могу уважать правителя без чувства собственного достоинства. Пусть все об этом знают. (Осуждает вас)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Добро пожаловать в Соединенные Штаты Америки. Ведите себя достойно, и мы сможем быть друзьями.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Рядом есть наш город. Хотите его посетить? Я покажу вам игрушечных мишек, они сейчас в моде.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Я не могу отказаться.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Я хотел бы обменяться информацией о столицах; знаете, идет на пользу торговле и все такое.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Так, продолжайте.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Вы заслужили мое уважение. Не заключить ли нам союз?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Оберегать свои права и интересы – долг любой нации. Это дело сделано, а теперь пусть будет мир.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Вы, должно быть, шутите!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Я защищал интересы и права своей нации. Это сделано, и теперь мы можем жить в мире.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Мы с радостью открываем свои границы для прохода ваших армий.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Прямо сейчас нам это неинтересно.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Вы позволите нашим армиям пересечь вашу территорию?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Вы так близко подводите армии к нашим границам, что я начинаю задумываться о вашей благонамеренности.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Благодарю вас за сохранение мира на континенте. Так держать!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="ru_RU">
+      <Text>(Вы поддерживали мир на его родном континенте)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="ru_RU">
+      <Text>Человек не может быть выше закона. Вам следует помнить об этом.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="ru_RU">
+      <Text>(Вы напали на кого-либо на его родном континенте)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+      <Text>莽骑兵罗斯福在自己的大陆上挥舞着大棒；只要不主动招惹，他也会保持平静。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+      <Text>莽骑兵罗斯福在首都所在的大陆上+5战斗力，并能通过贸易影响城邦，他希望在首都所在的大陆上快速扩张，同时获得附近所有城邦的支持。“开国元勋”文明能力让政体选择变得十分重要，同时也能为所有胜利方式奠定基础。罗斯福拥有2个后工业时代特色单位，其中便有助他声名鹊起的“莽骑兵”，让他在20世纪后的战场上叱咤风云。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+      <Text>进步党人罗斯福知道，对自然环境的保护将是重中之重。将国家公园建在主要城市旁边后，美国便能高速发展。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+      <Text>进步党人罗斯福适合“古典共和”、“商人共和国”及“民主主义”等政体，这能带来他所需要的经济与通配符政策槽位，以便高速迈向文化胜利。罗斯福堪称文化大鳄，不仅坐拥“电影制片厂”和“国家公园”带来的加成，还能从魅力值为“惊艳”的单元格上获得科技值和文化值；拥有自然秀美的土地时，他将势不可挡。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE" Language="zh_Hans_CN">
+      <Text>我们要为子孙后代留下更美好的未来。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE" Language="zh_Hans_CN">
+      <Text>泰迪·罗斯福（进步党）</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_NAME" Language="zh_Hans_CN">
+      <Text>进步党</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>喜欢在高魅力的单元格上定居，并建造高魅力的区域和奇观，喜欢同好此道的文明。讨厌领土魅力值低的文明。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="zh_Hans_CN">
+      <Text>听说您那里非常适合登山远足。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY" Language="zh_Hans_CN">
+      <Text>与周边环境的和谐将决定着我们的未来。不要忘记这点。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY" Language="zh_Hans_CN">
+      <Text>（您的帝国中有大量高魅力地区。）</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY" Language="zh_Hans_CN">
+      <Text>（您的帝国中没有足够的高魅力地区。）</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>如果我必须在正义与和平之间做出选择，那么我选择正义。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我本想尽力避免，但你的和平观念让我别无选择。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>恭喜。不是美国，而是您的国家将扬名立万。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我无法拒绝。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我们目前不感兴趣。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>您赢得了我们的尊重。我们能宣布彼此是朋友吗？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>十分感谢。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>太糟了。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>欢迎贵国代表团来到伟大的美利坚合众国。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我们必须拒绝。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>很高兴见到您。我的外交使团将很快到达，给您带来新鲜出炉的苹果馅饼。我相信您会热情接待他们。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>好大的胆子！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我无法容忍没有尊严的统治者，这一点必须让全世界知道。（谴责你）</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>欢迎来到美国。如果您的举止足够得体，我们可以成为朋友。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我们附近有一座城市。想来拜访吗？我会向您展示如今很受欢迎的毛绒熊。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我无法拒绝。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我想和您一起讨论我们的首都；促进我们两国之间的自由贸易，诸如此类。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>请继续。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>您已赢得了我的尊重，我们能结为盟友吗？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我们国家的义务是保护自己的权利和利益。这项工作已完成；让我们走向和平吧。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>你在开玩笑吧！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我保护了国家的利益，捍卫了我们的权利。我的工作完成了。现在，我们能生活在和平之中了。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我们很高兴为您的军队打开边境。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>我们目前不感兴趣。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>您允许我们的军队穿越您的领土吗？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>您的部队离我的边境太近了，我开始对您的诚信表示怀疑。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>感谢您维护这片大陆的和平。您真棒！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="zh_Hans_CN">
+      <Text>（您在他的国土上维护了和平）</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hans_CN">
+      <Text>没人可以凌驾于法律之上。你应当记住这一点。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="zh_Hans_CN">
+      <Text>（您在某人自己的母大陆上攻击了他。）</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY" Language="es_ES">
+      <Text>El Teddy Jinete duro empuña el garrote en su continente pero, si lo dejas tranquilo, mantendrá la paz.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY" Language="es_ES">
+      <Text>El Teddy Roosevelt Jinete duro disfruta de un +5 a la Fuerza de combate en su continente de origen y la habilidad de influir en las ciudades-estado a través del comercio. Quiere expandirse con rapidez por el continente mientras gana el apoyo de todas las ciudades-estado cercanas. La habilidad de civilización Padres fundadores hace que el gobierno que elija sea importante y le allana el camino para cualquier tipo de victoria. Sus dos unidades exclusivas postindustriales, incluidos los Jinetes duros ("Rough Riders"), sus favoritos, le dan una gran capacidad de ataque desde el siglo XX en adelante.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY" Language="es_ES">
+      <Text>El Teddy Alce sabe que no hay mayor preocupación que la conservación de los paisajes impresionantes, por lo que Estados Unidos avanza con rapidez a la hora de colocar Parques nacionales justo a las afueras de las ciudades más importantes.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY" Language="es_ES">
+      <Text>El Teddy Alce favorece las elecciones del gobierno República clásica, República mercantil y Democracia porque le dan los espacios de política económica y política comodín que necesita para aspirar a una victoria cultural. Con su Estudio cinematográfico, bonificación de Parques nacionales y la habilidad de ganar Ciencia y Cultura de las casillas Impresionantes, Teddy es un coloso cultural, sobre todo cuando se tienen tierras de una gran belleza natural.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE" Language="es_ES">
+      <Text>Es importante dejarles una tierra mejor a nuestros descendientes.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE" Language="es_ES">
+      <Text>Teddy Roosevelt (Alce)</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_NAME" Language="es_ES">
+      <Text>El Alce</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION" Language="es_ES">
+      <Text>Quiere colonizar cerca de casillas con un gran atractivo y construir maravillas y distritos con un atractivo alto; y le gustan quienes hacen lo mismo. Desprecia a quienes tienen territorio con poco atractivo.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="es_ES">
+      <Text>He oído que hay muy buenas zonas para caminar por aquí.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY" Language="es_ES">
+      <Text>Se nos define por el modo en que convivimos con aquello que nos rodea. No lo olvidéis.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY" Language="es_ES">
+      <Text>(Tenéis muchas zonas altamente atractivas en vuestro imperio).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY" Language="es_ES">
+      <Text>(No tenéis suficientes zonas altamente atractivas en vuestro imperio).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Si debemos escoger entre la rectitud y la paz, escogeremos la rectitud.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Queríamos evitar esto, pero vuestra idea de paz no nos ha dejado más opción.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Enhorabuena. A diferencia de los Estados Unidos de América, vuestra nación llegará lejos.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>No podemos decir que no a eso.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>En este momento no nos interesa.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Os habéis ganado nuestro respeto. ¿Declaramos nuestra amistad?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Tenéis mi agradecimiento.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Es una verdadera lástima.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Damos la bienvenida a vuestra delegación a los Estados Unidos de América.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Debemos rechazarlo.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Nos alegramos de veros. Nuestra delegación diplomática debe de estar a punto de llegar con tartas de manzana recién hechas. Seguro que les dispensaréis una cálida bienvenida.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>¿Cómo osáis?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>No consentimos a los gobernantes que gobiernan sin dignidad, y el mundo debe saber de ellos. (Te denuncia).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Se os da la bienvenida a los Estados Unidos de América. Si os portáis bien, os consideraremos amigos.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Tenemos una ciudad cerca. ¿Os gustaría visitarla? Os podríamos enseñar los osos disecados, que están tan de moda.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>No podemos decir que no a eso.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Nos gustaría intercambiar información sobre nuestras capitales, promover el libre comercio entre nuestras naciones y todo eso.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Adelante, pues.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Os habéis ganado nuestro respeto. ¿Formamos una alianza?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Es deber de nuestra nación velar por sus derechos e intereses. Habiéndolo hecho, prosigamos en paz.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>¡No estáis hablando en serio!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Hemos protegido los intereses de la nación y nuestros derechos. Misión cumplida. Ahora podemos vivir en paz.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Estamos encantados de abrir nuestras fronteras a vuestras unidades.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>En este momento no nos interesa.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>¿Dejaréis que nuestras unidades crucen vuestro territorio?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Vuestras tropas marchan tan cerca de nuestras fronteras que empezamos a cuestionarnos vuestra integridad.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Gracias por mantener la paz en el continente. ¡Bravo por vosotros!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="es_ES">
+      <Text>(Has mantenido la paz en su continente de origen).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="es_ES">
+      <Text>Nadie está por encima de la ley. A ti te compete recordarlo.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="es_ES">
+      <Text>(Has atacado a alguien de su continente de origen).</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY" Language="zh_Hant_HK">
+      <Text>莽騎兵羅斯福在自己的大陸上實施巨棒外交。但若你不去騷擾他，他也不會輕啟戰端。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY" Language="zh_Hant_HK">
+      <Text>莽騎兵羅斯福在首都所在大陸作戰時享有+5戰鬥力，並且還有透過貿易掌控城邦的能力。他想要在自己的大陸上快速擴張，同時獲得所有附近城邦的支持。「開國元勳」文明技能讓他的政體選擇顯得至關重要，並且能讓他追求各種勝利方式。他擁有兩種後工業化時代的特色單位，其中便包括他喜愛的「莽騎兵」，這讓他在二十世紀之後有特別強悍的戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY" Language="zh_Hant_HK">
+      <Text>公麋黨員羅斯福知道再沒有比保育絕美景致更重要之事。只有在主要城市外設立國家公園，美國才能快速發展。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY" Language="zh_Hant_HK">
+      <Text>公麋黨員羅斯福偏好「古典共和」、「商人共和國」及「民主主義」等政體選擇，因為這些政體能賦予他通往文化勝利所需的經濟及通用政策槽位。有了他的「電影製片廠」、「國家公園」等加成，以及在「極大魅力」的單元格上獲得科技值及文化值的能力，羅斯福在文化上將無人能檔，尤其是當他又持有具有大量天然美景的土地時。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE" Language="zh_Hant_HK">
+      <Text>為我們的後代子孫留下更好的土地，是至關重要之事。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE" Language="zh_Hant_HK">
+      <Text>西奧多‧羅斯福（公麋黨員）</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_NAME" Language="zh_Hant_HK">
+      <Text>公麋黨員</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>想要在魅力高的單元格旁開拓城市，同時在高魅力單元格上建造區域與奇觀，並且喜歡也這麼作的人。不喜歡將就低魅力領土的人。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+      <Text>聽說你那裡簡直是健行勝地呢。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+      <Text>周遭環境將會決定我們的未來，不要忘記這點。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY" Language="zh_Hant_HK">
+      <Text>（你的帝國裡有很多高魅力地區。）</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY" Language="zh_Hant_HK">
+      <Text>（你帝國裡的高魅力地區不足。）</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>如果我必須在正義與和平中做出選擇，我選擇正義。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我想盡力避免，但你的和平觀念讓我別無選擇。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>恭喜。不是美國，而是您的國家將揚名立萬。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我無法拒絕。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我們目前不感興趣。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>您贏得了我們的尊重。我們能締結友誼嗎？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>十分感謝。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>太可惜了。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>歡迎貴國代表團來到偉大的美利堅合眾國。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我們必須拒絕。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>很高興見到您。我的外交代表團將很快到達，給您帶來新鮮出爐的蘋果餡餅。我相信您會熱情接待他們。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>好大的膽子！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我無法容忍沒有尊嚴的統治者，這一點必須讓全世界知道。[NEWLINE]（譴責你）</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>歡迎來到美國。如果您是一位優秀的領導者，我們可以成為朋友。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我們附近有一座城市。想來參觀嗎？我可以向您展示如今很受歡迎的毛絨熊。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我無法拒絕。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我想和您一起講講各自的首都；促進我們兩國之間的自由貿易，諸如此類。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>請繼續。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>您已贏得了我的尊重，我們能結為同盟嗎？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我們國家的義務是保護自己的權利和利益。這項工作已完成；讓我們走向和平吧。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>你在開玩笑吧！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我保護了國家的利益，捍衛了我們的權利。我的工作完成了。現在，我們能生活在和平之中了。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我們很高興為您的軍隊打開邊境。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>我們目前不感興趣。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>您允許我們的軍隊通過您的領土嗎？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>你的部隊離我的邊境太近了，我開始對你的誠信表示懷疑。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>感謝您維護這片大陸的和平。您真棒！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="zh_Hant_HK">
+      <Text>（你在他的國土上維護了和平）</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY" Language="zh_Hant_HK">
+      <Text>沒人可以凌駕於法律之上。你應當記住這一點。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY" Language="zh_Hant_HK">
+      <Text>（你在某人自己的國土上攻擊了他。）</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

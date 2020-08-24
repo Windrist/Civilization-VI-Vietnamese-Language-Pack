@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--Ethiopia-->
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MALE_1">
+			<Text>Dagnew</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MALE_2">
+			<Text>Dawit</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MALE_3">
+			<Text>Iyasu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MALE_4">
+			<Text>Makonnen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MALE_5">
+			<Text>Mengesha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MALE_6">
+			<Text>Meshesha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MALE_7">
+			<Text>Sebhat</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MALE_8">
+			<Text>Tekle</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MALE_9">
+			<Text>Wolde</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MALE_10">
+			<Text>Yohannes</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_FEMALE_1">
+			<Text>Birhan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_FEMALE_2">
+			<Text>Dinqinesh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_FEMALE_3">
+			<Text>Masoba</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_FEMALE_4">
+			<Text>Menen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_FEMALE_5">
+			<Text>Mentewab</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_FEMALE_6">
+			<Text>Senedu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_FEMALE_7">
+			<Text>Taytu  </Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_FEMALE_8">
+			<Text>Tewabech</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_FEMALE_9">
+			<Text>Tiruwork</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_FEMALE_10">
+			<Text>Zewditu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_MALE_1">
+			<Text>Abebe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_MALE_2">
+			<Text>Berhanu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_MALE_3">
+			<Text>Dejene</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_MALE_4">
+			<Text>Deriba</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_MALE_5">
+			<Text>Girma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_MALE_6">
+			<Text>Habte</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_MALE_7">
+			<Text>Haile</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_MALE_8">
+			<Text>Hailu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_MALE_9">
+			<Text>Moges</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_MALE_10">
+			<Text>Tesfaye</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_FEMALE_1">
+			<Text>Abebech</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_FEMALE_2">
+			<Text>Alemitu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_FEMALE_3">
+			<Text>Bizunesh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_FEMALE_4">
+			<Text>Fatuma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_FEMALE_5">
+			<Text>Genet</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_FEMALE_6">
+			<Text>Hiwot</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_FEMALE_7">
+			<Text>Merima</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_FEMALE_8">
+			<Text>Meseret</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_FEMALE_9">
+			<Text>Netsanet</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ETHIOPIA_MODERN_FEMALE_10">
+			<Text>Tigist</Text>
+		</Row>
+	</EnglishText>
+</GameData>

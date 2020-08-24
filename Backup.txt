@@ -1,0 +1,134 @@
+	<!-- Criteria: Expansion & DLC -->
+	<ActionCriteria>
+		<!-- Expansion1: RISE AND FALL -->
+		<Criteria id="Expansion1">
+			<GameCoreInUse>Expansion1</GameCoreInUse>
+		</Criteria>
+		<Criteria id="Expansion1AndBeyond" any="1">
+			<GameCoreInUse>Expansion1</GameCoreInUse>
+			<RuleSetInUse>RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_CHANDRAGUPTA,Players:Expansion1_Players::LEADER_GENGHIS_KHAN,Players:Expansion1_Players::LEADER_LAUTARO,Players:Expansion1_Players::LEADER_POUNDMAKER,Players:Expansion1_Players::LEADER_ROBERT_THE_BRUCE,Players:Expansion1_Players::LEADER_SEONDEOK,Players:Expansion1_Players::LEADER_SHAKA,Players:Expansion1_Players::LEADER_TAMAR,Players:Expansion1_Players::LEADER_WILHELMINA</LeaderPlayable>
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_CHANDRAGUPTA,Players:Expansion2_Players::LEADER_GENGHIS_KHAN,Players:Expansion2_Players::LEADER_LAUTARO,Players:Expansion2_Players::LEADER_POUNDMAKER,Players:Expansion2_Players::LEADER_ROBERT_THE_BRUCE,Players:Expansion2_Players::LEADER_SEONDEOK,Players:Expansion2_Players::LEADER_SHAKA,Players:Expansion2_Players::LEADER_TAMAR,Players:Expansion2_Players::LEADER_WILHELMINA</LeaderPlayable>
+		</Criteria>
+		<!-- Expansion2: GATHERING STORM -->
+		<Criteria id="Expansion2">
+			<GameCoreInUse>Expansion2</GameCoreInUse>
+		</Criteria>
+		<Criteria id="Expansion2AndBeyond" any="1">
+			<GameCoreInUse>Expansion2</GameCoreInUse>
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_DIDO,Players:Expansion2_Players::LEADER_ELEANOR_ENGLAND,Players:Expansion2_Players::LEADER_ELEANOR_FRANCE,Players:Expansion2_Players::LEADER_KRISTINA,Players:Expansion2_Players::LEADER_KUPE,Players:Expansion2_Players::LEADER_LAURIER,Players:Expansion2_Players::LEADER_MANSA_MUSA,Players:Expansion2_Players::LEADER_MATTHIAS_CORVINUS,Players:Expansion2_Players::LEADER_PACHACUTI,Players:Expansion2_Players::LEADER_SULEIMAN</LeaderPlayable>
+		</Criteria>
+		<!-- DLC1: VIKINGS SCENARIO PACK -->
+		<Criteria id="VikingLandmarks_Scenario">
+			<RuleSetInUse>RULESET_SCENARIO_VIKINGS, RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_SCENARIO_ANCIENT_RIVALS,RULESET_SCENARIO_COLDWAR,RULESET_SCENARIO_NAPOLEON,RULESET_SCENARIO_RELIGIOUS_COMBAT,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="VikingsScenario">
+			<RuleSetInUse>RULESET_SCENARIO_VIKINGS</RuleSetInUse>
+		</Criteria>
+		<!-- DLC2: POLAND CIVILIZATION & SCENARIO PACK -->
+		<Criteria id="PolandScenario">
+			<RuleSetInUse>RULESET_SCENARIO_POLAND</RuleSetInUse>
+		</Criteria>
+		<Criteria id="PolandJadwiga" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_JADWIGA,StandardPlayers::LEADER_JADWIGA,Players:Expansion1_Players::LEADER_JADWIGA,Players:Expansion2_Players::LEADER_JADWIGA</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>	
+		<!-- DLC3: AUSTRALIA CIVILIZATION & SCENARIO PACK -->
+		<Criteria id="Australia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_JOHN_CURTIN,StandardPlayers::LEADER_JOHN_CURTIN,Players:Expansion1_Players::LEADER_JOHN_CURTIN,Players:Expansion2_Players::LEADER_JOHN_CURTIN</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="AustraliaScenario">
+			<RuleSetInUse>RULESET_SCENARIO_AUSTRALIA</RuleSetInUse>
+		</Criteria>
+		<!-- DLC4: PERSIA AND MACEDON CIVILIZATION & SCENARIO PACK -->
+		<Criteria id="MacedoniaPersia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_ALEXANDER,Players:StandardPlayers::LEADER_CYRUS,StandardPlayers::LEADER_ALEXANDER,StandardPlayers::LEADER_CYRUS,Players:Expansion1_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS,Players:Expansion2_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="AlexanderScenarioRequirements">
+			<RuleSetInUse>RULESET_SCENARIO_ALEXANDER</RuleSetInUse>
+		</Criteria>
+		<!-- DLC5: NUBIA CIVILIZATION & SCENARIO PACK -->
+		<Criteria id="Nubia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_AMANITORE,StandardPlayers::LEADER_AMANITORE,Players:Expansion1_Players::LEADER_AMANITORE,Players:Expansion2_Players::LEADER_AMANITORE</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="NubiaScenario">
+			<RuleSetInUse>RULESET_SCENARIO_NUBIA</RuleSetInUse>
+		</Criteria>
+		<!-- DLC6: KHMER AND INDONESIA CIVILIZATION & SCENARIO PACK -->
+		<Criteria id="IndonesiaKhmer" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_GITARJA,Players:StandardPlayers::LEADER_JAYAVARMAN,StandardPlayers::LEADER_GITARJA,StandardPlayers::LEADER_JAYAVARMAN,Players:Expansion1_Players::LEADER_GITARJA,Players:Expansion2_Players::LEADER_JAYAVARMAN,Players:Expansion2_Players::LEADER_GITARJA,Players:Expansion2_Players::LEADER_JAYAVARMAN</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="Indonesia_KhmerScenario">
+			<RuleSetInUse>RULESET_SCENARIO_INDONESIA_KHMER</RuleSetInUse>
+		</Criteria>
+		<!-- Addon -->
+		<Criteria id="BlackDeathScenario">
+			<RuleSetInUse>RULESET_SCENARIO_BLACKDEATH</RuleSetInUse>
+		</Criteria>
+		<Criteria id="CivRoyaleScenario">
+			<RuleSetInUse>RULESET_SCENARIO_CIV_ROYALE</RuleSetInUse>
+		</Criteria>
+		<Criteria id="WarMachineScenario">
+			<RuleSetInUse>RULESET_SCENARIO_WARMACHINE</RuleSetInUse>
+		</Criteria>
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
+		<!-- New Frontier Pack 1: MAYA & GRAN COLOMBIA PACK -->
+		<Criteria id="GranColombiaMaya" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_SIMON_BOLIVAR,Players:StandardPlayers::LEADER_LADY_SIX_SKY,StandardPlayers::LEADER_SIMON_BOLIVAR,StandardPlayers::LEADER_LADY_SIX_SKY,Players:Expansion1_Players::LEADER_SIMON_BOLIVAR,Players:Expansion2_Players::LEADER_LADY_SIX_SKY,Players:Expansion2_Players::LEADER_SIMON_BOLIVAR,Players:Expansion2_Players::LEADER_LADY_SIX_SKY</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="GranColombiaMaya_Mode_Expansion2">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_APOCALYPSE</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<!-- New Frontier Pack 2: ETHIOPIA PACK -->
+		<Criteria id="Ethiopia" any="1">
+		<LeaderPlayable>Players:StandardPlayers::LEADER_MENELIK,StandardPlayers::LEADER_MENELIK,Players:Expansion1_Players::LEADER_MENELIK,Players:Expansion2_Players::LEADER_MENELIK</LeaderPlayable>
+		<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		<Criteria id="Ethiopia_Mode_Expansion2_GranColombia_Maya">
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_SECRETSOCIETIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="Ethiopia_Mode_Expansion2_GranColombia_Maya">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_SECRETSOCIETIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+			<ModInUse>9DE86512-DE1A-400D-8C0A-AB46EBBF76B9</ModInUse>
+		</Criteria>
+		<Criteria id="Ethiopia_Mode_Expansion2">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_SECRETSOCIETIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<!-- New Frontier Pack 3 -->
+		<!-- New Frontier Pack 4 -->
+		<!-- New Frontier Pack 5 -->
+		<!-- New Frontier Pack 6 -->
+		<!-- Bonus -->
+		<Criteria id="CatherineDeMedici" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_CATHERINE_DE_MEDICI,StandardPlayers::LEADER_CATHERINE_DE_MEDICI,Players:Expansion1_Players::LEADER_CATHERINE_DE_MEDICI,Players:Expansion2_Players::LEADER_CATHERINE_DE_MEDICI</LeaderPlayable>
+			<LeaderPlayable>Players:StandardPlayers::LEADER_CATHERINE_DE_MEDICI_ALT,StandardPlayers::LEADER_CATHERINE_DE_MEDICI_ALT,Players:Expansion1_Players::LEADER_CATHERINE_DE_MEDICI_ALT,Players:Expansion2_Players::LEADER_CATHERINE_DE_MEDICI_ALT</LeaderPlayable>
+		</Criteria>
+		<Criteria id="TeddyRoosevelt" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_T_ROOSEVELT,Players:StandardPlayers::LEADER_T_ROOSEVELT_ROUGHRIDER,StandardPlayers::LEADER_T_ROOSEVELT,StandardPlayers::LEADER_T_ROOSEVELT_ROUGHRIDER,Players:Expansion1_Players::LEADER_T_ROOSEVELT,Players:Expansion1_Players::LEADER_T_ROOSEVELT_ROUGHRIDER,Players:Expansion2_Players::LEADER_T_ROOSEVELT,Players:Expansion2_Players::LEADER_T_ROOSEVELT_ROUGHRIDER</LeaderPlayable>
+		</Criteria>
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
+	</ActionCriteria>

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<LocalizedText>
+
+		<!-- Loading Screen -->
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO">
+			<Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+		</Replace>
+
+		<!-- Victories -->
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB">
+			<Text>Họ đều cười nhạo chúng tôi. Họ nói với chúng tôi rằng chúng tôi quá yếu và quá ít để đến được tàu đổ bộ. Chà, ai đang cười bây giờ? Ai là phe cuối cùng trên hành tinh ngu ngốc, thối rữa này? Ai có vé một chiều lên con tàu vũ trụ mới sáng bóng, được uống nước sạch và hít thở không khí không chứa bụi độc hại? Chúng tôi là![NEWLINE][NEWLINE]Chúng tôi ra khỏi đây! Hãy coi chừng đấy, vũ trụ kia!</Text>
+		</Replace>		
+		
+		<!-- Goody Huts -->
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Một đơn vị bộ binh đã tham gia phe của bạn.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Một đơn vị Súng máy đã tham gia phe của bạn.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Một đơn vị Chống tăng đã tham gia phe của bạn.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Thường dân trú ẩn trong đống đổ nát đã gia nhập phe của bạn.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Bạn đã phát hiện ra một Máy bay trực thăng hoạt động.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Bạn đã phát hiện ra một Xe tăng chức năng.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Một đơn vị Pháo binh đã tham gia phe của bạn.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Bạn đã khám phá ra một thiết bị nhiệt hạch chức năng.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Zombie của bạn yêu cầu một nạn nhân khác.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION_B">
+			<Text>[COLOR_FLOAT_MILITARY]Thêm xác cho đám Zombies horde.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION_C">
+			<Text>[COLOR_FLOAT_MILITARY]Bạn đã phát hiện ra một đám zombie.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_IMPROVISED_TRAP_GOODIES">
+			<Text>Bạn đã đạp bẫy!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_GRIEVING_GIFT_GOODIES">
+			<Text>Đó là một cái bẫy!</Text>
+		</Replace>
+
+		<!-- HUD UI -->
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS">
+			<Text>Lần lượt cho đến khi Vùng an toàn thu hẹp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_B">
+			<Text>{1_Turns} Lượt cho đến khi Vùng an toàn thu hẹp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE">
+			<Text>Vùng an toàn đã đạt kích thước tối thiểu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE_B">
+			<Text>Vùng An toàn đã ổn định. [COLOR_RED] Việc sơ tán bị chặn bởi các phe phái sống sót khác.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE_C">
+			<Text>Vùng An toàn đã ổn định. [COLOR_RED] Tín hiệu tàu đổ bộ từ xa vẫn đang bị nhiễu bởi các phe khác![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH">
+			<Text>Fallout: Danh mục {1_safeZonePhase} (Damage {2_dangerZoneDamage})</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_CATEGORY">
+			<Text>Danh mục</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP">
+			<Text>Một đơn vị sẽ chịu {1_Damage} sát thương từ bụi phóng xạ trong vòng. [NEWLINE] Quá xa, Vùng an toàn đã đóng {2_RingCount} {2_RingCount : plural 1?time; other?times;}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_DAMAGE">
+			<Text>Thiệt hại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP">
+			<Text>Số lượng thiệt hại mà những người sống sót của bạn sẽ phải đối mặt trong Red Death.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_TURNS">
+			<Text>{1_Turns : plural 1?Turn; other?Turns;}</Text>  
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP">
+			<Text>Có bao nhiêu lượt cho đến khi Red Death đạt đến Vùng an toàn.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING">
+      <Text>Dân trí của bạn đang trong tình trạng thất bại!</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_HUD_PLAYER_NAME_LABEL">
+			<Text>Tên người chơi:</Text>
+		</Replace>
+
+
+		<!-- Notifications -->
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE">
+			<Text>Hòm tiếp tế!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY">
+			<Text>Nguồn cung đã giảm!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
+			<Text>Đã phát hiện tàn tích thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
+			<Text>Bạn đã tìm thấy một đống đổ nát của thành phố có thể chứa những nguồn cung cấp không cần thiết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE">
+			<Text>Vùng an toàn được thành lập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY">
+			<Text>Red Death đang cải tổ. Vùng An toàn trước cơn bão đã được đánh dấu trên bản đồ của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE">
+			<Text>Thu hẹp vùng an toàn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY">
+			<Text>Red Death ngày càng tồi tệ. Vùng An toàn đã thay đổi và trở nên nhỏ hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_NEW_TREASURE_MAP_MESSAGE">
+			<Text>Bản đồ kho báu mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_NEW_TREASURE_MAP_SUMMARY">
+			<Text>Bạn đã khám phá ra một bản đồ kho báu bị chôn vùi mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_HAIL_MARY_READY_MESSAGE">
+			<Text>Hail Mary đã sẵn sàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_HAIL_MARY_READY_SUMMARY">
+			<Text>Hail Mary sẵn sàng để triển khai.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_ZOMBIE_DECAYED_MESSAGE">
+			<Text>Zombie Horde Bị thối rữa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_NOTIFICATION_ZOMBIE_DECAYED_SUMMARY">
+			<Text>Zombie Horde của bạn đã chết do phân hủy.</Text>
+		</Replace>
+		
+		<!-- Supply Drop Improvement -->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME">
+			<Text>Hòm tiếp tế</Text>
+		</Replace>
+		
+		<!-- Goody Hut Improvements -->
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME">
+			<Text>Tàn tích thành phố</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME">
+			<Text>Tàn tích thành phố đã khám phá</Text>
+		</Replace>
+
+		<!--Improvised Trap Improvement-->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_IMPROVISED_TRAP">
+			<Text>Bẫy cải tiến</Text>
+		</Replace>
+		
+		<!-- Destroyed City Feature -->
+		<Replace Language='en_US' Tag="LOC_FEATURE_DESTROYED_CITY_NAME">
+			<Text>Thành phố bị phá hủy</Text>
+		</Replace>
+		
+		<!-- MiniMap -->
+		<Replace Language='en_US' Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP">
+			<Text>Red Death</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP">
+			<Text>Vùng an toàn</Text>
+		</Replace>
+        	
+		<!-- Promotions -->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME">
+			<Text>Binh Đoàn Trinh Sát</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION">
+			<Text>Đơn vị và đội hình của nó bỏ qua [ICON_Movement] Hình phạt di chuyển đối với Rừng, Rừng nhiệt đới và Đồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu so với đội AT.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh Chiến đấu khi tấn công Súng máy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh chiến đấu với các Xe tăng khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh Chiến đấu khi phòng thủ trước Xe tăng và Phi hành đoàn AT.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu so với Xe tăng và Trực thăng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION">
+			<Text>Các đơn vị liền kề của một lớp khác nhận được +10 [ICON_Strength] Sức mạnh Chiến đấu so với Xe tăng và Trực thăng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh chiến đấu khi phòng thủ trong Rừng, Rừng, Đồi hoặc Đầm lầy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_ATTACK_RANGE_NAME">
+			<Text>Thay thế Launcher Tubes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_ATTACK_RANGE_DESC">
+			<Text>+1 [ICON_Range] Phạm vi tấn công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_MOVE_NAME">
+			<Text>Thay thế Leg Actuators</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_MOVE_DESC">
+			<Text>+2 [ICON_Movement] Di chuyển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_LIMITED_HEAL_NAME">
+			<Text>Refill Repair Nanites</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_LIMITED_HEAL_DESC">
+			<Text>+10 Tỷ lệ hồi máu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_ATTACK_1_NAME">
+			<Text>Thay thế Rifle Barrels</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_ATTACK_1_DESC">
+			<Text>+8 [ICON_Strength] Sức mạnh chiến đấu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_ATTACK_2_NAME">
+			<Text>Thay thế Targeting Computer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_ATTACK_2_DESC">
+			<Text>+8 [ICON_Strength] Sức mạnh chiến đấu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_ATTACK_3_NAME">
+			<Text>Đạn mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_ATTACK_3_DESC">
+			<Text>+8 [ICON_Strength] Sức mạnh chiến đấu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_ATTACK_1_NAME">
+			<Text>Não!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_ATTACK_1_DESC">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_ATTACK_2_NAME">
+			<Text>Não!!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_ATTACK_2_DESC">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_ATTACK_3_NAME">
+			<Text>Não!!!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_ATTACK_3_DESC">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_LESS_DECAY_NAME">
+			<Text>Ugh!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_LESS_DECAY_DESC">
+			<Text>Không có thiệt hại phân rã</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_MOVE_1_NAME">
+			<Text>Grah!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_MOVE_1_DESC">
+			<Text>+1 [ICON_Movement] Di chuyển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_MOVE_2_NAME">
+			<Text>Grah!!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_MOVE_2_DESC">
+			<Text>+1 [ICON_Movement] Di chuyển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_MOVE_3_NAME">
+			<Text>Grah!!!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZOMBIE_MOVE_3_DESC">
+			<Text>+1 [ICON_Movement] Di chuyển</Text>
+		</Replace>
+
+		<!-- Unit Abilities -->
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_NAME">
+			<Text>Tái tạo Xenological</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_DESCRIPTION">
+			<Text>Đơn vị hồi phục mỗi lượt bên ngoài nước hoặc bụi phóng xạ. Chữa bệnh với tỷ lệ tiêu chuẩn là 50%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_UNITPANEL_DESCRIPTION">
+			<Text>Chữa lành mỗi lượt bên ngoài nước hoặc bụi phóng xạ. Chữa bệnh với tỷ lệ tiêu chuẩn là 50%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALIENS_XENO_STEALTH_NAME">
+			<Text>Ngụy trang Xenological</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALIENS_XENO_STEALTH_DESCRIPTION">
+			<Text>Vô hình với các đơn vị đối phương trừ khi ở gần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CULTISTS_UNIT_SIGHT_NAME">
+			<Text>Sự khai sáng cuối cùng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CULTISTS_UNIT_SIGHT_DESCRIPTION">
+			<Text>+3 Phạm vi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME">
+			<Text>Đã từng xảy ra thảm họa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION">
+			<Text>Giảm 50 HP chứ không chết ngay lập tức vì WMD.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME">
+			<Text>Khởi chạy Khả năng WMD</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION">
+			<Text>Có thể khởi chạy WMD.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION">
+			<Text>Bỏ qua [ICON_Movement] bước di chuyển từ việc lên và xuống nước.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MAD_SCIENTISTS_UNIT_SHIELD_NAME">
+			<Text>Vắc xin toàn năng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MAD_SCIENTISTS_UNIT_SHIELD_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh Chiến đấu trong khi phòng thủ. Hoàn toàn miễn nhiễm với nước, Red Death và sát thương của WMD.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CRIPPLED_GDR_NO_HEAL_NAME">
+			<Text>Không có phụ tùng thay thế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CRIPPLED_GDR_NO_HEAL_DESCRIPTION">
+			<Text>Đơn vị không hồi máu mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ZOMBIES_NO_HEAL_NAME">
+			<Text>Zombie Thối rữa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ZOMBIES_NO_HEAL_DESCRIPTION">
+			<Text>Gây sát thương giảm dần mỗi lượt và chỉ hồi máu khi thăng cấp hoặc bằng cách tiêu diệt các đơn vị không phải zombie.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ZOMBIES_COMBAT_SPAWN_NAME">
+			<Text>Zombie chiến đấu được sinh ra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ZOMBIES_COMBAT_SPAWN_DESCRIPTION">
+			<Text>Sinh ra một đám zombie khi giết một đơn vị không phải zombie.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ZOMBIES_RANGED_RESISTANCE_NAME">
+			<Text>Không đau đớn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ZOMBIES_RANGED_RESISTANCE_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu khi phòng thủ trước các cuộc tấn công tầm xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MUTANTS_SPREAD_FALLOUT_IMMUNE_NAME">
+			<Text>Khả năng miễn dịch do Mutant lây lan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MUTANTS_SPREAD_FALLOUT_IMMUNE_DESCRIPTION">
+			<Text>Miễn nhiễm với sát thương từ Mutant lây lan Red Death.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MUTANTS_FALLOUT_SPEED_NAME">
+			<Text>Chuyển động phóng xạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MUTANTS_FALLOUT_SPEED_DESCRIPTION">
+			<Text>+3 [ICON_Movement] Di chuyển trong Red Death.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MUTANTS_FALLOUT_RESISTANCE_NAME">
+			<Text>Kháng phóng xạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MUTANTS_FALLOUT_RESISTANCE_DESCRIPTION">
+			<Text>-50% sát thương Red Death.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAD_SCIENTISTS_UNIT_SHIELD_MODIFIER">
+			<Text>+{1_Amount} Vắc xin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BORDERLORD_EDGENESS_COMBAT_BONUS_MODIFIER">
+			<Text>+{1_Amount} Độ cạnh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ZOMBIES_DEFENSE_BONUS_VS_RANGED_COMBAT_MODIFIER">
+			<Text>+{1_Amount} tầm kháng Zombie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SHIELDS_DEPLETED">
+			<Text>Vắc xin cạn kiệt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SHIELD_TT">
+			<Text>Vắc xin toàn năng[NEWLINE][NEWLINE]Vắc xin toàn năng cung cấp +10 [ICON_Strength] Sức mạnh chiến đấu khi phòng thủ. Vắc xin cũng cung cấp khả năng miễn nhiễm hoàn toàn với nước, Red Death và WMD do vụ nổ. Vắc xin tồn tại trong 4 lượt và mất 6 lượt để hồi lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SHIELD_ACTIVE_TT">
+			<Text>Vắc xin đang Hoạt động. Còn: {1_turnsRemaining} lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SHIELD_ACTIVE_WORLDTEXT">
+			<Text>Đã chích Vắc xin!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SHIELD_RECHARGING_TT">
+			<Text>Vắc xin đang được hồi lại. Còn: {1_turnsRemaining} lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ROAD_VISION_TT">
+			<Text>Tầm nhìn[NEWLINE][NEWLINE]Hiển thị tất cả lãnh thổ đã khám phá trước đây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ROAD_VISION_ACTIVE_TT">
+			<Text>Tầm nhìn đang hoạt động. Còn: {1_turnsRemaining} lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ROAD_VISION_ACTIVE_WORLDTEXT">
+			<Text>Tôi nhớ điều đó!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ROAD_VISION_RECHARGING_TT">
+			<Text>Tầm nhìn đang hồi lại. Còn: {1_turnsRemaining} lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PLACE_TRAP_TT">
+			<Text>Tạo Bẫy cải tiến[NEWLINE][NEWLINE]Đặt Bẫy cải tiến vào ô hiện tại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PLACE_TRAP_OUT_OF_TRAPS_TT">
+			<Text>Hết bẫy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PLACE_TRAP_FAILED_WORLDTEXT">
+			<Text>Không thể đặt bẫy ở đây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PANEL_TRAPS">
+			<Text>Bẫy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GRIEVING_GIFT_TT">
+			<Text>Gửi món quà đau đớn[NEWLINE][NEWLINE]Chọn một ô để triển khai Quà tặng đau đớn bị mắc kẹt trong lượt tiếp theo. Món quà Đau đớn sẽ giống như một Nguồn cung cấp bình thường cho tất cả những người chơi khác. Bạn có thể lưu trữ tối đa hai Quà tặng Đau đớn và chúng mất 5 lượt để hồi lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GRIEVING_GIFT_ACTIVE_WORLDTEXT">
+			<Text>Không thể đặt quà ở đây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GRIEVING_GIFT_COUNT_TT">
+			<Text>Quà tặng sẵn sàng: Còn: {1_turnsRemaining} lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GRIEVING_GIFT_RECHARGING_TT">
+			<Text>Gói quà mới. Còn: {1_turnsRemaining} lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GRIEVING_GIFT_EMPTY_TT">
+			<Text>Quà tặng đau đớn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_CLOAK_TT">
+			<Text>Ngụy trang Xenological[NEWLINE][NEWLINE]Trở nên gần như vô hình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_CLOAK_ACTIVE_TT">
+			<Text>Áo choàng đang hoạt động. Còn: {1_turnsRemaining} lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_CLOAK_RECHARGING_TT">
+			<Text>Áo choàng đang hồi lại. Còn: {1_turnsRemaining} lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BURN_TREASURE_MAP_TT">
+			<Text>Đốt bản đồ kho báu[NEWLINE][NEWLINE]Đốt bản đồ kho báu bị chôn vùi của bạn và lấy bản đồ mới.[NEWLINE]&quot;Họ sẽ không bao giờ tìm thấy kho báu của tôi bây giờ!&quot;</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BURN_TREASURE_MAP_ACTIVE_WORLDTEXT">
+			<Text>Nó sẽ được đốt cháy!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BURN_TREASURE_MAP_RECHARGING_TT">
+			<Text>Bản đồ kho báu đang được hồi lại. Còn: {1_turnsRemaining} lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SACRIFICE_TT">
+			<Text>Đơn vị hy sinh[NEWLINE][NEWLINE]Hy sinh đơn vị này để được thăng hạng cho Con mắt bất tử.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SACRIFICE_TT_B">
+			<Text>Đơn vị hy sinh[NEWLINE][NEWLINE]Hy sinh đơn vị này để được thăng hạng cho{1_UnitName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SACRIFICE_TT_C">
+			<Text>Walk the Plank[NEWLINE][NEWLINE]Phá hủy đơn vị này để giải trí cho thủy thủ đoàn của GDRRRrrrr và cấp cho nó một chương trình khuyến mãi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SACRIFICE_WORLDTEXT">
+			<Text>Tôi chết để phục vụ ngài!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT">
+			<Text>Con mắt bất tử chỉ chấp nhận hy sinh từ các tín đồ liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT_B">
+			<Text>{1_UnitName} chỉ chấp nhận vật hy sinh từ các ô liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT_C">
+			<Text>Bạn chỉ có thể làm cho các đơn vị đi bộ trong ván khi tiếp giáp với GDRRRrrrr.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT">
+			<Text>Con mắt bất tử được hiển thị đầy đủ và không cần phải hy sinh nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT_B">
+			<Text>{1_UnitName} được hiển thị đầy đủ và không cần phải hy sinh nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT_C">
+			<Text>Phi hành đoàn của GDRRRrrrr chán nhìn các đơn vị đi bộ trên ván.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_RAD_SPREAD_TT">
+			<Text>Chuyển đổi các tính cách bức xạ[NEWLINE][NEWLINE]Chuyển đổi khả năng phát tán bức xạ Red Death của đơn vị này khi di chuyển.</Text>
+		</Replace>
+
+		<!-- Terrain Replacements -->
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME">
+			<Text>Wasteland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME">
+			<Text>Wasteland (Đồi)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME">
+			<Text>Wasteland (Núi)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_DESERT_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_DESERT_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME">
+			<Text>Sa mạc (Núi)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_GRASS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_GRASS_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_OCEAN_NAME">
+			<Text>Đại dương nhiễm độc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_LAKE">
+			<Text>Hồ nhiễm độc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_COAST">
+			<Text>Bờ biển nhiễm độc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_PLAINS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_PLAINS_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_SNOW_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_SNOW_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_TUNDRA_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_ICE_NAME">
+			<Text>The Great Rot (Bị cấm)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_MARSH_NAME">
+			<Text>Bog</Text>
+		</Replace>
+		
+		<!-- Unit Replacements -->
+		<Replace Language='en_US' Tag="LOC_UNIT_SETTLER_NAME">
+			<Text>Dân thường</Text>
+		</Replace>
+		
+		<!-- Barbarian Replacements -->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME">
+			<Text>Raider Outpost</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BARBARIAN_NAME">
+			<Text>Raiders</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
+			<Text>Raiders</Text>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE">
+			<Text>Raider Outpost mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY">
+		  <Text>Chúng tôi đã nhận được tin đồn rằng một nhóm Đột Kích mới đã chuyển đến một khu vực gần đó.</Text>
+		</Replace>
+		
+		<!-- Overlays -->
+		<Replace Language='en_US' Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT">
+			<Text>Vùng thưởng chiến đấu Edgelord</Text>
+		</Replace>
+		
+		<!-- Zombie Combat Unit -->
+		<Replace Language='en_US' Tag="LOC_UNIT_ZOMBIE_NAME">
+			<Text>Zombie Horde</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_ZOMBIE_DESCRIPTION">
+			<Text>Zombie Horde hầu như được vũ khí hóa </Text>
+		</Replace>
+		
+		<!-- Crippled GDR -->
+		<Replace Language='en_US' Tag="LOC_UNIT_CRIPPLED_GDR_NAME">
+			<Text>GDR Tàn tật</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_CRIPPLED_GDR_DESCRIPTION">
+			<Text>Robot Tử thần khổng lồ này đã có những ngày tốt đẹp hơn. Nó sẽ không bao giờ giống nhau nhưng nó vẫn là một lực lượng cần được tính đến.</Text>
+		</Replace>
+
+		<!-- Faction Specific Unit Naming -->
+		<Replace Language='en_US' Tag="LOC_UNIT_UNDYING_EYE_NAME">
+			<Text>Con Mắt bất tử</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PIRATE_TREASURE_TANK_NAME">
+			<Text>Kho báu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PIRATE_TREASURE_CRIPPLED_GDR_NAME">
+			<Text>GDRRRrrrr</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PIRATE_TREASURE_INFANTRY_NAME">
+			<Text>Landlubber</Text>
+		</Replace>
+
+		<!-- Combat Modifier Strings -->
+		<Replace Language='en_US' Tag="LOC_TRAIT_JOCKS_COMBAT_BONUS_DESC">
+			<Text>+{1_Amount} Nhân chứng hoàn hảo</Text>
+		</Replace>
+						
+		<!-- WMDs -->
+		<Replace Language='en_US' Tag="LOC_WMD_HAIL_MARY_NAME">
+			<Text>Hail Mary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WMD_HAIL_MARY_DISABLED_COOLDOWN">
+			<Text>[COLOR:Red]{1_turns} lượt cho đến khi đầu đạn Hail Mary tiếp theo được nạp.[ENDCOLOR]</Text>
+		</Replace>
+		
+		<!-- Treasure Locations -->
+		<Replace Language='en_US' Tag="LOC_TREASURE_UNIT_INFANTRY_RECRUITED">
+			<Text>Chúng tôi đã tìm thấy một số tân binh!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TREASURE_UNIT_TANK_RECRUITED">
+			<Text>Nó là một chiếc xe tăng!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TREASURE_UNIT_CRIPPLED_GDR_RECRUITED">
+			<Text>GDRRRRrrrr!</Text>
+		</Replace>
+				
+		<!-- UFO Unit Names -->
+		<Replace Language='en_US' Tag="LOC_UFO_UNIT_NAME1">
+			<Text>"Khí gas đầm lầy"</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UFO_UNIT_NAME2">
+			<Text>"Mây hiếm"</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UFO_UNIT_NAME3">
+			<Text>"Nhân chứng say rượu"</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UFO_UNIT_NAME4">
+			<Text>"Thuốc ngủ"</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UFO_UNIT_NAME5">
+			<Text>"Mảnh thiên thạch"</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UFO_UNIT_NAME6">
+			<Text>"Thử nghiệm vũ khí bí mật"</Text>
+		</Replace>
+		
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,21 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Improvements-->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_BATEY_NAME">
+			<Text>Batey</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_BATEY_DESCRIPTION">
+			<Text>Mở khóa khả năng xây dựng một Batey của Người xây dựng.[NEWLINE][NEWLINE]+1 [ICON_Culture] Văn hóa. +1 [ICON_Culture] Văn hóa cho mọi Tổ hợp Giải trí và Tài nguyên Tiền thưởng liền kề (tăng lên +2 [Icon_Culture] Văn hóa khi Khám phá được phát hiện). Cung cấp [Icon_Tourism] Du lịch sau khi nghiên cứu Chuyến bay. Không thể được xây dựng liền kề với Batey khác hoặc trên Những ngọn đồi.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_IMPROVEMENT_METEOR_GOODY_NAME">
+      <Text>Địa điểm Sao Băng</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_IMPROVEMENT_METEOR_GOODY_DESCRIPTION">
+      <Text>Còn lại bởi những thảm họa mưa sao băng. Chuyển sang ô này với bất kỳ đơn vị nào sẽ cấp cho đơn vị kỵ binh hạng nặng miễn phí, không có tài nguyên, mạnh hơn những gì người chơi hiện có thể xây dựng.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_METEOR_GOODIES_GRANT_UNIT_DESCRIPTION">
+      <Text>[COLOR_FLOAT_MILITARY]Đơn vị quân đội tự do![ENDCOLOR]</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

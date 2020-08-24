@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Replace Language='en_US' Tag = "LOC_LOADING_INFO_LEADER_LAURIER">
+		    <Text>Bạn đã chọn những cách đồng nắng ấm, Wilfrid Laurier, sự vui vẻ và lịch sự trở thành tính cách của người Canada. Khi người khác tìm cách chia rẽ và gieo rắc sự ngờ vực, bạn truyền cảm hứng cho sự hợp tác và thông cảm. Cho thế giới thấy rằng một dân tộc thống nhất có thể mãi mãi đứng vững trước thử thách của thời gian.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LOADING_INFO_LEADER_ELEANOR_FRANCE">
+		    <Text>Nữ công tước xứ Aquitaine, nhiếp chính của hai vùng đất, người bảo trợ cho những người hát rong và thẩm phán của tòa án tình yêu, lên ngôi của bạn một lần nữa. Truyền cảm hứng cho trái tim của thần dân của bạn, rằng họ sẽ cổ vũ bạn và đổ xô đến các biểu ngữ của bạn, vì tất cả những người biết triều đại của bạn đều biết lòng trắc ẩn của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LOADING_INFO_LEADER_ELEANOR_ENGLAND">
+		    <Text>Nữ công tước xứ Aquitaine, nhiếp chính của hai vùng đất, người bảo trợ cho những người hát rong và thẩm phán của tòa án tình yêu, lên ngôi của bạn một lần nữa. Truyền cảm hứng cho trái tim của thần dân của bạn, rằng họ sẽ cổ vũ bạn và đổ xô đến các biểu ngữ của bạn, vì tất cả những người biết triều đại của bạn đều biết lòng trắc ẩn của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LOADING_INFO_LEADER_MATTHIAS_CORVINUS">
+		    <Text>Matthias hùng mạnh, những kỳ công của bạn trong vũ khí chỉ có thể so sánh bằng kiến ​​thức sâu rộng của bạn. Hãy để Đội quân đen hùng mạnh của bạn làm cánh tay đắc lực của bạn trên chiến trường, vừa là thanh gươm chống lại kẻ thù, vừa là lá chắn bảo vệ những người trung thành của bạn, và các lứa tuổi sau này sẽ khiến bạn kinh ngạc thốt lên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LOADING_INFO_LEADER_PACHACUTI">
+		    <Text>Pachacuti, con trai của Mặt trời, cha của một dân tộc thịnh vượng, những người sống giữa những đỉnh núi cao cả. Hãy để những ngọn núi là con đường đối với bạn, và những bức tường thành hùng vĩ đối với kẻ thù của bạn, để bạn phát triển sức mạnh nơi những người khác sẽ chết đói. Hỡi người Sapa Inca chấn động địa cầu, hãy thể hiện sức mạnh và sự cần cù, và tên tuổi của bạn sẽ tỏa sáng trong suốt chiều dài lịch sử.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LOADING_INFO_LEADER_MANSA_MUSA">
+		    <Text>Mansa Musa, vị vua vĩ đại của Mali, bạn được ban phước cho sự giàu có vượt quá khả năng hiểu biết, nhưng bạn vẫn không bị suy sụp. Hãy ngước mắt từ chợ lên thiên đàng và thỏa mãn lòng khao khát hòa bình lớn lao của bạn. Hãy bảo vệ sự thịnh vượng của người dân và lịch sử sẽ ghi tên bạn bằng chữ vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LOADING_INFO_LEADER_KUPE">
+		    <Text>Kupe the Navigator, bạn đã đặt tên cho vùng đất của đám mây trắng dài, và bây giờ bạn được kêu gọi đến định cư vùng đất mới. Bảo vệ và tôn vinh đất và biển, giống như Toas của bạn bảo vệ người dân của bạn. Người Maori sẽ bảo vệ vẻ đẹp tự nhiên của thế giới cho mọi thời đại sau này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LOADING_INFO_LEADER_SULEIMAN">
+		    <Text>Tất cả ca ngợi bạn, Suleiman pháp luật, được gọi đúng là Magnificent! Chủ nhân của ngôi nhà vĩ đại Osman, những người hầu trung thành của bạn sẵn sàng thực hiện mệnh lệnh của bạn đến góc xa nhất của vùng đất hùng mạnh của bạn, trong khi kẻ thù của bạn run sợ khi nhìn thấy quân đội của bạn. Sultan of Sultans và Khan of Khans, hãy dẫn dắt dân tộc của bạn đến với sự vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LOADING_INFO_LEADER_DIDO">
+		    <Text>Nữ hoàng Dido, mẹ của Carthage, suốt cuộc đời bạn phải đối mặt với những mối đe dọa lớn và vượt qua chúng nhờ sự thông minh và xảo quyệt. Bất cứ nơi nào sóng vỗ vào bờ, nơi đó thành phố của bạn sẽ nổi lên. Biển cả là con đường của bạn, chân trời xa là số phận và là nơi nương tựa của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LOADING_INFO_LEADER_KRISTINA">
+		    <Text>Minerva của phương Bắc, vô song về học thức và trí tuệ, bạn đã chọn một cuộc sống văn hóa hơn là quyền lực. Thắp sáng vương quốc của bạn bằng nghệ thuật và âm nhạc. Hãy để Thụy Điển là ngôi sao dẫn đường cho các nền văn minh khác noi theo. Một lần nữa thế giới có nhu cầu về những người bảo trợ lớn cho nghệ thuật và văn hóa — và điều đó đang hướng đến bạn.</Text>
+		</Replace>
+	</BaseGameText>
+</GameData>

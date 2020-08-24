@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Lady Six Sky-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Together, our people will grow strong under the light of God.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Forgive me. Ethiopia has not been free for so long by making hasty agreements with foreigners.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>I offer you the friendship of the line of Solomon, and the Lion of Judah!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>You are on the right side of history.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>You are on the wrong side of history.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Do you not know that the Lion of Judah has always conquered? Well, you will learn soon enough.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Your actions insult the people of Ethiopia, and for that you must pay a heavy price.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Talk to your delegation upon their return, and they will tell you of the beauty of the Roof of Africa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>We don't need any.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Ethiopia sends you coffee, injera bread, and our warm wishes.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Your rule is a disgrace, your words are lies, and I will show the world your treacherous heart.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Are all your words impious? Are all your deeds deceitful? I see nothing redeeming in your rule.(Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MENELIK_ANY">
+			<Text>I am Menelik, Lion of Judah, of the house and lineage of Solomon, emperor of Ethiopia. Greetings.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MENELIK_ANY">
+			<Text>We have spread a wide table with injera and laid upon it tibs and kitfo. Will you share a meal with us?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MENELIK_ANY">
+			<Text>Yes.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MENELIK_ANY">
+			<Text>In the spirit of friendship, I will tell you of my home, if you will repay the favor</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MENELIK_ANY">
+			<Text>I am pleased to see you once again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MENELIK_ANY">
+			<Text>I am pleased you find comfort in flat land, for the hills are mine.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MENELIK_ANY">
+			<Text>The high hills are mine by right and custom. You are better off settling elsewhere.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Won't you help me sing these songs of freedom?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MENELIK_ANY">
+			<Text>By the grace of God, let us have peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MENELIK_ANY">
+			<Text>Ethiopia remains unconquered and her soldiers still long for battle.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>This war hurts both our people. Let us end it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Move freely through the lands of Ethiopia. But mind the lions.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>We are independent and free. And we can say no to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Our troops have business across your lands. May they pass?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MENELIK_ANY">
+			<Text>Do you think that you can frighten me? Move your troops at once!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_MENELIK_ANY">
+			<Text>My forces are where they are for good reason. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_MENELIK_ANY">
+			<Text>Friends do not need armed troops on each others' borders. I will withdraw.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Do you think God abandoned Ethiopia? Do you think his favor rests on you? Do not gloat in your victory today.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Get this paltry offer out of my sight.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>A fair exchange will benefit us both.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

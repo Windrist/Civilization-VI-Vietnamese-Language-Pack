@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="113D9459-0A3B-4FCB-A49C-483F40303575" version="1">
+	<Properties>
+		<Name>LOC_TEDDY_ROOSEVELT_MOD_TITLE</Name>
+		<Teaser>LOC_TEDDY_ROOSEVELT_MOD_TEASER</Teaser>
+		<Description>LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+		<CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<References>
+		<Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE"/>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+	</References>
+	<ActionCriteria>
+		<Criteria id="TeddyRoosevelt" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_T_ROOSEVELT,Players:StandardPlayers::LEADER_T_ROOSEVELT_ROUGHRIDER,StandardPlayers::LEADER_T_ROOSEVELT,StandardPlayers::LEADER_T_ROOSEVELT_ROUGHRIDER,Players:Expansion1_Players::LEADER_T_ROOSEVELT,Players:Expansion1_Players::LEADER_T_ROOSEVELT_ROUGHRIDER,Players:Expansion2_Players::LEADER_T_ROOSEVELT,Players:Expansion2_Players::LEADER_T_ROOSEVELT_ROUGHRIDER</LeaderPlayable>
+		</Criteria>
+		<Criteria id="TeddyRoosevelt_Expansion1" any="1">
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_T_ROOSEVELT,Players:Expansion1_Players::LEADER_T_ROOSEVELT_ROUGHRIDER</LeaderPlayable>
+		</Criteria>
+		<Criteria id="TeddyRoosevelt_Expansion2" any="1">
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_T_ROOSEVELT,Players:Expansion2_Players::LEADER_T_ROOSEVELT_ROUGHRIDER</LeaderPlayable>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateArt id="TeddyRooseveltArt" criteria="TeddyRoosevelt">
+			<File>TeddyRoosevelt.dep</File>
+		</UpdateArt>
+		<UpdateLogitechARX id="TeddyRooseveltARX" criteria="TeddyRoosevelt">
+			<File>Data/ARX/Civ_LEADER_T_ROOSEVELT_ROUGHRIDER.png</File>
+		</UpdateLogitechARX>
+		<UpdateColors id="TeddyRooseveltColors" criteria="TeddyRoosevelt">
+			<File>Data/TeddyRoosevelt_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="TeddyRooseveltGameplay" criteria="TeddyRoosevelt">
+			<File Priority="1">Data/TeddyRoosevelt_RemoveData.xml</File>
+			<File>Data/TeddyRoosevelt_Leaders.xml</File>
+			<File>Data/TeddyRoosevelt_Modifiers.xml</File>
+			<File>Data/TeddyRoosevelt_Units.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="TeddyRooseveltGameplay_XP1" criteria="TeddyRoosevelt_Expansion1">
+			<File>Data/TeddyRoosevelt_Expansion1.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="TeddyRooseveltGameplay_XP2" criteria="TeddyRoosevelt_Expansion2">
+			<File>Data/TeddyRoosevelt_Expansion2.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="TeddyRooseveltIcons" criteria="TeddyRoosevelt">
+			<File>Data/TeddyRoosevelt_Icons.xml</File>
+		</UpdateIcons>
+		<UpdateText id="TeddyRooseveltText" criteria="TeddyRoosevelt">
+			<File Priority="2">Text/TeddyRoosevelt_RemoveText.xml</File>
+			<File Priority="1">Text/en_US/TeddyRoosevelt_PackageText.xml</File>
+			<File Priority="1">Text/en_US/TeddyRoosevelt_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/TeddyRoosevelt_Civilopedia_Text.xml</File>
+			<File Priority="1">Text/en_US/TeddyRoosevelt_Text.xml</File>
+			<File>Text/TeddyRoosevelt_Translations_PackageText.xml</File>
+			<File>Text/TeddyRoosevelt_Translations_ConfigText.xml</File>
+			<File>Text/TeddyRoosevelt_Translations_Text.xml</File>
+		</UpdateText>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="TeddyRooseveltSettingsArt">
+			<File>TeddyRoosevelt.dep</File>
+		</UpdateArt>
+		<UpdateColors id="TeddyRooseveltColors">
+			<File>Data/TeddyRoosevelt_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="TeddyRooseveltSettings">
+			<File>Data/TeddyRoosevelt_ConfigData.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="TeddyRooseveltIcons">
+			<File>Data/TeddyRoosevelt_Icons.xml</File>
+		</UpdateIcons>
+		<UpdateText id="TeddyRooseveltText">
+			<File Priority="1">Text/en_US/TeddyRoosevelt_PackageText.xml</File>
+			<File Priority="1">Text/en_US/TeddyRoosevelt_ConfigText.xml</File>
+			<File>Text/TeddyRoosevelt_Translations_PackageText.xml</File>
+			<File>Text/TeddyRoosevelt_Translations_ConfigText.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<LocalizedText>
+		<File>Text/en_US/TeddyRoosevelt_PackageText.xml</File>
+		<File>Text/TeddyRoosevelt_Translations_PackageText.xml</File>
+	</LocalizedText>
+	<Files>
+		<File>TeddyRoosevelt.dep</File>
+		<File>Data/ARX/Civ_LEADER_T_ROOSEVELT_ROUGHRIDER.png</File>
+		<File>Data/TeddyRoosevelt_Colors.xml</File>
+		<File>Data/TeddyRoosevelt_ConfigData.xml</File>
+		<File>Data/TeddyRoosevelt_Icons.xml</File>
+		<File>Data/TeddyRoosevelt_Leaders.xml</File>
+		<File>Data/TeddyRoosevelt_Modifiers.xml</File>
+		<File>Data/TeddyRoosevelt_Units.xml</File>
+		<File>Data/TeddyRoosevelt_RemoveData.xml</File>
+		<File>Data/TeddyRoosevelt_Expansion1.xml</File>
+		<File>Data/TeddyRoosevelt_Expansion2.xml</File>
+		<File>Text/TeddyRoosevelt_RemoveText.xml</File>
+		<File>Text/en_US/TeddyRoosevelt_PackageText.xml</File>
+		<File>Text/en_US/TeddyRoosevelt_Civilopedia_Text.xml</File>
+		<File>Text/en_US/TeddyRoosevelt_ConfigText.xml</File>
+		<File>Text/en_US/TeddyRoosevelt_Text.xml</File>
+		<File>Text/TeddyRoosevelt_Translations_ConfigText.xml</File>
+		<File>Text/TeddyRoosevelt_Translations_PackageText.xml</File>
+		<File>Text/TeddyRoosevelt_Translations_Text.xml</File>
+	</Files>
+</Mod>

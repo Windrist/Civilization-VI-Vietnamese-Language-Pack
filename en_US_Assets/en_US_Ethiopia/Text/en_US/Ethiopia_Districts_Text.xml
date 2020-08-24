@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DISTRICT_DIPLOMATIC_QUARTER_NAME">
+			<Text>Diplomatic Quarter</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DIPLOMATIC_QUARTER_DESCRIPTION">
+			<Text>Your civilization receives +1 [ICON_CULTURE] Culture for each Delegation or Embassy from a foreign civilization through diplomacy. +1 [ICON_ENVOY] Envoy if built next to the city center. Enemy Spies operate at 2 levels below normal targeting this district and adjacent districts.  Only 1 can exist in your empire at a time.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DIPLOMATIC_QUARTER_EXPANSION2_DESCRIPTION">
+			<Text>Your civilization receives +1 [ICON_FAVOR] Diplomatic Favor for each Delegation or Embassy from a foreign civilization through diplomacy. +1 [ICON_ENVOY] Envoy if built next to the city center. Enemy Spies operate at 2 levels below normal targeting this district and adjacent districts. Only 1 can exist in your empire at a time.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

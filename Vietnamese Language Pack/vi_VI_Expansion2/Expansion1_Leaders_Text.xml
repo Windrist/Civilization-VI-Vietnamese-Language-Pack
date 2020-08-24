@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--City-States-->
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		    <Text>+2 [ICON_Science] Khoa học trong mọi tòa nhà Thư viện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+		    <Text>+2 [ICON_Science] Khoa học trong mọi tòa nhà Đại học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		    <Text>+2 [ICON_Faith] Đức tin vào mọi công trình Đền thờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+		    <Text>+2 [ICON_Faith] Đức tin vào mọi công trình của Đền thờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Gold] Vàng ở mọi Tòa nhà và Ngọn hải đăng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Gold] Vàng trong mọi tòa nhà của Ngân hàng và Xưởng đóng tàu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		    <Text>+2 [ICON_Culture] Văn hóa trong mọi nhà Nhà hát vòng tròn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+		    <Text>+2 [ICON_Culture] Văn hóa trong mọi tòa nhà Bảo tàng Nghệ thuật và Bảo tàng Khảo cổ học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		    <Text>+2 [ICON_Production] Sản xuất ở mọi thành phố có Doanh trại hoặc Tòa nhà ổn định khi sản xuất các đơn vị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+		    <Text>+2 [ICON_Production] Sản xuất ở mọi thành phố có tòa nhà Kho vũ khí khi sản xuất các đơn vị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		    <Text>+2 [ICON_Production] Sản xuất ở mọi thành phố với tòa nhà Xưởng khi sản xuất các kỳ quan, tòa nhà và quận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+		    <Text>+2 [ICON_Production] Sản xuất ở mọi thành phố có Nhà máy khi sản xuất các kỳ quan, tòa nhà và quận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_ANTIOCH_NAME">
+		    <Text>Antioch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_ANTIOCH_DESCRIPTION">
+		    <Text>Thành phố-Tiểu bang Antioch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_ANTIOCH_NAME">
+		    <Text>Tiền thưởng Antioch Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_ANTIOCH_DESCRIPTION">
+		    <Text>Tuyến giao thương [ICON_TradeRoute] của bạn đến các thành phố nước ngoài kiếm được +1 [ICON_Gold] Vàng cho mỗi tài nguyên Xa xỉ tại điểm đến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_ANTIOCH_ADJECTIVE">
+		    <Text>Antiochian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_BABYLON_NAME">
+		    <Text>Babylon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_BABYLON_DESCRIPTION">
+		    <Text>Thành phố-bang Babylon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_BABYLON_NAME">
+		    <Text>Tiền thưởng Babylon Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_BABYLON_DESCRIPTION">
+		    <Text>+2 [ICON_SCIENCE] Khoa học từ mỗi [ICON_GreatWork_WRITING] Tác phẩm Viết lách tuyệt vời. +1 [ICON_SCIENCE] Khoa học từ mỗi [ICON_GreatWork_RELIC] Di tích và [ICON_GreatWork_Artifact] Hiện vật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_BABYLON_ADJECTIVE">
+		    <Text>Tiếng Babylon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+		    <Text>Đơn vị chiến đấu trên đất liền rẻ hơn 20% khi mua [ICON_GOLD] Vàng cho mỗi tòa nhà của quận Trại giam trong thành phố đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+		    <Text>Bạn nhận được +2 Mức độ trung thành mỗi lượt ở các thành phố cho mỗi tòa nhà quận Trại giam.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+		    <Text>Các quận của bạn có tòa nhà cung cấp +1 [ICON_GreatPerson] Điểm Người vĩ đại thuộc loại của họ ([ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatArtist] Nghệ sĩ vĩ đại và [ICON_GreatMusician] Nhạc sĩ vĩ đại cho các quận Quảng trường Nhà hát có tòa nhà). </ Văn bản>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+		    <Text>Đối với Cấp độ Liên minh đang hoạt động cao nhất, tất cả các khu vực Quảng trường Nhà hát của bạn sẽ nhận được + 50% tiền thưởng gần kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_CAVALRY_COMBAT_BONUS_PREVIEW_TEXT">
+		    <Text>+{1_Amount} Mông Cổ</Text>
+		</Replace>
+		<!-- Free Cities -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_FREE_CITIES_NAME">
+			<Text>Thành phố tự trị</Text>
+			<Gender>Masculine:the</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_FREE_CITIES_DESCRIPTION">
+			<Text>Thành phố tự trị</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<LocalizedText>
+
+
+		<!-- Sections -->
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_TITLE">
+			<Text>Concepts</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_TITLE">
+			<Text>Major Civilizations</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_TITLE">
+			<Text>Leaders</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_TITLE">
+			<Text>City-States</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_DISTRICTS_TITLE">
+			<Text>Districts</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_BUILDINGS_TITLE">
+			<Text>Buildings</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_TITLE">
+			<Text>Wonders and Projects</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_TITLE">
+			<Text>Units</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITPROMOTIONS_TITLE">
+			<Text>Unit Promotions</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GREATPEOPLE_TITLE">
+			<Text>Great People</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_TECHNOLOGIES_TITLE">
+			<Text>Technologies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_TITLE">
+			<Text>Civics</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_TITLE">
+			<Text>Governments and Policies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_TITLE">
+			<Text>Religions</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_TITLE">
+			<Text>Terrains and Features</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_TITLE">
+			<Text>Resources</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_TITLE">
+			<Text>Improvements and Routes</Text>
+		</Replace>
+
+		<!-- Common page text -->
+		<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_INTRO_TITLE">
+			<Text>Introduction</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_TITLE">
+			<Text>Basic Concepts</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_GETTING_STARTED_TITLE">
+			<Text>Getting Started</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_HISTORY_TITLE">
+			<Text>Historical Context</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_CAPSULE_TITLE">
+			<Text>Summary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_DETAILED_TITLE">
+			<Text>Detailed Approach</Text>
+		</Replace>
+
+    <!-- Common chapter header -->
+    <Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_INTRO_TITLE">
+      <Text>Introduction</Text>
+    </Replace>
+
+    <!-- Page group text>-->
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CULTURAL_NAME">
+			<Text>Cultural</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_INDUSTRIAL_NAME">
+			<Text>Industrial</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_MILITARISTIC_NAME">
+			<Text>Militaristic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_RELIGIOUS_NAME">
+			<Text>Religious</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCIENTIFIC_NAME">
+			<Text>Scientific</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_TRADE_NAME">
+			<Text>Trade</Text>
+		</Replace>
+
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGEGROUP_TERRAINS_NAME">
+			<Text>Terrains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGEGROUP_FEATURES_NAME">
+			<Text>Features</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGEGROUP_NATURAL_WONDERS_NAME">
+			<Text>Natural Wonders</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOVERNMENTS_NAME">
+			<Text>Governments</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_MILITARY_POLICIES_NAME">
+			<Text>Military Policies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_ECONOMIC_POLICES_NAME">
+			<Text>Economic Policies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_DIPLOMATIC_POLICIES_NAME">
+			<Text>Diplomatic Policies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GREATPEOPLE_POLICIES_NAME">
+			<Text>Great Person Policies</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_WILDCARD_POLICIES_NAME">
+      <Text>Wildcard Policies</Text>
+    </Replace>
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_IMPROVEMENTS_NAME">
+			<Text>Improvements</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_ROUTES_NAME">
+			<Text>Routes</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_RELIGIONS_NAME">
+			<Text>Historic Religions</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_PANTHEON_BELIEFS_NAME">
+			<Text>Pantheon Beliefs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_WORSHIP_BELIEFS_NAME">
+			<Text>Worship Beliefs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOLLOWER_BELIEFS_NAME">
+			<Text>Follower Beliefs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOUNDER_BELIEFS_NAME">
+			<Text>Founder Beliefs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_ENHANCER_BELIEFS_NAME">
+			<Text>Enhancer Beliefs</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_BONUS_NAME">
+			<Text>Bonus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_LUXURY_NAME">
+			<Text>Luxury</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_STRATEGIC_NAME">
+			<Text>Strategic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_ARTIFACT_NAME">
+			<Text>Artifact</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGEGROUP_WONDERS_NAME">
+			<Text>Wonders</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGEGROUP_PROJECTS_NAME">
+			<Text>Projects</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITPROMOTIONS_PAGEGROUP_UNIT_ABILITIES_NAME">
+			<Text>Unit Abilities</Text>
+		</Replace>	
+
+	</LocalizedText>
+</GameData>

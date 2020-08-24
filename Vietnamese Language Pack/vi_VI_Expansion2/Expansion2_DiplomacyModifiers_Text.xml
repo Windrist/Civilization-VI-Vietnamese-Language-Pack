@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Standard modifiers -->
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_SAPA_INCA_LOW_MOUNTAIN_CITIES">
+            <Text>Pachacuti rất vui vì bạn có ít thành phố gần Núi</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_SAPA_INCA_HIGH_MOUNTAIN_CITIES">
+            <Text>Pachacuti không hài lòng vì bạn có nhiều thành phố gần Núi</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_SICILIAN_WARS_LOW_COASTAL_CITES">
+            <Text>Dido rất vui vì bạn có ít thành phố ven biển</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_SICILIAN_WARS_HIGH_COASTAL_CITIES">
+            <Text>Dido không hài lòng vì bạn có nhiều thành phố ven biển</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_DESCRIPTION_EXPANSIONIST">
+            <Text>Họ thích những Đế chế có nhiều đất đai và không thích những Đế chế không có</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_WHITE_FLEET">
+            <Text>Họ thích những Đế chế có lực lượng hải quân quan trọng</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_DESCRIPTION_FLAT_EARTHER">
+            <Text>Họ không thích những người cố gắng rời khỏi Trái đất</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FAVOR">
+            <Text>Họ không thích bạn cạnh tranh tích cực để giành được Ưu đãi</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FAVOR">
+            <Text>Họ rất vui vì bạn không kiếm được nhiều Ưu đãi</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_TOURISM">
+            <Text>Họ không hài lòng vì Du lịch của bạn quá mạnh</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_TOURISM">
+            <Text>Họ rất vui vì bạn không cạnh tranh trong ngành Du lịch</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_INTOLERANT_SAME">
+            <Text>Họ rất vui vì bạn có chung một tôn giáo</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_INTOLERANT_ENCROACHING">
+            <Text>Họ tức giận vì tôn giáo của bạn hiện diện trong đế chế của họ</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_DIPLOVP">
+            <Text>Họ tức giận vì bạn đang tiến gần đến Chiến thắng Ngoại giao</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_DIPLOVP">
+            <Text>Họ hài lòng vì bạn không phải là mối đe dọa cho Chiến thắng Ngoại giao</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_PILLAGE">
+            <Text>Họ rất vui khi thấy một nền văn minh khác thích cướp bóc</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_PILLAGE">
+            <Text>Họ muốn thấy bạn cướp bóc đối thủ thường xuyên hơn</Text>
+        </Replace>
+	</BaseGameText>
+</GameData>

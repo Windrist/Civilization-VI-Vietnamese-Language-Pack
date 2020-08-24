@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Next Game button for CivRoyale endgame screen. -->
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUICK_JOIN">
+			<Text>Trò chơi tiếp theo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUICK_JOIN_TOOLTIP">
+			<Text>Tham gia nhanh vào một trò chơi Cái chết đỏ mới (Battle Royale)!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_HOW_TO_PLAY">
+			<Text>Cách chơi</Text>
+		</Replace>	
+		
+		<!-- Do not put any more text in this file! -->
+		
+	</LocalizedText>
+</GameData>

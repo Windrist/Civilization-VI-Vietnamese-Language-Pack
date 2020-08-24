@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="pt_BR">
+      <Text>Teddy Roosevelt (Rough Rider)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="pt_BR">
+      <Text>Teddy Roosevelt (Alce)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="pt_BR">
+      <Text>Antiguidades e Parques</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="pt_BR">
+      <Text>Painéis de tirar o fôlego adjacentes a uma Maravilha da Natureza ou a uma Montanha recebem +2 de [ICON_SCIENCE] ciência. Painéis de tirar o fôlego adjacentes a uma Maravilha ou a um Bosque recebem +2 de [ICON_CULTURE] cultura. Todos os painéis em uma cidade com Parque Nacional possuem +1 de apelo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="pt_BR">
+      <Text>As unidades recebem +5 de [ICON_Strength] força de combate em seu continente natal. Emissários enviados a cidades-estados para as quais você possui uma [ICON_TradeRoute] rota comercial contam como dois [ICON_Envoy] Emissários. Ganhe a unidade exclusiva Rough Rider com Estriamento.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="pt_BR">
+      <Text>Eles admiram as muitas áreas com apelo em seu império</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="pt_BR">
+      <Text>Eles estão decepcionados porque seu império não possui áreas com apelo</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="fr_FR">
+      <Text>Theodore Roosevelt (Rough Rider)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="fr_FR">
+      <Text>Theodore Roosevelt (Élan)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="fr_FR">
+      <Text>Antiquités et parcs</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_SCIENCE] Science +2 pour les cases à l'attrait époustouflant adjacentes à une merveille naturelle ou une montagne. [ICON_CULTURE] Culture +2 pour les cases à l'attrait époustouflant adjacentes à une merveille naturelle ou des bois. Attrait +1 pour toutes les cases d'une ville dotée d'un parc national.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +5 pour les unités sur leur continent d'origine. Les émissaires envoyés vers les cités-états avec lesquelles vous avez une [ICON_TradeRoute] route commerciale comptent pour deux. Le Rough Rider, unité exclusive, est débloqué avec le rainurage.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="fr_FR">
+      <Text>Admire les nombreux lieux attrayants de votre empire.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="fr_FR">
+      <Text>S'attriste que votre empire manque de lieux attrayants.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="de_DE">
+      <Text>Teddy Roosevelt (Rough Rider)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="de_DE">
+      <Text>Teddy Roosevelt (Bull Moose)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="de_DE">
+      <Text>Antikes und Parks</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="de_DE">
+      <Text>Atemberaubende Geländefelder, die entweder an ein Naturwunder oder einen Berg angrenzen, erhalten +2 [ICON_SCIENCE] Wissenschaft. Atemberaubende Geländefelder, die entweder an ein Wunder oder einen Wald angrenzen, erhalten +2 [ICON_CULTURE] Kultur. Alle Felder in Städten mir einem Nationalpark haben +1 Anziehungskraft.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="de_DE">
+      <Text>Einheiten erhalten +5 [ICON_Strength] Kampfstärke auf ihrem Heimatkontinent. Gesandte in Stadtstaaten, mit denen Ihr einen [ICON_TradeRoute] Handelsweg habt, zählen als jeweils zwei [ICON_Envoy] Gesandte. Erlangt die Spezialeinheit Rough Rider durch die Technologie 'Drall'.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="de_DE">
+      <Text>Die vielen Bereiche mit Anziehungskraft in Eurem Reich sorgen für Bewunderung</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="de_DE">
+      <Text>Der Mangel an Bereichen mit Anziehungskraft in Eurem Reich sorgt für Enttäuschung</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="it_IT">
+      <Text>Teddy Roosevelt (Rough Rider)|di Teddy Roosevelt (Rough Rider)|a Teddy Roosevelt (Rough Rider)|Teddy Roosevelt (Rough Rider)|da Teddy Roosevelt (Rough Rider)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="it_IT">
+      <Text>Teddy Roosevelt (l'Alce)|di Teddy Roosevelt (l'Alce)|a Teddy Roosevelt (l'Alce)|Teddy Roosevelt (l'Alce)|da Teddy Roosevelt (l'Alce)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="it_IT">
+      <Text>Antichità e Parchi</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="it_IT">
+      <Text>Le caselle Mozzafiato adiacenti a una Meraviglia naturale o a una montagna ricevono +2 [ICON_SCIENCE] Scienza. Le caselle Mozzafiato adiacenti a una Meraviglia o a un bosco ricevono +2 [ICON_CULTURE] Cultura. Tutte le caselle in una città che ha un Parco nazionale hanno +1 Appeal.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="it_IT">
+      <Text>Le unità ricevono +5 alla [ICON_Strength] Forza di combattimento sul loro continente d'origine. Gli Emissari inviati nelle città-stato con cui hai una [ICON_TradeRoute] Rotta commerciale contano come 2 [ICON_Envoy] Emissari. Ottieni l'unità esclusiva Rough Rider con la Rigatura delle Canne.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="it_IT">
+      <Text>Ammirano le molte zone del tuo impero che hanno un grande Appeal</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="it_IT">
+      <Text>Sono delusi perché il tuo impero non ha regioni con un grande Appeal</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="ja_JP">
+      <Text>テディ・ルーズベルト (ラフライダー)</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="ja_JP">
+      <Text>テディ・ルーズベルト (ブルムース)</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="ja_JP">
+      <Text>史跡と公園</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="ja_JP">
+      <Text>自然遺産か山岳に隣接していてアピールが「最高」のタイルの [ICON_SCIENCE] 科学力+2。遺産か森タイルに隣接していてアピール「最高」タイルの [ICON_CULTURE] 文化力+2。国立公園を築いた都市では、すべてのタイルのアピール+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="ja_JP">
+      <Text>自文明の首都が存在する大陸にいるユニットの [ICON_Strength] 戦闘力+5。 [ICON_TradeRoute] 交易路がつながっている都市国家に派遣した [ICON_Envoy] 代表団の数が2つとして扱われる。「ライフリング」技術により固有ユニット「ラフライダー」が解除される。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="ja_JP">
+      <Text>あなたの文明に魅力的な地域が多いことに感嘆している</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="ja_JP">
+      <Text>あなたの文明に魅力的な地域がないことに失望している</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="ko_KR">
+      <Text>테오도어 루즈벨트(의용 기병대)</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="ko_KR">
+      <Text>테오도어 루즈벨트(불 무스)</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="ko_KR">
+      <Text>사적지와 공원</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="ko_KR">
+      <Text>자연경관 또는 산맥 근처에 있는 놀라운 매력도 타일이 [ICON_SCIENCE] 과학 +2를 얻습니다. 불가사의 또는 숲 근처에 있는 놀라운 매력도 타일이 [ICON_CULTURE] 문화 +2를 얻습니다. 국립공원이 있는 도시의 모든 타일이 매력도 +1을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="ko_KR">
+      <Text>유닛이 고향 대륙에서 [ICON_Strength] 전투력 +5를 얻습니다. [ICON_TradeRoute] 교역로를 보유한 도시 국가에 보낸 한 명 사절이 두 명의 [ICON_Envoy] 사절로 계산됩니다. 강선 기술을 연구하면 특유 유닛인 의용 기병대가 잠금 해제됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="ko_KR">
+      <Text>당신의 제국에 높은 매력도 구역이 많아 감탄함</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="ko_KR">
+      <Text>당신의 제국에 높은 매력도 구역이 적어 실망함</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="pl_PL">
+      <Text>Teddy Roosevelt (Rough Rider)|Teddy’ego Roosevelta (Rough Ridera)|Teddy’emu Rooseveltowi (Rough Riderowi)|Teddy’ego Roosevelta (Rough Ridera)|Teddym Rooseveltem (Rough Rough Riderem)|Teddym Roosevelcie (Rough Riderze)|Teddy Roosevelt (Rough Rider)|Teddy’ego Roosevelta (Rough Ridera)|Teddy’emu Rooseveltowi (Rough Riderowi)|Teddy’ego Roosevelta (Rough Ridera)|Teddym Rooseveltem (Rough Rough Riderem)|Teddym Roosevelcie (Rough Riderze)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="pl_PL">
+      <Text>Teddy Roosevelt (Łoś)|Teddy’ego Roosevelta (Łosia)|Teddy’emu Rooseveltowi (Łosiowi)|Teddy’ego Roosevelta (Łosia)|Teddym Rooseveltem (Łosiem)|Teddym Roosevelcie (Łosiu)|Teddy Roosevelt (Łoś)|Teddy’ego Roosevelta (Łosia)|Teddy’emu Rooseveltowi (Łosiowi)|Teddy’ego Roosevelta (Łosia)|Teddym Rooseveltem (Łosiem)|Teddym Roosevelcie (Łosiu)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="pl_PL">
+      <Text>Parki i zabytki</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="pl_PL">
+      <Text>Pola o niesamowitym poziomie atrakcyjności sąsiadujące z cudem natury lub górą zyskują +2 do [ICON_SCIENCE] nauki. Pola o niesamowitym poziomie atrakcyjności sąsiadujące z cudem lub lasem zyskują +2 do [ICON_CULTURE] kultury. Wszystkie pola w mieście z parkiem narodowym zyskują +1 do atrakcyjności.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostki otrzymują +5 do [ICON_Strength] siły bojowej na ojczystym kontynencie. Emisariusze wysłani do miast-państw, z którymi łączą cię [ICON_TradeRoute] szlaki handlowe, liczą się podwójnie. Po odkryciu technologii gwintowania otrzymujesz unikalną jednostkę rough ridera.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="pl_PL">
+      <Text>Podziwiają dużą liczbę atrakcyjnych obszarów na terytorium twojego imperium.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="pl_PL">
+      <Text>Są rozczarowani brakiem atrakcyjnych obszarów na terytorium twojego imperium.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="ru_RU">
+      <Text>Теодор Рузвельт (Мужественный всадник)|Теодора Рузвельта (Мужественного всадника)|Теодору Рузвельту (Мужественному всаднику)|Теодора Рузвельта (мужественного всадника)|Теодором Рузвельтом (Мужественным всадником)|Теодоре Рузвельте (Мужественном всаднике)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="ru_RU">
+      <Text>Теодор Рузвельт (прогрессивист)|Теодора Рузвельта (прогрессивиста)|Теодору Рузвельту (прогрессивисту)|Теодора Рузвельта (прогрессивиста)|Теодором Рузвельтом (прогрессивистом)|Теодоре Рузвельте (прогрессивисте)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="ru_RU">
+      <Text>Предметы старины и парки</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="ru_RU">
+      <Text>Клетки с потрясающим престижем, находящиеся рядом с чудом природы или горой, получают +2 к [ICON_SCIENCE] науке. Клетки с потрясающим престижем, находящиеся рядом с чудом или лесом, получают +2 к [ICON_CULTURE] культуре. Все клетки в городе с национальным парком имеют +1 к престижу.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="ru_RU">
+      <Text>Юниты получают +5 к [ICON_Strength] боевой мощи на родном континенте. Послы в городах-государствах, с которыми у вас есть [ICON_TradeRoute] торговые пути, считаются за двух [ICON_Envoy] послов. Вы получаете уникального юнита «Мужественный всадник» с технологией «Нарезные стволы».</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="ru_RU">
+      <Text>Они восхищены обилием привлекательных регионов в вашей империи</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="ru_RU">
+      <Text>Они разочарованы нехваткой привлекательных регионов в вашей империи</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="zh_Hans_CN">
+      <Text>泰迪·罗斯福（莽骑兵）</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="zh_Hans_CN">
+      <Text>泰迪·罗斯福（进步党）</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="zh_Hans_CN">
+      <Text>古物与公园</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>与自然奇观或山脉相邻时，魅力值为“惊艳”的单元格+2 [ICON_SCIENCE] 科技值。与自然奇观或树林相邻时，魅力值为“惊艳”的单元格+2 [ICON_CULTURE] 文化值。如拥有国家公园，城市的所有单元格+1魅力。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在首都所在大陆上时单位+5 [ICON_Strength] 战斗力。如与城邦之间存在 [ICON_TradeRoute] 贸易路线，派往此处的1位 [ICON_Envoy] 使者将视为2位。解锁“膛线”科技后获得特色单位“莽骑兵”。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="zh_Hans_CN">
+      <Text>您的帝国中有很多高魅力地区，他们十分羡慕</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="zh_Hans_CN">
+      <Text>您的帝国中缺乏高魅力地区，他们非常失望</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="es_ES">
+      <Text>Teddy Roosevelt (Jinete duro)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="es_ES">
+      <Text>Teddy Roosevelt (Alce)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="es_ES">
+      <Text>Parques y antigüedades</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="es_ES">
+      <Text>Las casillas Impresionantes que estén adyacentes a una Maravilla natural o una Montaña reciben +2 a Ciencia [ICON_SCIENCE]. Las que lo estén a una Maravilla o un Bosque reciben +2 a Cultura [ICON_CULTURE]. Todas las casillas de una ciudad que tenga un Parque nacional tienen +1 a Atractivo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="es_ES">
+      <Text>Las unidades reciben +5 a Fuerza de combate [ICON_Strength] en su continente de origen. Los Enviados mandados a ciudades-estado con las que tengas una Ruta comercial [ICON_TradeRoute] cuentan como si fueran dos Enviados [ICON_Envoy]. Gana la unidad exclusiva Jinete duro con Rayado del ánima.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="es_ES">
+      <Text>Están impresionados por la cantidad de zonas atractivas de vuestro imperio.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="es_ES">
+      <Text>Están decepcionados por la falta de zonas atractivas de vuestro imperio.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="zh_Hant_HK">
+      <Text>西奧多‧羅斯福（莽騎兵）</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="zh_Hant_HK">
+      <Text>西奧多‧羅斯福（公麋黨員）</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="zh_Hant_HK">
+      <Text>古蹟與公園</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>鄰近自然奇觀或山脈的「極大魅力」單元格+2 [ICON_SCIENCE] 科技值。鄰近奇觀或樹林的「極大魅力」單元格+2 [ICON_CULTURE] 文化值。城市中若擁有「國家公園」，則所有單元格+1魅力。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>各單位在首都所在大陸作戰時+5 [ICON_Strength] 戰鬥力。若和某城邦之間有 [ICON_TradeRoute] 貿易路線，則派往該城邦的每名使者皆算做2名 [ICON_Envoy] 使者。研發完「膛線」科技時，獲得「莽騎兵」特色單位。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="zh_Hant_HK">
+      <Text>你的帝國裡有很多高魅力的地區，他們十分仰慕</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="zh_Hant_HK">
+      <Text>你的帝國裡缺少高魅力的地區，他們非常失望</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

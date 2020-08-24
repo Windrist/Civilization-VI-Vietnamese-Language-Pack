@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Bull Moose Teddy-->
+		<Replace Language='en_US' Tag="LOC_AGENDA_BULL_MOOSE_NAME">
+			<Text>The Bull Moose</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION">
+			<Text>Muốn giải quyết gần các ô hấp dẫn cao và xây dựng các quận và kỳ quan có sức hấp dẫn cao, đồng thời thích những người làm như vậy. Không thích bất kỳ ai bao trùm lãnh thổ kháng cáo thấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Tôi nghe nói bạn có một số vốn đi bộ đường dài ở đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Chúng ta được định nghĩa bởi cách chúng ta sống với môi trường xung quanh. Nhớ lấy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(Bạn có nhiều khu vực Kháng cáo cao trong đế chế của mình)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(Bạn không có đủ khu vực Kháng cáo cao trong đế chế của mình.)</Text>
+		</Replace>
+		<!-- Rough Rider Teddy -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Nếu tôi phải lựa chọn giữa công bình và hòa bình, tôi chọn chính nghĩa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Tôi muốn tránh điều này, bạn biết đấy, nhưng ý tưởng về hòa bình của bạn khiến tôi không còn lựa chọn nào khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Xin chúc mừng. Thay vì Hợp chủng quốc Hoa Kỳ, quốc gia của bạn sẽ tiến xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Tôi không thể nói không với điều đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Chúng tôi không quan tâm vào lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Bạn đã giành được sự tôn trọng của tôi. Chúng ta sẽ tuyên bố tình bạn của chúng ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Bạn có lời cảm ơn của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Điều đó thật tệ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Tôi chào mừng phái đoàn của bạn đến với Hợp chủng quốc Hoa Kỳ vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Chúng ta phải từ chối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Thật tốt khi được gặp bạn. Phái đoàn ngoại giao của tôi sẽ đến sớm với một số bánh táo mới nướng. Tôi chắc rằng bạn sẽ chào đón họ nồng nhiệt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Sao ngươi dám!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Tôi không thể tuân theo một người cai trị mà không có phẩm giá, và thế giới phải được biết đến. (Tố cáo bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Chào mừng đến với Hợp chủng quốc Hoa Kỳ. Nếu bạn tự xử tốt, bạn có thể coi chúng tôi là bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Chúng tôi có một thành phố gần đây. Bạn có muốn ghé thăm? Tôi có thể cho bạn xem những con gấu nhồi bông hiện đang rất phổ biến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Tôi không thể nói không với điều đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Tôi muốn trao đổi thông tin về thủ đô của chúng tôi; thúc đẩy thương mại tự do giữa các quốc gia của chúng ta, và tất cả những điều đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Vậy thì hãy tiếp tục.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Bạn đã giành được sự tôn trọng của tôi. Chúng ta sẽ thành lập một liên minh chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Quốc gia có nhiệm vụ bảo vệ quyền và lợi ích của chính mình. Công việc đó đã xong; chúng ta hãy ra đi trong hòa bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Bạn không thể nghiêm túc à!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Tôi bảo vệ lợi ích của quốc gia và bảo vệ quyền lợi của chúng tôi. Công việc đó đã xong. Bây giờ, chúng ta có thể sống trong hòa bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Chúng tôi rất vui được mở ra biên giới của chúng tôi cho các đơn vị của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Chúng tôi không quan tâm vào lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Bạn có cho phép các đơn vị của chúng tôi đi qua lãnh thổ của bạn không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Bạn hành quân đến gần biên giới của chúng tôi đến mức tôi bắt đầu nghi ngờ về tính toàn vẹn của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Cảm ơn vì đã giữ hòa bình trên lục địa. Bắt nạt bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY">
+			<Text>(Bạn đã giữ hòa bình trên lục địa quê hương của anh ấy)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Không có người đàn ông nào ở trên luật pháp. Bạn cần nhớ điều đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY">
+			<Text>(Bạn đã tấn công ai đó trên lục địa quê hương của anh ta.)</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

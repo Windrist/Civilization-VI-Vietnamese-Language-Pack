@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Names -->
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_CAVALRY_NAME">
+			<Text>Anti-Cavalry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HEAVY_CHARIOT_NAME">
+			<Text>Heavy Chariot</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_NAME">
+			<Text>Ignore Terrain Cost</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_NAME">
+			<Text>Ignore Crossing Rivers Cost</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_ZOC_NAME">
+			<Text>Ignore ZOC</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LIGHT_CHARIOT_NAME">
+			<Text>Light Chariot</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_NAME">
+			<Text>No Move and Shoot</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_OCEAN_NAME">
+			<Text>Coastal Only</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CANNOT_ATTACK">
+			<Text>Cannot Attack</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT">
+			<Text>Friendly Territory Bonus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_NAME">
+			<Text>Enables Wall Attack</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_WALLS_NAME">
+			<Text>Bypass Walls</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_SPEAR_NAME">
+			<Text>Anti-Spear</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GRANT_RANGE_BONUS_NAME">
+			<Text>Target Spotting</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_NAME">
+			<Text>Unobstructed View</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_NAME">
+			<Text>Oligarchy Melee</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_NAME">
+			<Text>Theocracy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_NAME">
+			<Text>Religious Orders</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_NAME">
+			<Text>Fascism Attack</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_NAME">
+			<Text>Communism Land Defense</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MEDIC_HEAL_NAME">
+			<Text>Medic Healing</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_STEALTH_NAME">
+			<Text>Stealth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SEE_HIDDEN_NAME">
+			<Text>Reveal Stealth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COASTAL_RAID_NAME">
+			<Text>Coastal Raid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME">
+			<Text>Thunderbolt Coastal Raid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_NAME">
+			<Text>Directed Attack</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_NAME">
+			<Text>Heal Neutral Territory</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_NAME">
+			<Text>Plunder Immunity at Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BERSERKER_RAGE_NAME">
+			<Text>Berserker Rage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BERSERKER_MOVEMENT_NAME">
+			<Text>Berserker Movement</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
+			<Text>Longship Movement</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
+			<Text>Prize Ships</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CAPTIVE_WORKERS_NAME">
+			<Text>Captive Workers</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BALKAN_CAVALRY_NAME">
+			<Text>Balkan Cavalry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALTITUDE_TRAINING_NAME">
+			<Text>Altitude Training</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COSSACK_NAME">
+			<Text>And Quiet Flows the Don</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_REDCOAT_NAME">
+			<Text>Global Army</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_VARU_NAME">
+			<Text>Fear</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NAGAO_NAME">
+			<Text>Forest Fighter</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CONQUISTADOR_NAME">
+			<Text>Forced Conversion</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GARDE_NAME">
+			<Text>Napoleon's Elite</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HOPLITE_NAME">
+			<Text>Phalanx</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UBOAT_NAME">
+			<Text>Wolfsrudel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROUGH_RIDER_NAME">
+			<Text>Teddy's Rough Rider</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MUSTANG_NAME">
+			<Text>Mustang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MAMLUK_NAME">
+			<Text>Furusiyya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SAMURAI_NAME">
+			<Text>Samurai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_NAME">
+			<Text>Domestic Spread</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Enter Foreign Lands</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_NAME">
+			<Text>Peacekeeper</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME">
+			<Text>Friendly Territory Advantage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Ignores Borders</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_NAME">
+			<Text>Walk on Air</Text>
+		</Replace>
+		<!-- Full description -->
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_CAVALRY_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength against Light and Heavy cavalry units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_SPEAR_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength against anti-cavalry units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement if starting in Desert, Plains, Grassland, or Tundra.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_DESCRIPTION">
+			<Text>Forest, Jungle, Hills, and Marsh only take one [ICON_Movement] Movement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_ZOC_DESCRIPTION">
+			<Text>Not affected by enemy zone of control.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Movement if starting in Desert, Plains, Grassland, or Tundra.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_DESCRIPTION">
+			<Text>Cannot move and attack in the same turn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_OCEAN_DESCRIPTION">
+			<Text>Cannot enter ocean hexes.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CANNOT_ATTACK_DESCRIPTION">
+			<Text>May not attack enemies; can only defend.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_DESCRIPTION">
+			<Text>Combat bonus in friendly territory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_DESCRIPTION">
+			<Text>When adjacent to an enemy city, melee units do full damage to the city's Walls.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_WALLS_DESCRIPTION">
+			<Text>When adjacent to an enemy city, friendly melee units can bypass the city walls and attack the city directly.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANIT_SPEAR_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength vs. Spearmen and Pikemen.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GRANT_RANGE_BONUS_DESCRIPTION">
+			<Text>+1 [ICON_Range] Range to nearby ranged siege units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_DESCRIPTION">
+			<Text>Sight range unobstructed by terrain.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_OBSERVATION_STRENGTH_BONUS_DESCRIPTION">
+			<Text>Grants +1 [ICON_Range] Range to Siege class units within 1 hex.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Combat Strength from the Oligarchy government.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_DESCRIPTION">
+			<Text>+5 [ICON_Religion] Religious Strength from the Theocracy government.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_DESCRIPTION">
+			<Text>+5 [ICON_Religion] Religious Strength from the Religious Orders policy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength when attacking from the Fascism government.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_DESCRIPTION">
+			<Text>+6 [ICON_Strength] Combat Strength when defending from the Communism government.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MEDIC_HEAL_DESCRIPTION">
+			<Text>+20 HP healing for the player's units within 1 tile.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_STEALTH_DESCRIPTION">
+			<Text>Remains hidden from units more than 1 hex away.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SEE_HIDDEN_DESCRIPTION">
+			<Text>Reveal stealth units on the map within sight range.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COASTAL_RAID_DESCRIPTION">
+			<Text>Can pillage buildings and improvements and capture civilian units on coastal lands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME_DESCRIPTION">
+			<Text>Can pillage buildings and improvements and capture civilian units on coastal lands. (Hardrada)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_DESCRIPTION">
+			<Text>Attack support units directly even if they are in a formation with a combat unit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_DESCRIPTION">
+			<Text>Can heal in neutral territory. (Knarr)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_DESCRIPTION">
+			<Text>While on a water tile, its [ICON_TradeRoute] Trade Route cannot be plundered by enemy units. Obtained when Suzerain of Lisbon city-state.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength]Combat Strength when attacking.[NEWLINE][ICON_Bullet]-5 [ICON_Strength] Combat Strength when defending.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Movement if this unit starts in enemy territory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement while in coastal waters.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
+			<Text>Can capture defeated enemy naval vessels.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CAPTIVE_WORKERS_DESCRIPTION">
+			<Text>Can capture defeated enemy civilization combat units and convert them to Builders.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BALKAN_CAVALRY_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength to heavy and light cavalry on Hills when Suzerain of Preslav city-state.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALTITUDE_TRAINING_DESCRIPTION">
+			<Text>Missionaries, Inquisitors, and Apostles can move over Hills faster after moving adjacent to the Mount Everest natural wonder.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COSSACK_DESCRIPTION">
+			<Text>Can move after attacking.[NEWLINE][ICON_Bullet]+5 [ICON_Strength] Combat Strength in or adjacent to your territory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_REDCOAT_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when fighting on a continent other than that of your [ICON_Capital] Capital's.[NEWLINE][ICON_Bullet]No [ICON_Movement] Movement cost to disembark</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_VARU_DESCRIPTION">
+			<Text>-5 [ICON_Strength] Combat Strength to adjacent enemy units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NAGAO_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when defending against ranged units.[NEWLINE][ICON_Bullet]Can see through features[NEWLINE][ICON_Bullet]Can move through Woods and Rainforest without [ICON_Movement] Movement penalty.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when there is a religious unit in the same hex.[NEWLINE][ICON_Bullet]If this unit captures a city or is adjacent to a city when it's captured, the city will automatically convert to the Conquistador player's majority Religion.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GARDE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when on the same continent as the [ICON_Capital] Capital.[NEWLINE][ICON_Bullet]+10 [ICON_GreatGeneral] Great General points for kills.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HOPLITE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength if there is at least one Hoplite adjacent.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UBOAT_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength in Ocean combat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION">
+			<Text>When defeating an enemy unit on your [ICON_Capital] Capital's continent, gain [ICON_Culture] Culture equal to 50% that unit's base [ICON_Strength] Combat Strength[NEWLINE][ICON_Bullet]+10 [ICON_Strength] Combat Strength when fighting on Hills.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MUSTANG_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength bonus vs. Fighters[NEWLINE][ICON_Bullet]+50% experience from combat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MAMLUK_DESCRIPTION">
+			<Text>This unit heals every turn, even after moving or combat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SAMURAI_DESCRIPTION">
+			<Text>This unit does not suffer combat penalties when damaged.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BARRACKS_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Earned experience from Barracks</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_STABLE_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Earned experience from Stable</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ARMORY_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Earned experience from Armory</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MILITARY_ACADEMY_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Earned experience from Military Academy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LIGHTHOUSE_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Earned experience from Lighthouse</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SHIPYARD_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Earned experience from Shipyard</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SEAPORT_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Earned experience from Seaport</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HANGAR_TRAINED_AIRCRAFT_XP_DESCRIPTION">
+			<Text>+25% Earned experience from Hangar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_AIRPORT_TRAINED_AIRCRAFT_XP_DESCRIPTION">
+			<Text>+50% Earned experience from Airport</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROYAL_NAVY_DOCKYARD_MOVEMENT_BONUS_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement from Royal Navy Dockyard.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROMAN_LEGION_BUILD_DESCRIPTION">
+			<Text>Can build the Roman Fort unique improvement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GREAT_LIGHTHOUSE_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement from Great Lighthouse.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GREAT_LIGHTHOUSE_EMBARKED_MOVEMENT_DESCRIPTION">
+			<Text>+1 Embarked [ICON_Movement] Movement from Great Lighthouse.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RANGED_ATTACK_DISTRICT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Ranged][ENDCOLOR]Ranged Strength vs. Districts and Naval units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BOMBARD_ATTACK_UNIT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Bombard][ENDCOLOR]Bombard Strength vs. units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_AIR_FIGHTER_ATTACK_DISTRICT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Ranged][ENDCOLOR]Ranged Strength vs. Districts.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_AIR_BOMBER_ATTACK_UNIT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Bombard][ENDCOLOR]Bombard Strength vs. units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_AIR_COVER_DESCRIPTION">
+			<Text>Provides defense from air attacks up to 1 hex away.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PREVIEW_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength from Luxuries. (Montezuma)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_PHILIP_II_COMBAT_BONUS_OTHER_RELIGION_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Combat Strength vs. units of an other religion. (Philip II)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BARBAROSSA_COMBAT_BONUS_VS_CITY_STATES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength vs. City-States. (Barbarossa)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROOSEVELT_COMBAT_BONUS_HOME_CONTINENT_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength on home continent. (Roosevelt)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TOMYRIS_BONUS_VS_WOUNDED_UNITS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength vs. wounded units. (Tomyris)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TOMYRIS_HEAL_AFTER_DEFEATING_UNIT_DESCRIPTION">
+			<Text>+30 [ICON_Damaged] Health after defeating an enemy unit. (Tomyris)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_KNARR_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION">
+			<Text>Ignores additional movement cost from embarking and disembarking. (Knarr)</Text>
+		</Replace>
+		<!--Great People Assigned-->
+		<Replace Language='en_US' Tag="LOC_ABILITY_RAJENDRA_CHOLA_PLUNDER_BONUS_DESCRIPTION">
+			<Text>+40% Rewards for plundering trade routes. (Rajendra Chola)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRANCIS_DRAKE_PLUNDER_BONUS_DESCRIPTION">
+			<Text>+50% Rewards for plundering trade routes. (Francis Drake)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CHING_SHIH_PLUNDER_BONUS_DESCRIPTION">
+			<Text>+60% Rewards for plundering trade routes. (Ching Shih)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CLANCY_FERNANDO_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+200% Earned experience from combat. (Clancy Fernando)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HORATIO_NELSON_FLANKING_BONUS_DESCRIPTION">
+			<Text>+50% Flanking bonus. (Horatio Nelson)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LASKARINA_BOUBOULINA_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+50% Earned experience from combat. (Laskarina Bouboulina)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SERGEY_GORSHKOV_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+100% Earned experience from combat (Sergey Gorshkov)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GEORGY_ZHUKOV_FLANKING_BONUS_DESCRIPTION">
+			<Text>+50% Flanking bonus. (Georgy Zhukov)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_JOHN_MONASH_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+75 Earned experience from combat. (John Monash)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_VIJAYA_WIMALARATNE_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+100 Earned experience from combat. (Vijaya Wimalaratne)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HOJO_TOKIMUNE_COASTAL_COMBAT_BONUS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on coastal land. (Hojo Tokimune)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HOJO_TOKIMUNE_SHALLOW_WATER_COMBAT_BONUS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting in shallow water. (Hojo Tokimune)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION">
+			<Text>+1 [ICON_Strength] Combat Strength for each unique luxury owned.</Text>
+		</Replace>
+		<!-- Combat preview description -->
+		<Replace Language='en_US' Tag="LOC_COMBAT_DIFFICULTY_SCALING">
+			<Text>+{Amount} [ICON_Strength] Combat Strength bonus due to difficulty.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength against cavalry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_FIGHTER_AIRCRAFT_MODIFIER_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength against fighter aircraft</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HEAVY_CHARIOT_MODIFIER_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement when starting in open terrain.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_MODIFIER_DESCRIPTION">
+			<Text>All terrain costs 1 [ICON_Movement] Movement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_ZOC_MODIFIER_DESCRIPTION">
+			<Text>Not affected by ZOC.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LIGHT_CHARIOT_MODIFIER_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Movement when starting in open terrain.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_MODIFIER_DESCRIPTION">
+			<Text>Cannot move then attack.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_OCEAN_MODIFIER_DESCRIPTION">
+			<Text>Cannot enter ocean hexes.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CANNOT_ATTACK_MODIFIER_DESCRIPTION">
+			<Text>Prevents the unit from attacking.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Bonus to [ICON_Strength] Combat Strength in friendly territory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_MODIFIER_DESCRIPTION">
+			<Text>Allows melee units to attack walls.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_WALLS_MODIFIER_DESCRIPTION">
+			<Text>Allows melee units to bypass walls.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANIT_SPEAR_MODIFIER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength vs. anti-cavalry units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GRANT_RANGE_BONUS_MODIFIER_DESCRIPTION">
+			<Text>+1 [ICON_Ranged] Attack Range to nearby siege artillery.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_MODIFIER_DESCRIPTION">
+			<Text>Unobstructed Sight</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Combat Strength from Oligarchy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength from Theocracy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength from Religious Orders</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 Attack [ICON_Strength] Combat Strength from Fascism</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 Defense [ICON_Strength] Combat Strength from Communism</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_OTHER_RELIGION_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Combat Strength vs. civilizations following another Religion.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_WARS_OF_RELIGION">
+			<Text>Wars of Religion: +4 [ICON_Strength] Combat Strength vs. civilizations following another Religion.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_HOME_CONTINENT_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength on home continent.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_VS_CITY_STATES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength vs. City-States.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_LAND_ON_COAST_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength on coastal land</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_SHALLOW_WATER_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength in shallow waters</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MEDIC_HEAL_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} HP healing for units within 1 tile</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_STRONG_WHEN_ATTACKING_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength when attacking</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_WEAK_WHEN_DEFENDING_DESCRIPTION">
+			<Text>{1_Amount} [ICON_Strength] Combat Strength when defending</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_PRIZE_SHIPS_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount}% chance of capturing enemy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CAPTIVE_WORKERS_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount}% chance of capturing enemy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BALKAN_CAVALRY_COMBAT_HILLS_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength when fighting in Hills</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COSSACK_LOCAL_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength when in your territory or adjacent to your territory</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_REDCOAT_FOREIGN_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength when fighting on a continent other than that of your capital's</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_VARU_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount} [ICON_Strength] Combat Strength when adjacent to an enemy Varu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NAGAO_RANGED_DEFENSE_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength when defending Ranged</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength when there is a religious unit in the same hex</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GARDE_CONTINENT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength on the same continent as your capital</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HOPLITE_NEIGHBOR_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength when next to another Hoplite</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UBOAT_OCEAN_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength on Ocean Terrain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROUGH_RIDER_BONUS_IN_HILLS_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength on Hill terrain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_DESCRIPTION">
+			<Text>Can only spread their Religion to cities within their empire.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_DESCRIPTION">
+			<Text>Cannot initiate Theological Combat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_DESCRIPTION">
+			<Text>Significant advantage to Theological Combat in their empire.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Even without Open Borders, this unit can enter foreign territory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_DESCRIPTION">
+			<Text>Forest, Jungle, Hills, and Marsh only take one [ICON_Movement] Movement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_DESCRIPTION">
+			<Text>Ignore movement cost for river crossing.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Even without Open Borders, this unit can enter foreign territory.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_CHOICE_DECLARE_WAR">
+            <Text>[SIZE_16] Tuyên bố chiến tranh[NEWLINE][SIZE_12]</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_WAR_NAME">
+            <Text>Tuyên bố chiến tranh</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_WAR_DESCRIPTION">
+            <Text>Dùng để bắt đầu chiến tranh ngay lập tức.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "DIPLOACTION_KEEP_DONT_ATTACK_CITY_STATE">
+            <Text>Hứa sẽ không tấn công các bang thành phố</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "DIPLOACTION_KEEP_DONT_ATTACK_ALLY">
+            <Text>Hứa sẽ không tấn công đồng minh của tôi</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_CHOICE_GENERATES_GRIEVANCES_INFO">
+            <Text>Tạo ra [COLOR_Civ6DarkRed] {1_WarmongerLevel} [ENDCOLOR] [ICON_STAT_GRIEVANCE] Khiếu nại</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_CHOICE_GENERATES_GRIEVANCES_INFO_SUZERAIN">
+            <Text>Tạo ra [COLOR_Civ6DarkRed] {1_WarmongerLevel} [ENDCOLOR] [ICON_STAT_GRIEVANCE] Khiếu nại (Suzerain)</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLO_CHOICE_GENERATES_GRIEVANCES_INFO_ENVOYS_PRESENT">
+            <Text>Tạo [COLOR_Civ6DarkRed] {1_WarmongerLevel} [ENDCOLOR] [ICON_STAT_GRIEVANCE] Khiếu nại (Phái viên có mặt)</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_WORLD_CONGRESS_TAB_TOOLTIP">
+            <Text>Xem [ICON_STAT_GRIEVANCE] Nhật ký khiếu kiện.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_INTEL_REPORT_GRIEVANCES">
+            <Text>Báo cáo của Intel: Nhật ký Khiếu kiện</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_GRIEVANCE_LOG_COMING_SOON">
+            <Text>Nhật ký khiếu kiện, sắp có ...</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_INTEL_GRIEVANCES">
+            <Text>Phàn nàn</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_INTEL_AMOUNT">
+            <Text>Số lượng</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_INTEL_TURN">
+            <Text>Rẽ</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_INTEL_REASON">
+            <Text>Lý do</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_INTEL_NO_GRIEVANCES">
+            <Text>Không có lịch sử [ICON_STAT_GRIEVANCE] bất bình với nhà lãnh đạo này.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
+            <Text>Dùng để bắt đầu chiến tranh ngay lập tức. [ICON_STAT_GRIEVANCE] Khiếu nại tăng lên 50% so với bình thường.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
+            <Text>Được sử dụng để tuyên chiến với một thế lực đã chuyển đổi một trong những thành phố của bạn về mặt tôn giáo. Một nửa số [ICON_STAT_GRIEVANCE] thông thường được tạo ra.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
+            <Text>Được sử dụng để tuyên chiến với một thế lực đã chiếm thành phố từ một trong những người bạn hoặc đồng minh của bạn. Không có [ICON_STAT_GRIEVANCE] Khiếu nại về việc giải phóng bất kỳ thành phố nào trong số đó.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
+            <Text>Dùng để tuyên chiến với một thế lực đã chiếm được một trong các thành phố của bạn. Không có [ICON_STAT_GRIEVANCE] phát sinh khiếu nại.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
+            <Text>Được sử dụng để tuyên chiến với một thế lực đã tấn công một trong các thành phố đồng minh của bạn. Không có [ICON_STAT_GRIEVANCE] Khiếu nại về việc giải phóng thành phố đó.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
+            <Text>Dùng để tuyên chiến với một thế lực đi sau hai thời đại công nghệ. Một nửa số [ICON_STAT_GRIEVANCE] thông thường được tạo ra.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
+            <Text>Được sử dụng để tuyên chiến với một thế lực nằm trong biên giới đế chế của bạn. Phải có 2 thành phố của bạn trong vòng 10 ô của 2 thành phố của đối thủ. Giảm 25% trong [ICON_STAT_GRIEVANCE] Khiếu nại đã phát sinh.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_DESCRIPTION">
+            <Text>Được sử dụng để tuyên chiến với người chơi khi bạn đang ở trong Thời kỳ Hoàng kim bằng "To Arms!" Sự tận tâm. Có thể sử dụng ngay sau khi Tố cáo một nền văn minh, không cần chờ đến lượt bình thường. Không có giới hạn về thành phố bạn có thể chụp. Giảm 75% [ICON_STAT_GRIEVANCE] Khiếu nại.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION_DESCRIPTION">
+            <Text>Dùng để tuyên chiến với một người chơi đã thất hứa với bạn trong vòng 30 lượt qua. Không có giới hạn về thành phố bạn có thể chụp. Một nửa số [ICON_STAT_GRIEVANCE] thông thường được tạo ra.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DIPLOACTION_DECLARE_IDEOLOGICAL_WAR_DESCRIPTION">
+            <Text>Dùng để tuyên chiến với người chơi ở chính phủ Cấp 3 khác. Không có giới hạn về thành phố bạn có thể chụp. Một nửa số [ICON_STAT_GRIEVANCE] thông thường được tạo ra.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DEAL_PLAYER_HAS_NO_CAP_ROOM">
+            <Text>Bạn đã có số lượng tối đa của mặt hàng này.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag = "LOC_DEAL_AI_HAS_NO_CAP_ROOM">
+            <Text>Họ đã có số lượng tối đa của mặt hàng này.</Text>
+        </Replace>
+	</BaseGameText>
+</GameData>

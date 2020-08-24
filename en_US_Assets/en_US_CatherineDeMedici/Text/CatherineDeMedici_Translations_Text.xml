@@ -1,0 +1,1316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_NAME" Language="pt_BR">
+      <Text>Festival da Corte|Festivais da Corte</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME" Language="pt_BR">
+      <Text>Festival da Corte|Festivais da Corte</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY" Language="pt_BR">
+      <Text>Catarina da Magnificência aumenta seu programa normal de construção de Maravilhas e Châteaux com luxuosos Festivais da Corte que rapidamente levam a França a uma Vitória Cultural, principalmente quando ela já conseguiu acumular uma vasta coleção de luxos.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY" Language="pt_BR">
+      <Text>Catarina da Magnificência é a líder que deseja reunir uma grande coleção de recursos de luxo de todos os tipos e quantidades. Ter uma coleção suntuosa de itens opulentos torna seus Festivais da Corte em eventos culturais que todos os líderes desejam ver e ser vistos. Com festivais suficientes e uma grande coleção de Châteaux e maravilhas no meio do jogo, a França será a candidata mais forte para uma vitória cultural sempre que aparecer essa versão benevolente de Catarina. Ela é tão perigosa nesse quesito que talvez você precise enfrentar uma guerra contra a Garde Impériale francesa para evitar que ela conquiste uma rápida vitória.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE" Language="pt_BR">
+      <Text>Catarina de Médici (Rainha Negra)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE" Language="pt_BR">
+      <Text>Nossa cultura possui uma certa alegria de viver. É inútil resistir ao seu charme.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION" Language="pt_BR">
+      <Text>Quando concluído, este projeto concede 50 de [ICON_CULTURE] cultura e 50 de [ICON_TOURISM] turismo (na velocidade padrão) com base no número de cópias excedentes de Recursos de Luxo que a França possui.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME" Language="pt_BR">
+      <Text>Ornamentos Suntuosos</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION" Language="pt_BR">
+      <Text>Gosta de civilizações que negociam recursos de luxo com ela. Não gosta de civilizações que não fizeram essa negociação. Tenta coletar o maior número possível de cópias de recursos de luxo.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Perdão, mas seria uma mudança repentina demais. Talvez outra hora?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Agradeço.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Que pena!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Aceito sua oferta de amizade. E, claro, você estará na lista de convidados para o próximo casamento real.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Eu estendo a você a mão real pela amizade. Você vai aceitá-la?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Fingir a amizade foi meio divertido, não foi? Infelizmente, é hora de deixar o fingimento de lado e ir direto ao que realmente está em questão.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Você se atreve a atacar meu reino soberano? Acredito que nem Nostradamus poderia ter previsto isso!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Eu vivi tempo o bastante para saber quando perdi. Prossiga.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Tentador, mas não.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Eu enviei uma delegação comercial com todos os presentes costumeiros: ervas, azeitonas, vários queijos e baguetes para comer com eles, é claro.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Recebemos sua delegação no palácio. Obrigada. Os presentes serão um tesouro para nós.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Não gosto do que vejo em suas atividades. O que seus amigos pensariam com essa informação? (Denuncia você)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>A glória e a força da França não serão maculadas por mentiras tão óbvias.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Você não viveu até provar as iguarias das nossas comidas e bebidas. E eu posso mostrar como se usa um garfo, se desejar.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Sem dúvida. Será um prazer ver o desenvolvimento da sua cidade de perto.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Eu sou enamorada pela arquitetura. Diga-me, sua capital tem algum arco triunfal ou grandes torres de metal?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Eu sou Catarina, rainha-mãe da França, e dou a você as boas-vindas ao meu reino. Eu anseio por aprender tudo que há de se saber sobre você.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Um prazer, como sempre.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Gostaria de formar uma aliança?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Não quero ser lembrada por travar guerras. Vamos deixar de lado nossas diferenças.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Absolutamente não.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Eu imploro pelo bem dos nossos entes queridos, que haja paz entre nós.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Infelizmente, não posso aceitar. Em nome da segurança, é claro.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Meu exército gostaria de permissão para passar por suas terras. Pacificamente, claro.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Ah, muito bem. Você pode prosseguir.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Pretende nos intimidar com força? Isso não vai mesmo acabar bem para você.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE" Language="pt_BR">
+      <Text>Catarina está contente por você negociar recursos de luxo com ela.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE" Language="pt_BR">
+      <Text>Catarina está irritada por você acumular recursos de luxo que ela gostaria de possuir.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Todos os meus amantes estão simplesmente matando uns aos outros para conseguir alguns de seus itens. Que divertido!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pt_BR">
+      <Text>Como o meu Esquadrão Aéreo pode criticar os seus supostos luxos se você não me envia nenhum?</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_NAME" Language="fr_FR">
+      <Text>Fête de la cour</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME" Language="fr_FR">
+      <Text>Fête de la cour</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY" Language="fr_FR">
+      <Text>Catherine la Magnifique renforce son programme habituel de construction de castels et de merveilles avec de luxueuses fêtes à la cour, qui font rapidement progresser la France vers une victoire culturelle, surtout si elle réussit à amasser une vaste collection de ressources de luxe.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY" Language="fr_FR">
+      <Text>Catherine la Magnifique cherche à accumuler une vaste collection de ressources de luxe, de tous types et en toutes quantités. Plus sa collection est somptueuse, plus les autres dirigeants du monde voudront être vus à ses fêtes. En multipliant ces événements à la cour, ainsi que les castels et merveilles de milieu de partie, la France devrait pouvoir prendre la tête de la course à la victoire culturelle à chaque apparition de cette version bienveillante de Catherine. Mais attention, elle est aussi suffisamment dangereuse pour vous pousser à combattre sa Garde impériale et ainsi peut-être éviter une victoire trop rapide !</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE" Language="fr_FR">
+      <Text>Catherine de Médicis (reine noire)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE" Language="fr_FR">
+      <Text>Notre culture possède une certaine joie de vivre. Inutile de résister à son charme.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION" Language="fr_FR">
+      <Text>Une fois terminé, ce projet rapporte 50 points de [ICON_CULTURE] et de [ICON_TOURISM] tourisme (en vitesse normale) en fonction du nombre de copies en surplus que la France possède de ses ressources de luxe.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME" Language="fr_FR">
+      <Text>Atours splendides</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION" Language="fr_FR">
+      <Text>Apprécie les civilisations qui échangent des ressources de luxe avec elle. N'apprécie pas les civilisations qui ne le font pas. Cherche à accumuler le plus d'exemplaires possibles de ses ressources de luxe.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Je regrette, mais ce changement serait trop soudain. Une autre fois, peut-être ?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Merci.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Oh, quel dommage !</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>J'accepte votre offre d'amitié. Nous ne manquerons pas de vous inviter au prochain mariage royal.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Je vous tends ma main royale en signe d'amitié. L'acceptez-vous ?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Cette petite mascarade amicale vous a plu ? Hélas pour vous, il est temps de cesser ces simulacres et de passer aux choses sérieuses.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Vous osez attaquer mon royaume ? Je ne crois point que Nostradamus lui-même aurait su le prédire !</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>J'ai vécu assez longtemps pour savoir reconnaître ma défaite. Poursuivez votre chemin.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>C'est tentant, mais non.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Je vous ai envoyé une délégation commerciale avec les présents habituels : herbes, olives, divers fromages, ainsi que des baguettes pour mieux les apprécier, bien sûr.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Nous avons reçu votre délégation au palais. Merci pour vos précieux cadeaux.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Je n'aime pas du tout ce que vous mijotez. Que penseront vos amis de ça ? (Dénonciation)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>La gloire et la puissance de la France ne seront pas ternies pas ces odieux mensonges.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>On ne peut pas vivre sans avoir goûté à notre gastronomie et à nos grands vins. Je peux aussi vous apprendre à vous servir d'une fourchette, si vous le désirez.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Absolument. Ce sera un plaisir de voir de près votre florissante cité.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Je suis passionnée d'architecture. Dites-moi, y a-t-il des arcs de triomphe ou de grandes tours de métal dans votre capitale ?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Je suis Catherine, reine-mère de France. Je vous souhaite la bienvenue en mon royaume. J'ai grand désir, et envie, de découvrir tous vos secrets.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>C'est un plaisir, comme toujours.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Aimeriez-vous former une alliance ?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Je ne veux pas laisser l'image d'une foudre de guerre. Oublions nos différences.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Hors de question.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Je vous en supplie, faisons la paix, pour le salut de nos sujets bien-aimés.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Hélas, je ne peux tout simplement pas le permettre. Par sécurité, bien sûr...</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Mes soldats vous demandent la permission de traverser vos terres. Dans un esprit de paix, bien sûr...</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Fort bien. Vous pouvez passer.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Vous espérez nous intimider par la force ? Ça va très mal se passer pour vous.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE" Language="fr_FR">
+      <Text>Catherine se réjouit que vous échangiez des ressources de luxe avec elle.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE" Language="fr_FR">
+      <Text>Catherine n'apprécie pas que vous collectionniez les ressources de luxe.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Tous mes amants s'entretueraient presque pour vos précieux cadeaux. Comme c'est amusant !</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="fr_FR">
+      <Text>Comment mon Escadron volant pourrait-il critiquer vos supposés ressources de luxe si vous ne m'en faites pas parvenir ?</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_NAME" Language="de_DE">
+      <Text>Hoffest|Hoffest|Hoffest|Hoffests|Hoffest</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME" Language="de_DE">
+      <Text>Hoffest|Hoffest|Hoffest|Hoffests|Hoffest</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY" Language="de_DE">
+      <Text>Erhabenheit-Katharina bereichert ihr normales Bauprogramm von Wundern und Chateaus mit verschwenderischen Hoffesten, die Frankreich schnell dem Kultursieg entgegenbringen, besonders wenn sie es schafft, Luxusgüter anzusammeln.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY" Language="de_DE">
+      <Text>Erhabenheit-Katharina ist das einzige Staatsoberhaupt, das eine große Sammlung von Luxusgütern aller Arten und Mengen anhäufen will. Ihre zahlreichen opulenten Besitztümer machen ihre Hoffeste zu den kulturellen Ereignissen, auf denen alle Anführer gesehen werden möchten. Bei einer ausreichenden Zahl dieser Feste und einer großen Sammlung von Chateaus und Wundern in der Mitte des Spiels kann Frankreich der Favorit für einen Kultursieg sein, wenn die verschwenderische Version von Katharina am Ruder ist. Sie ist sogar so gefährlich, dass Ihr vielleicht sogar gegen die französische imperiale Garde in den Krieg ziehen müsst, um Katharina von einem schnellen Sieg abzuhalten.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE" Language="de_DE">
+      <Text>Katharina von Medici (Schwarze Königin)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE" Language="de_DE">
+      <Text>Unserer Kultur wohnt eine gewisse Lebensfreude inne. Es ist zwecklos, sich ihrem Charme widersetzen zu wollen.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION" Language="de_DE">
+      <Text>Bei Abschluss gewährt dieses Projekt 50 [ICON_CULTURE] Kultur und 50 [ICON_TOURISM] Tourismus (auf Standardgeschwindigkeit) basierend auf der Zahl überschüssiger Luxusgüter in Besitz Frankreichs.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME" Language="de_DE">
+      <Text>Opulente Pracht</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION" Language="de_DE">
+      <Text>Mag Zivilisationen, von denen sie Luxusgüter erwerben kann. Hat keine Sympathien für Zivilisationen, die keinen solchen Handel betreiben. Versucht, so viele Luxusgüter wie nur möglich zu sammeln.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Es tut mir leid, aber das wäre ein zu plötzlicher Wandel. Vielleicht ein andermal?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Danke.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Wie bedauernswert!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ich nehme Eure Freundschaft an. Und selbstverständlich werdet Ihr zur nächsten königlichen Hochzeit eingeladen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ich reiche Euch die königliche Hand in Freundschaft. Werdet Ihr sie ergreifen?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Freundschaft vorzuspielen war amüsant, nicht wahr? Leider ist es jetzt an der Zeit, die Masken fallen zu lassen und zum Geschäftlichen zu kommen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ihr wagt es, mein souveränes Reich anzugreifen? Das hätte nicht einmal Nostradamus vorhersehen können!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ich bin alt genug, um zu wissen, wann ich verloren habe. Fahrt fort.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Verlockend, aber nein.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ich habe Euch eine Handelsdelegation gesandt mit den traditionellen Geschenken: Kräutern, Oliven, verschiedene Käsesorten und natürlich Baguettes, um sie damit zusammen zu essen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Wir haben Eure Delegation im Palast empfangen. Danke. Die Geschenke werden in Ehren gehalten.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ich sehe ungern, was Ihr tut. Was würden Eure Freunde von dieser Information halten? (Denunziert Euch)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ruhm und Macht Frankreichs werden durch solch offensichtliche Lügen nicht befleckt.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ihr habt nicht gelebt, solange Ihr nicht von unseren Delikatessen gekostet habt. Und solange ich Euch nicht beigebracht habe, mit einer Gabel zu essen. Seid mein Gast.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Wie Ihr wünscht. Es wird mir eine Freude sein, Eure wachsende Stadt mit eigenen Augen zu sehen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ich liebe Architektur. Sagt mir, gibt es in Eurer Hauptstadt Triumphbögen oder große Metalltürme?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ich bin Katharina, Königinmutter von Frankreich, und ich heiße Euch im Reich willkommen. Ich freue mich darauf, alles über Euch zu erfahren.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ein Vergnügen, wie immer.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Möchtet Ihr ein Bündnis eingehen?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ich möchte nicht als Kriegstreiber in die Geschichte eingehen. Lasst uns unsere Differenzen beiseitelegen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Auf gar keinen Fall.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Ich bitte Euch im Namen aller, die Euch lieb und teuer sind, lasst uns Frieden schließen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Leider kann ich das schlicht nicht zulassen. Zur Sicherheit, natürlich.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Mein Militär bittet um Erlaubnis zur Durchquerung Eures Landes. Friedlich, natürlich.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Oh, bitte fahrt fort.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Meint Ihr, Ihr könnt uns mit Stärke einschüchtern? Das wird nicht gut für Euch ausgehen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE" Language="de_DE">
+      <Text>Katharina ist erfreut, dass Ihr Luxusgüter für sie bereitstellt.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE" Language="de_DE">
+      <Text>Katharina ist empört, dass Ihr Luxusgüter hortet, die sie für sich will.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>All meine Liebhaber wollen sich gegenseitig an die Kehle, um etwas von Euren Gütern abzubekommen. Was für ein Spaß!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="de_DE">
+      <Text>Wie sollen meine Hofdamen Eure angeblichen Luxusgüter begutachten, wenn Ihr keine schickt?</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_NAME" Language="it_IT">
+      <Text>Festa di corte</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME" Language="it_IT">
+      <Text>Festa di corte</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY" Language="it_IT">
+      <Text>Caterina la Magnifica rafforza il suo consueto programma di costruzione di Meraviglie e Château con ricchissime Feste di corte che possono spingere rapidamente la Francia verso una Vittoria culturale, soprattutto quando riesce a mettere le mani su una vasta collezione di risorse di lusso.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY" Language="it_IT">
+      <Text>Caterina la Magnifica vuole accumulare una grande quantità e varietà di risorse di lusso di ogni tipo. Possedere una sontuosa collezione di beni sfarzosi fa delle sue Feste di corte degli eventi culturali a cui tutti i leader del mondo vogliono partecipare. Con un numero sufficiente di Feste e un'adeguata collezione di Châteaux e Meraviglie, a partire da metà partita la Francia dovrebbe essere la prima candidata a una Vittoria culturale ogni volta che questa versione benevola di Caterina fa la sua apparizione. Caterina la Magnifica è così brava in questo che potresti ritrovarti a combattere una guerra contro la Garde Impériale francese solo per evitare che si accaparri una rapida vittoria.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE" Language="it_IT">
+      <Text>Caterina de' Medici (Regina nera)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE" Language="it_IT">
+      <Text>La nostra cultura esprime una certa "joie de vivre". È impossibile resistere al suo fascino.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION" Language="it_IT">
+      <Text>Una volta completato, questo progetto fornisce 50 [ICON_CULTURE] Cultura e 50 [ICON_TOURISM] Turismo (a velocità standard) in base al numero di copie extra di risorse di lusso possedute dalla Francia.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME" Language="it_IT">
+      <Text>Decorazioni fastose</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION" Language="it_IT">
+      <Text>Apprezza le civiltà che scambiano risorse di lusso con lei; non ama le civiltà che fanno il contrario. Cerca di accumulare quante più copie possibile di ogni risorsa di lusso.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Chiedo scusa, ma sarebbe un cambiamento troppo repentino. Magari un'altra volta?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Grazie.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Che disdetta!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Accetto la tua profferta d'amicizia. Naturalmente, aspettati un invito per il prossimo matrimonio reale.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Ti porgo la mano reale in amicizia. La vorrai accettare?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>È stato divertente far finta di essere amici, vero? Sfortunatamente è il momento di lasciar cadere la maschera e passare alle faccende serie.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Osi attaccare il mio regno sovrano? Dubito che lo stesso Nostradamus avrebbe potuto predirlo!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Ho vissuto abbastanza a lungo da sapere quando sono sconfitta. Fa' quello che devi.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Mi tenta, ma no.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Ti ho inviato una delegazione con tutti i doni consueti: erbe, olive, vari tipi di formaggio e naturalmente baguette per accompagnare il tutto.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Abbiamo ricevuto la tua delegazione al palazzo. Grazie. Faremo tesoro dei tuoi preziosi doni.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Non mi piacciono affatto i tuoi ultimi intrighi. Cosa penserebbero i tuoi amici di queste informazioni? (Ti denuncia).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>La gloria e la potenza della Francia non saranno offuscate da bugie così evidenti.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Non puoi dire di aver vissuto finché non hai assaggiato le nostre prelibatezze. Posso anche mostrarti come si usa una forchetta, se vuoi.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Ma certamente. Sarà un piacere osservare da vicino le tue città, così piene di vita.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Ho una vera passione per l'architettura. Dimmi, la tua capitale ha degli archi di trionfo, o magari una grande torre di metallo?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Sono Caterina, Regina Madre di Francia, e ti do il benvenuto nel mio regno. Non vedo l'ora di imparare tutto quanto c'è da sapere su di te.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>È stato un piacere, come sempre.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Ti andrebbe di formare un'alleanza?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Non voglio essere ricordata per la mia bellicosità. Appianiamo le nostre differenze.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Assolutamente no.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Ti imploro, per il bene delle persone che amiamo: ristabiliamo la pace tra di noi.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Sfortunatamente non posso permetterlo. Questioni di sicurezza, naturalmente.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Il mio esercito ti chiede il permesso di attraversare le tue terre. Pacificamente, s'intende.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Oh, molto bene. Potete procedere.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Pensi di poterci intimidire con la forza? Questa faccenda non finirà bene, ci puoi contare.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE" Language="it_IT">
+      <Text>Caterina apprezza che tu le stia passando risorse di lusso attraverso gli scambi.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE" Language="it_IT">
+      <Text>A Caterina non piace che tu stia accumulando risorse di lusso che lei preferirebbe avere per sé.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>I miei amanti si stanno letteralmente assassinando l'un l'altro per mettere le mani sulla tua roba. È spassoso!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="it_IT">
+      <Text>Come potrà il mio Squadrone Volante criticare le tue presunte ricchezze se non me ne mandi nessuna?</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_NAME" Language="ja_JP">
+      <Text>宮廷の祭典</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME" Language="ja_JP">
+      <Text>宮廷の祭典</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY" Language="ja_JP">
+      <Text>麗妃カトリーヌは、通常の遺産とシャトーの建設を促進する絢爛豪華な「宮廷の祭典」によって、フランスを文化による勝利目指して邁進させます。さまざまな高級資源を蓄えることができれば、さらに勝利が近づきます。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY" Language="ja_JP">
+      <Text>麗妃カトリーヌは、多種多様な高級資源をたっぷりと集めることを好みます。豪華な品々を豊富に蓄えている彼女による「宮廷の祭典」は、あらゆる指導者が注目する文化事業となります。こうした祭典を幾度も催し、シャトーやゲーム中盤の遺産を数多く有することができれば、このカトリーヌの善なる側面の登場によってフランスは文化による勝利の有力候補となれるはずです。もちろんこのゲームでも彼女が油断ならない人物であることに変わりはなく、フランスの勝利を阻止するために皇帝近衛隊との戦いを余儀なくされることもあるかもしれません。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE" Language="ja_JP">
+      <Text>カトリーヌ・ド・メディシス (黒妃)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE" Language="ja_JP">
+      <Text>我々の文化には人生の確かな喜びがあります。その魅力に抗っても詮無きことです。</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION" Language="ja_JP">
+      <Text>完了すると、フランスが所有している余剰な高級資源の数に応じて [ICON_CULTURE] 文化力50と [ICON_TOURISM] 観光力50が得られる (標準のスピードで)。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME" Language="ja_JP">
+      <Text>絢爛豪華</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION" Language="ja_JP">
+      <Text>高級資源を取引してくれる文明を好む。高級資源を取引してくれない文明を嫌う。できるだけ多くの高級資源を集めようとする。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>申し訳ありませんが、あまりにも急な話ではないでしょうか。また別の機会、ということで…</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>ありがとうございます。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>なんと残念な！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>あなたの申し出をお受けしましょう。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>あなたと手を取りあい、友好の絆を作りたいと思うのです。お返事を聞かせてもらえますか？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>お互いが友人の仮面をかぶってお芝居を演じるのは、なかなか楽しい経験だったと思いませんこと？ 名残惜しいですが、劇の幕はもう下りました。やらなければならないことをはじめましょうか。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>私に戦いを挑むというのですか？ これはノストラダムスでも予言できなかったでしょうね。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>負けがわかる程度には長く生きております。どうぞ、好きになさい。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text> 魅力的ですね。でもお断りします。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>そちらに使節を送りました。ハーブにオリーブ、各種のチーズを贈り物として持たせております。バゲットも忘れておりませんので、これらと共におあがりください。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>あなたの申し出をお受けしましょう。次の王家の結婚式には、ぜひいらしてくださいね。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>あなたの腹積もりが気に入りませんね。この情報が耳に入れば、お友達はどう思うでしょう？(非難)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>フランスの威光も国力も、そのような見え透いた嘘で損なわれませんよ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>我が国の美味なる食事や飲み物を召し上がったことがないのでは、どうして生きていると言えましょう。差し支えなければ、フォークの持ち方を教えてさしあげますよ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>それはぜひ。あなた方の国の発展を、近くから見守ってまいりましょう。嬉しく思いますよ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>じつは私、建築にとても興味がありますの。教えてください、そちらの都に凱旋門はありますか？ 大きな鉄塔はありますか？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>私はフランス皇太后カトリーヌ。わが領地へようこそ。お話を事細かにうかがえるのを、たいへん楽しみにしていますよ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>いつでも歓迎いたしますよ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>同盟を結びたいとおっしゃるのですか？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>戦争を起こした悪女として歴史に名を残したくはありません。互いの相違にはひとまず目をつぶりましょう。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>お話になりませんわ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>愛する者たちのためにお願いします。ぜひとも和平を結んでください。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>残念ながら、それは無理というものです。もちろん我が国の安全を考えてのことです。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>領内を軍隊が移動することをお許しください。もちろん平和を脅かすことはいたしません。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>結構ですわ。ご自由にお通りになってください。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>力で服従させようというのですか？ そううまくはいきませんよ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE" Language="ja_JP">
+      <Text>カトリーヌはあなたが高級資源を取引してくれることを喜んでいる。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE" Language="ja_JP">
+      <Text>カトリーヌは、喉から手が出るほど欲しい多くの高級資源をあなたが蓄えていることに憤っている。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>あなたの品々を得ようと、私の恋人たちがこぞって殺し合っていますわ。なんて愉しいのでしょう！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ja_JP">
+      <Text>何も送っていただけないのでは、あなたがどれほどの贅沢を謳歌しているのか、我が特別遊撃隊にも論評のしようがありませんわ。</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_NAME" Language="ko_KR">
+      <Text>궁중 축제</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME" Language="ko_KR">
+      <Text>궁중 축제</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY" Language="ko_KR">
+      <Text>위엄의 카트린은 특히 엄청난 양의 사치 자원을 보유할 수 있을 때 프랑스가 문화 승리를 빠르게 달성할 수 있도록 해주는 화려한 궁중 축제를 통해 특유의 불가사의 및 샤토 건설 계획을 강화합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY" Language="ko_KR">
+      <Text>위엄의 카트린은 종류와 수에 관계없이 엄청난 규모의 사치 자원을 축적하기 원하는 지도자입니다. 호화로운 사치품 컬렉션을 보유한 카트린의 궁중 축제는 모든 지도자가 참석하고 구경하기를 원하는 문화 행사입니다. 이러한 축제를 충분히 주최하고 방대한 양의 샤토 및 게임 중반 불가사의를 보유하면, 프랑스는 이 자애로운 버전의 카트린이 등장할 때마다 문화 승리의 가장 유력한 후보가 될 것입니다. 카트린이 빠르게 승리하지 못하도록 막기 위해 프랑스 제국근위대를 상대로 전쟁을 벌여야 할 수도 있는 이 게임에서 카트린은 매우 위험한 존재입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE" Language="ko_KR">
+      <Text>카트린 데메디치(검은 여왕)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE" Language="ko_KR">
+      <Text>우리 문화에는 특별한 삶의 기쁨이 있습니다. 이런 매력을 거부하는 것은 무의미합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION" Language="ko_KR">
+      <Text>완료 시 이 프로젝트는 프랑스가 소유한 사치 자원의 초과 개수에 따라 (일반 속도에서) [ICON_CULTURE] 문화 50 및 [ICON_TOURISM] 관광 50을 부여합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME" Language="ko_KR">
+      <Text>호화로운 옷과 보석</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION" Language="ko_KR">
+      <Text>자신과 사치 자원을 거래하는 문명을 좋아합니다. 이런 거래를 하지 않는 문명을 싫어합니다. 사치 자원을 최대한 많이 수집하려고 합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>미안하지만 이건 너무 빠른 변화입니다. 다음에 다시 제안해보겠습니까?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>고맙습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>정말 유감스럽습니다!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>당신이 제안한 우정을 받아들이겠습니다. 물론, 다음번 왕가 결혼식에도 초청할 겁니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>당신에게 존귀한 우정의 손길을 내밀고 있습니다. 받아들이겠습니까?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>친구인 척 행세하는 게 재미있었나요?  아쉽지만 이제 가식은 그만두고 끝을 내야 할 때가 되었네요.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>어찌 제 소중한 영토를 감히 공격합니까? 이 상황은 노스트라다무스조차도 예언하지 못했을 것입니다!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>패배를 분간할 수 없을 만큼 철부지는 아닙니다. 원하는 대로 하십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>솔깃하지만, 거절하겠습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>당신에게 교역 대표단과 함께 허브, 올리브, 다양한 치즈, 그리고 함께 먹을 바게트와 같은 모든 관례적인 선물을 보냈습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>궁전에서 대표단을 영접했습니다. 고맙습니다. 보내주신 선물은 소중히 다루겠습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>당신의 행동이 좋아 보이지 않습니다. 당신의 친구들은 이런 정보에 대해 뭐라 생각하겠습니까? (공개 비난)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>프랑스의 힘과 영광은 그런 분명한 거짓말로 더럽혀지지 않을 것입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>당신이 우리 별미들을 먹어보고 마셔보지 않았다면 진정으로 살아본 것이 아닙니다. 물론, 당신이 원한다면 포크의 사용법도 알려주겠습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>물론입니다.  바로 가까이서 당신 도시의 성장을 지켜볼 수 있어 기쁩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>저는 건축학을 좋아합니다. 당신의 수도에는 승리를 기념하는 아치형 구조물이나, 거대한 금속 탑이 있는지 말해줄 수 있습니까?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>저는 프랑스의 카트린 왕대비입니다. 제 영토에 온 것을 환영합니다. 당신에 대해 정말 잘 알게 될 것을 기대합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>반갑습니다, 늘 그렇듯이.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>동맹을 형성하겠어요?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>저는 전쟁광이라 기억되기 싫습니다. 서로 간의 차이점은 우선 접어둡시다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>절대 수락할 수 없습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>사랑하는 이들을 위해서 부탁드리니, 우리 서로 평화롭게 지냅시다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>유감이지만, 그렇게 허락할 수 없습니다. 물론, 안전을 위해서입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>제 군대가 당신 땅을 지나가는데 허락을 구합니다. 물론 평화롭게 지나겠습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>어쩔 수 없네요. 지나가십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>무력으로 우리를 겁주려 하는 것입니까? 당신에게 결코 좋은 결과는 없을 것입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE" Language="ko_KR">
+      <Text>카트린은 자신에게 사치 자원을 판매해 기뻐합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE" Language="ko_KR">
+      <Text>카트린은 자신의 것이었어야 하는 사치 자원을 당신이 보유한 것에 화가 났습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>제가 사랑하는 이들은 모두 당신의 물건을 얻기 위해 기꺼이 서로를 살해하고 있습니다. 얼마나 우스운가요?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ko_KR">
+      <Text>당신이 아무것도 보내지 않으면 어떻게 제 유격대가 당신의 소위 사치품이라는 것들을 평가할 수 있습니까?</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_NAME" Language="pl_PL">
+      <Text>Dworski festiwal|Dworskiego festiwalu|Dworskiemu festiwalowi|Dworski festiwal|Dworskim festiwalem|Dworskim festiwalu|dworski festiwal|dworskiego festiwalu|dworskiemu festiwalowi|dworski festiwal|dworskim festiwalem|dworskim festiwalu</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME" Language="pl_PL">
+      <Text>Dworski festiwal|Dworskiego festiwalu|Dworskiemu festiwalowi|Dworski festiwal|Dworskim festiwalem|Dworskim festiwalu|dworski festiwal|dworskiego festiwalu|dworskiemu festiwalowi|dworski festiwal|dworskim festiwalem|dworskim festiwalu</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY" Language="pl_PL">
+      <Text>Katarzyna Magnificencja wzbogaca swoją zwyczajową strategię wznoszenia cudów i château o pełne przepychu festiwale dworskie, dzięki którym Francja szybko staje się liderką w wyścigu do zwycięstwa kulturowego – zwłaszcza jeśli Katarzynie uda się zgromadzić bogatą kolekcję zasobów luksusowych.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY" Language="pl_PL">
+      <Text>Katarzyna Magnificencja to przywódczyni, która pragnie zgromadzić jak największą kolekcję zasobów luksusowych każdego typu. Bogaty zbiór wykwintnych dóbr sprawia, że jej dworskie festiwale stają się wydarzeniami kulturalnymi, w których udział brać chcą wszyscy władcy. Dzięki stosownej liczbie festiwali oraz wielu château i cudom ze środkowej fazy rozgrywki Francja, której przewodzi ta łaskawa wersja Katarzyny, powinna stać się liderką w wyścigu do zwycięstwa kulturowego. Katarzyna jest tak sprawna w tej grze, że jedynym sposobem na powstrzymanie jej od szybkiego zakończenia rozgrywki może okazać się wypowiedzenie wojny francuskiej Garde Impériale.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE" Language="pl_PL">
+      <Text>Katarzyna Medycejska (Czarna Królowa)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE" Language="pl_PL">
+      <Text>Nasza kultura daje pewną radość życia. Nie ma sensu opierać się jej urokowi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION" Language="pl_PL">
+      <Text>Ukończenie projektu daje premię +50 do [ICON_CULTURE] kultury i +50 do [ICON_TOURISM] turystyki (przy standardowej prędkości), uzależnioną od liczby dodatkowych kopii zasobów luksusowych posiadanych przez Francję.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME" Language="pl_PL">
+      <Text>Przepyszne kosztowności</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION" Language="pl_PL">
+      <Text>Lubi cywilizacje, które oferują jej zasoby luksusowe. Nie lubi cywilizacji, które nie proponują jej takich zasobów. Stara się zdobyć jak najwięcej kopii zasobów luksusowych.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Przepraszam, ale byłaby to zbyt gwałtowna zmiana. Może kiedy indziej?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Dziękuję.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Co za pech!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Przyjmuję twoją propozycję przyjaźni. I oczywiście zaproszę cię na następny królewski ślub.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Wyciągam do was królewską dłoń, proponując przyjaźń. Jaka będzie wasza odpowiedź?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Zabawa w przyjaźń była nawet miła, co? Niestety, czas skończyć z tą maskaradą i przejść do poważnych spraw.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Ośmielacie się zaatakować moje suwerenne królestwo? Nawet Nostradamus nie przewidziałby czegoś takiego!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Żyję już dosyć długo, by wiedzieć, kiedy poniosłam porażkę. Nie przejmuj się mną.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Kuszące, ale nie.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Wysłałam do was delegację handlową z wszelkimi zwyczajowymi darami: ziołami, oliwkami, różnymi gatunkami serów i oczywiście bagietkami.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Twoja delegacja przybyła do pałacu. Dziękujemy. Dary umieścimy w stosownym miejscu.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Nie podoba mi się to, co kombinujesz. Co o takich nowinach powiedzieliby twoi przyjaciele? (Potępia cię).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Chwała i potęga Francji nie zostaną zbrukane tak oczywistymi kłamstwami.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Nie będziesz wiedzieć, czym jest życie, póki nie poznasz naszego jadła i napitków. Jeśli chcesz, nauczę cię nawet używać widelca.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Ależ oczywiście. Miło będzie patrzeć, jak w pobliżu rozwija się wasze miasto.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Jestem wielbicielką architektury. Powiedz, czy w twojej stolicy znajdują się łuki tryumfalne lub wielkie metalowe wieże?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Jestem Katarzyna, królowa matka Francji. Witam cię w moim kraju. Nie mogę się doczekać, aż dowiem się o tobie wszystkiego, co tylko możliwe.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Jak zawsze miło cię widzieć.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Czy chcielibyście zawrzeć sojusz?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Nie chcę, by zapamiętano mnie jako miłośniczkę rozlewu krwi. Zapomnijmy o sporach.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Nie ma mowy.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Błagam was w imieniu naszych bliskich, niech zapanuje między nami pokój.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Niestety, nie mogę się na to zgodzić. Ze względów bezpieczeństwa, oczywiście.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Moje wojsko chce prosić o pozwolenie na przebycie waszego terytorium. Pokojowo, oczywiście.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>No dobrze. Możecie przekroczyć granicę.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Myślicie, że zastraszycie nas swoimi siłami? To nie skończy się dla was dobrze.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE" Language="pl_PL">
+      <Text>Katarzyna jest zadowolona, że oferujesz jej zasoby luksusowe.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE" Language="pl_PL">
+      <Text>Katarzyna jest niezadowolona, że gromadzisz zasoby luksusowe, które wolałaby mieć dla siebie.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Wszyscy moi kochankowie wręcz zabijają się o twoje dobra. Ależ zabawa!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="pl_PL">
+      <Text>Powiedz, jak mój szwadron podfruwajek ma ocenić twoje rzekomo luksusowe dobra, gdy mi ich nie przesyłasz?</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_NAME" Language="ru_RU">
+      <Text>Придворный фестиваль|придворного фестиваля|придворному фестивалю|придворный фестиваль|придворным фестивалем|придворном фестивале</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME" Language="ru_RU">
+      <Text>Придв. фестиваль|придв. фестиваля|придв. фестивалю|придв. фестиваль|придв. фестивалем|придв. фестивале</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+      <Text>Великолепная Екатерина Медичи может устраивать придворные фестивали, которые увеличивают бонусы от чудес света и шато и обеспечивают Франции надежный путь к культурной победе — особенно если у Екатерины избыток предметов роскоши.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY" Language="ru_RU">
+      <Text>Великолепная Екатерина Медичи стремится к накоплению предметов роскоши — и чем больше, тем лучше. Роскошные изделия обеспечивают престиж ее придворным фестивалям, попасть на которые стремится каждый лидер: и на других посмотреть, и себя показать. Ближе к середине игры Франция, обладающая достаточным количеством шато и чудес света, благодаря этим фестивалям может вырваться вперед в гонке за культурной победой — при условии, что страной руководит великолепная Екатерина. Ради того, чтобы не допустить быстрой победы Франции, можно даже пойти на войну с Императорской гвардией.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE" Language="ru_RU">
+      <Text>Екатерина Медичи (Черная королева)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE" Language="ru_RU">
+      <Text>Нашей культуре присуща определенная жизнерадостность. Глупо ей сопротивляться.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION" Language="ru_RU">
+      <Text>По завершении проект приносит +50 [ICON_CULTURE] культуры и +50 [ICON_TOURISM] туризма (при стандартной скорости), в зависимости от количества лишних предметов роскоши у Франции.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME" Language="ru_RU">
+      <Text>Роскошное убранство</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION" Language="ru_RU">
+      <Text>Любит цивилизации, которые торгуют с ней предметами роскоши. Не любит цивилизации, которые не обеспечивают такую торговлю. Стремится собрать как можно больше копий редких ресурсов.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Прошу меня простить, но это слишком внезапные изменения. В другой раз, хорошо?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Спасибо.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Это некстати!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Я принимаю ваше предложение дружбы. Разумеется, вы будете приглашены на следующую королевскую свадьбу.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Я протягиваю вам королевскую руку во имя дружбы. Примете ли вы ее?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Притворяться друзьями – это так весело, правда? К несчастью, настала пора положить конец притворству и перейти к делу.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Вы смеете угрожать моей суверенной державе? Не могу поверить, что Нострадамус не предсказал этого.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Вот я и дожила до собственного поражения. Продолжайте в том же духе.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Заманчиво, но нет.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Я отправила к вам торговую делегацию с подарками, согласно обычаю. Там травы, оливки, различные сыры и, конечно, багеты, с которыми это все полагается есть.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Ваша делегация была принята во дворце. Благодарю, я весьма ценю ваши дары.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Мне не нравится, что вы там замышляете. Как думаете, что скажут про это ваши друзья? (Осуждает вас)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Слава и могущество Франции не склонятся перед столь наглой ложью.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Кто не пробовал местные деликатесы и напитки, тот, считай, и не жил. Если угодно, могу научить вас пользоваться вилкой.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Конечно. Мне будет приятно видеть, как ваш город растет неподалеку от нас.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Я влюблена в архитектуру. Расскажите мне, есть в вашей столице триумфальные арки или высокие башни из железа?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Я – Екатерина, королева-мать Франции, и я приветствую вас в своих владениях. С нетерпением жду возможности узнать о вас побольше.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Приятная встреча, как и всегда.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Хотите заключить союз?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Не хочу остаться в истории разжигательницей войны. Забудем о наших разногласиях.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Абсолютно исключено.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Прошу вас: во имя всех, кого вы любите – пусть между нами будет мир.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>К сожалению, я просто не могу этого допустить. Ради безопасности, конечно же.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Моему войску требуется ваше разрешение пересечь ваши владения. С миром, естественно.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Ну, хорошо. Проходите, прошу.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Хотите запугать нас силой? Это не кончится для вас добром.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE" Language="ru_RU">
+      <Text>Екатерина рада, что вы торгуете с ней предметами роскоши.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE" Language="ru_RU">
+      <Text>Екатерина огорчена: вы копите предметы роскоши, которые ей очень пригодились бы.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>Все мои любовники вцепились друг другу в глотки, лишь бы завладеть вашими товарами. Какая потеха!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="ru_RU">
+      <Text>И как прикажете моему Летучему эскадрону составить мнение о ваших предметах роскоши, если вы мне ничего не посылаете?</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_NAME" Language="zh_Hans_CN">
+      <Text>宫廷盛会</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME" Language="zh_Hans_CN">
+      <Text>宫廷盛会</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+      <Text>寻欢作乐凯瑟琳能用奢侈的宫廷盛会来为奇观和法国特色城堡建造项目提供加成，将法国迅速推向文化胜利。如果她拥有大量奢侈品，更是势不可挡。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+      <Text>寻欢作乐凯瑟琳是喜欢收集奢侈品资源的领袖，不问类别，多多益善。她的宫廷盛会充满各种奇珍异宝，各国领袖趋之若鹜。在大量盛会、法国特色城堡和游戏中期奇观的加持下，寻欢作乐版本的凯瑟琳能够带领法国强势迈向文化胜利。她的文化输出极其强大，要阻止她快速获胜，对手也许只能倾尽全力与法国帝国卫队展开殊死一搏。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE" Language="zh_Hans_CN">
+      <Text>凯瑟琳·德·美第奇（黑王后）</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE" Language="zh_Hans_CN">
+      <Text>我们的文化有着独特的生活之美。它的魅力无可抗拒。</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>此项目完成时，将根据法国所拥有多余奢侈品资源的数量提供50点 [ICON_CULTURE] 文化值和50点 [ICON_TOURISM] 旅游业绩（标准速度下）。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME" Language="zh_Hans_CN">
+      <Text>无尽奢华</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>喜欢将奢侈品资源交易给她的文明。讨厌拒绝交易奢侈品的文明。会尝试尽可能多地收集奢侈品资源。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>抱歉，这个变化太突然了。或许下次？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>谢谢。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>真是倒霉！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>我接受您的友谊。当然，还会邀请您参加下次皇室婚礼。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>我向您伸出了高贵的友谊之手，您会接受吗？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>冒充朋友挺好玩？可惜，是时候放下伪装，做好眼前的正事了。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>你竟敢进攻我的主权领土？我简直不敢相信占卜师竟没有预料到了这一点！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>我已经活得够久的了，我知道自己什么时候会被打败。继续吧。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>很有诱惑力，但是不行。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>我派出了一支贸易使团，他们带着所有传统礼物：草药、橄榄、各种奶酪，当然，还有和他们混着一起吃的长棍面包。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>我们在宫殿接待了贵国代表团。我们会好好珍藏您的礼物。非常感谢。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>我讨厌你最近的所作所为。你的朋友会怎么想？（谴责你）</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>法国的荣耀和权利不会被这样明显的谎言玷污。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>您吃过了美味的食物和饮料，才算是真正活过了。如果愿意的话，我可以向您展示如何使用叉子。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>非常感谢。很高兴能近距离看看您不断成长的城市。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>我对建筑很痴迷。告诉我，您的首都有凯旋门吗，或有大型铁塔吗？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>我是法国皇太后凯瑟琳，欢迎您来到我的王国。我想了解关于您的一切。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>一如既往地感到荣幸。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>你想结盟吗？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>我不想让人记住我是一个好战分子。放下我们之间的分歧吧。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>绝对不行。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>为了我们所爱的人，我祈求您，让双方和平共处。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>很遗憾，为了安全，我不允许。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>我的军队希望被允许穿越您的领地。当然是以和平的方式。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>噢，很好，您可以开始了。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>想拿军队吓唬我们？恐怕会事与愿违。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE" Language="zh_Hans_CN">
+      <Text>您把奢侈品资源交易给了凯瑟琳，她十分高兴。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE" Language="zh_Hans_CN">
+      <Text>您囤积了不少奢侈品资源，这让凯瑟琳十分不满。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>我的情人们孜孜不倦地相互厮杀，就为了得到你的货品。真是好玩！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hans_CN">
+      <Text>如果你不拿点奢侈品来，我手下那群美艳妇人还怎么花枝招展呢？</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_NAME" Language="es_ES">
+      <Text>Festival de la corte|Festivales de la corte</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME" Language="es_ES">
+      <Text>Festival de la corte|Festivales de la corte</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY" Language="es_ES">
+      <Text>Catalina de la magnificencia aumenta su programa usual de construcción de maravillas y Châteaux con fastuosos Festivales de la corte que impulsan con rapidez a Francia hacia una victoria cultural, sobre todo si ha podido atesorar una gran colección de Lujos.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY" Language="es_ES">
+      <Text>Catalina de la magnificencia es la líder que quiere amasar una gran colección de recursos de lujo de todo tipo y cantidad. Tener una colección suntuosa de productos opulentos hace que sus Festivales de la corte sean los acontecimientos culturales a los que todos los líderes quieren asistir. Con suficientes festivales de estos y una gran colección de Châteaux y maravillas de mitad de partida, Francia debería ser la gran candidata a una victoria cultural siempre que aparezca esta versión benevolente de Catalina. Es tan peligrosa en este juego que es posible que tengas que combatir con la Garde Impériale francesa para impedir que se haga con una victoria rápida.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE" Language="es_ES">
+      <Text>Catalina de Médici (Reina negra)</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE" Language="es_ES">
+      <Text>Nuestra cultura tiene cierta alegría de vivir. Es inútil resistirse a sus encantos.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION" Language="es_ES">
+      <Text>Cuando se completa, este proyecto otorga 50 de Cultura [ICON_CULTURE] y 50 de Turismo [ICON_TOURISM] (a velocidad normal) en función del número de recursos de lujo repetidos que tenga Francia.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME" Language="es_ES">
+      <Text>Esplendor suntuoso</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION" Language="es_ES">
+      <Text>Le gustan las civilizaciones que intercambian recursos de lujo con ella. Desprecia a las civilizaciones que no realizan tal comercio. Intenta reunir todos los recursos de lujo posibles.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Disculpad, pero esto sería un cambio demasiado repentino. Quizás en otro momento...</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Gracias.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>¡Menuda lástima!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Aceptamos vuestra oferta de amistad. Y, por supuesto, estáis invitados a la próxima boda real.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Os tiendo mi real mano en gesto de amistad. ¿La aceptaréis?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Hacerse pasar por amigos ha sido muy divertido, ¿verdad? Por desgracia, es hora de quitarse las máscaras e ir al tema que nos ocupa.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>¿Osáis atacar nuestro reino soberano? ¡Creo que ni Nostradamus predijo esto!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>He vivido lo suficiente para saber cuándo me han derrotado. Continuad.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Es tentador, pero no.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Os hemos enviado una delegación comercial con todos los regalos de costumbre: hierbas, aceitunas, quesos varios y barras de pan con las que comerlos, claro.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Hemos recibido a vuestra delegación en palacio. Gracias. Guardaremos los regalos como un tesoro.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>No nos gusta lo que estáis tramando. ¿Qué pensarían vuestros amigos de esta información? (Te denuncia).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>La gloria y el poderío de Francia no se verán mancillados por mentiras tan flagrantes.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>No sabéis lo que es la vida hasta que no probáis las exquisiteces de nuestra comida y bebida. Y puedo enseñaros a usar un tenedor, si queréis.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Sin lugar a dudas. Será un placer ver de cerca cómo crece vuestra ciudad.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Somos unos enamorados de la arquitectura. Decidnos, ¿tiene vuestra capital arcos triunfales o grandes torres de metal?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Soy Catalina, reina madre de Francia, y os doy la bienvenida a este reino. Ardo en deseos de aprender todo lo posible de vosotros.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Un placer, como siempre.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>¿Os gustaría formar una alianza?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>No queremos que nos recuerden como belicistas. Dejemos a un lado nuestras diferencias.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Por supuesto que no.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Por nuestros seres más queridos, os ruego que haya paz entre nosotros.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Por desgracia, no podemos permitirlo, simplemente. Por nuestra seguridad, claro.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>A nuestro ejército le gustaría cruzar vuestras tierras. En paz, por supuesto.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Ah, muy bien, podéis proceder.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>¿Creéis que podéis intimidarnos por la fuerza? Eso no os saldrá nada bien.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE" Language="es_ES">
+      <Text>Catalina está muy complacida de que estés intercambiando recursos de lujo con ella.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE" Language="es_ES">
+      <Text>Catalina está muy molesta por que estés acumulando más recursos de lujo que ella.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>Todos mis amantes se están matando entre sí para conseguir alguna de vuestras mercancías. ¡Qué divertido!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="es_ES">
+      <Text>¿Cómo puede mi escuadrón volante criticar vuestros supuestos lujos si no me enviáis ni uno?</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_NAME" Language="zh_Hant_HK">
+      <Text>宮廷慶典</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME" Language="zh_Hant_HK">
+      <Text>宮廷慶典</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY" Language="zh_Hant_HK">
+      <Text>雍容華貴凱薩琳能透過盛大的宮廷慶典來加快一般奇觀和城堡建築等建築計畫，快速地將法國帶至文化勝利；而當她能囤積大量奢侈品收藏時，這種效果會更加快速。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY" Language="zh_Hant_HK">
+      <Text>無論種類或數量，雍容華貴凱薩琳是一名喜歡奢侈品資源多多益善的領袖。由於坐擁著目不暇給的奢華收藏，她的宮廷慶典成為了所有領袖趨之若鶩的文化活動。只要這個良善的凱薩琳現身遊戲當中，法國便能舉辦無數宮廷慶典，並利用大量的法國特色城堡和遊戲中期出現的奇觀，來成為最有機會贏得文化勝利的帝國。她算是這個遊戲中相當危險的角色，而為了防止她迅雷不及掩耳地拿下勝利，你可能必須在戰場上對抗法國帝國衛隊。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE" Language="zh_Hant_HK">
+      <Text>凱薩琳‧德‧麥地奇（黑女王）</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE" Language="zh_Hant_HK">
+      <Text>我們的文化中有種人生之樂，想抵抗其魅力只是徒勞之舉。</Text>
+    </Replace>
+    <Replace Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>完成後，此項目會根據法國所持有的多餘奢侈品資源數量獎勵50點 [ICON_CULTURE] 文化值及50點 [ICON_TOURISM] 旅遊業績（在標準遊戲速度下）。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME" Language="zh_Hant_HK">
+      <Text>奢華無盡</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>喜歡和她進行奢侈品資源貿易的文明。不喜歡不進行這類貿易的文明。會盡可能地收集更多奢侈品資源。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>抱歉，這個變化太突然了。或許下次？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>謝謝。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>真是倒霉！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>我接受您的友誼。當然，還會邀請您參加下次皇室婚禮。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>我向您伸出了高貴的友誼之手，您會接受嗎？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>冒充朋友挺好玩？可惜，是時候放下偽裝，做好眼前的正事了。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>你竟敢進攻我的主權領土？我簡直不敢相信占卜師預料到了這一點！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>我已經活得夠久的了，我知道自己什麼時候會被打敗。堅持。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>很有誘惑力，但是不行。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>我派出了一支貿易代表團，他們帶著所有傳統禮物：草藥、橄欖、各種奶酪，當然還有他們混著一起吃的長棍麵包。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>我們在宮殿接待了貴國代表團。我們會好好珍藏您的禮物。非常感謝。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>我發現你的所作所為很危險。你的朋友對此會怎麼看？[NEWLINE]（譴責你）</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>法國的榮耀和權利不會被這樣明顯的謊言玷污。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>要是沒吃過美味的食物和飲料，怎麼能算是活過呢？如果願意的話，我可以向你展示如何使用叉子。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>當然，我會很高興能近距離看看你不斷發展的城市。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>我對建築很痴迷。告訴我，你的首都有凱旋門嗎，或有大型鐵塔嗎？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>我是法國皇太后凱薩琳，歡迎您來到我的王國。我想瞭解關於您的一切。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>一如既往地感到榮幸。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>您想結為同盟嗎？</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>我不想讓人記住我是一個好戰分子。放下我們之間的分歧吧。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>絕對不行。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>為了我們所愛的人，我祈求您，讓雙方和平共處。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>很遺憾，為了安全，我不允許。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>我的軍隊希望被允許通過您的領地。當然是以和平的方式。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>噢，很好，您可以開始了。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>想拿軍隊嚇唬我們？恐怕會事與願違。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE" Language="zh_Hant_HK">
+      <Text>凱薩琳相當高興你願意將奢侈品資源交易給她。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE" Language="zh_Hant_HK">
+      <Text>凱薩琳知道你窩藏奢侈品資源後很不高興，她寧可佔為己有也不想分享他人。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>為了爭奪你送來的貨品，我的愛人們可是爭得你死我活呢。太有趣了！</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY" Language="zh_Hant_HK">
+      <Text>若你不把你所謂的奢侈品送一點過來，我的飛行中隊美婦人們又怎麼能夠對其品頭論足呢？</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

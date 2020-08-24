@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE">
+			<Text>DLC: Catherine de Medici Persona Pack</Text>
+		</Row>
+		<Row Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER">
+			<Text>Catherine de Medici (Black Queen) and Catherine de Medici (Magnificence) Personas</Text>
+		</Row>
+		<Row Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION">
+			<Text>Contains Catherine de Medici (Black Queen) and Catherine de Medici (Magnificence) personas, each with their own unique look, ability, and play style.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

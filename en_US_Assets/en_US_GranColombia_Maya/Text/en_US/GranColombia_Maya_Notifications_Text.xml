@@ -1,0 +1,54 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Improvements-->
+		<Replace Language='en_US' Tag="LOC_FIRE_STARTED">
+			<Text>Fire Started</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_FIRE_STARTED_DESC">
+      <Text>{FertilityAdded} {FertilityAdded : plural 1?fire has; other?fires have;} begun. {UnitsLost} {UnitsLost : plural 1?unit was; other?units were;} damaged.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FIRE_CONTINUED">
+      <Text>Fire Ended</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FIRE_CONTINUED_DESC">
+      <Text>{FertilityAdded} {FertilityAdded : plural 1?fire has; other?fires have;} ended. The tiles are now safe for traversal, but the trees will take time to regrow.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FIRE_JUNGLE_OVER">
+      <Text>Rainforest Regrown</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FIRE_JUNGLE_OVER_DESC">
+      <Text>After being destroyed by fires, {FertilityAdded} {FertilityAdded : plural 1?rainforest has; other?rainforests have;} regrown.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FIRE_FOREST_OVER">
+      <Text>Forest Regrown</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FIRE_FOREST_OVER_DESC">
+      <Text>After being destroyed by fires, {FertilityAdded} {FertilityAdded : plural 1?forest has; other?forests have;} regrown.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_METEOR_HAPPENED">
+      <Text>Meteor Shower</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_METEOR_HAPPENED_DESC">
+      <Text>Meteors peppered {FertilityAdded} {FertilityAdded : plural 1?tile; other?tiles;}, leaving behind resources. Gathering them will grant advanced weapons.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_COMET_HAPPENED">
+      <Text>Comet Strikes</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_COMET_HAPPENED_DESC">
+      <Text>A comet plummeted from the sky, devastating the {FertilityAdded} {FertilityAdded : plural 1?tile; other?tiles;} in its path.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_SOLAR_FLARE_HAPPENED">
+      <Text>Solar Flare</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_SOLAR_FLARE_HAPPENED_DESC">
+      <Text>Around the world, advanced tech screeches to a halt as cosmic radiation wreaks havoc. {UnitsLost} {UnitsLost : plural 1?unit was; other?units were;} destroyed.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_METEOR_GRABBED">
+      <Text>Meteor Site Harvested</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_METEOR_GRABBED_DESC">
+      <Text>You harvested a Meteor Site, extracting rare materials that grant you an advanced unit.</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

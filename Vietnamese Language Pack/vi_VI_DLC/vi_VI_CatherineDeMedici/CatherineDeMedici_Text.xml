@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_PROJECT_COURT_FESTIVAL_NAME">
+			<Text>Lễ hội triều đình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME">
+			<Text>Lễ hội triều đình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION">
+			<Text>Khi hoàn thành, dự án này sẽ trao tặng 50 [ICON_CULTURE] Văn hóa và 50 [ICON_TOURISM] Du lịch (ở tốc độ Chuẩn) dựa trên số lượng bản sao thừa của các tài nguyên Xa xỉ mà Pháp sở hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME">
+			<Text>Đồ mỹ nghệ xa hoa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION">
+			<Text>Thích những nền văn minh trao đổi tài nguyên xa xỉ cho cô ấy. Không thích các nền văn minh đã không thực hiện giao dịch như vậy. Cố gắng thu thập càng nhiều bản sao của tài nguyên Xa xỉ càng tốt.</Text>
+		</Replace>
+		<!-- Diplo text-->
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tôi xin lỗi, nhưng đây sẽ là một sự thay đổi quá đột ngột. Có thể lần khác?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Thank you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Thật không may!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tôi chấp nhận lời đề nghị kết bạn của bạn. Và tất nhiên, bạn sẽ được mời đến đám cưới hoàng gia tiếp theo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tôi mở rộng cho bạn bàn tay hoàng gia trong tình bạn. Bạn sẽ chấp nhận nó chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Giả dạng bạn bè là một điều rất thú vị, phải không? Thật không may, đã đến lúc bỏ sự giả vờ và bắt đầu công việc kinh doanh trong tầm tay.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Bạn dám tấn công vương quốc chủ quyền của tôi? Tôi không tin ngay cả Nostradamus cũng có thể đoán được điều này!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tôi đã sống đủ lâu để biết khi nào mình bị đánh bại. Tiếp tục đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Cám dỗ, nhưng không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tôi đã gửi cho bạn một phái đoàn thương mại với tất cả những món quà thông thường: rau thơm, ô liu, các loại pho mát khác nhau và bánh mì baguette để ăn cùng, tất nhiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Chúng tôi đã tiếp phái đoàn của bạn tại cung điện. Cảm ơn bạn. Những món quà sẽ được trân trọng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tôi không thích phương diện của những gì bạn đã làm. Bạn bè của bạn sẽ nghĩ gì về thông tin này? (Tố cáo bạn).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Vinh quang và sức mạnh của nước Pháp sẽ không bị hoen ố bởi những lời nói dối hiển nhiên như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Bạn đã không sống cho đến khi bạn có những món ăn và thức uống ngon của chúng tôi. Và tôi có thể chỉ cho bạn cách sử dụng một cái nĩa, nếu bạn muốn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Bằng mọi cách. Sẽ rất vui khi được nhìn cận cảnh thành phố đang phát triển của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tôi say mê với kiến trúc. Nói cho tôi biết, thủ đô của bạn có bất kỳ mái vòm khải hoàn, hoặc tháp kim loại lớn nào không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tôi là Catherine, Thái hậu của Pháp, và tôi chào mừng bạn đến với vương quốc này. Tôi rất mong được học hỏi tất cả những gì cần biết về bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Hân hạnh chào đón bạn, luôn như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Bạn có muốn thành lập một liên minh?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tôi không muốn được nhớ đến như một người ấm áp hơn. Hãy để chúng tôi bỏ qua những khác biệt của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tuyệt đối không nhé.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tôi cầu xin bạn vì lợi ích của những người thân yêu của chúng tôi, hãy để có hòa bình giữa chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Thật không may, tôi chỉ đơn giản là không thể cho phép nó. Vì sự an toàn, được chứ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Quân đội của tôi muốn được phép đi qua vùng đất của bạn. Dĩ nhiên là hòa bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Ồ rất tốt. Bạn có thể tiến hành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Bạn có nghĩ có thể đe dọa chúng tôi bằng vũ lực? Điều đó sẽ không tốt cho bạn chút nào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE">
+			<Text>Catherine rất vui vì bạn đang giao dịch tài nguyên xa xỉ cho cô ấy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE">
+			<Text>Catherine khó chịu vì bạn đang tích trữ những nguồn tài nguyên xa xỉ mà cô ấy muốn có.</Text>
+		</Replace>
+		<!-- Kudos and warnings -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tất cả những đồng minh của tôi đang cố gắng giết nhau để lấy một số hàng của bạn. Có gì Hot!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Làm sao Phi đội bay của tôi có thể phê bình những thứ được cho là xa xỉ của bạn nếu bạn thậm chí không gửi cho tôi?</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_MVEMBA_ANY">
+			<Text>Blessings.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>A pleasure, as always.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_CLEOPATRA_ANY">
+			<Text>You wish to speak with me?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_BARBAROSSA_ANY">
+			<Text>What do you want?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_GANDHI_ANY">
+			<Text>Peace to you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_GILGAMESH_ANY">
+			<Text>Let’s begin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_GORGO_ANY">
+			<Text>Greetings.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_HARDRADA_ANY">
+			<Text>Speak!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_HOJO_ANY">
+			<Text>Welcome.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_PEDRO_ANY">
+			<Text>What do you wish of me?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_PERICLES_ANY">
+			<Text>How are you?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_PETER_GREAT_ANY">
+			<Text>Good day to you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_PHILIP_II_ANY">
+			<Text>A pleasure.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_QIN_ANY">
+			<Text>Blessings upon you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_SALADIN_ANY">
+			<Text>You are well?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ANY">
+			<Text>Go on, then.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_TOMYRIS_ANY">
+			<Text>What do you wish of me?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_TRAJAN_ANY">
+			<Text>Good health.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_VICTORIA_ANY">
+			<Text>We receive you with pleasure.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_ANY_ANY">
+			<Text>What do you wish of me?</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

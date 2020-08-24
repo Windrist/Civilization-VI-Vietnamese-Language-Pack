@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Named Rivers -->
+		<Row Tag="LOC_NAMED_RIVER_BLUE_NILE_RIVER_NAME">
+			<Text>Blue Nile River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BARO_RIVER_NAME">
+			<Text>Baro River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DAWA_RIVER_NAME">
+			<Text>Dawa River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GANALE_DORYA_RIVER_NAME">
+			<Text>Ganale Dorya River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SHEBELLE_RIVER_NAME">
+			<Text>Shebelle River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AWASH_RIVER_NAME">
+			<Text>Awash River</Text>
+		</Row>
+		<!-- Named Volcanoes -->
+		<Row Tag="LOC_NAMED_VOLCANO_MOUNT_ALAYTA_NAME">
+			<Text>Mount Alayta</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_DABBAHU_VOLCANO_NAME">
+			<Text>Dabbahu Volcano</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_DALLOL_VOLCANO_NAME">
+			<Text>Dallol Volcano</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOUNT_FENTALE_NAME">
+			<Text>Mount Fentale</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_KONE_NAME">
+			<Text>Kone</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MANDA_HARARO_NAME">
+			<Text>Manda Hararo</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ALU_DALAFILLA_NAME">
+			<Text>Alu-Dalafilla</Text>
+		</Row>
+		<!-- Named Mountains -->
+		<Row Tag="LOC_NAMED_MOUNTAIN_BALE_MOUNTAINS_NAME">
+			<Text>Bale Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ARSI_MOUNTAINS_NAME">
+			<Text>Arsi Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_WOLLO_HIGHLANDS_NAME">
+			<Text>Wollo Highlands</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AHMAR_MOUNTAINS_NAME">
+			<Text>Ahmar Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AMARO_MOUNTAINS_NAME">
+			<Text>Amaro Mountains</Text>
+		</Row>
+		<!-- Named Lakes -->
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ABAYA_NAME">
+			<Text>Lake Abaya</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ZIWAY_NAME">
+			<Text>Lake Ziway</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_CHAMO_NAME">
+			<Text>Lake Chamo</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SHALA_NAME">
+			<Text>Lake Shala</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_CHEW_BAHIR_NAME">
+			<Text>Lake Chew Bahir</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ABBE_NAME">
+			<Text>Lake Abbe</Text>
+		</Row>
+	</EnglishText>
+</GameData>

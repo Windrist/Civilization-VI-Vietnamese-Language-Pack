@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="pt_BR">
+      <Text>DLC: Pacote Etiópia</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="pt_BR">
+      <Text>Nova civilização e líder - Menelik II da Etiópia</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="pt_BR">
+      <Text>Contém uma nova civilização e um novo líder, um novo distrito, 2 novas edificações e o modo de jogo Sociedade Secreta.</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="fr_FR">
+      <Text>Contenu téléchargeable : Pack Éthiopie</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="fr_FR">
+      <Text>Nouvelle civilisation et son dirigeant - Menelik II d'Éthiopie</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="fr_FR">
+      <Text>Contient une nouvelle civilisation et son dirigeant, un nouveau quartier, deux nouveaux bâtiments et le mode de jeu Société secrète.</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="de_DE">
+      <Text>DLC: Äthiopien-Paket</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="de_DE">
+      <Text>Neue Zivilisation und Staatsoberhaupt - Menelik II. von Äthiopien</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="de_DE">
+      <Text>Enthält eine neue Zivilisation und einen neuen Anführer, einen neuen Bezirk, 2 neue Gebäude und den Spielmodus "Geheimgesellschaft"..</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="it_IT">
+      <Text>DLC: Pacchetto Etiopia</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="it_IT">
+      <Text>Nuovo leader e nuova civiltà - Menelik II dell'Etiopia</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="it_IT">
+      <Text>Contiene un nuovo leader e una nuova civiltà, un nuovo distretto, 2 nuovi edifici e la modalità di gioco Società segrete.</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="ja_JP">
+      <Text>DLC: エチオピアパック</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="ja_JP">
+      <Text>新たな文明と指導者 - エチオピアのメネリク2世</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="ja_JP">
+      <Text>新たな文明1つと指導者1人、新しい区域1つ、建造物2つに加え、新ゲームモード「秘密結社」が実装されます。</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="ko_KR">
+      <Text>DLC: 에티오피아 팩</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="ko_KR">
+      <Text>새로운 문명과 지도자 - 에티오피아의 메넬리크 2세</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="ko_KR">
+      <Text>새로운 문명과 지도자, 새로운 특수지구, 새로운 건물 2개 및 비밀 결사 게임 모드를 포함합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="pl_PL">
+      <Text>Zawartość do pobrania: Pakiet Etiopii</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="pl_PL">
+      <Text>Nowa cywilizacja i przywódca – Menelik II, władca Etiopii</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="pl_PL">
+      <Text>Zawiera nową cywilizację i przywódcę, nową dzielnicę, 2 nowe budowle oraz tryb gry „Tajne stowarzyszenie”.</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="ru_RU">
+      <Text>Набор: «Эфиопия»</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="ru_RU">
+      <Text>Новая цивилизация и лидер — Менелик II, негус Эфиопии</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="ru_RU">
+      <Text>Содержит новую цивилизацию с лидером, новый район, два новых здания и режим игры «Тайное общество».</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="zh_Hans_CN">
+      <Text>DLC：埃塞俄比亚包</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="zh_Hans_CN">
+      <Text>新文明和领袖——埃塞俄比亚的孟尼利克二世</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>包含1个新文明和领袖、1个新区域、2个新建筑，以及“秘密结社”模式。</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="es_ES">
+      <Text>DLC: Pack de Etiopía</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="es_ES">
+      <Text>Nueva civilización y líder: Menelik II de Etiopía</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="es_ES">
+      <Text>Contiene una nueva civilización y líder, un nuevo distrito, dos edificios más y el modo de juego Sociedad secreta.</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="zh_Hant_HK">
+      <Text>DLC：衣索比亞包</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="zh_Hant_HK">
+      <Text>新文明和領袖——衣索比亞的孟尼利克二世</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>包含1個新文明和領袖、1個新區域、2個新建築及「祕密結社」遊戲模式。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

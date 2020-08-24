@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ADDIS_ABABA">
+			<Text>Addis Ababa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GONDAR">
+			<Text>Gondar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HARAR">
+			<Text>Harar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AXUM">
+			<Text>Axum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ADWA">
+			<Text>Adwa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LALIBELA">
+			<Text>Lalibela</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MEKELE">
+			<Text>Mekele</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DESSIE">
+			<Text>Dessie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JIMMA">
+			<Text>Jimma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SODO">
+			<Text>Sodo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DIRE_DAWA">
+			<Text>Dire Dawa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ADIGRAT">
+			<Text>Adigrat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_WELDIYA">
+			<Text>Weldiya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANKOBER">
+			<Text>Ankober</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALAMATA">
+			<Text>Alamata</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YIRGALEM">
+			<Text>Yirgalem</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GORE">
+			<Text>Gore</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NEGELE_BORANA">
+			<Text>Negele Borana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GINIR">
+			<Text>Ginir</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DEBARQ">
+			<Text>Debarq</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NEJO">
+			<Text>Nejo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DEBRE_BERHAN">
+			<Text>Debre Berhan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ABIY_ADDI">
+			<Text>Abiy Addi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MERSA">
+			<Text>Mersa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SOQOTA">
+			<Text>Soqota</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAYINT_AJEBAR">
+			<Text>Sayint Ajebar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHENCHA">
+			<Text>Chencha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANTALO">
+			<Text>Antalo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YIFAT">
+			<Text>Yifat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DABAT">
+			<Text>Dabat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DEBRE_SINA">
+			<Text>Debre Sina</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

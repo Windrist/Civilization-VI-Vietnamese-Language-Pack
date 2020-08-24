@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_CONSULATE_NAME">
+			<Text>Consulate</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHANCERY_NAME">
+			<Text>Chancery</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CONSULATE_DESCRIPTION">
+			<Text>+2 Influence Points per turn. Enemy Spy's level is reduced by 1 when targeting this city or cities with Encampments.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHANCERY_DESCRIPTION">
+			<Text>+3 Influence Points per turn.  When this civilization captures or kills an enemy Spy, receive 50 [ICON_Science] Science for every level of the enemy Spy.</Text>
+		</Row>
+		<!--City-States changed by these buildings-->
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Science] Science in the [ICON_Capital] Capital and in every Library building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Science in every University and Consulate building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Science] Science in every Research Lab and Chancery building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Faith] Faith in the [ICON_Capital] Capital and in every Shrine building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Faith in every Temple and Consulate building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Faith] Faith in every worship and Chancery building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Gold] Gold in the [ICON_Capital] Capital and in every Market or Lighthouse building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Gold] Gold in every Bank, Shipyard, and Consulate building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Gold] Gold in every Stock Exchange, Seaport, and Chancery building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Culture] Culture in the [ICON_Capital] Capital and in every Amphitheater building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Culture in every Art Museum, Archeological Museum, and Consulate building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Culture] Culture in every Broadcast Center and Chancery building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Production] Production in the [ICON_Capital] Capital and in every city with a Barracks or Stable when producing units.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Production in every city with an Armory or Consulate building when producing units. Receive +4 [ICON_Production] Production if it has both these buildings.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Production] Production in every city with a Military Academy or Chancery building when producing units. Receive +6 [ICON_Production] Production if it has both these buildings.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Production] Production in the [ICON_Capital] Capital and in every city with a Workshop building when producing wonders, buildings, and districts.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Production in every city with a Factory or Consulate building when producing wonders, buildings, and districts. Receive +4 [ICON_Production] Production if it has both these buildings.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Production] Production in every city with a Chancery or Power Plant building when producing wonders, buildings, and districts. Receive +6 [ICON_Production] Production if it has both a Chancery and a Power Plant building.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

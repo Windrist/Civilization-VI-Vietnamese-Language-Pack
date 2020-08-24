@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Shell -->
+		<Replace Language='en_US' Tag="LOC_BLACKDEATH_SCENARIO_NAME">
+			<Text>Cái chết đen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_BLACKDEATH_SCENARIO">
+			<Text>Cái chết đen tàn phá châu Âu và Tây Á vào giữa thế kỷ 14, giết chết một phần dân số lớn hơn bất kỳ sự kiện nào khác trong lịch sử thế giới. Đại dịch đã giết chết hàng triệu người, các nền kinh tế bị hủy hoại, các triều đại chính trị suy tàn và biến đổi bộ mặt của thế giới phương Tây.[NEWLINE][NEWLINE]Nhiệm vụ của bạn là dẫn dắt quốc gia của bạn vượt qua thảm họa: giữ cho dân số của bạn tồn tại, nền kinh tế của bạn vững mạnh và niềm tin của bạn không bị lung lay giữa một thế giới khủng bố và tuyệt vọng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BLACKDEATH_SCENARIO_HOF_PLAGUE_DEATHS">
+			<Text>Dịch hạch chết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_PLAGUE_DEATHS">
+			<Text>Thành phố dịch hạch chết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_MOST_PLAGUE_DEATHS">
+			<Text>Tỷ lệ tử vong cao nhất thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_MOST_PLAGUE_DEATHS_ANNOTATION">
+			<Text>{Amount: plural 1?{Amount} Chết;other?{Amount} Chết;}</Text>
+		</Replace>
+		<!-- Misc -->
+		<Replace Language='en_US' Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_NAME">
+			<Text>Chiến thắng cái chết đen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_TEXT">
+			<Text>Bạn đã sống sót qua những ngày đen tối của bệnh dịch và nổi lên mạnh mẽ hơn và giác ngộ hơn. Tiến bộ công nghệ và dân sự mà bạn đạt được sẽ soi đường cho sự thịnh vượng của Châu Âu trong nhiều thế kỷ tới!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_TT">
+			<Text>Bạn sẽ giành được chiến thắng này nếu bạn có thể mở khóa Công nghệ phát minh hoặc Civic hạng trung trước khi kịch bản kết thúc.</Text>
+		</Replace>
+		<!-- Map -->
+		<Replace Language='en_US' Tag="LOC_MAPSIZE_BLACKDEATH_SCENARIO_NAME">
+			<Text>Châu Âu thời Trung cổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAPSIZE_BLACKDEATH_SCENARIO_DESCRIPTION">
+			<Text>Một bản đồ nhỏ mô tả Tây Âu như nó có thể đã nhìn vào giữa thế kỷ 14.</Text>
+		</Replace>
+		<!-- Units -->
+		<Replace Language='en_US' Tag="LOC_UNIT_TEUTONIC_KNIGHT_NAME">
+			<Text>Hiệp sĩ Teutonic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_TEUTONIC_KNIGHT_DESCRIPTION">
+			<Text>Đơn vị duy nhất của Đế chế La Mã Thần thánh thay thế cho Kiếm sĩ. Không bảo trì [ICON_Gold] Vàng. +8 [ICON_Strength] Sức mạnh Chiến đấu khi chiến đấu trong lãnh thổ của kẻ thù</Text>
+		</Replace>
+		<!-- France -->
+		<Replace Language='en_US' Tag="LOC_LEADER_BLACKDEATH_SCENARIO_FRANCE_NAME">
+			<Text>Vua Philip VI</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_NAME">
+			<Text>Nước pháp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_DESCRIPTION">
+			<Text>Vương quốc Pháp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ADJECTIVE">
+			<Text>Người Pháp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ABILITY_NAME">
+			<Text>Lãnh đạo Giáo hoàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ABILITY_DESCRIPTION">
+			<Text>Chính phủ Pháp có được một vùng ký tự đại diện đặc biệt 'Chính sách Giáo hoàng'. Khe này là tùy chọn, nhưng tiêu tốn [ICON_Faith] Đức tin mỗi lượt nếu được sử dụng.</Text>
+		</Replace>
+		<!-- England -->
+		<Replace Language='en_US' Tag="LOC_LEADER_BLACKDEATH_SCENARIO_ENGLAND_NAME">
+			<Text>Vua Edward III</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_NAME">
+			<Text>Nước Anh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_DESCRIPTION">
+			<Text>Vương quốc Anh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ADJECTIVE">
+			<Text>Người Anh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ABILITY_NAME">
+			<Text>Cưỡng chế Lao động</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ABILITY_DESCRIPTION">
+			<Text>Tất cả các thành phố ở Anh nhận được lệnh 'Ép buộc': tiêu [ICON_Gold] Vàng để cho phép một viên gạch bị bệnh dịch hạch hoạt động, cải thiện hoặc xây dựng trong 10 lượt.</Text>
+		</Replace>
+		<!-- Holy Roman Empire -->
+		<Replace Language='en_US' Tag="LOC_LEADER_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_NAME">
+			<Text>Hoàng đế Louis IV</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_NAME">
+			<Text>Đế chế La Mã Thần thánh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_DESCRIPTION">
+			<Text>Đế chế La Mã Thần thánh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ADJECTIVE">
+			<Text>Hoàng đế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ABILITY_NAME">
+			<Text>trật tự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ABILITY_DESCRIPTION">
+			<Text>Đơn vị duy nhất của Hiệp sĩ Teutonic thay thế các Kiếm sĩ. Các Hiệp sĩ Teutonic không có duy trì [ICON_Gold] Vàng và +8 [ICON_Strength] Sức mạnh Chiến đấu khi chiến đấu trong lãnh thổ của đối phương.</Text>
+		</Replace>
+		<!-- Castile -->
+		<Replace Language='en_US' Tag="LOC_LEADER_BLACKDEATH_SCENARIO_CASTILE_NAME">
+			<Text>Alfonso XI</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_NAME">
+			<Text>Castile</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_DESCRIPTION">
+			<Text>Vương quốc Castile</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ADJECTIVE">
+			<Text>Castilian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ABILITY_NAME">
+			<Text>Thanh Kiếm của niềm tin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ABILITY_DESCRIPTION">
+			<Text>Tất cả các đơn vị Castilian nhận được lệnh đơn vị 'Nhiệt huyết thánh thiện': mỗi lượt một lần, đơn vị đó có thể sử dụng [ICON_Faith] Đức tin để khôi phục các bước di chuyển và tấn công của mình.</Text>
+		</Replace>
+		<!-- City-States -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BRAGA_NAME">
+			<Text>Braga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BRAGA_DESCRIPTION">
+			<Text>Thành phố Braga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_LISBON_NAME">
+			<Text>Lisbon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_LISBON_DESCRIPTION">
+			<Text>Thành phố Lisbon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FARO_NAME">
+			<Text>Faro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FARO_DESCRIPTION">
+			<Text>Thành phố Faro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PAMPLONA_NAME">
+			<Text>Pamplona</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PAMPLONA_DESCRIPTION">
+			<Text>Thành phố Pamplona</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VALENCIA_NAME">
+			<Text>Valencia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VALENCIA_DESCRIPTION">
+			<Text>Thành phố Valencia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BARCELONA_NAME">
+			<Text>Barcelona</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BARCELONA_DESCRIPTION">
+			<Text>Thành phố Barcelona</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GRENADA_NAME">
+			<Text>Granada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GRENADA_DESCRIPTION">
+			<Text>Thành phố Grenada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PALMA_NAME">
+			<Text>Palma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CORK_NAME">
+			<Text>Cork</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ABERDEEN_NAME">
+			<Text>Aberdeen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_EDINBURGH_NAME">
+			<Text>Edinburgh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MARSEILLES_NAME">
+			<Text>Marseilles</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENEVA_NAME">
+			<Text>Geneva</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MILAN_NAME">
+			<Text>Milan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENOA_NAME">
+			<Text>Genoa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VENICE_NAME">
+			<Text>Venice</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PISA_NAME">
+			<Text>Pisa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ROME_NAME">
+			<Text>Rome</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_NAPLES_NAME">
+			<Text>Naples</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_COPENHAGEN_NAME">
+			<Text>Copenhagen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ALBORG_NAME">
+			<Text>Alborg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STOCKHOLM_NAME">
+			<Text>Stockholm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_KALMAR_NAME">
+			<Text>Kalmar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_OSLO_NAME">
+			<Text>Oslo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STAVANGER_NAME">
+			<Text>Stavanger</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SPLIT_NAME">
+			<Text>Split</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_DUBROVNIK_NAME">
+			<Text>Dubrovnik</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ZAGREB_NAME">
+			<Text>Zagreb</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PRAGUE_NAME">
+			<Text>Prague</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VIENNA_NAME">
+			<Text>Vienna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SZCZECIN_NAME">
+			<Text>Szczecin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GDANSK_NAME">
+			<Text>Gdansk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PALMA_DESCRIPTION">
+			<Text>Thành phố Palma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CORK_DESCRIPTION">
+			<Text>Thành phố Cork</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ABERDEEN_DESCRIPTION">
+			<Text>Thành phố Aberdeen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_EDINBURGH_DESCRIPTION">
+			<Text>Thành phố Edinburgh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MARSEILLES_DESCRIPTION">
+			<Text>Thành phố Marseilles</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENEVA_DESCRIPTION">
+			<Text>Thành phố Geneva</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MILAN_DESCRIPTION">
+			<Text>Thành phố Milan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENOA_DESCRIPTION">
+			<Text>Thành phố Genoa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VENICE_DESCRIPTION">
+			<Text>Thành phố Venice</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PISA_DESCRIPTION">
+			<Text>Thành phố Pisa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ROME_DESCRIPTION">
+			<Text>Thành phố Rome</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_NAPLES_DESCRIPTION">
+			<Text>Thành phố Naples</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_COPENHAGEN_DESCRIPTION">
+			<Text>Thành phố Copenhagen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ALBORG_DESCRIPTION">
+			<Text>Thành phố Alborg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STOCKHOLM_DESCRIPTION">
+			<Text>Thành phố Stockholm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_KALMAR_DESCRIPTION">
+			<Text>Thành phố Kalmar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_OSLO_DESCRIPTION">
+			<Text>Thành phố Oslo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STAVANGER_DESCRIPTION">
+			<Text>Thành phố Stavanger</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SPLIT_DESCRIPTION">
+			<Text>Thành phố Split</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_DUBROVNIK_DESCRIPTION">
+			<Text>Thành phố Dubrovnik</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ZAGREB_DESCRIPTION">
+			<Text>Thành phố Zagreb</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PRAGUE_DESCRIPTION">
+			<Text>Thành phố Prague</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VIENNA_DESCRIPTION">
+			<Text>Thành phố Vienna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SZCZECIN_DESCRIPTION">
+			<Text>Thành phố Szczecin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GDANSK_DESCRIPTION">
+			<Text>Thành phố Gdansk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CITY_STATE_NAME">
+			<Text>Lãnh đạo Bang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_PLAGUE">
+			<Text>Tai họa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_PLAGUE_HELP">
+			<Text>Chuyển đổi ống kính Bệnh dịch.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

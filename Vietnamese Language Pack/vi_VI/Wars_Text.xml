@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_SURPRISE_WAR_NAME">
+			<Text>Chiến tranh bất ngờ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FORMAL_WAR_NAME">
+			<Text>Chiến tranh chính thức</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOLY_WAR_NAME">
+			<Text>Thánh chiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RECONQUEST_WAR_NAME">
+			<Text>Chiến tranh tái diễn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LIBERATION_WAR_NAME">
+			<Text>Chiến tranh giải phóng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEFENSIVE_PACT_NAME">
+			<Text>Hiệp ước phòng thủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_JOINT_WAR_NAME">
+			<Text>Chiến tranh chung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SUZERAIN_WAR_NAME">
+			<Text>Chiến tranh Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROTECTORATE_WAR_NAME">
+			<Text>Bảo vệ chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLONIAL_WAR_NAME">
+			<Text>Chiến tranh thuộc địa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRITORIAL_WAR_NAME">
+			<Text>Chiến tranh lãnh thổ</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

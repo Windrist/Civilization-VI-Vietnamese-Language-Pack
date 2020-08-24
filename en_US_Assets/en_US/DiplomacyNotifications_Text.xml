@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+
+		<!-- Default -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>You have a message</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has sent you a message.</Text>
+		</Replace>
+
+		<!-- Declare Friend -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Declaration of Friendship Request</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has requested to declare a friendship between your civilizations.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Declaration of Friendship Accepted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your declaration of friendship.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Declaration of Friendship Rejected</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your declaration of friendship.</Text>
+		</Replace>
+
+		<!-- Send Delegation -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Diplomatic Delegation Pending</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has asked to send a diplomatic delegation to your [Icon_Capital] capital.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Diplomatic Delegation Accepted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your delegation.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Diplomatic Delegation Rejected</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your delegation.</Text>
+		</Replace>
+
+		<!-- Declare War -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>War Declared</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has declared war on your civilization.</Text>
+		</Replace>
+
+		<!-- Denounce -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>You have been Denounced</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has denounced your civilization.</Text>
+		</Replace>
+
+		<!-- Embassy -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Embassy Requested</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wants to set up an embassy in your capital.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Embassy Accepted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your embassy request.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Embassy Rejected</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your embassy request.</Text>
+		</Replace>
+
+		<!-- Make Alliance -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Alliance Requested</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wants to declare an alliance between your nations.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Alliance Accepted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your alliance request.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Alliance Rejected</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your alliance request.</Text>
+		</Replace>
+
+		<!-- Make Peace -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Request for Peace</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wants to make peace with your civilization.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Peace Accepted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your request for peace.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>War Continues</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your request for peace.</Text>
+		</Replace>
+
+		<!-- Open Borders -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Open Borders Request</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has requested open borders with your civilization.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Open Borders Accepted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your request for open borders.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Open Borders Rejected</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your request for open borders.</Text>
+		</Replace>
+
+		<!-- Warning -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>You have been Warned</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has sent you a warning.</Text>
+		</Replace>
+
+		<!-- Defeat -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEFEAT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Player Defeated</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEFEAT_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has been defeated.</Text>
+		</Replace>
+
+		<!-- Kudo -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>You have a message</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has sent you a message.</Text>
+		</Replace>
+
+		<!-- First Meet -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>You have met another civilization</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>You have met the {1_Civ}.</Text>
+		</Replace>
+
+		<!-- Make Deal -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Deal Proposal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wants to make a deal with your civilization.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Deal Accepted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your deal.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Deal Rejected</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your deal.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_ADJUSTED">
+			<Text>Deal Adjusted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_ADJUSTED">
+			<Text>{1_name} has adjusted your deal.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_DEMANDED">
+			<Text>Deal Demanded</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_DEMANDED">
+			<Text>{1_name} has demanded a deal.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_PROPOSED">
+			<Text>Deal Proposed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_PROPOSED">
+			<Text>{1_name} has proposed a deal.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_EQUALIZE">
+			<Text>Make Deal Fair</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_EQUALIZE">
+			<Text>{1_name} wants you to equalize a deal.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_CLOSED">
+			<Text>Deal Proposal Cancelled</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_CLOSED">
+			<Text>{1_name} canceled negotiation of a deal.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

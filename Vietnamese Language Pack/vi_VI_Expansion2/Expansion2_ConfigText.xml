@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag = "LOC_EXPANSION2_NAME">
+		    <Text>Mở rộng: Gathering Storm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_EXPANSION2_DESCRIPTION">
+		    <Text>Đây là trò chơi sử dụng Bản mở rộng Bão táp thu thập, bao gồm Đại hội thế giới, các hiệu ứng môi trường và thảm họa, sức mạnh, v.v. Bạn có thể đối phó với sự không thể đoán trước của một thế giới đang thay đổi để tạo ra một nền văn minh sẽ đứng vững trước thử thách của thời gian không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_GAME_REALISM">
+		    <Text>Cường độ thiên tai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_GAME_REALISM_DESCRIPTION">
+		    <Text> Đặt cường độ thiên tai. Chọn từ cài đặt 0 (thiên tai ít thường xuyên và dữ dội) đến 4 (thiên tai thường xuyên và dữ dội). Lưu ý rằng trên cài đặt 3 và 4, các vụ phun trào núi lửa nghiêm trọng có thể làm hỏng các ô cách đó hai ô vuông.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_VICTORY_DIPLOMATIC_NAME">
+		    <Text>Chiến thắng ngoại giao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_VICTORY_DIPLOMATIC_TT">
+		    <Text>Bạn cho thế giới thấy rằng hợp tác giữa các quốc gia là cách duy nhất để đạt được hòa bình lâu dài và công bằng. Kiếm được chiến thắng này thông qua sự tôn trọng và Đại hội Thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_VICTORY_DIPLOMATIC_TEXT">
+		    <Text>Hòa hợp và hòa bình thay thế chiến tranh và bạo lực. Sự khác biệt và bất đồng giữa mọi người luôn có thể được giải quyết thông qua thiện chí. Với xung đột phía sau, tương lai chung của chúng ta sẽ mang lại vinh quang gì?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MAP_CONTINENTS_ISLANDS_NAME">
+		    <Text>Châu lục và quần đảo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MAP_PRIMORDIAL_NAME">
+		    <Text>Nguyên thủy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MAP_SPLINTERED_FRACTAL_NAME">
+		    <Text>Splintered Fractal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MAP_TILTED_AXIS_NAME">
+		    <Text>Trục nghiêng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MAP_CONTINENTS_ISLANDS_DESCRIPTION">
+		    <Text>Một vài vùng đất rộng lớn được bao quanh bởi các hòn đảo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MAP_PRIMORDIAL_DESCRIPTION">
+		    <Text>Một bản đồ từ rất sớm với các lục địa và hải đảo không thể đoán trước. Các điều kiện bất ổn hơn tồn tại với các vùng đất thấp ven biển và núi lửa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MAP_SPLINTERED_FRACTAL_DESCRIPTION">
+		    <Text>Một bản đồ có độ ngẫu nhiên cao thường sẽ tạo thành các lục địa và hải đảo mỏng, khó khăn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_MAP_TILTED_AXIS_DESCRIPTION">
+		    <Text>Bản đồ các lục địa có tâm ở cực.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION2_DESCRIPTION">
+		    <Text>Tất cả các vị trí chính sách Ngoại giao trong chính phủ hiện tại được chuyển đổi thành các vị trí Ký tự đại diện. +1 [ICON_FAVOR] Ưu đãi ngoại giao mỗi lượt cho mọi vị trí Ký tự đại diện trong chính phủ của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_CANADA_NAME">
+		    <Text>Canada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_CANADA_ADJECTIVE">
+		    <Text>Canada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_CANADA_DESCRIPTION">
+		    <Text>Đế chế Canada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_LAURIER_NAME">
+		    <Text>Wilfrid Laurier</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_ICE_HOCKEY_RINK_NAME">
+		    <Text>Sân khúc côn cầu trên băng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_ICE_HOCKEY_RINK_DESCRIPTION">
+		    <Text>Mở khóa khả năng xây dựng Sân khúc côn cầu trên băng, duy nhất cho Canada của Builder.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Tiện ích. +1 [ICON_CULTURE] Văn hóa cho từng ô Tundra, Tundra Hills, Snow và Snow Hills liền kề. Cung cấp [ICON_Tourism] Du lịch từ Văn hóa sau khi Chuyến bay được mở khóa. +2 [ICON_FOOD] Thực phẩm và [ICON_PRODUCTION] Sản xuất sau khi môn thể thao chuyên nghiệp được mở khóa. +4 [ICON_CULTURE] Văn hóa nếu gần tòa nhà Sân vận động. Có thể được xây dựng trên Đồi Tundra, Đồi Tundra, Đồi Tuyết và Đồi Tuyết. Mỗi thành phố. +2 Kháng nghị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_FACES_OF_PEACE_NAME">
+		    <Text>Bốn khía cạnh của hòa bình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_FACES_OF_PEACE_DESCRIPTION">
+		    <Text>Không thể tuyên chiến với Thành-Bang hoặc chiến tranh bất ngờ. Canada không thể tuyên bố chiến tranh bất ngờ. Cứ mỗi 100 [ICON_TOURISM] Du lịch mỗi lượt kiếm được 1 [ICON_Favor] Ưu đãi Ngoại giao mỗi lượt. Nhận được +100% [ICON_Favor] Sự ủng hộ về ngoại giao khi hoàn thành thành công Cuộc thi khẩn cấp hoặc được chấm điểm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_LAST_BEST_WEST_NAME">
+		    <Text>Miền Tây đẹp nhất cuối cùng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_LAST_BEST_WEST_DESCRIPTION">
+		    <Text>Cho phép xây dựng trang trại trên địa hình Tundra. Sau khi Civil Engineering được mở khóa, bạn có thể xây dựng Nông trại trên đồi Tundra. Tại Snow, Tundra, Snow Hills và Tundra Hills, tất cả các Mỏ cung cấp +1 [ICON_PRODUCTION] Sản xuất, Lumber Mills cung cấp +1 [ICON_PRODUCTION] Sản xuất, Trại cung cấp +1 [ICON_FOOD] Thực phẩm và tỷ lệ tích lũy tài nguyên chiến lược là +100%. Giảm 50% chi phí mua ô lát ở các dạng địa hình này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_CANADA_MOUNTIE_NAME">
+		    <Text>Mountie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_CANADA_MOUNTIE_DESCRIPTION">
+		    <Text>Đơn vị thời hiện đại duy nhất của Canada. Có thể tạo ra một Vườn quốc gia. +5 [ICON_Strength] Sức mạnh Chiến đấu khi chiến đấu trong vòng 2 ô của Vườn quốc gia. Thêm +5 [ICON_Strength] Sức mạnh Chiến đấu khi chiến đấu trong 2 ô của Vườn quốc gia mà bạn sở hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_NAME">
+		    <Text>Hội thảo của thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION">
+		    <Text>Mỏ sắt và mỏ than tích lũy thêm 2 tài nguyên mỗi lượt. +100% [ICON_PRODUCTION] Sản xuất theo hướng Công binh. Quân sư nhận +2 phí. Các tòa nhà cung cấp thêm lợi suất khi [ICON_POWER] Được cung cấp năng lượng nhận được +4 lợi suất đó. +20% [ICON_PRODUCTION] Sản xuất đối với các tòa nhà Khu công nghiệp. Các tòa nhà ở bến cảng tăng Kho dự trữ Tài nguyên Chiến lược lên +10 ở Tốc độ Chuẩn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
+		    <Text>Mỗi khi bạn tìm thấy thành phố đầu tiên của mình trên một lục địa khác với lục địa quê hương của bạn, bạn sẽ nhận được một đơn vị cận chiến miễn phí và một suất [ICON_TradeRoute] Trade Route. Việc xây dựng bất kỳ Xưởng đóng tàu nào của Hải quân Hoàng gia sẽ cấp cho bạn một bản sao của đơn vị hải quân mạnh nhất mà bạn có thể xây dựng. Nhận được đơn vị duy nhất Redcoat khi nghiên cứu công nghệ Khoa học Quân sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_ITERU_EXPANSION2_DESCRIPTION">
+		    <Text>+15% [ICON_Production] Sản xuất hướng tới các quận và tự hỏi nếu được đặt cạnh Sông. Không bị thiệt hại do lũ lụt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_ELEANOR_NAME">
+		    <Text>Eleanor of Aquitaine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_ELEANOR_LOYALTY_NAME">
+		    <Text>Tòa án tình yêu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_ELEANOR_LOYALTY_DESCRIPTION">
+		    <Text>Các công trình vĩ đại ở các thành phố của Eleanor gây ra -1 Mức độ trung thành mỗi lượt ở các thành phố nước ngoài trong vòng 9 ô. Một thành phố rời bỏ nền văn minh khác do mất Lòng trung thành và hiện đang nhận được nhiều Trung thành nhất mỗi lượt từ nền văn minh của Eleanor bỏ qua bước Thành phố Tự do để gia nhập nền văn minh này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_EXPANSION2_DESCRIPTION">
+		    <Text>Khi thực hiện Cống hiến vào đầu Thời đại Hoàng kim hoặc Thời đại Anh hùng, nhận phần thưởng Tuổi bình thường để cải thiện Điểm Kỷ nguyên ngoài phần thưởng khác. +50% [ICON_Production] Sản xuất đối với các công trình phòng thủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_HUNGARY_NAME">
+		    <Text>Hungary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_HUNGARY_ADJECTIVE">
+		    <Text>Tiếng Hungary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_HUNGARY_DESCRIPTION">
+		    <Text>Đế chế Hungary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_MATTHIAS_CORVINUS_NAME">
+		    <Text>Matthias Corvinus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_BUILDING_THERMAL_BATH_NAME">
+		    <Text>Bồn tắm nước nóng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_BUILDING_THERMAL_BATH_DESCRIPTION">
+		    <Text>Một tòa nhà duy nhất của Hungary. +2 [ICON_AMENITIES] Tiện nghi và +2 [ICON_PRODUCTION] Sản xuất mở rộng đến từng trung tâm thành phố trong vòng 6 ô. Các phần thưởng này áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong vòng 6 ô của trung tâm thành phố không cung cấp thêm phần thưởng.[NEWLINE][NEWLINE]Thành phố này nhận được +3 [ICON_TOURISM] Du lịch và +2 Tiện nghi [ICON_AMENITIES] bổ sung nếu có ít nhất một Khe nứt địa nhiệt ở biên giới của thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_NAME">
+		    <Text>Pearl of the Danube</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_DESCRIPTION">
+		    <Text>+50% [ICON_PRODUCTION] Sản xuất cho các Quận và Tòa nhà được xây dựng bên kia sông từ Trung tâm Thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_RAVEN_KING_NAME">
+		    <Text>Vua quạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_RAVEN_KING_DESCRIPTION">
+		    <Text>Các đơn vị bị tấn công nhận được một khả năng cho chúng +2 [ICON_Movement] Di chuyển và +5 [ICON_Strength] Sức mạnh Chiến đấu. Giảm 75% [ICON_GOLD] Vàng và tài nguyên để nâng cấp các đơn vị Levied. Nếu bạn Levy quân từ một Bang-thành phố nhận được 2 [ICON_ENVOY] Sứ thần với Bang-thành phố đó. Nhận đơn vị duy nhất của Quân đội Đen khi nghiên cứu công nghệ Lâu đài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_HUNGARY_BLACK_ARMY_NAME">
+		    <Text>Quân đội đen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_HUNGARY_BLACK_ARMY_DESCRIPTION">
+		    <Text>Đơn vị thời Trung Cổ độc đáo của Hungary thay thế Courser. +3 [ICON_Strength] Sức mạnh Chiến đấu cho mỗi đơn vị Levied liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_HUNGARY_HUSZAR_NAME">
+		    <Text>Huszár</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_HUNGARY_HUSZAR_DESCRIPTION">
+		    <Text>Đơn vị thời kỳ công nghiệp duy nhất của Hungary thay thế Kỵ binh. +3 [ICON_Strength] Sức mạnh Chiến đấu cho mọi Liên minh đang hoạt động.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_INCA_NAME">
+		    <Text>Inca</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality> 2 </Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_INCA_ADJECTIVE">
+		    <Text>Inca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_INCA_DESCRIPTION">
+		    <Text>Đế chế Inca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_GREAT_MOUNTAINS_NAME">
+		    <Text>Mit’a</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_GREAT_MOUNTAINS_DESCRIPTION">
+		    <Text>Các công dân có thể làm việc trên Núi. Ô núi cung cấp +2 [ICON_PRODUCTION] Sản xuất. +1 [ICON_FOOD] Xếp đồ ăn trên núi cho mỗi Nông trại sân thượng liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_PACHACUTI_NAME">
+		    <Text>Pachacuti</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_TERRACE_FARM_NAME">
+		    <Text>Trang trại sân thượng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_TERRACE_FARM_DESCRIPTION">
+		    <Text>Mở khóa khả năng xây dựng Nông trại trên sân thượng của Người xây dựng, duy nhất cho người Inca.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Thức ăn. Cung cấp +1 [ICON_Housing] Nhà ở cho mỗi hai Trang trại Sân thượng. +1 [ICON_FOOD] Thức ăn cho mỗi ô núi liền kề. Nhận được +2 [ICON_PRODUCTION] Sản lượng cho mỗi quận Aqueduct lân cận. Nhận +1 [ICON_PRODUCTION] Sản lượng nếu tiếp giáp với Nước ngọt và không phải quận Aqueduct. Thực phẩm [ICON_FOOD] Bổ sung khi bạn tiến qua Cây công nghệ và Công nghệ để có được sự tương xứng với các Trang trại Sân thượng khác. Có thể được đặt trên Đồi Cỏ, Đồi Đồng bằng và Đồi Sa mạc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_INCA_WARAKAQ_NAME">
+		    <Text>Warak’aq</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_INCA_WARAKAQ_DESCRIPTION">
+		    <Text>Đơn vị thời Trung Cổ độc nhất của Inca thay thế Skirmisher. Mạnh hơn trong giao tranh tầm xa so với Skirmisher và +1 đòn tấn công bổ sung mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_PACHACUTI_QHAPAQ_NAN_NAME">
+		    <Text>Qhapaq Ñan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_PACHACUTI_QHAPAQ_NAN_DESCRIPTION">
+		    <Text>Các tuyến thương mại [ICON_TradeRoute] Nội địa được +1 [ICON_Food] Thức ăn cho mỗi ô Mountain ở thành phố xuất xứ. Đạt được sự cải thiện Qhapaq Ñan khi công dân Ngoại thương được phát hiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_MOUNTAIN_ROAD_NAME">
+		    <Text>Qhapaq Ñan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_MOUNTAIN_ROAD_DESCRIPTION">
+		    <Text>Mở khóa khả năng Builder để tạo Qhapaq Ñan, duy nhất cho Pachacuti.[NEWLINE][NEWLINE]Hoạt động như một cổng di chuyển trên một dãy núi, cho phép các đơn vị di chuyển vào đó và thoát ra khỏi cổng khác với chi phí là 2 [ICON_Movement] Di chuyển. [ICON_TradeRoute] Các tuyến đường thương mại di chuyển qua đó có thể nhân lên [ICON_Gold] Vàng mà họ nhận được từ các quận tại điểm đến. Chỉ có thể được xây dựng trên một ô Núi liền kề. Không thể bị cướp bóc hoặc loại bỏ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_MALI_NAME">
+		    <Text>Mali</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_MALI_ADJECTIVE">
+		    <Text>Tiếng Malian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_MALI_DESCRIPTION">
+		    <Text>Đế chế Mali</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_MALI_GOLD_DESERT_NAME">
+		    <Text>Các bài hát của Jeli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_MALI_GOLD_DESERT_DESCRIPTION">
+		    <Text>City Centre nhận được +1 [ICON_FAITH] Đức tin và +1 [ICON_FOOD] cho mỗi ô Sa mạc và Đồi sa mạc liền kề. Các mỏ nhận được -1 [ICON_PRODUCTION] Sản lượng và +4 [ICON_GOLD] Vàng. Có thể mua các tòa nhà ở khu Trung tâm Thương mại với [ICON_Faith] Đức tin. -30% [ICON_PRODUCTION] Sản xuất hướng tới việc xây dựng các tòa nhà hoặc đơn vị đào tạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_MANSA_MUSA_NAME">
+		    <Text>Mansa Musa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_SAHEL_MERCHANTS_NAME">
+		    <Text>Người bán Sahel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_SAHEL_MERCHANTS_DESCRIPTION">
+		    <Text>[ICON_TradeRoute] Các tuyến đường quốc tế nhận được +1 [ICON_GOLD] Vàng cho mỗi ô Sa mạc phẳng ở thành phố gốc. Nhận +1 [ICON_TradeRoute] Năng lực giao dịch mỗi khi bạn bước vào Thời kỳ hoàng kim.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_DISTRICT_SUGUBA_NAME">
+		    <Text>Suguba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_DISTRICT_SUGUBA_DESCRIPTION">
+		    <Text>Một quận duy nhất ở Mali chuyên về tài chính và thương mại thay thế Trung tâm Thương mại. Đơn vị, Tòa nhà và Quận rẻ hơn 20% khi mua bằng [ICON_GOLD] Vàng và [ICON_FAITH] Đức tin tại Thành phố này.[NEWLINE][NEWLINE]+2 [ICON_Gold] Phần thưởng vàng cho mỗi Thánh địa liền kề. +2 [ICON_Gold] Tiền thưởng vàng từ một ô chứa Cạnh sông. +1 [ICON_Gold] Tiền thưởng vàng cho mỗi hai ô quận liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_MALI_MANDEKALU_CAVALRY_NAME">
+		    <Text>Kỵ binh Mandekalu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_MALI_MANDEKALU_CAVALRY_DESCRIPTION">
+		    <Text>Đơn vị kỷ nguyên Trung cổ duy nhất của Mali thay thế Hiệp sĩ. Các đơn vị thương nhân không bị cướp bóc nếu chúng nằm trong phạm vi 4 ô của Kỵ binh Mandekalu và trên ô đất. Chiến thắng trong trận chiến mang lại [ICON_GOLD] Vàng bằng 100% [ICON_Strength] Sức mạnh Chiến đấu của đơn vị đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_MAORI_NAME">
+		    <Text>Māori</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality> 2 </Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_MAORI_ADJECTIVE">
+		    <Text>Māori</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_MAORI_DESCRIPTION">
+		    <Text>Đế chế Maori</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_MAORI_MANA_NAME">
+		    <Text>Mana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_MAORI_MANA_DESCRIPTION">
+		    <Text>Bắt đầu trò chơi với công nghệ Thuyền buồm và Đóng tàu được mở khóa và với khả năng nhập ô Đại dương. Các đơn vị tham gia nhận được +2 [ICON_Movement] Di chuyển. Rừng chưa được cải tạo và Rừng nhiệt đới được +1 [ICON_PRODUCTION] sản xuất. +1 [ICON_PRODUCTION] Sản xuất từ ​​Chủ nghĩa trọng thương và +2 [ICON_PRODUCTION] Sản xuất từ ​​Bảo tồn. Thuyền đánh cá cung cấp +1 [ICON_FOOD] Thức ăn và Bom văn hóa cho các ô liền kề. Không thể thu hoạch tài nguyên. [ICON_GreatWriter] Không thể kiếm được Nhà văn xuất sắc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_KUPE_NAME">
+		    <Text>Kupe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_KUPES_VOYAGE_NAME">
+		    <Text>Kupe's Voyage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_KUPES_VOYAGE_DESCRIPTION">
+		    <Text>Bắt đầu trò chơi trong ô Ocean. Nhận Người xây dựng miễn phí và +1 [ICON_Citizen] Dân số khi định cư thành phố đầu tiên của bạn. Cung điện nhận được +3 [ICON_HOUSING] Nhà ở và +1 [ICON_AMENITIES] Tiện ích. +2 [ICON_SCIENCE] Khoa học và +2 [ICON_CULTURE] Văn hóa mỗi lượt trước khi bạn định cư thành phố đầu tiên của mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_BUILDING_MARAE_NAME">
+		    <Text>Marae</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_BUILDING_MARAE_DESCRIPTION">
+		    <Text>Một tòa nhà duy nhất của người Maori. +1 [ICON_CULTURE] Văn hóa và [ICON_FAITH] Đức tin vào tất cả các ô của thành phố này với một đặc điểm nổi bật hoặc kỳ quan thiên nhiên. Sau khi chuyến bay được nghiên cứu, nhận +1 [ICON_TOURISM] Du lịch đến tất cả các ô của thành phố này với một đặc điểm hoặc kỳ quan thiên nhiên. Không tốn chi phí bảo trì. Không có vị trí Công việc tuyệt vời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_MAORI_TOA_NAME">
+		    <Text>Toa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_MAORI_TOA_DESCRIPTION">
+		    <Text>Đơn vị cận chiến thời cổ điển độc đáo của người Maori. Các đơn vị quân địch xung quanh nhận -5 [ICON_STRENGTH] Sức mạnh Chiến đấu. Có thể xây dựng cải tiến Pā duy nhất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_MAORI_PA_NAME">
+		    <Text>Pā</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_MAORI_PA_DESCRIPTION">
+		    <Text>Mở khóa khả năng Toa tạo ra một Pā, duy nhất cho người Maori.[NEWLINE][NEWLINE]Đơn vị chiếm đóng nhận được +4 [ICON_Strength] Sức mạnh Phòng thủ và tự động nhận được 2 lượt công sự. Một đơn vị Maori đang chiếm giữ một Pā sẽ hồi phục ngay cả khi họ vừa di chuyển hoặc tấn công. Phải được xây trên ô Hill.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_EXPANSION2_DESCRIPTION">
+		    <Text>Phần thưởng gần kề chính cho Khuôn viên, Quảng trường Nhà hát và Khu công nghiệp nếu ở cạnh sông. ô liền kề Culture Bomb khi hoàn thành một Bến cảng. +50% [ICON_Production] Sản xuất đối với quận Đập và tòa nhà Flood Barrier.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_OTTOMAN_NAME">
+		    <Text>Ottoman</Text>
+		<Gender>Masculine:the</Gender>
+		<Plurality> 2 </Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_OTTOMAN_ADJECTIVE">
+		    <Text>Ottoman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_OTTOMAN_DESCRIPTION">
+		    <Text>Đế chế Ottoman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD_NAME">
+		    <Text>Bắn phá lớn của Thổ Nhĩ Kỳ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD_DESCRIPTION">
+		    <Text>+50% [ICON_Production] Sản xuất cho các đơn vị bao vây. Tất cả các đơn vị bao vây đều được +5 [ICON_Strength] Sức mạnh Chiến đấu khi chống lại hệ thống phòng thủ của quận. Các thành phố bị chinh phục không mất [ICON_Citizen] Dân số. Các thành phố không do người Ottoman thành lập nhận được +1 [ICON_AMENITIES] Tiện ích và +4 Mức độ trung thành mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_SULEIMAN_NAME">
+		    <Text>Suleiman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_BUILDING_GRAND_BAZAAR_NAME">
+		    <Text>Grand Bazaar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_BUILDING_GRAND_BAZAAR_DESCRIPTION">
+		    <Text>Một tòa nhà độc đáo của người Ottoman. Tích lũy thêm 1 tài nguyên Chiến lược cho mỗi loại tài nguyên Chiến lược khác nhau mà thành phố này đã cải thiện. Nhận 1 [ICON_AMENITIES] Tiện ích cho mỗi tài nguyên Xa xỉ mà thành phố này đã cải thiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_OTTOMAN_BARBARY_CORSAIR_NAME">
+		    <Text>Barbary Corsair</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_OTTOMAN_BARBARY_CORSAIR_DESCRIPTION">
+		    <Text>Đơn vị hải quân thời Trung cổ duy nhất của Ottoman thay thế Binh nhì. Không tốn [ICON_Movement] Di chuyển để đột kích ven biển. Chỉ những người chơi Naval Raiders khác mới có thể nhìn thấy được trừ khi ở gần nó. Tiết lộ Naval Raiders trong tầm nhìn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_SULEIMAN_JANISSARY_NAME">
+		    <Text>Janissary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_SULEIMAN_JANISSARY_DESCRIPTION">
+		    <Text>Đơn vị duy nhất của Thời kỳ Phục hưng Ottoman thay thế Musketman. Bắt đầu với một chương trình khuyến mãi miễn phí. Mạnh hơn và rẻ hơn Musketman. Để đào tạo một Janissary, một thành phố phải có dân số ít nhất là 2. Nếu một thành phố được thành lập bởi người Ottoman và đào tạo một Janissary thì nó sẽ mất dân số.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_SULEIMAN_GOVERNOR_NAME">
+		    <Text>Grand Vizier</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_SULEIMAN_GOVERNOR_DESCRIPTION">
+		    <Text>Thống đốc duy nhất độc quyền với khả năng quân sự và ngoại giao. Nhận đơn vị độc nhất của Janissary khi nghiên cứu công nghệ Thuốc súng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_PHOENICIA_NAME">
+		    <Text>Phoenicia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_PHOENICIA_ADJECTIVE">
+		    <Text>Phoenician</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_PHOENICIA_DESCRIPTION">
+		    <Text>Đế chế Phoenicia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_MEDITERRANEAN_COLONIES_NAME">
+		    <Text>Thuộc địa Địa Trung Hải</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_MEDITERRANEAN_COLONIES_DESCRIPTION">
+		    <Text>Bắt đầu trò chơi với công nghệ Viết [ICON_TechBoosted] Eureka. Các thành phố ven biển do Phoenicia thành lập và nằm trên cùng lục địa với Thủ đô [ICON_Capital] của Phoenicia là 100% Trung thành. Người định cư nhận được +2 [ICON_Movement] Di chuyển và +2 tầm nhìn khi bắt đầu. Người định cư bỏ qua [ICON_Movement] Chi phí di chuyển bổ sung từ việc bắt đầu và xuống tàu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_DIDO_NAME">
+		    <Text>Dido</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_FOUNDER_CARTHAGE_NAME">
+		    <Text>Người sáng lập Carthage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_FOUNDER_CARTHAGE_DESCRIPTION">
+		    <Text>Có thể chuyển Thủ đô [ICON_Capital] ban đầu của họ đến bất kỳ thành phố nào có Cothon mà họ thành lập bằng cách hoàn thành một dự án độc đáo tại thành phố đó. +1 [ICON_TradeRoute] Năng lực của Tuyến đường Thương mại cho mỗi tòa nhà mua sắm chính phủ và khu Trung tâm mua sắm chính phủ. +50% [ICON_Production] Sản xuất đối với các quận trong thành phố có Quảng trường Chính phủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_DISTRICT_COTHON_NAME">
+		    <Text>Cothon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_DISTRICT_COTHON_DESCRIPTION">
+		    <Text>Một quận duy nhất ở Phoenicia cho hoạt động hải quân trong thành phố của bạn. Thay thế quận Harbour và rẻ hơn để xây dựng. Phải được xây dựng trên Bờ biển hoặc Hồ Địa hình tiếp giáp với đất liền.[NEWLINE][NEWLINE]+50% [ICON_PRODUCTION] Sản xuất hướng tới các đơn vị hải quân và Người định cư ở thành phố này. Tất cả các đơn vị hải quân bị thương trong biên giới của thành phố này đều được hồi phục +100 HP mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_PHOENICIA_BIREME_NAME">
+		    <Text>Bireme</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_PHOENICIA_BIREME_DESCRIPTION">
+		    <Text>Đơn vị kỷ nguyên cổ đại duy nhất của người Phoenicia thay thế cho Galley. Tăng [ICON_Strength] Sức mạnh Chiến đấu và [ICON_Movement] Di chuyển. Đơn vị thương nhân không bị cướp bóc nếu chúng nằm trong vòng 4 ô của Bireme và trên ô nước.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_DHARMA_EXPANSION2_DESCRIPTION">
+		    <Text>Nhận tiền thưởng Đức tin của Người theo dõi trong một thành phố từ mỗi Tôn giáo có ít nhất 1 Người theo dõi. Các thành phố có được [ICON_Amenities] Tiện ích cho mọi Tôn giáo có ít nhất 1 người theo dõi. Người truyền giáo có +2 lây lan. +100% Áp lực tôn giáo từ các Lộ trình thương mại [ICON_TradeRoute] của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_STEPWELL_EXPANSION2_DESCRIPTION">
+		    <Text>Mở khóa khả năng của Builder để xây dựng một Stepwell, duy nhất ở Ấn Độ.[NEWLINE][NEWLINE]+1 [ICON_Food] Thức ăn và +1 [ICON_Housing] nhà ở. +1 [ICON_Faith] Đức tin nếu tiếp giáp với khu vực Thánh địa. +1 [ICON_Food] Thức ăn nếu gần Nông trại. Bổ sung [ICON_Housing] Nhà ở, [ICON_Faith] Đức tin và [ICON_Food] Thức ăn khi bạn tiến qua Cây Công nghệ và Công nghệ. Ngăn chặn [ICON_Food] Thực phẩm bị thất thoát khi Hạn hán. Không thể xây dựng trên Hills hoặc liền kề với Stepwell khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_DIVINE_WIND_EXPANSION2_DESCRIPTION">
+		    <Text>Các đơn vị đất nhận được +5 [ICON_Strength] Sức mạnh Chiến đấu trong các ô đất liền kề với Bờ biển; các đơn vị hải quân nhận được +5 [ICON_Strength] Sức mạnh Chiến đấu trong ô nước nông. Xây dựng các quận Encampment, Holy Site và Theater Square trong một nửa thời gian. Các đơn vị không nhận được thiệt hại do Bão. Các nền văn minh đang chiến tranh với Nhật Bản nhận +100% thiệt hại đơn vị do Bão trên lãnh thổ Nhật Bản.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_SATYAGRAHA_EXPANSION2_DESCRIPTION">
+		    <Text>+5 [ICON_Faith] Đức tin và +1 [ICON_Favor] Sự ủng hộ ngoại giao mỗi lượt cho mỗi nền văn minh (bao gồm cả Ấn Độ) mà họ đã gặp đã thành lập một Tôn giáo và hiện không có chiến tranh. Các nền văn minh đối lập nhận gấp đôi sự mệt mỏi của chiến tranh khi chiến đấu chống lại Gandhi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_BUILDING_ELECTRONICS_FACTORY_EXPANSION2_DESCRIPTION">
+		    <Text>Một tòa nhà độc đáo của Nhật Bản. Cung cấp +4 [ICON_Culture] Văn hóa cho thành phố này sau khi nghiên cứu công nghệ Điện. Phần thưởng sản xuất [ICON_Production] của nó được mở rộng cho tất cả các Trung tâm Thành phố trong vòng 6 ô chưa có phần thưởng từ loại tòa nhà này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_FIRST_EMPEROR_EXPANSION2_DESCRIPTION">
+		    <Text>Khi xây dựng các kỳ quan Cổ đại và Cổ điển, bạn có thể chi phí Người xây dựng để hoàn thành 15% chi phí kỳ quan ban đầu. Các nhà xây dựng nhận được một khoản phụ phí. Kênh đào được mở khóa bằng công nghệ Masonry.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_DISTRICT_BATH_EXPANSION2_DESCRIPTION">
+		    <Text>Một quận duy nhất của Rome để phát triển thành phố. Thay thế quận Aqueduct và rẻ hơn để xây dựng.[NEWLINE][NEWLINE]Nó cung cấp cho thành phố này nguồn nước ngọt từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước ngọt hiện có nhận được tối đa 6 [ICON_Housing] Nhà ở. Thay vào đó, các thành phố đã có sẵn nước ngọt sẽ nhận được +2 [ICON_Housing] Nhà ở. Nếu được xây dựng liền kề với Khe nứt địa nhiệt thì +1 [ICON_Amenities] Tiện ích. Trong mọi trường hợp, Bath cung cấp thêm phần thưởng là +2 [ICON_Housing] Nhà ở và +1 [ICON_Amenities] Tiện ích. Ngăn chặn [ICON_Food] Thực phẩm bị thất thoát khi Hạn hán. Phải được xây dựng liền kề với Trung tâm Thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_DISTRICT_BATH_EXPANSION2_ALT_DESCRIPTION">
+		    <Text>Một quận duy nhất của Rome để phát triển thành phố. Thay thế quận Aqueduct và rẻ hơn để xây dựng.[NEWLINE][NEWLINE]Nó cung cấp cho thành phố này nguồn nước ngọt từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước ngọt hiện có nhận được tối đa 6 [ICON_Housing] Nhà ở. Thay vào đó, các thành phố đã có sẵn nước ngọt sẽ nhận được +2 [ICON_Housing] Nhà ở. Nếu được xây dựng liền kề với Khe nứt địa nhiệt thì +1 [ICON_Amenities] Tiện ích. Trong mọi trường hợp, Bath cung cấp thêm phần thưởng là +2 [ICON_Housing] Nhà ở và +1 [ICON_Amenities] Tiện ích. Ngăn chặn [ICON_Food] Thực phẩm bị thất thoát khi Hạn hán. Phải xây dựng liền kề với Trung tâm Thành phố. Các kỹ sư quân sự có thể chi một khoản phí để hoàn thành 20% sản lượng của Bath.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_EXPANSION2_DESCRIPTION">
+		    <Text>Lãnh thổ phụ khi thành lập các thành phố. +1 [ICON_Faith] Đức tin và +1 [ICON_Production] Sản xuất từ ​​Tundra. Các đơn vị không nhận sát thương từ Bão tuyết. Các nền văn minh chiến tranh với Nga nhận +100% thiệt hại đơn vị từ Bão tuyết trên lãnh thổ Nga.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_SWEDEN_NAME">
+		    <Text>Thụy Điển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_SWEDEN_ADJECTIVE">
+		    <Text>Tiếng Thụy Điển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_SWEDEN_DESCRIPTION">
+		    <Text>Đế chế Thụy Điển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_NOBEL_PRIZE_NAME">
+		    <Text>Giải Nobel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_NOBEL_PRIZE_DESCRIPTION">
+		    <Text>Thụy Điển nhận được 50 [ICON_Favor] Ưu đãi ngoại giao khi kiếm được Nhân vật tuyệt vời (ở Tốc độ tiêu chuẩn). Thụy Điển nhận được +1 điểm [ICON_GreatEngineer] Kỹ sư vĩ đại từ các Nhà máy và +1 [ICON_GreatScientist] điểm Nhà khoa học vĩ đại từ các trường Đại học. Có Thụy Điển trong trò chơi sẽ bổ sung thêm ba cuộc thi đấu duy nhất của Đại hội Thế giới bắt đầu trong Kỷ nguyên Công nghiệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_KRISTINA_NAME">
+		    <Text>Kristina</Text>
+		</Replace>.
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_KRISTINA_AUTO_THEME_NAME">
+		    <Text>Minerva của miền Bắc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_KRISTINA_AUTO_THEME_DESCRIPTION">
+		    <Text>Các tòa nhà có ít nhất ba vị trí Great Work và kỳ quan có ít nhất hai vị trí Great Work được tự động theo chủ đề khi chúng đã lấp đầy tất cả các vị trí. Cô ấy có thể xây dựng Bibliotheque của Nữ hoàng trong Quảng trường Chính phủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_OPEN_AIR_MUSEUM_NAME">
+		    <Text>Bảo tàng ngoài trời</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_OPEN_AIR_MUSEUM_DESCRIPTION">
+		    <Text>Mở khóa khả năng Người xây dựng để xây dựng Bảo tàng ngoài trời, duy nhất của Thụy Điển.[NEWLINE][NEWLINE]Cung cấp +2 Mức độ trung thành mỗi lượt ở thành phố này. +2 [ICON_Culture] Văn hóa và +2 [ICON_Tourism] Du lịch cho từng loại địa hình (Tuyết, Đồng bằng, Sa mạc, Đồng bằng hoặc Đồng cỏ) trong đó ít nhất một thành phố của Thụy Điển được thành lập. Mỗi thành phố. Không thể hoán đổi các ô có Bảo tàng ngoài trời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_BUILDING_QUEENS_BIBLIOTHEQUE_NAME">
+		    <Text>Queen's Bibliotheque</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_BUILDING_QUEENS_BIBLIOTHEQUE_DESCRIPTION">
+		    <Text>Một tòa nhà duy nhất của Thụy Điển. Tòa nhà này cung cấp 2 suất [ICON_GreatWork_WRITING] Viết, [ICON_GreatWork_MUSIC] Âm nhạc và bất kỳ loại hình nghệ thuật [ICON_GreatWork_Landscape] nào.[NEWLINE]Giải thưởng +1 [Icon_Governor] Danh hiệu Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_SWEDEN_CAROLEAN_NAME">
+		    <Text>Carolean</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_SWEDEN_CAROLEAN_DESCRIPTION">
+		    <Text>Đơn vị duy nhất trong Kỷ nguyên Phục hưng của Thụy Điển thay thế Pike and Shot. Nhanh hơn Pike và Shot. +3 [ICON_Strength] Sức mạnh chiến đấu cho mỗi lần di chuyển [ICON_Movement] không sử dụng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_ERA_FUTURE_NAME">
+		    <Text>Kỷ nguyên tương lai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_ERA_FUTURE_DESCRIPTION">
+		    <Text>Thế giới chứa đựng những điều kỳ diệu ngoài giấc mơ của các nhà tiên tri cổ đại, và nỗi kinh hoàng đáng sợ hơn bất kỳ ngày tận thế nào. Máy móc tìm kiếm ý nghĩa và vật chất mới dệt nên những hình thức giống như giấc mơ. Những lựa chọn được đưa ra từ lâu đã gánh chịu những hậu quả nghiêm trọng trong thời đại này và đòi hỏi những câu trả lời kiên quyết. Đi ngay bây giờ và đạt được tầm nhìn của bạn cho tương lai của nền văn minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_VICTORY_SCIENCE_TT_XP2">
+		    <Text>Hãy là người đầu tiên hoàn thành Chuyến thám hiểm ngoại hành tinh đến một hệ sao khác để giành chiến thắng Khoa học. Chiến thắng này là điều hiển nhiên, nhưng có thể khó đạt được trước khi hết thời gian.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_NAME">
+		    <Text>Copacabana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_DESCRIPTION">
+		    <Text>Một quận duy nhất ở Brazil. Thay thế khu Công viên nước và cung cấp +2 [ICON_Amenities] Tiện ích. Cũng mở khóa dự án Carnival, dự án này sẽ cấp thêm Tiện ích +1 [ICON_Amenities] khi đang được tiến hành và nhiều điểm [ICON_GreatPerson] Great People sau khi hoàn thành. Không thể xây dựng trong một thành phố có Lễ hội đường phố. Không thể xây dựng trên Reef.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_DISTRICT_STREET_CARNIVAL_EXPANSION2_DESCRIPTION">
+		    <Text>Một quận duy nhất ở Brazil. Thay thế khu Liên hợp Giải trí và cung cấp +2 [ICON_Amenities] Tiện ích. Cũng mở khóa dự án Carnival, dự án này sẽ cấp thêm Tiện ích +1 [ICON_Amenities] khi đang được tiến hành và nhiều điểm [ICON_GreatPerson] Great People sau khi hoàn thành. Không thể xây dựng trong thành phố có Copacabana.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_GREAT_WALL_EXPANSION2_DESCRIPTION">
+		    <Text>Mở khóa khả năng Người xây dựng để xây dựng Vạn Lý Trường Thành, duy nhất ở Trung Quốc.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Vàng. Tăng khả năng phòng thủ [ICON_Strength]. Thưởng [ICON_Gold] Vàng nếu liền kề với các phân khúc khác. Văn hóa [ICON_Culture] và Du lịch [ICON_Tourism] bổ sung khi bạn tiến qua Sơ đồ công nghệ cho các phân đoạn liền kề. Phải được xây dựng trong một hàng dọc theo biên giới của đế chế của bạn. Chỉ có thể bị cướp phá (không bao giờ bị phá hủy) do thiên tai.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION2_DESCRIPTION">
+		    <Text>[ICON_TechBoosted] Eurekas và [ICON_CivicBoosted] Inspirations cung cấp 50% nội dung và công nghệ thay vì 40%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION2_DESCRIPTION">
+		    <Text>Lộ trình giao dịch [ICON_TradeRoute] của bạn tới các nền văn minh khác cung cấp +4 [ICON_Gold] Vàng cho Ai Cập. Các tuyến thương mại [ICON_TradeRoute] của các nền văn minh khác đến Ai Cập cung cấp +2 [ICON_Food] Lương thực cho họ và +2 [ICON_Gold] Vàng cho Ai Cập. Giao dịch với Đồng minh kiếm được số điểm Liên minh thưởng gấp đôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_SPHINX_EXPANSION2_DESCRIPTION">
+		    <Text>Mở khóa khả năng xây dựng Tượng nhân sư, duy nhất cho Ai Cập.[NEWLINE][NEWLINE]+1 [ICON_Faith] Đức tin và +1 [ICON_Culture] Văn hóa. +2 Kháng nghị. +2 [ICON_Faith] Đức tin nếu ở bên cạnh một kỳ quan. +1 [ICON_CULTURE] Văn hóa nếu được xây dựng trên Floodplains. [ICON_CULTURE] Văn hóa bổ sung sau khi Lịch sử Tự nhiên được khám phá. Cung cấp [ICON_TOURISM] Du lịch sau khi nghiên cứu Chuyến bay. Không thể được xây dựng bên cạnh một tượng Nhân sư khác. Không thể xây dựng trên Snow hoặc Snow Hills.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_EXPANSION2_DESCRIPTION">
+		    <Text>Đơn vị tầm xa thời cổ đại độc đáo của Ai Cập. 4 [ICON_Movement] Di chuyển khi bắt đầu ở địa hình thoáng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION2_DESCRIPTION">
+		    <Text>Một quận duy nhất của Anh cho hoạt động hải quân trong thành phố của bạn. Thay thế quận Harbour. Đồng thời loại bỏ hình phạt di chuyển [ICON_Movement] đối với việc bắt và rời khỏi ô này. Phải được xây dựng trên Bờ biển hoặc Hồ Địa hình tiếp giáp với đất liền.[NEWLINE][NEWLINE]+1 [ICON_Movement] Di chuyển cho tất cả các đơn vị hải quân được xây dựng trong Dockyard[NEWLINE]+2 [ICON_Gold] Vàng và +4 Mức độ trung thành mỗi lượt khi được xây dựng trên một lục địa nước ngoài. Không thể xây dựng trên Reef</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_CHATEAU_EXPANSION2_DESCRIPTION">
+		    <Text>Mở khóa khả năng Người xây dựng để xây dựng một Lâu đài, duy nhất của Pháp.[NEWLINE][NEWLINE]+2 [ICON_Culture] Văn hóa. Kháng nghị +1. +1 [ICON_Culture] Văn hóa cho mọi kỳ quan lân cận (trở thành +2 sau khi nghiên cứu Chuyến bay). +1 [ICON_Gold] Vàng cho mọi tài nguyên Xa xỉ liền kề. Cung cấp [ICON_TOURISM] Du lịch sau khi nghiên cứu Chuyến bay. Chỉ có thể được xây dựng gần sông.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION2_DESCRIPTION">
+		    <Text>Khi chiến tranh với kẻ thù chung, họ và đồng minh của họ chia sẻ phần thưởng cướp bóc và chia sẻ kinh nghiệm chiến đấu nếu trong vòng 5 ô. Liên minh của họ đạt được Điểm Liên minh khi chiến tranh với kẻ thù chung.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_BUILDING_ORDU_EXPANSION2_DESCRIPTION">
+		    <Text>Một tòa nhà độc đáo của Mông Cổ. Cấp khả năng +1 [ICON_MOVEMENT] Di chuyển cho Kỵ binh hạng nặng và hạng nhẹ được huấn luyện tại thành phố này. +25% kinh nghiệm chiến đấu cho tất cả các đơn vị kỵ binh được huấn luyện tại thành phố này.[NEWLINE]Kho Tài nguyên Chiến lược tăng +10 (ở Tốc độ Chuẩn).[NEWLINE][NEWLINE]Có thể không được xây dựng trong một quận Đồn điền đã có Doanh trại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_THUNDERBOLT_EXPANSION2_DESCRIPTION">
+		    <Text>Cho phép đột kích ven biển cho tất cả các đơn vị cận chiến của hải quân và +50% [ICON_PRODUCTION] Sản xuất cho tất cả các đơn vị cận chiến của hải quân. Nhận [ICON_SCIENCE] Khoa học từ các mỏ cướp bóc và đánh phá ven biển ngoài [ICON_GOLD] Vàng. Các mỏ đá, đồng cỏ, đồn điền và trại đóng cọc hoặc đánh phá ven biển cung cấp Văn hóa [ICON_CULTURE] bên cạnh Đức tin [ICON_FAITH]. Nhận đơn vị Viking Longship duy nhất với Sailing.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION2_DESCRIPTION">
+		    <Text>Có thể thành lập Hạm đội và Thiết giáp sớm hơn bình thường (Chủ nghĩa Trọng thương). [ICON_TradeRoute] Các tuyến đường giao thương giữa nhiều lục địa nhận được tiền thưởng [ICON_Gold] Vàng cho các tuyến đường đến các nền văn minh khác và tiền thưởng [ICON_Food] Thực phẩm và [ICON_Production] cho các tuyến đường giữa các thành phố của riêng bạn. +2 Mức độ trung thành mỗi lượt đối với các thành phố có nhiệm vụ được cải thiện gần Trung tâm thành phố và không nằm trên lục địa của Thủ đô [ICON_Capital] ban đầu của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_TRAIT_LEADER_EL_ESCORIAL_EXPANSION2_DESCRIPTION">
+		    <Text>Người hỏi có thể loại bỏ Heresy thêm một lần nữa. Những người dò xét loại bỏ 100% sự hiện diện của các Tôn giáo khác. Các đơn vị chiến đấu có phần thưởng là +4 [ICON_Strength] Sức mạnh Chiến đấu so với những người chơi theo các Tôn giáo khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_MISSION_EXPANSION2_DESCRIPTION">
+		    <Text>Mở khóa khả năng Người xây dựng để xây dựng Sứ mệnh, duy nhất cho Tây Ban Nha.[NEWLINE][NEWLINE]+2 [ICON_Faith] Đức tin. +2 [ICON_Faith] Đức tin, +1 [ICON_PRODUCTION] Sản xuất và +1 [ICON_FOod] Thực phẩm nếu ở lục địa khác với Thủ đô [ICON_Capital] của bạn. +1 [ICON_Science] Khoa học cho mọi Khu học xá và Thánh địa lân cận. [ICON_SCIENCE] Khoa học bổ sung sau khi Di sản văn hóa được phát hiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_DISTRICT_HANSA_EXPANSION2_DESCRIPTION">
+		    <Text>Một quận duy nhất ở Đức dành cho hoạt động công nghiệp. Thay thế quận Khu công nghiệp và rẻ hơn để xây dựng.[NEWLINE][NEWLINE]+2 [ICON_Production] Phần thưởng sản xuất cho từng khu Trung tâm Thương mại, Aqueduct, Canal và Dam liền kề. +1 [ICON_Production] Phần thưởng sản xuất cho mỗi tài nguyên liền kề. +1 [ICON_Production] Phần thưởng sản xuất cho mỗi hai ô quận liền kề.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

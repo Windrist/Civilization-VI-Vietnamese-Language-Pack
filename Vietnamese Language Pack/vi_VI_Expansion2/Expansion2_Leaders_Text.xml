@@ -1,0 +1,264 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Agenda Names-->
+		<Replace Language='en_US' Tag = "LOC_AGENDA_ANGEVIN_EMPIRE_NAME">
+		    <Text>Đế chế Angevin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_CANADIAN_EXPEDITIONARY_NAME">
+		    <Text>Lực lượng viễn chinh Canada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_KAITIAKITANGA_NAME">
+		    <Text>Kaitiakitanga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_LAWGIVER_NAME">
+		    <Text>Người làm luật</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_LORD_OF_MINES_NAME">
+		    <Text>Lord of the Mines</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_RAVEN_BANNER_NAME">
+		    <Text>Biểu ngữ hình con quạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_PATRON_OF_ARTS_NAME">
+		    <Text>Bibliophile</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_SAPA_INCA_NAME">
+		    <Text>Sapa Inca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_SICILIAN_WARS_NAME">
+		    <Text>Chiến tranh Sicilia</Text>
+		</Replace>
+		<! - Tên chương trình ngẫu nhiên ->
+		<Replace Language='en_US' Tag = "LOC_AGENDA_DEMAGOGUE_NAME">
+		    <Text>Nhân tướng học</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_DESTINATION_CIV_NAME">
+		    <Text>Công dân đích thực</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_EXPANSIONIST_NAME">
+		    <Text>Người bành trướng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_FLAT_EARTHER_NAME">
+		    <Text>Flat Earther</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_GREAT_WHITE_FLEET_NAME">
+		    <Text>Hạm đội trắng vĩ đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_INTOLERANT_NAME">
+		    <Text>Không dung hòa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_LIBERTARIAN_NAME">
+		    <Text>Người theo chủ nghĩa tự do</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_PILLAGER_NAME">
+		    <Text>Kẻ cướp bóc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_TURTLER_NAME">
+		    <Text>Kẻ chậm chạp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_ZEALOT_NAME">
+		    <Text>Nhiệt huyết</Text>
+		</Replace>
+				<!--Agenda Description-->
+		<Replace Language='en_US' Tag = "LOC_AGENDA_ANGEVIN_EMPIRE_DESCRIPTION">
+		    <Text>Xây dựng các thành phố đông dân. Thích các nền văn minh có các thành phố lân cận có dân số [ICON_Citizen] cao. Không thích các nền văn minh có các thành phố nhỏ gần đó có thể dễ dàng trở nên không trung thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_CANADIAN_EXPEDITIONARY_DESCRIPTION">
+		    <Text>Đáp ứng càng nhiều trường hợp khẩn cấp và các cuộc thi được chấm điểm càng tốt. Thích những người cũng tham gia vào các hoạt động đó; không thích những người chưa tham gia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_KAITIAKITANGA_DESCRIPTION">
+		    <Text>Giữ lại các đặc điểm tự nhiên trong đế chế của họ và xây dựng Công viên Quốc gia. Thích những công dân tôn trọng môi trường; không thích những người đối xử tệ với hành tinh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_LAWGIVER_DESCRIPTION">
+		    <Text>Giữ cho công dân của mình hạnh phúc và trung thành. Ấn tượng với những người có mức độ ưu tiên tương tự, đặc biệt nếu thành phố của họ được thành lập bởi nhiều người chơi. Không thích những người có vấn đề về hạnh phúc/lòng trung thành hoặc ít thành phố chiếm được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_LORD_OF_MINES_DESCRIPTION">
+		    <Text>Cố gắng tối đa hóa sản lượng vàng [ICON_Gold] từ các thành phố và [ICON_TradeRoute] Lộ trình thương mại. Tôn trọng những nền văn minh có hành động tương tự, không thích những nền văn minh không hành động.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_RAVEN_BANNER_DESCRIPTION">
+		    <Text>Đánh quân từ các thành bang. Thích những nền văn minh cũng sử dụng quân đội thành bang, không thích những nền văn minh xa lánh những người lính đánh thuê như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_PATRON_OF_ARTS_DESCRIPTION">
+		    <Text>Muốn có nhiều Tác phẩm tuyệt vời hơn bất kỳ ai khác. Thích những người để lại nhiều Tác phẩm tuyệt vời cho cô ấy, không thích những người cũng có nhiều Tác phẩm tuyệt vời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_SAPA_INCA_DESCRIPTION">
+		    <Text>Muốn định cư gần Núi. Thích những người để lại các khu vực gần Núi cho anh ta, không thích những người cũng định cư gần Núi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_SICILIAN_WARS_DESCRIPTION">
+		    <Text>Muốn định cư các thành phố ven biển. Thích những người định cư trong đất liền. Không thích những người có hầu hết các thành phố ven biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+		    <Text>Không bao giờ từ bỏ các mặt hàng trong một thỏa thuận hòa bình và thích những nền văn minh phù hợp với cách tiếp cận đó. Không thích các nền văn minh đã đầu hàng hoặc chưa từng tham chiến. Sự bất bình chống lại nhà lãnh đạo này giảm xuống với tốc độ gấp đôi bình thường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_DEMAGOGUE_DESCRIPTION">
+		    <Text>Muốn trở thành nền văn minh kiếm được nhiều [ICON_FAVOR] Sự ủng hộ ngoại giao nhất, không thích những người cạnh tranh trong [ICON_FAVOR] Sự ủng hộ Ngoại giao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_DESTINATION_CIV_DESCRIPTION">
+		    <Text>Muốn trở thành nền văn minh với Du lịch [ICON_Tourism] nhất, không thích những người cạnh tranh trong [ICON_Tourism] Du lịch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_FLAT_EARTHER_DESCRIPTION">
+		    <Text>Muốn chặn loài người đi vòng quanh địa cầu hoặc đi vào không gian.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_LIBERTARIAN_DESCRIPTION">
+		    <Text>Không thích bất kỳ nền văn minh nào nỗ lực để giành được Chiến thắng Ngoại giao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_PILLAGER_DESCRIPTION">
+		    <Text>Cố gắng cướp càng nhiều ô càng tốt. Tôn trọng các nền văn minh khác cướp bóc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_TURTLER_DESCRIPTION">
+		    <Text>Muốn giữ an toàn trước cuộc chinh phục. Không thích những người đã chinh phục thủ đô ban đầu của người chơi khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_AGENDA_ZEALOT_DESCRIPTION">
+		    <Text>Cố gắng đạt được một chiến thắng tôn giáo. Thích những công dân đã theo tôn giáo của họ.</Text>
+		</Replace>
+		<! - Thành-phố ->
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_AKKAD_NAME">
+		    <Text>Akkad</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_AKKAD_DESCRIPTION">
+		    <Text>Bang-thành phố Akkad</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_AKKAD_ADJECTIVE">
+		    <Text>Tiếng Akkadian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_AKKAD_NAME">
+		    <Text>Tiền thưởng Akkad Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_AKKAD_DESCRIPTION">
+		    <Text>Các cuộc tấn công của đơn vị cận chiến và chống kỵ binh gây sát thương hoàn toàn cho Tường thành của thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_BOLOGNA_NAME">
+		    <Text>Bologna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_BOLOGNA_DESCRIPTION">
+		    <Text>Bologna Thành phố-Tiểu bang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_BOLOGNA_NAME">
+		    <Text>Tiền thưởng Bologna Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_BOLOGNA_DESCRIPTION">
+		    <Text>Các quận của bạn có tòa nhà cung cấp +1 [ICON_GreatPerson] Điểm Người vĩ đại thuộc loại của họ ([ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatArtist] Nghệ sĩ vĩ đại và [ICON_GreatMusician] Nhạc sĩ vĩ đại cho các quận Quảng trường Nhà hát có tòa nhà).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_BOLOGNA_ADJECTIVE">
+		    <Text>Bolognese</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_CAHOKIA_NAME">
+		    <Text>Cahokia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_CAHOKIA_DESCRIPTION">
+		    <Text>Cahokia Thành phố-Tiểu bang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_CAHOKIA_ADJECTIVE">
+		    <Text>Cahokian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_CAHOKIA_NAME">
+		    <Text>Tiền thưởng Cahokia Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_CAHOKIA_DESCRIPTION">
+		    <Text>Giờ đây, những người xây dựng của bạn có thể cải tiến Cahokia Mounds.[NEWLINE][NEWLINE]Cahokia Mounds cung cấp +3 [ICON_GOLD] Vàng. Các thành phố nhận được +1 [ICON_AMENITIES] Tiện ích từ việc cải tiến Cahokia Mound đầu tiên của họ. Sau khi khám phá Lịch sử tự nhiên, các thành phố nhận được +1 [ICON_AMENITIES] Tiện ích từ việc cải thiện Cahokia Mound thứ hai của họ. +1 [ICON_FOOD] Thức ăn cho mỗi 2 Quận liền kề sau khi Chế độ phong kiến ​​được phát hiện hoặc cho mọi Quận lân cận sau khi Bộ phận có thể thay thế được nghiên cứu. Cung cấp +1 [ICON_HOUSING] Nhà ở. Nhận thêm [ICON_HOUSING] Nhà ở sau khi Di sản Văn hóa được phát hiện. Không thể xây dựng liền kề với các gò Cahokia khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_CARDIFF_NAME">
+		    <Text>Cardiff</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_CARDIFF_DESCRIPTION">
+		    <Text>Cardiff Thành phố-Tiểu bang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_CARDIFF_ADJECTIVE">
+		    <Text>Cardiffian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_CARDIFF_NAME">
+		    <Text>Tiền thưởng cho Cardiff Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_CARDIFF_DESCRIPTION">
+		    <Text>Các thành phố nhận được +2 [ICON_Power] Power cho mỗi tòa nhà ở Cảng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_FEZ_NAME">
+		    <Text>Fez</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_FEZ_DESCRIPTION">
+		    <Text>Fez Thành phố-Tiểu bang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_FEZ_ADJECTIVE">
+		    <Text>Fez</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_FEZ_NAME">
+		    <Text>Tiền thưởng Fez Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_FEZ_DESCRIPTION">
+		    <Text>Khi bạn sử dụng một đơn vị tôn giáo để chuyển đổi một thành phố lần đầu tiên, bạn kiếm được 20 [ICON_SCIENCE] Khoa học trên mỗi [ICON_Citizen] Dân số của thành phố đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_MEXICO_CITY_NAME">
+		    <Text>Thành phố Mexico</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_MEXICO_CITY_DESCRIPTION">
+		    <Text>Thành phố Mexico City-bang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_MEXICO_CITY_ADJECTIVE">
+		    <Text>Thành phố Mexico</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_HATTUSA_EXPANSION2_DESCRIPTION">
+		    <Text>Cung cấp cho bạn 2 trong số mỗi tài nguyên Chiến lược mỗi lượt mà bạn đã tiết lộ nhưng không được cải thiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_MEXICO_CITY_NAME">
+		    <Text>Tiền thưởng Suzerain của Thành phố Mexico</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_MEXICO_CITY_DESCRIPTION">
+		    <Text>Hiệu ứng khu vực từ các quận Khu công nghiệp và Khu phức hợp giải trí của bạn đạt đến 3 ô xa hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_NAZCA_NAME">
+		    <Text>Nazca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_NAZCA_DESCRIPTION">
+		    <Text>Thành phố Nazca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_NAZCA_ADJECTIVE">
+		    <Text>Nazca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_NAZCA_NAME">
+		    <Text>Tiền thưởng Nazca Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_NAZCA_DESCRIPTION">
+		    <Text>Giờ đây, những người xây dựng của bạn có thể cải tiến Đường Nazca.[NEWLINE][NEWLINE]Đường Nazca cung cấp +1 [ICON_Faith] Đức tin cho các ô liền kề. +1 [ICON_Faith] Đức tin vào các ô liền kề với một tài nguyên. +1 [ICON_FOOD] Thức ăn cho các ô Sa mạc và Đồi sa mạc liền kề sau khi khám phá Dịch vụ dân sự. +1 [ICON_PRODUCTION] Sản xuất ô phẳng liền kề sau khi nghiên cứu Sản xuất hàng loạt. Kháng nghị +1. Chỉ có thể được xây dựng trên Sa mạc bằng phẳng. Ô này không thể hoạt động được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_NGAZARGAMU_NAME">
+		    <Text>Ngazargamu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_NGAZARGAMU_DESCRIPTION">
+		    <Text>Ngazargamu Thành phố-Tiểu bang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_NGAZARGAMU_ADJECTIVE">
+		    <Text>Ngazargamu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_NGAZARGAMU_NAME">
+		    <Text>Tiền thưởng Ngazargamu Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_NGAZARGAMU_DESCRIPTION">
+		    <Text>Đơn vị hỗ trợ hoặc chiến đấu trên bộ rẻ hơn 20% khi mua [ICON_GOLD] Vàng cho mỗi tòa nhà của quận Trại giam trong thành phố đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_RAPA_NUI_NAME">
+		    <Text>Rapa Nui</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_RAPA_NUI_DESCRIPTION">
+		    <Text>Thành phố-bang Rapa Nui</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_RAPA_NUI_ADJECTIVE">
+		    <Text>Rapa Nui</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_RAPA_NUI_NAME">
+		    <Text>Tiền thưởng Rapa Nui Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_RAPA_NUI_DESCRIPTION">
+		    <Text>Người xây dựng của bạn hiện có thể cải tiến Moai.[NEWLINE][NEWLINE]Moai cung cấp +1 [ICON_Culture] Văn hóa. +1 [ICON_Culture] Văn hóa cho mỗi 2 Moai liền kề. +2 [ICON_Culture] Nuôi cấy nếu trên hoặc liền kề với ô Đất núi lửa. +1 [ICON_Culture] Văn hóa nếu tiếp giáp với ô Bờ biển hoặc Hồ. Văn hóa [ICON_Culture] và Du lịch [ICON_Tourism] bổ sung khi bạn tiến bộ qua Cây công nghệ và công nghệ. Có thể được xây dựng trên Bình nguyên, Đồi bình nguyên, Đồng cỏ, Đồi đồng cỏ hoặc Đất núi lửa. Không thể đặt liền kề với ô Rừng hoặc Rừng nhiệt đới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_ARMAGH_EXPANSION2_DESCRIPTION">
+		    <Text>Những người xây dựng của bạn hiện có thể cải tiến Tu viện.[NEWLINE][NEWLINE]Tu viện cung cấp +2 [ICON_Faith] Đức tin. +15 HP hồi phục cho đơn vị tôn giáo thân thiện trên ô chưa tấn công lượt này. +1 [ICON_FAITH] Đức tin cho mỗi 2 Quận liền kề. Cung cấp +1 [ICON_HOUSING] Nhà ở. Nhận thêm [ICON_HOUSING] Nhà ở sau khi Chủ nghĩa Thực dân được phát hiện. Không thể xây dựng bên cạnh Tu viện khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_LA_VENTA_EXPANSION2_DESCRIPTION">
+		    <Text>Người xây dựng của bạn hiện có thể thực hiện các cải tiến của Đầu khổng lồ.[NEWLINE][NEWLINE]Đầu khổng lồ cung cấp +2 [ICON_Faith] Đức tin. +1 [ICON_Faith] Đức tin cho mỗi 2 Rừng nhiệt đới liền kề hoặc cho mọi Rừng nhiệt đới liền kề sau khi Chủ nghĩa nhân văn được phát hiện. +1 [ICON_Faith] Đức tin cho mỗi 2 Rừng liền kề hoặc cho mọi Rừng liền kề sau khi Chủ nghĩa Nhân văn được phát hiện. [ICON_TOURISM] Du lịch từ [ICON_FAITH] Đức tin khi Chuyến bay được khám phá. Không thể xây dựng trên Tuyết hoặc Đồi Tuyết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag = "LOC_LEADER_TRAIT_GRANADA_EXPANSION2_DESCRIPTION">
+		    <Text>Giờ đây, những người xây dựng của bạn có thể cải tiến Alcázar.[NEWLINE][NEWLINE]Alcázars cung cấp +2 [ICON_Culture] Culture. Cung cấp [ICON_SCIENCE] Khoa học bằng 50% Mức độ hấp dẫn của ô. Đơn vị chiếm đóng nhận được +4 [ICON_Strength] Sức mạnh Phòng thủ và tự động nhận được 2 lượt công sự. Cung cấp [ICON_TOURISM] Du lịch sau khi nghiên cứu Chuyến bay. Không thể được xây dựng bên cạnh Alcázar khác.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Bull Moose Teddy-->
+		<Row Tag="LOC_AGENDA_BULL_MOOSE_NAME">
+			<Text>The Bull Moose</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BULL_MOOSE_DESCRIPTION">
+			<Text>Wants to settle near high appeal tiles and build high appeal districts and wonders, and likes those who do the same. Dislikes anyone that embraces low appeal territory.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>I hear you’ve got some capital hiking over there.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>We are defined by how we live with our surroundings. Remember that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(You have many high Appeal areas within your empire)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(You do not have enough high Appeal areas within your empire.)</Text>
+		</Row>
+		<!-- Rough Rider Teddy -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>If I must choose between righteousness and peace, I choose righteousness.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>I wanted to avoid this, you know, but your idea of peace left me no choice.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Congratulations. Instead of the United States of America, your nation will go far.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>I can't say no to that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>You have earned my respect. Shall we declare our friendship?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>You have my thanks.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>That is too bad.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>I welcome your delegation to the great United States of America.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>We must decline.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>It’s good to see you. My diplomatic delegation should be arriving soon with some fresh-baked apple pies. I’m sure you’ll give them a warm welcome.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>How dare you!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>I cannot abide a ruler without dignity, and the world must be made aware. (Denounces You)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Welcome to the United States of America. If you conduct yourself well, you can consider us friends.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>We have a city nearby. Would you like to visit? I could show you the stuffed bears that are now so popular.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>I can't say no to that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>I’d like to exchange information about our capitals; promote free trade between our nations, and all that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Go on, then.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>You have earned my respect. Shall we form an alliance?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>It is the duty of our nation to guard its own rights and interests. That work is done; let us go forth in peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>You cannot be serious!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>I protected the nation’s interests and guarded our rights. That work is done. Now, we can live in peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>We are happy to open up our borders to your units.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Will you allow our units to cross through your territory?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>You march your troops so close to our borders that I am beginning to question your integrity.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>Thanks for keeping the peace on the continent. Bully for you!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY">
+			<Text>(You have kept the peace on his home continent)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ROUGHRIDER_ANY">
+			<Text>No man is above the law. It behooves you to remember that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_ROUGHRIDER_REASON_ANY">
+			<Text>(You have attacked someone on his home continent.)</Text>
+		</Row>
+	</EnglishText>
+</GameData>

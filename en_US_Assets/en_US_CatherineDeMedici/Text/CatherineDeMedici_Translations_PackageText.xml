@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="pt_BR">
+      <Text>DLC: Pacote da Personalidade Catarina de Médici</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="pt_BR">
+      <Text>Personalidades Catarina de Médici (Rainha Negra) e Catarina de Médici (Magnificência)</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="pt_BR">
+      <Text>Contém as personalidades Catarina de Médici (Rainha Negra) e Catarina de Médici (Magnificência), cada uma com diferente aparência, habilidade e estilo de jogo.</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="fr_FR">
+      <Text>Contenu téléchargeable : pack de personnalités Catherine de Médicis</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="fr_FR">
+      <Text>Personnalités "Reine noire" et "Magnifique" pour Catherine de Médicis</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="fr_FR">
+      <Text>Contient les personnalités "Reine noire" et "Magnifique" pour Catherine de Médicis, avec chacune leurs propres apparences, capacités et styles de jeu.</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="de_DE">
+      <Text>DLC: Katharina von Medici-Paket</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="de_DE">
+      <Text>Katharina von Medici (Schwarze Königin) und Katharina von Medici (Erhabenheit)</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="de_DE">
+      <Text>Enthält Katharina von Medici (Schwarze Königin) und Katharina von Medici (Erhabenheit); jede Version verfügt über individuelles Aussehen, Fähigkeiten und Spielstil.</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="it_IT">
+      <Text>DLC: Pacchetto personaggio Caterina de' Medici</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="it_IT">
+      <Text>Personaggi Caterina de' Medici (Regina nera) e Caterina de' Medici (la Magnifica)</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="it_IT">
+      <Text>Contiene i personaggi Caterina de' Medici (Regina nera) e Caterina de' Medici (la Magnifica), ognuna con un aspetto, abilità e uno stile di gioco peculiari.</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="ja_JP">
+      <Text>DLC: カトリーヌ・ド・メディシス パーソナリティ・パック</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="ja_JP">
+      <Text>カトリーヌ・ド・メディシスの2つの異なる側面、カトリーヌ・ド・メディシス (黒妃)とカトリーヌ・ド・メディシス (麗妃)  </Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="ja_JP">
+      <Text>カトリーヌ・ド・メディシス (黒妃) とカトリーヌ・ド・メディシス (麗妃) が追加されます。カトリーヌ・ド・メディシスのこの2つの異なる側面は、容姿、能力、プレイスタイルがそれぞれ異なります。  </Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="ko_KR">
+      <Text>DLC: 카트린 데메디치 페르소나 팩</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="ko_KR">
+      <Text>카트린 데메디치(검은 여왕) 및 카트린 데메디치(위엄) 페르소나</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="ko_KR">
+      <Text>카트린 데메디치(검은 여왕) 및 카트린 데메디치(위엄) 페르소나가 들어 있으며, 각 페르소나는 고유한 모습, 능력, 플레이 스타일을 지닙니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="pl_PL">
+      <Text>Zawartość do pobrania: Pakiet wariantów Katarzyny Medycejskiej</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="pl_PL">
+      <Text>Dodatkowe warianty Katarzyny Medycejskiej: Katarzyna Medycejska (Czarna Królowa) i Katarzyna Medycejska (Magnificencja).</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="pl_PL">
+      <Text>Zawiera dodatkowe warianty Katarzyny Medycejskiej – Czarną Królową i Magnificencję – różniące się wyglądem, umiejętnościami i stylem gry.</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="ru_RU">
+      <Text>Набор «Персона: Екатерина Медичи»</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="ru_RU">
+      <Text>Личности: Екатерина Медичи (Черная королева) и Екатерина Медичи (Великолепная)</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="ru_RU">
+      <Text>Включает двух новых личностей: Екатерину Медичи (Черную королеву) и Екатерину Медичи (Великолепную). У каждой из них своя уникальная внешность, способность и стиль игры.</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="zh_Hans_CN">
+      <Text>DLC：凯瑟琳·德·美第奇领袖包</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="zh_Hans_CN">
+      <Text>凯瑟琳·德·美第奇（黑王后）及凯瑟琳·德·美第奇（寻欢作乐）</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>包含凯瑟琳·德·美第奇（黑王后）及凯瑟琳·德·美第奇（寻欢作乐）。每个版本皆有独特外观、能力及玩法。</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="es_ES">
+      <Text>Contenido descargable: pack de personalidades de Catalina de Médici</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="es_ES">
+      <Text>Las personalidades Catalina de Médici (Reina negra) y Catalina de Médici (de la magnificencia)</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="es_ES">
+      <Text>Incluye las personalidades Catalina de Médici (Reina negra) y Catalina de Médici (de la magnificencia), cada una con su aspecto, habilidad y estilo de juego únicos.</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="zh_Hant_HK">
+      <Text>DLC：凱薩琳‧德‧麥地奇造型包</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="zh_Hant_HK">
+      <Text>凱薩琳‧德‧麥地奇（黑女王）及凱薩琳‧德‧麥地奇（雍容華貴）造型</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>包含凱薩琳‧德‧麥地奇（黑女王）及凱薩琳‧德‧麥地奇（雍容華貴）造型，每個都有自己的獨特外觀、能力與遊玩風格。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

@@ -1,0 +1,92 @@
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_TECH_BUTTRESS_NAME">
+			<Text>Buttress</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_REFINING_NAME">
+			<Text>Tinh luyện</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+			<Text>Cấp khả năng xây dựng thêm một Điệp viên. +25% [ICON_Tourism] Du lịch khắp đế chế của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_SEASTEADS_NAME">
+			<Text>Seasteads</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_SEASTEADS_DESCRIPTION">
+			<Text>Giải thưởng 1 điểm Chiến thắng Ngoại giao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_ADVANCED_AI_NAME">
+			<Text>Trí thông minh nhân tạo cao cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_ADVANCED_AI_DESCRIPTION">
+			<Text>Mở khóa nâng cấp Robot Tử thần khổng lồ: Phòng không Drone [NEWLINE] +100 [ICON_AntiAir_Large] Sức mạnh phòng không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_ADVANCED_POWER_CELLS_NAME">
+			<Text>Tế bào năng lượng nâng cao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_ADVANCED_POWER_CELLS_DESCRIPTION">
+			<Text>Lượng khí thải CO2 từ các thiết bị giảm 50%. Mở khóa nâng cấp Robot tử thần khổng lồ: Pháo bao vây tia hạt[NEWLINE]Các cuộc tấn công phạm vi nhằm vào Thành phố và Trại giam có hiệu quả 100% và nhận được +30 [ICON_Ranged] Sức mạnh phạm vi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_CYBERNETICS_NAME">
+			<Text>Điều khiển học</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_CYBERNETICS_DESCRIPTION">
+			<Text>Mở khóa nâng cấp Robot tử thần khổng lồ: Khả năng di chuyển nâng cao [NEWLINE] +3 [ICON_Movement] Di chuyển. Có thể thực hiện hành động Nhảy để vượt qua địa hình núi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_SMART_MATERIALS_NAME">
+			<Text>Vật liệu thông minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_SMART_MATERIALS_DESCRIPTION">
+			<Text>Mở khóa nâng cấp Robot tử thần khổng lồ: Mạ giáp gia cố[NEWLINE]+10 [ICON_Strength] Sức mạnh chiến đấu khi phòng thủ trước các đơn vị trên bộ và hải quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_PREDICTIVE_SYSTEMS_NAME">
+			<Text>Hệ thống dự đoán</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_PREDICTIVE_SYSTEMS_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản xuất cải tiến mỏ đá, giếng dầu và giàn khoan dầu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_OFFWORLD_MISSION_NAME">
+			<Text>Sứ mệnh ngoài thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_FUTURE_TECH_XP2_DESCRIPTION">
+			<Text>Có thể hoàn thành nhiều lần, tăng điểm của bạn đối với Điểm Chiến thắng. Đồng thời cấp cho tất cả các thành phố của bạn +5% [ICON_Production] Sản xuất cho các dự án thành phố mỗi khi hoàn thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+			<Text>Xây dựng 2 nhà máy điện dầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_BUTTRESS">
+			<Text>Xây dựng một kỷ nguyên Cổ điển hoặc kỳ quan sau này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_BUTTRESS">
+			<Text>Bây giờ bạn đã hoàn thành một kỳ quan của thế giới cổ điển, các kiến trúc sư của bạn sẽ xây dựng gì tiếp theo?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_REFINING">
+			<Text>Xây dựng 2 nhà máy điện than</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_REFINING">
+			<Text>Quốc gia của bạn hiện đã được cung cấp năng lượng. Tuy nhiên, các nhà khoa học của bạn đã làm việc chăm chỉ để phát triển các nguồn năng lượng thay thế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_CASTLES">
+			<Text>Thông qua chính phủ với 6 vùng chính sách cố hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+			<Text>Thông qua một chính phủ với 8 khe chính sách vốn có.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_MUST_STEAL_NO_GREAT_SCIENTIST">
+			<Text>Tăng cường thông qua Gián điệp.</Text>
+		</Replace>
+		<!--Updates-->
+		<Replace Language='en_US' Tag="LOC_TECH_GUNPOWDER_DESCRIPTION">
+			<Text>Cải tiến mỏ đá nhận được +1 [ICON_Production] Sản xuất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+			<Text>Nâng cấp cải tiến Nông trại lên Nông nghiệp cơ giới hóa. +1 [ICON_Food] Phần thưởng gần kề về thực phẩm cho mỗi lần cải tiến Trang trại mà họ tiếp cận. Cải tiến đồng cỏ nhận được +1 [ICON_Production] Sản xuất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+			<Text>Cải tạo đồng cỏ nhận được +1 [ICON_Food] Thức ăn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Vàng để cắm trại.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

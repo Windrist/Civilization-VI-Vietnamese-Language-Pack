@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_MONTEZUMA">
+			<Text>Tlatoani Montezuma, hãy giữ những Chiến Binh Đại Bàng của ngài thật vui vẻ và ấm no, và họ sẽ mãi mãi chiến đấu vì mục tiêu của ngài. Khi Đế Chế Aztec của ngài giương cờ tung hoành thiên hạ, ngài sẽ không bao giờ muốn người của mình phải dè chừng phòng thủ, vì ngài sẽ luôn được ban phước với những công nhân mới, trung thành khi ngài chinh phục những người xung quanh. Hãy tiến về phía trước; Huitzilopochtli vẫy gọi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MALE_1">
+			<Text>Acamapichtli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MALE_2">
+			<Text>Chimalli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MALE_3">
+			<Text>Cuauhtemoc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MALE_4">
+			<Text>Huitzilli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MALE_5">
+			<Text>Itzcoatl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MALE_6">
+			<Text>Nochehuatl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MALE_7">
+			<Text>Tlaloc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MALE_8">
+			<Text>Xiuhpilli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MALE_9">
+			<Text>Yaotl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MALE_10">
+			<Text>Zolin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_FEMALE_1">
+			<Text>Centehua</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_FEMALE_2">
+			<Text>Chalchiuitl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_FEMALE_3">
+			<Text>Chicomecoatl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_FEMALE_4">
+			<Text>Chimalma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_FEMALE_5">
+			<Text>Citlalli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_FEMALE_6">
+			<Text>Cozamalotl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_FEMALE_7">
+			<Text>Tlacotl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_FEMALE_8">
+			<Text>Xilonen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_FEMALE_9">
+			<Text>Xochitl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_FEMALE_10">
+			<Text>Yaretzi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_1">
+			<Text>Carlos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_2">
+			<Text>Estévan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_3">
+			<Text>Ignacio</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_4">
+			<Text>José</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_5">
+			<Text>Montago</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_6">
+			<Text>Niguel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_7">
+			<Text>Pedro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_8">
+			<Text>Richardo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_9">
+			<Text>Teyo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_10">
+			<Text>Tino</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_1">
+			<Text>Amorita</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_2">
+			<Text>Bellona</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_3">
+			<Text>Eldora</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_4">
+			<Text>Guadalupe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_5">
+			<Text>Luminosa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_6">
+			<Text>Orlena</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_7">
+			<Text>Perdita</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_8">
+			<Text>Pilar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_9">
+			<Text>Senalda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_10">
+			<Text>Zola</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TENOCHTITLAN">
+			<Text>Tenochtitlan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TEXCOCO">
+			<Text>Texcoco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ATZCAPOTZALCO">
+			<Text>Atzcapotzalco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TEOTIHUACAN">
+			<Text>Teotihuacán</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TLACOPAN">
+			<Text>Tlacopán</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_XOCHICALCO">
+			<Text>Xochicalco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MALINALCO">
+			<Text>Malinalco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TEAYO">
+			<Text>Teayo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CEMPOALA">
+			<Text>Cempoala</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHALCO">
+			<Text>Chalco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IXTAPALUCA">
+			<Text>Ixtapaluca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TENAYUCA">
+			<Text>Tenayuca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HUEXOTLA">
+			<Text>Huexotla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHAPULTEPEC">
+			<Text>Chapultepec</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TEPEXPAN">
+			<Text>Tepexpan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ZITLALTEPEC">
+			<Text>Zitlaltepec</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_XALAPA">
+			<Text>Xalapa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TAMUIN">
+			<Text>Tamuín</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TELOLOAPAN">
+			<Text>Teloloapan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MITLA">
+			<Text>Mixquic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TLATELOLCO">
+			<Text>Tlatelolco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_COYOTEPEC">
+			<Text>Coyotepec</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ZACATULA">
+			<Text>Zacatula</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YUCUNUDAHUI">
+			<Text>Yucuñudahui</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ECATEPEC">
+			<Text>Ecatepec</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MAZATAN">
+			<Text>Mazatán</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IZTAPALAPA">
+			<Text>Iztapalapa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TLALMANALCO">
+			<Text>Tlalmanalco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HUAXYACAC">
+			<Text>Huaxyacac</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ACATITLAN">
+			<Text>Acatitlan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AZTEC_DESCRIPTION">
+			<Text>Đế Chế Aztec</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AZTEC_ADJECTIVE">
+			<Text>Aztec</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_AZTEC_LOCATION">
+			<Text>Bắc Mỹ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_AZTEC_SIZE">
+			<Text>Ước tính 117.5 ngàn dặm vuông (304 ngàn km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_AZTEC_POPULATION">
+			<Text>Ước tính 5.1 triệu ở đỉnh cao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_AZTEC_CAPITAL">
+			<Text>Tenochtitlan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_BUILDING_TLACHTLI_NAME">
+			<Text>Kiến trúc đặc biệt của Aztec: Sân Bóng Tlachtli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
+			<Text>Đơn vị đặc biệt của Aztec: Chiến Binh Đại Bàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_1">
+			<Text>Khi Hernando Cortes và nhóm của anh ấy ne’er-do-wells đến, Đế chế Aztec vẫn còn ở thời thơ ấu, đã ra đời (ít nhiều) vào khoảng năm 1428 sau Công nguyên. Mặc dù Excan Tmustoloyan (Đế chế Aztec) chỉ tồn tại một trăm năm, nhưng đó là một trăm năm đầy biến cố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_2">
+			<Text>Ban đầu ... có một số altepetl nhỏ (các quốc gia thành phố) nằm rải rác về Thung lũng Mexico dọc theo bờ hồ dính liền Zumpango, Xaltocan, Texcoco, Xochimilco và Chalco. Vùng này có lượng mưa dồi dào và khí hậu ôn hòa, và đất đai màu mỡ. Vì vậy, người Nahua (còn được gọi là người Mexihcati) đã tìm cách định cư ở đó, đã di cư về phía nam từ Aztlan (Vùng đất Trắng - do đó, đó là Az Azss) vào khoảng năm 1250.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_3">
+			<Text>Thật không may, một số bộ lạc khác đã ở đó, đáng chú ý là Azcapotzalco và Culhuacan. Azcapotzalco hùng mạnh vào năm 1325 đã cho phép những người Aztec lang thang được định cư trên một hòn đảo nhỏ ở hồ Texcoco, nơi họ thành lập thành phố Tenochtitlan của họ; Theo truyền thuyết, địa điểm này được chọn vì một người đàn ông linh mục nhìn thấy một con đại bàng làm tổ trong một cây xương rồng - một dấu hiệu cho thấy đây là địa điểm được chọn. Tuy nhiên, Tenochtitlan có vị trí hoàn hảo để phát triển - dễ dàng bảo vệ (đang ở trên một hòn đảo), với nguồn nước và đánh bắt dồi dào, và các nguồn vật liệu xây dựng gần đó. Có vẻ như người Aztec sẵn sàng bày tỏ lòng kính trọng đối với người Azcapotzalcos khi bị bỏ lại một mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_4">
+			<Text>Người Aztec vẫn là đối tượng của Azcapotzalcos trong một thế kỷ. Trong khi đó, một altepetl gần đó đang trở nên bồn chồn. Thành phố Alcohua của bang Texcoco, nằm ở cuối phía nam của lưu vực hồ phát triển giàu có về thương mại, đến mức thách thức Azcapotzalcos để thống trị. Trong cuộc chiến sau đó, Tenochtitlan vẫn đúng với Azcapotzalcos và đóng một vai trò quan trọng trong cuộc chinh phạt Texcoco. Kết quả là, người Aztec đã được khen thưởng vì lòng trung thành của họ bằng cách nhận thành phố bị đánh bại là một tỉnh nhánh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_5">
+			<Text>Mọi thứ đã đủ dễ chịu cho đến khi vua Azcapotzalco Tezozomoc đột ngột qua đời vào năm 1426. Trong cuộc nội chiến ngắn ngủi sau đó, người Azoch của Tenochtitlan ủng hộ vị vua già bá đạo ưa thích, một người Tayahuah - không phải là sự lựa chọn tốt nhất. Anh trai Maxtla của anh đã thắng, và nhanh chóng bắt đầu trừng phạt những người đã ủng hộ Tayahuah. Giữa lúc này, vị vua Aztec đã chết trong tình huống đáng ngờ, có khả năng bị ám sát theo lệnh của Maxtla. Nhưng vị vua mới Itzcoatl vẫn bất chấp, và vì thế Maxtla đã bao vây thành phố, phong tỏa hòn đảo và yêu cầu đầu hàng hoàn toàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_6">
+			<Text>Đồng thời, Maztla bật Alcohua ở Texcoco, người mà anh cũng không có tình yêu lớn. Người cai trị Texcoco Nezahualcoyotl đã trốn đi lưu vong và tìm đường gia nhập Itzcoatl. Và thành phố Azcapotzalco bất đồng chính kiến ​​Tlacopan đã ủng hộ Itzcoatl. Do đó, đã thành lập Liên minh ba người nổi tiếng: ba quốc gia thành phố với một mục tiêu chung là lật đổ Maxtla, được hoàn thành vào cuối năm 1427. Sau khi đánh bại hoàn toàn Azcapotzalco, ba vị vua đã đồng ý sống theo hiệp ước. Hành động đầu tiên của họ là phân chia vùng đất của kẻ chiến bại; bằng cách nào đó Tenochtitlan có được chia sẻ sư tử. Rất hài lòng vì tất cả đều thành công khi ba thành phố chính thức hóa liên minh của họ. Theo quy định của nó, tất cả các cống nạp sẽ được chia, và cả ba sẽ tham gia vào các cuộc chiến tranh chinh phục trong tương lai với tất cả chia sẻ chiến lợi phẩm. Các vị vua từng lấy danh hiệu huetlatoani (người cao tuổi nói tiếng Anh) trong vòng xoay, với vai trò là hoàng đế của vương quốc đồng minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_7">
+			<Text>Trong thế kỷ tiếp theo, dưới một loạt các diễn giả lớn tuổi có khả năng, Liên minh Aztec sẽ phát triển mạnh, chủ yếu bằng cách dẫm đạp lên các nước láng giềng cho đến khi nó đi từ Đại Tây Dương đến Thái Bình Dương trên khắp Mesoamerica. Trên thực tế, đế chế này của người Viking đã tồn tại trong tình trạng chiến tranh gần như liên tục, vì nhu cầu xã hội hoặc có lẽ là tôn giáo. Trong tiếng Azt Weltanschaung (để trộn lẫn tiếng lạ), cái chết là công cụ để duy trì sự sống và theo thứ tự tự nhiên cả hai vị thần và con người phải hy sinh để giữ cân bằng. Và máu - con người, như máu động vật dường như hoạt động - giữ cho mặt trời không rơi. Vì công dân weren rất muốn trở thành những người bị chảy máu, nên việc sử dụng dân gian ít hơn - tù nhân (do đó cần rất nhiều chiến đấu), nô lệ, người hầu và người nghèo. Quy mô của sự hy sinh là đáng kinh ngạc; tại sự cống hiến của Thị trưởng Templo (Kim tự tháp vĩ đại) ở Tenochtitlan năm 1487, các nhà sử học đã ước tính khoảng 10 đến 80 nghìn người đã bị giết, thường là bằng cách chặt đầu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_8">
+			<Text>Khi người sói Aztec tổ chức lễ kỷ niệm với những nghi thức đẫm máu, họ đã phát triển một nền văn hóa và khoa học chưa từng có ở châu Mỹ. Chẳng hạn, lịch Aztec tinh vi tương đương với bất kỳ sự phát triển nào ở Châu Âu hoặc Châu Á. Tonalpohualli (Ngày đếm đếm) bao gồm chu kỳ 260 ngày, mỗi ngày được biểu thị bằng số một đến mười ba và một trong 20 dấu hiệu 20 ngày; xiuhpohualli hoặc năm tính đếm được chia năm trong 18 giai đoạn 20 ngày mỗi lần. Do đó, một năm bao gồm 360 ngày được đặt tên và năm ngày không tên; những ngày không tên này được cho là không may mắn (chắc chắn cho những người đã hy sinh cho họ để chống lại nghiệp xấu). Người ta cho rằng lịch này phát sinh từ nghiên cứu dữ dội về thiên đàng của họ, vì họ đã phát triển thiên văn học thành một hình thức nghệ thuật. Và người Aztec đã viết tất cả lên trên amate, một tờ giấy sủa, trong hệ thống tư tưởng đặc biệt của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_9">
+			<Text>Khi Itzcoatl qua đời vào năm 1440, ông được thay thế bởi cháu trai Montezuma (người đầu tiên, không bị nhầm lẫn với người thứ hai ít có khả năng hơn). Người anh em cùng cha khác mẹ của Montezuma, Tlacaelel, được tạo ra Cihuacoatl, gần tương đương với một thủ tướng châu Âu. Cả hai sau đó đã tiến hành biến Tenochtitlan trở thành đối tác thống trị trong liên minh, thực hiện chính thức hóa một Đế chế Aztec. Montezuma đã xử lý phần chinh phục - vượt qua Huastecs, Totonacs, Mixtecs, Cosamaloapans, Orizabas và Cotaxtlas. Tlacaelel đã xử lý việc định hình lại nền văn minh Aztec theo tầm nhìn của chính mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_10">
+			<Text>Trong khi Montezuma đang bận rộn tiến hành chiến tranh, Tlacaelel thực sự viết lại quá khứ và tương lai của người Aztec, theo một số nguồn tin yêu cầu đốt hàng trăm văn bản vì những điểm không chính xác trong lịch sử. Dưới thời Tlacaelel, tôn giáo Aztec được tân trang lại cho rằng người Aztec là một dân tộc được chọn, định mệnh sẽ vượt lên trên tất cả những người khác. Tlacaelel cũng nhấn mạnh tầm quan trọng của chủ nghĩa quân phiệt và sự hy sinh theo nghi thức trong nền thần học mới của người Hồi giáo. Và ông giám sát việc xây dựng một loạt các đền thờ và các công trình tôn giáo, bao gồm Thị trưởng Templo ở Tenochtitlan, đã tận hiến (với rất nhiều sự hy sinh) cho vị thần tối cao mới Huitzilopochtli.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_11">
+			<Text>Người Aztec phát triển mạnh dưới quyền anh em trong ba thập kỷ. Với Montezuma, đế chế kéo dài một trăm ngàn dặm vuông, và khoảng năm triệu người đối tượng bị áp dụng quy tắc của nó. Với Tlacaelel, các bộ lạc chủ thể hầu hết được để lại cho các thiết bị của họ, miễn là cống phẩm cần thiết (tất nhiên bao gồm các khoản quyên góp hy sinh) và các lực lượng quân sự được cung cấp theo yêu cầu. Tenochtitlan trở thành trung tâm của một mạng lưới giao dịch tuyệt vời và các thương nhân Aztec vui vẻ làm ăn với các đồng minh và kẻ thù. Không có bất kỳ loại tiền tệ nào, giao dịch được dựa trên hàng đổi hàng. Không có động vật kéo dài hoặc vận chuyển bằng bánh xe, Tlacaelel giám sát việc xây dựng một hệ thống đường rộng lớn được thiết kế cho giao thông chân, vì mọi thứ phải được con người mang từ nơi này sang nơi khác. Các con đường được sử dụng liên tục, được bảo vệ bởi quân đội Aztec, khiến chúng đủ an toàn cho cả phụ nữ đi du lịch một mình. Ông cũng có telpochcalli (trường học) do chính phủ tài trợ được xây dựng ở mọi khu phố nơi các cậu bé được hướng dẫn tôn giáo và huấn luyện quân sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_12">
+			<Text>Montezuma I đã qua đời vào năm 1468 sau Công nguyên và được con trai Axayacatl thành công, người đã dành 13 năm để củng cố các cuộc chinh phạt của cha mình, dập tắt các cuộc nổi loạn khác nhau và chống lại Đế chế Tarascan. (Tlacaelel qua đời năm 1487, không còn nghi ngờ gì với nhiều người, không nghi ngờ gì nữa.) Khi Axayacatl qua đời, anh được thay thế bởi anh trai mình, Tizoc bất tài, người bị quý tộc ám sát chỉ sau năm năm. Ông được theo sau bởi một người anh em khác - Ahuitzotl - vào năm 1486, người đã chứng minh tốt hơn; ông đã chinh phục bang Otzoma, thành phố đã biến mất (bị giết hoặc hy sinh hàng loạt) và bắt đầu xây dựng một pháo đài dọc theo một số vùng biên giới bị tranh cãi. Ahuitzotl đã chết trong Thỏ năm 10 (để sử dụng lịch Aztec phức tạp). Cháu trai của ông, Montezuma II, được đưa lên ngai vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_13">
+			<Text>Triều đại Montezuma sườn mới bắt đầu khởi động một cách khó hiểu và sau đó xuống dốc. Ông đã loại bỏ các cố vấn Ahuitzotl có thẩm quyền hơn, với hầu hết trong số họ bị xử tử. Sau đó, ông đã bãi bỏ tầng lớp quauhpilli - một loại giai đoạn bán quý tộc - trong xã hội Aztec, phá hủy mọi cơ hội cho những người bình dân tiến lên gia đình họ. Do đó, quần chúng chưa được rửa sạch không có động cơ phục vụ đế chế về mặt quân sự hoặc dưới bất kỳ hình thức nào khác. Đã chọc giận những gia đình quý tộc quyền lực nhất và xa lánh những người bình dân, Montezuma, không cần phải nói, không sẵn sàng để đối mặt với thách thức của người Tây Ban Nha tham lam, người đã xuất hiện ở ngưỡng cửa Aztec vào tháng 2 năm 1519.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_14">
+			<Text>Đầu năm đó, một đoàn thám hiểm dưới sự chỉ huy của Hernando Cortes - bao gồm 11 tàu, 630 người, 13 con ngựa và một vài khẩu pháo nhỏ - đã hạ cánh tại Yucatan, một phần của Đế chế Maya. Trên thực tế, điều lệ cho chuyến thám hiểm của Cortes đã bị thống đốc Cuba của Tây Ban Nha thu hồi trước khi ông rời cảng, nhưng Cortes đã phớt lờ mệnh lệnh của mình trong một hành động gây đột biến và dù sao đi nữa (đoán rằng vận may thực sự có lợi cho kẻ ngốc nồng nhiệt). Sau một vài cuộc phiêu lưu, những người chinh phục cuối cùng đã chèo thuyền đến và chiếm lấy khu định cư nhỏ tại Veracruz, nơi họ gặp một vài thống đốc người Aztec của các quốc gia triều cống. Hai người này đã đồng ý thiết lập một cuộc gặp gỡ giữa Cortes và Montezuma II.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_15">
+			<Text>Tuy nhiên, Montezuma đã ngoan cố từ chối nhận sứ giả của Tây Ban Nha, vì vậy Cortes đã lên đường đến Tenochtitlan mà không được mời. Giống như hầu hết các vị khách không mời, Tây Ban Nha để lại sự hỗn loạn trong sự thức dậy của họ. Hành quân về thủ đô với một loạt các chiến binh bản địa - tìm kiếm phiêu lưu, cướp bóc hoặc trả thù - gia nhập đoàn kịch của mình, Cortes đã đến thành phố lớn Cholula. Ở đó, ban nhạc vui vẻ của ông đã tàn sát hàng ngàn thành viên không vũ trang của giới quý tộc Aztec địa phương đã tập trung tại quảng trường trước Kim tự tháp vĩ đại ở đó (kim tự tháp lớn nhất theo thể tích trên thế giới). Sau đó để có biện pháp tốt, người Tây Ban Nha đã đốt cháy thành phố. Quá ấn tượng bởi tất cả sự đổ máu là các chư hầu Aztec đang suy sụp đã tham gia vào cuộc thám hiểm. Vào thời điểm Cortes đến Tenochtitlan, anh ta có khá nhiều.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_16">
+			<Text>Cúi đầu trước những điều không thể tránh khỏi, Montezuma II đã chào đón người Tây Ban Nha vào thành phố một cách yên bình để gặp gỡ và nói chuyện. Whereupon Cortes khiến anh ta trở thành tù nhân. Để làm cho một câu chuyện dài ngắn, cuối cùng người Aztec ném đá Montezuma đến chết và đẩy người Tây Ban Nha ra khỏi thủ đô của họ. Nhưng Cortes trở lại với quân tiếp viện, bao vây thành Tenochtitlan. Điều mà với tất cả vũ khí và súng thần công và ngựa (mà người Aztec ấn tượng nhất), thành phố nhanh chóng sụp đổ và bị san bằng và vào tháng 8 năm 1521 Cuauhtémoc, người cai trị cuối cùng của người Aztec, đã bị bắt và sau đó bị xử tử.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_17">
+			<Text>Các lãnh chúa Aztec đẫm máu đã biến mất, và đế chế lại tan vỡ thành các quốc gia thành phố riêng biệt, bây giờ dưới sự thống trị của Tây Ban Nha.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_TITLE">
+			<Text>Montezuma đệ Nhất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_SUBTITLE">
+			<Text>Vị lãnh tụ của Tenochtitlan, nhà vua thứ 5 của Aztec</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_QUOTE">
+			<Text>Mặt trời không nóng bỏng khi nó vừa mọc lên, chỉ sau khi thực hiện vòng quay của mình, nó mới trở nên oi bức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_1">
+			<Text>Motecuhzoma Ilhuicamina (một người nói bằng bất kỳ ngôn ngữ nào) là tlatoani thứ năm (hoàng đế bầu bí) của người Aztec. Trong triều đại 29 năm của mình, ông đã biến thành phố Tenochtitlan của mình thành quyền lực thống trị trong khu vực, thông qua việc duy trì liên minh thuận lợi với Tlacopan và Texcoco gần đó. Cả ba sẽ cùng nhau đánh bại tất cả những người hàng xóm của mình - không theo thứ tự cụ thể nào: Huastecs, Totonacs, Mixtecs, Cosamaloapans, Orizabas và Cotaxtlas. Theo các điều khoản của liên minh tay ba, Tenochtitlan đã nhận được 40% hoặc hơn những vùng đất bị chinh phục; Đến cuối đời Montezuma, đế chế Aztec đã mở rộng ra khỏi Thung lũng Mexico đến tận Bờ biển vùng Vịnh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_2">
+			<Text>Montezuma (tên của nó có nghĩa là, phần nào, anh cau mày như một lãnh chúa) đến từ cổ phiếu tốt. Cha của ông Huitzilihuitl là vua của Tenochtitlan, và mẹ của ông Miahuaxihuitl là con gái của người cai trị thành phố Cuauhnahuac. Ông là một trong bốn anh em, trong đó có anh cả Tlacaelel I. Sau khi cha cha chết vào năm 1417 sau Công nguyên, chú của Montezuma, Itzcoatl đã được bầu làm tlatoani; Tlacaelel Tôi đã trở thành một trong những cố vấn của Itzcoatl, trên thực tế, Nahuati, hay Cố vấn đầu tiên của Hồi - trong khi Montezuma làm tướng trong quân đội Aztec.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_3">
+			<Text>Sau cái chết của Itzcoatl năm 1440, Montezuma được bầu làm hoàng đế. Tlacaelel Tôi dường như không hài lòng về việc bị bỏ qua (có lẽ anh ta nghĩ rằng anh ta sẽ sống lâu hơn nếu anh ta không đeo vương miện), và bằng tất cả các tài khoản, anh ta trung thành phục vụ anh trai mình. Bên cạnh đó, Tlacaelel I đã quá bận rộn với các vấn đề tôn giáo. Trong số những thứ khác, ông tái hiện những huyền thoại của người Aztec như một người được chọn, nâng vị thần nhỏ Huitzilopochtli (thần chiến tranh và mặt trời, và sớm là người bảo trợ của Tenochtitlan), và kết hợp với chủ nghĩa quân phiệt. Ồ vâng, và anh ta đã tăng phạm vi và tần suất hy sinh của con người cho các vị thần - đặc biệt là trong thời gian khó khăn (dường như là hầu hết thời gian).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_4">
+			<Text>Montezuma, trong khi đó, sống tương đối khiêm tốn, mặc dù là một hoàng đế. Anh ta sống, theo Codex Mendoza được tạo ra chỉ 14 năm sau cuộc chinh phạt của người Tây Ban Nha ở Tây Ban Nha, trong một cung điện đơn giản của người Hồi giáo với một vài người vợ. Trên thực tế, có ghi chép rằng cuối cùng ông đã có mười hậu cung, ba người được thừa hưởng từ anh trai Huehue Zaca. Người vợ đầu tiên của anh ta, ít nhất là về cấp bậc và uy tín, là Chichimecacihuatzin, anh họ và mẹ của có lẽ ba đứa con của anh ta, bao gồm cả hai hoàng tử, mặc dù mọi thứ hơi mơ hồ về việc ai sinh ra Montezuma. Khi không tham gia vào các nghĩa vụ tôn giáo hoặc sinh sản hoặc các vấn đề của nhà nước, ông được cho là rất thích các cuộc trò chuyện dài với bạn bè và các cố vấn của mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_5">
+			<Text>Phần lớn cuộc nói chuyện này dường như tập trung vào cách cải thiện thành phố Aztec và những vùng đất mới bị chinh phục. Một trong số đó, việc xây dựng một ống dẫn nước kép để cung cấp cho Tenochtitlan nước ngọt dồi dào, được coi là kỳ công kỹ thuật vĩ đại nhất của Đế chế Aztec. Tất nhiên, khi thành phố đang phát triển, nó cũng đòi hỏi lượng thức ăn lớn hơn để duy trì dân số đói. Vì Trung Mỹ thiếu động vật nháp trong nước, mỗi con cá mòi phải được vận chuyển đến thành phố trên lưng của ai đó (gánh nặng của nhiều nô lệ của họ - đó là những người không được hy sinh theo nghi thức). Chính phủ Montezuma, đã thuê các thanh tra nhà nước để đảm bảo rằng mọi mảnh đất trồng trọt trong khoảng cách đi bộ đều được canh tác hiệu quả. Và hoàng đế đã ra lệnh xây dựng đê để giảm bớt lũ lụt và đòi lại nhiều đất nông nghiệp hơn từ vùng đầm lầy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_6">
+			<Text>Trước sự thúc giục của anh trai Tlacaelel I, Montezuma đã ban hành luật lệ sum suê - các quy định truyền thống nhằm hạn chế sự ngông cuồng trong tiêu thụ hàng hóa, đặc biệt là những thứ xa xỉ - đã mã hóa và củng cố hệ thống lớp Aztec đã phân tầng. Một trạm Aztec trong cuộc sống đã xác định những gì anh ấy hoặc cô ấy có thể mặc và cách anh ấy hoặc cô ấy có thể nói. Chẳng hạn, theo luật mới của Montezuma, người nghèo không được phép mặc vải cotton, dép hoặc bất kỳ quần áo nào kéo dài dưới đầu gối. Chỉ có giới quý tộc mới có thể sống trong những ngôi nhà lớn hơn một câu chuyện. Tội ác đã bị trừng phạt bởi chế độ nô lệ hoặc bị hy sinh, vì vậy sự tuân thủ là phổ quát. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_7">
+			<Text>Montezuma và người anh trai ngoan đạo của mình đã xây dựng rất nhiều ngôi đền về vùng nông thôn, bao gồm một ngôi đền mới ở Huitzilopochtli. Ngôi đền của Huitzilopochtli đã được thánh hiến vào năm 1455 sau Công nguyên với sự hy sinh của hàng trăm tù nhân Huaxtec (một số nhà sử học cho rằng nhu cầu của tù nhân phải hy sinh đã trở thành một trong những chủ đề chính trong chính sách đối ngoại của người Aztec). Tlacaele cũng bận rộn viết lại các vùng tôn giáo của người Aztec, ra lệnh phá hủy những cái trước đó không đồng ý với những diễn giải về lịch sử và đức tin của chính ông.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_8">
+			<Text>Nhưng đế chế đang phát triển Montezuma, được biết đến chủ yếu với tình trạng chiến tranh gần như liên tục và thành công. Một số nhà sử học đưa ra giả thuyết rằng ông đã chinh phục các bộ lạc gần đó để cống nạp, hy vọng đảm bảo nguồn cung cấp thực phẩm liên tục cho Tenochtitlan, mặc dù đã nỗ lực hết sức, vẫn tiếp tục bị nạn đói định kỳ. Một lý thuyết khác, bi quan hơn, đó là đế chế đã tiến hành các cuộc chiến tranh thường xuyên để nuôi sống nhu cầu kinh niên đẫm máu của tôn giáo nhà nước để một người phải hy sinh vì sự phong phú của những người thay đổi. Tuy nhiên, có một giả thuyết khác cho rằng Montezuma đã có chiến tranh rất nhiều bởi vì đó chính là thứ mà người Aztec đã làm công cụ chinh phục. Như với phần lớn lịch sử, không ai thực sự biết tại sao mọi chuyện xảy ra.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_9">
+			<Text>Montezuma I qua đời năm 1469 sau Công nguyên, nguyên nhân không xác định được chôn vùi dưới mảnh vụn của lịch sử. Anh ta đã được con trai 19 tuổi Axayacatl, người cha sau này của Montezuma II, người đã mất tất cả mọi thứ cho Cortes và một nhóm những kẻ chinh phục rag-tag chỉ sau hai năm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_CAPSULE_BODY">
+			<Text>Montezuma là 1 kẻ chủ nghĩa bành trướng xâm lược, kẻ sẵn sàng đẩy cả đế chế của mình vào chiến tranh để thu thập những tài nguyên quý mà hắn muốn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_DETAILED_BODY">
+			<Text>Aztec sẽ luôn muốn gây chiến trong suốt quá trình chơi, Nhưng chắc hẳn họ có rất nhiều [ICON_Amenities] Tiện Nghi khi sẵn sàng đối mắt với nhiều vấn đề phát sinh khi chiến đấu. Những cuộc tấn công chớp nhoáng sẽ hạ gục đối thủ nhanh chóng với Chiến Binh Đại Bàng qua đó ép buộc kẻ địch thua trận trở thành Thợ Xây cho người Aztec. Những người thợ xây này sẽ khiến sự phát triển bành trướng của các thành phố Aztec trở nên chóng mặt, khả năng đặc biệt này đóng góp không nhỏ trong quá trình xây dựng. Cuối cùng họ muốn mở rộng khu vực kiểm soát lớn nhất có thể từ đó đưa những của cải họ chiếm được để tăng sự [ICON_Amenities] Tiện Nghi và thoải mái cho các cuộc chinh phục khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AZTEC_EAGLE_WARRIOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Một trong hai lớp bộ binh ưu tú (người còn lại là Chiến binh Jaguar) trong quân đội Aztec, Chiến binh Đại bàng là những chàng trai trẻ dũng cảm nhất sinh ra và/hoặc những người đã bắt nhiều tù nhân nhất trong trận chiến. Giống như Jaguars, Eagles đã sử dụng atlatl, cung, giáo và macuahuitl (thanh kiếm bằng gỗ được đặt với các mảnh obsidian); Không giống như Jaguars, Đại bàng trang trí áo giáp của chúng bằng lông đại bàng và mặc một cái mũ có hình dạng giống như đầu của một con đại bàng với cái mỏ rộng mở. Và họ đã có một ngôi đền trên đỉnh đồi ở Malinalco. Khi bắt 20 tù nhân - còn nguyên vẹn để phục vụ cho sự hy sinh của con người - một chiến binh trẻ đã đủ điều kiện để trở thành Chiến binh Đại bàng, không còn nghi ngờ gì nữa, khiến gia đình anh ta rất tự hào. Cho đến khi người Tây Ban Nha đến với đại bác, súng hỏa mai và ngựa của họ, các chiến binh Đại bàng và Jaguar là những kẻ bắt nạt cứng rắn nhất trên khối Mesoamerican.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Ngài không phải là bạn bè của người Aztecatl. Ngài phải chiếm được vinh dự này trước.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_DESIRED_LUXURY">
+			<Text>Montezuma coi những gia tài quý của ngài mà hắn ta không có là một mục tiêu chín muồi để tấn công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_NO_DESIRED_LUXURY">
+			<Text>Montezuma vui mừng vì ngài cũng chỉ có những tài nguyên quý mà ông ta có.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Trái tìm của ta nhẹ nhõm với lời đề nghị của ngài. Hãy để ta ăn mừng tình bạn của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Hãy cùng liên kết trong tình hữu nghị chống lại quỷ dữ của thế giới này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Cảm ơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Ngài kiểm tra sự kiên nhẫn của ta...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Chiến binh của ngươi sẽ hi sinh trên chiến trường hoặc trên bàn thờ. Chẳng có gì khác nhau đối với Huitzilopochtli.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Giờ thì để xem ngươi là kẻ hèn nhát hay là một chiến binh!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Huitzilopochtli đã tha thứ cho sự yếu đuối của chúng ta...sự yếu đuối của bản thân. Ta đã không đủ dũng cảm để phục vụ ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Ta sẽ tiếp đãi phái đoàn của ngài ở một nơi đầy trang trọng. Những món quà của đều là những lễ vật tốt bụng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Không phải hôm nay.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Những món quà gồm bắp ngô và socola đã được phái đoàn của ta mang đến. Ta xin tặng nó cho ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Những kẻ sợ hãi nói to nhất. Ngươi sợ bọn ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Ngươi là thứ độc dược đối với thế giới này. Ngươi là quỷ dữ! (Lăng mạ bạn).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_MONTEZUMA_ANY">
+			<Text>Ta là chúa tể cáu kỉnh của Tenochtitlan. Một tlatoani. Ai đang đứng trước ta? Một chiến binh hay một tên hèn nhát?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MONTEZUMA_ANY">
+			<Text>Thật là một vinh dự khi được gặp ngài. Ta mời ngài đến với thành phố lân cận của ta, ngài có thể phô diễn kĩ năng ở Ollamaliztli.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MONTEZUMA_ANY">
+			<Text>Nó đã được giải quyết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MONTEZUMA_ANY">
+			<Text>Tenochtitlan là nơi gần Huitzliopochtli nhất, nào, nói cho ta nghe về Thủ Đô của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_MONTEZUMA_ANY">
+			<Text>Ngài muốn gì?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MONTEZUMA_ANY">
+			<Text>Chúng ta có nhiều điểm chung. Ngài phải nghe theo lời Tlacaelel.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_MONTEZUMA_REASON_ANY">
+			<Text>(Bạn không có món đồ xa xỉ mà ông ấy muốn.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MONTEZUMA_ANY">
+			<Text>Ngài có nhiều hơn những gì ta có! Ngài có muốn thấy người của mình bị bắt làm nô lệ không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_ANY">
+			<Text>(Bạn có món đồ xa xỉ mà ông ấy muốn.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Ngài có muốn thành lập một liên minh?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MONTEZUMA_ANY">
+			<Text>Cuộc chiến tranh này đã làm cho các vị thần hài lòng. Bây giờ chúng ta cùng ăn mừng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MONTEZUMA_ANY">
+			<Text>Ta không đồng ý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Đến đây nào, cùng về nhà và chuẩn bị lực lượng cho cuộc chiến sắp tới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Ta không có việc gì phải sợ quân đội của ngài. Ngài có thể đi qua.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Ngài không thể tiến qua Vương quốc của Huitzliopochtli. Ngài bị cấm cửa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Hãy để ta qua vùng đất của ngài! Huitzilopochti ra lệnh cho nó!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MONTEZUMA_ANY">
+			<Text>Ngươi không thể làm Đế chế bất ngờ. Ta thấy cuộc tấn công của ngươi. Chúng ta sẽ đánh trước nếu ngươi không biến đi chỗ khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TLACHTLI_CHAPTER_HISTORY_PARA_1">
+			<Text>Trong hơn 2700 năm, người Mesocerican đã chơi trò chơi bóng bầu dục truyền thống của họ - Ollamaliztli ở Nahuatl - trong (không có gì đáng ngạc nhiên) các sân bóng. Khá giống với trò chơi quần vợt đồng đội, những sự kiện thể thao của đội bóng này đã có những nghi thức quan trọng, vì những người thua cuộc (và đôi khi là người chiến thắng) thường bị hy sinh sau trận đấu, thường là bằng cách chặt đầu. Những mô tả rõ ràng về sự hy sinh của con người sau một trận đấu có thể được tìm thấy ở nhiều sân bóng của người Maya như ở El Tajin và tại Chichen Itza. Mặc dù môn thể thao này có một số quy tắc khác nhau ở những nơi khác nhau và thời gian khác nhau, nhưng nó đã lan rộng khắp Mesoamerica, đến tận phía nam như Nicaragua và phía bắc như Arizona. Được xây dựng theo mô hình thay đổi ít hơn hai thiên niên kỷ rưỡi, sân bóng là những công trình bằng đá của một sân chơi dài, hẹp giữa các bức tường dốc cao với các khu vực mục tiêu rộng hơn (bao quanh sau). Được sơn và trang trí, những sân vận động này là hình ảnh thu nhỏ của nền văn minh Mesoamerican cho đến khi người Tây Ban Nha xuất hiện và giới thiệu người bản địa cho các trò chơi khác.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

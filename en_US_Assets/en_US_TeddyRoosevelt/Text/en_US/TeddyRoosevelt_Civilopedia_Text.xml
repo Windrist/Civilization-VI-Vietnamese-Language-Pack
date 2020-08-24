@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY">
+			<Text>Rough Rider Teddy wields a big stick on his continent, but if you leave him alone he will stay peaceful.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY">
+			<Text>Rough Rider Teddy Roosevelt enjoys +5 Combat Strength on his home continent and the ability to bring city-states under their sway through trade. He wants to expand rapidly across his continent while gaining the support of all nearby city-states. The Founding Fathers' civilization ability makes his choice of government important and can set him up for any victory type. His two post-Industrial unique units, including his favored Rough Riders, make him able to hit especially hard from the 20th Century onwards.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY">
+			<Text>Bull Moose Teddy knows there can be no greater issue than the conservation of breathtaking scenery, for America advances quickly when placing National Parks just outside its major cities.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY">
+			<Text>Bull Moose Teddy favors the government choices of Classical Republic, Merchant Republic and then Democracy for they give him the Economic and Wildcard policy slots he needs as he heads toward a Culture Victory. With his Film Studio, National Park bonus, and the ability to earn Science and Culture from Breathtaking tiles, Teddy is a cultural juggernaut, especially when possessing lands of great natural beauty.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE">
+			<Text>It is important to leave a better land for our descendants.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE">
+			<Text>Teddy Roosevelt (Bull Moose)</Text>
+		</Row>
+	</EnglishText>
+</GameData>

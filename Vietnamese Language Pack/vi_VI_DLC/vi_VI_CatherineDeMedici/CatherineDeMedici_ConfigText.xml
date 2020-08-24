@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME">
+			<Text>Catherine de Medici (Magnificence)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME">
+			<Text>Catherine’s Magnificences</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION">
+			<Text>Thu hoạch mỗi tài nguyên Xa xỉ xung quanh khu Nghệ thuật sẽ nhận được +2 [ICON_CULTURE] Văn hóa. Có thể tổ chức Lễ hội Tòa án ở bất kỳ thành phố nào có khu Nghệ thuật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME">
+			<Text>Catherine de Medici (Black Queen)</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1B394FE9-23DC-4868-8F0A-5220CB8FB427" version="1">
+	<Properties>
+		<Name>LOC_ETHIOPIA_MOD_TITLE</Name>
+		<Teaser>LOC_ETHIOPIA_MOD_TEASER</Teaser>
+		<Description>LOC_ETHIOPIA_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+		<CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<References>
+		<Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE"/>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+		<Mod id="9DE86512-DE1A-400D-8C0A-AB46EBBF76B9" title="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE"/>
+	</References>
+	<ActionCriteria>
+		<Criteria id="Ethiopia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_MENELIK StandardPlayers::LEADER_MENELIK,Players:Expansion1_Players::LEADER_MENELIK Players:Expansion2_Players::LEADER_MENELIK</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="Ethiopia_Base" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_MENELIK</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD</RuleSetInUse>
+		</Criteria>
+		<Criteria id="Ethiopia_Expansion1" any="1">
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_MENELIK</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+		</Criteria>
+		<Criteria id="Ethiopia_Expansion2" any="1">
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_MENELIK</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="Ethiopia_Mode">
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_SECRETSOCIETIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="Ethiopia_Mode_Expansion1">
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_SECRETSOCIETIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="Ethiopia_Mode_Expansion2_GranColombia_Maya">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_SECRETSOCIETIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+			<ModInUse>9DE86512-DE1A-400D-8C0A-AB46EBBF76B9</ModInUse>
+		</Criteria>
+		<Criteria id="Ethiopia_Mode_Expansion2">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_SECRETSOCIETIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateArt id="EthiopiaArt" criteria="Ethiopia">
+			<File>Ethiopia.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="EthiopiaGameplay" criteria="Ethiopia">
+			<File Priority="1">Data/Ethiopia_RemoveData.xml</File>
+			<File>Data/Ethiopia_Buildings.xml</File>
+			<File>Data/Ethiopia_Civilizations.xml</File>
+			<File>Data/Ethiopia_Districts.xml</File>
+			<File>Data/Ethiopia_Improvements.xml</File>
+			<File>Data/Ethiopia_Leaders.xml</File>
+			<File>Data/Ethiopia_Modifiers.xml</File>
+			<File>Data/Ethiopia_Units.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="EthiopiaColors" criteria="Ethiopia">
+			<File>Data/Ethiopia_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="EthiopiaGameplay_XP1" criteria="Ethiopia_Expansion1">
+			<File>Data/Ethiopia_Expansion1.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="EthiopiaGameplay_XP2" criteria="Ethiopia_Expansion2">
+			<File Priority="2">Data/Ethiopia_RemoveData_Expansion2.xml</File>
+			<File>Data/Ethiopia_Expansion2.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="EthiopiaIcons_MODE" criteria="Ethiopia_Mode">
+			<File>Data/Ethiopia_Icons_Relics_MODE.xml</File>
+		</UpdateIcons>
+		<UpdateIcons id="EthiopiaIcons" criteria="Ethiopia">
+			<File>Data/Ethiopia_Icons_Buildings.xml</File>
+			<File>Data/Ethiopia_Icons_Civilizations.xml</File>
+			<File>Data/Ethiopia_Icons_Districts.xml</File>
+			<File>Data/Ethiopia_Icons_FontIcons.xml</File>
+			<File>Data/Ethiopia_Icons_GameModes.xml</File>
+			<File>Data/Ethiopia_Icons_Leaders.xml</File>
+			<File>Data/Ethiopia_Icons_Notifications.xml</File>
+			<File>Data/Ethiopia_Icons_Projects.xml</File>
+			<File>Data/Ethiopia_Icons_Resources.xml</File>
+			<File>Data/Ethiopia_Icons_UnitActions.xml</File>
+			<File>Data/Ethiopia_Icons_UnitPortraits.xml</File>
+			<File>Data/Ethiopia_Icons_Units.xml</File>
+		</UpdateIcons>
+		<UpdateText id="EthiopiaText" criteria="Ethiopia">
+			<File Priority="2">Text/Ethiopia_RemoveText.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_PackageText.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_Buildings_Text.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_CitizenNames_Text.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_CityNames_Text.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_Civilopedia_Text.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_Diplomacy_Text.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_Districts_Text.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_InGameText.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_NamedPlaces_Text.xml</File>
+			<File>Text/Ethiopia_Translations_PackageText.xml</File>
+			<File>Text/Ethiopia_Translations_ConfigText.xml</File>
+			<File>Text/Ethiopia_Translations_Text.xml</File>
+		</UpdateText>
+		<ImportFiles id="Ethiopia_Files_MODE" criteria="Ethiopia_Mode">
+			<File>UI/Additions/SecretSocietyPopup.lua</File>
+			<File>UI/Additions/SecretSocietyPopup.xml</File>
+      <File>UI/Additions/DiplomacyActionView_SecretSocietyRow.lua</File>
+      <File>UI/Additions/DiplomacyActionView_SecretSocietyRow.xml</File>
+      <File>UI/Loaders/TechAndCivicUnlockables_Ethiopia.lua</File>
+      <File>UI/Replacements/NotificationPanel_Ethiopia.lua</File>
+		</ImportFiles>
+		<AddUserInterfaces id="Ethiopia_InGameUI" criteria="Ethiopia_Mode">
+			<Properties>
+				<Context>InGame</Context>
+			</Properties>
+			<File>UI/Additions/SecretSocietyPopup.xml</File>
+		</AddUserInterfaces>
+		<UpdateAudio id="EthiopiaAudio" criteria="Ethiopia">
+			<File>Platforms/Windows/Audio/XP3_DLC2Banks.ini</File>
+			<File>Platforms/Windows/Audio/XP3_DLC2_Music_Bank.bnk</File>
+			<File>Platforms/Windows/Audio/XP3_DLC2_Music_Bank.txt</File>
+			<File>Platforms/Windows/Audio/XP3_DLC2_Music_Bank.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Ambiences.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Ambiences.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Ambiences.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Music_Bank.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Music_Bank.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Music_Bank.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Notifications.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Notifications.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Notifications.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Speech.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Speech.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Speech.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_UI_Bank.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_UI_Bank.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_UI_Bank.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Wonders.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Wonders.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Wonders.xml</File>
+		</UpdateAudio>
+		<UpdateDatabase id="EthiopiaGameplayXP1_MODE" criteria="Ethiopia_Mode_Expansion1">
+			<File>Data/Ethiopia_GameCapabilities.xml</File>
+			<File>Data/Ethiopia_SecretSocieties_MODE.xml</File>
+			<File>Data/Ethiopia_SecretSocieties_Expansion1_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="EthiopiaGameplayXP2_MODE" criteria="Ethiopia_Mode_Expansion2">
+			<File>Data/Ethiopia_GameCapabilities.xml</File>
+			<File>Data/Ethiopia_SecretSocieties_MODE.xml</File>
+			<File>Data/Ethiopia_SecretSocieties_Expansion2_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="EthiopiaGranColombiaMayaGameplay_MODE" criteria="Ethiopia_Mode_Expansion2_GranColombia_Maya">
+			<File>Data/Ethiopia_SecretSocieties_GranColombia_Maya_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="EthiopiaText_MODE" criteria="Ethiopia_Mode">
+			<File Priority="1">Text/en_US/Ethiopia_Civilopedia_Text_MODE.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_SecretSocieties_Text_MODE.xml</File>
+		</UpdateText>
+		<UpdateLogitechARX id="EthiopiaARX" criteria="Ethiopia">
+			<File>Data/ARX/Civ_LEADER_MENELIK.png</File>
+		</UpdateLogitechARX>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="EthiopiaSettingsArt">
+			<File>Ethiopia.dep</File>
+		</UpdateArt>
+		<UpdateColors id="EthiopiaColors">
+			<File>Data/Ethiopia_Colors.xml</File>
+		</UpdateColors>
+		<UpdateIcons id="EthiopiaIcons_MODE" criteria="Ethiopia_Mode">
+			<File>Data/Ethiopia_Icons_Relics_MODE.xml</File>
+		</UpdateIcons>
+		<UpdateIcons id="EthiopiaSettingsIcons" criteria="Ethiopia">
+			<File>Data/Ethiopia_Icons_Buildings.xml</File>
+			<File>Data/Ethiopia_Icons_Civilizations.xml</File>
+			<File>Data/Ethiopia_Icons_Districts.xml</File>
+			<File>Data/Ethiopia_Icons_GameModes.xml</File>
+			<File>Data/Ethiopia_Icons_Leaders.xml</File>
+			<File>Data/Ethiopia_Icons_Notifications.xml</File>
+			<File>Data/Ethiopia_Icons_Projects.xml</File>
+			<File>Data/Ethiopia_Icons_Resources.xml</File>
+			<File>Data/Ethiopia_Icons_UnitActions.xml</File>
+			<File>Data/Ethiopia_Icons_UnitPortraits.xml</File>
+			<File>Data/Ethiopia_Icons_Units.xml</File>
+		</UpdateIcons>
+		<UpdateDatabase id="EthiopiaSettings">
+			<File>Data/Ethiopia_ConfigData.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="EthiopiaText">
+			<File Priority="1">Text/en_US/Ethiopia_PackageText.xml</File>
+			<File Priority="1">Text/en_US/Ethiopia_ConfigText.xml</File>
+			<File>Text/Ethiopia_Translations_PackageText.xml</File>
+			<File>Text/Ethiopia_Translations_ConfigText.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<LocalizedText>
+		<File>Text/en_US/Ethiopia_PackageText.xml</File>
+		<File>Text/Ethiopia_Translations_PackageText.xml</File>
+	</LocalizedText>
+	<Files>
+		<File>Ethiopia.dep</File>
+		<File>Data/Ethiopia_Colors.xml</File>
+		<File>Data/Ethiopia_ConfigData.xml</File>
+		<File>Data/Ethiopia_Buildings.xml</File>
+		<File>Data/Ethiopia_Civilizations.xml</File>
+		<File>Data/Ethiopia_Districts.xml</File>
+		<File>Data/Ethiopia_Expansion1.xml</File>
+		<File>Data/Ethiopia_Expansion2.xml</File>
+		<File>Data/Ethiopia_GameCapabilities.xml</File>
+		<File>Data/Ethiopia_Icons_Buildings.xml</File>
+		<File>Data/Ethiopia_Icons_Civilizations.xml</File>
+		<File>Data/Ethiopia_Icons_Districts.xml</File>
+		<File>Data/Ethiopia_Icons_FontIcons.xml</File>
+		<File>Data/Ethiopia_Icons_GameModes.xml</File>
+		<File>Data/Ethiopia_Icons_Leaders.xml</File>
+		<File>Data/Ethiopia_Icons_Notifications.xml</File>
+		<File>Data/Ethiopia_Icons_Projects.xml</File>
+		<File>Data/Ethiopia_Icons_Resources.xml</File>
+		<File>Data/Ethiopia_Icons_UnitActions.xml</File>
+		<File>Data/Ethiopia_Icons_UnitPortraits.xml</File>
+		<File>Data/Ethiopia_Icons_Units.xml</File>
+		<File>Data/Ethiopia_Icons_Relics_MODE.xml</File>
+		<File>Data/Ethiopia_Improvements.xml</File>
+		<File>Data/Ethiopia_Leaders.xml</File>
+		<File>Data/Ethiopia_Modifiers.xml</File>
+		<File>Data/Ethiopia_RemoveData.xml</File>
+		<File>Data/Ethiopia_RemoveData_Expansion2.xml</File>
+		<File>Data/Ethiopia_SecretSocieties_MODE.xml</File>
+		<File>Data/Ethiopia_SecretSocieties_Expansion1_MODE.xml</File>
+		<File>Data/Ethiopia_SecretSocieties_Expansion2_MODE.xml</File>
+		<File>Data/Ethiopia_SecretSocieties_GranColombia_Maya_MODE.xml</File>
+		<File>Data/Ethiopia_Units.xml</File>
+		<File>Text/Ethiopia_RemoveText.xml</File>
+		<File>Text/en_US/Ethiopia_Buildings_Text.xml</File>
+		<File>Text/en_US/Ethiopia_CitizenNames_Text.xml</File>
+		<File>Text/en_US/Ethiopia_CityNames_Text.xml</File>
+		<File>Text/en_US/Ethiopia_Civilopedia_Text_MODE.xml</File>
+		<File>Text/en_US/Ethiopia_Civilopedia_Text.xml</File>
+		<File>Text/en_US/Ethiopia_ConfigText.xml</File>
+		<File>Text/en_US/Ethiopia_Diplomacy_Text.xml</File>
+		<File>Text/en_US/Ethiopia_Districts_Text.xml</File>
+		<File>Text/en_US/Ethiopia_Expansion1_Text.xml</File>
+		<File>Text/en_US/Ethiopia_Expansion2_Text.xml</File>
+		<File>Text/en_US/Ethiopia_InGameText.xml</File>
+		<File>Text/en_US/Ethiopia_NamedPlaces_Text.xml</File>
+		<File>Text/en_US/Ethiopia_PackageText.xml</File>
+		<File>Text/en_US/Ethiopia_SecretSocieties_Text_MODE.xml</File>
+		<File>Text/Ethiopia_Translations_PackageText.xml</File>
+		<File>Text/Ethiopia_Translations_ConfigText.xml</File>
+		<File>Text/Ethiopia_Translations_Text.xml</File>
+		<File>Platforms/Windows/Audio/XP3_DLC2Banks.ini</File>
+		<File>Platforms/Windows/Audio/XP3_DLC2_Music_Bank.bnk</File>
+		<File>Platforms/Windows/Audio/XP3_DLC2_Music_Bank.txt</File>
+		<File>Platforms/Windows/Audio/XP3_DLC2_Music_Bank.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Ambiences.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Ambiences.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Ambiences.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Music_Bank.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Music_Bank.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Music_Bank.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Notifications.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Notifications.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Notifications.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Speech.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Speech.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Speech.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_UI_Bank.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_UI_Bank.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_UI_Bank.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Wonders.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Wonders.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Wonders.xml</File>
+		<File>Data/ARX/Civ_LEADER_MENELIK.png</File>
+		<File>UI/Additions/SecretSocietyPopup.lua</File>
+		<File>UI/Additions/SecretSocietyPopup.xml</File>
+    <File>UI/Additions/DiplomacyActionView_SecretSocietyRow.lua</File>
+    <File>UI/Additions/DiplomacyActionView_SecretSocietyRow.xml</File>
+    <File>UI/Loaders/TechAndCivicUnlockables_Ethiopia.lua</File>
+    <File>UI/Replacements/NotificationPanel_Ethiopia.lua</File>
+	</Files>
+</Mod>

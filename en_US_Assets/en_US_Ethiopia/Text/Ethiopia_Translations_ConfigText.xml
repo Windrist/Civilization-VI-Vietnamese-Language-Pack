@@ -1,0 +1,1042 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="pt_BR">
+      <Text>Igreja Escavada na Rocha|Igrejas Escavadas na Rocha</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="pt_BR">
+      <Text>Etiópia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="pt_BR">
+      <Text>Império Etíope</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="pt_BR">
+      <Text>o etíope|a etíope|os etíopes|as etíopes</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="pt_BR">
+      <Text>Menelik II </Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="pt_BR">
+      <Text>Modo Sociedades Secretas</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="pt_BR">
+      <Text>Este modo de jogo acrescenta no mundo até quatro Sociedades Secretas poderosas, misteriosas e, não raramente nefastas, cada uma baseada em organizações fictícias ou míticas do passado. Seus vestígios podem ser encontrados em Acampamentos Bárbaros, Aldeias Tribais ou mandando Emissários para Cidades-Estados e encontrando Maravilhas da Natureza. Uma alternativa, se outros líderes descobriram uma Sociedade, é aprender sobre elas aumentando seus níveis de visibilidade diplomática em relação a eles.[NEWLINE][NEWLINE]Descobrir uma Sociedade não significa entrar nela automaticamente, mas desbloqueia um novo Governador, que não precisa ser indicado para uma cidade. Gastar um Título de Governador nesse Governador significa entrar na sociedade, dando-lhe bônus poderosos. Mas escolha com sabedoria: após nomear o Governador, você se comprometerá com a filiação até o fim do jogo, e outros líderes reagirão à sua decisão. Gaste Títulos de Governador adicionais para provar seu comprometimento com a Sociedade e revelar seus mistérios mais profundos.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="pt_BR">
+      <Text>Legado Axumita</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="pt_BR">
+      <Text>As rotas comerciais internacionais da Etiópia concedem +0,5 de [ICON_Faith] fé por recurso na origem. Recursos melhorados concedem +1 de [ICON_Faith] fé para cada cópia que a cidade possuir. Pode comprar Museus de Arqueologia e Arqueólogos com [ICON_Faith] fé.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="pt_BR">
+      <Text>Desbloqueia a habilidade de Construtores para construírem uma Igreja Escavada na Rocha, exclusiva da Etiópia.[NEWLINE][NEWLINE]+1 de [ICON_Faith] fé. +1 de [ICON_Faith] fé para cada painel adjacente de Montanha e Colinas. Concede [ICON_TOURISM] turismo após pesquisar Voo de [ICON_FAITH] fé. +1 de apelo. Só pode ser construída em Colinas não adjacentes a outra Igreja Escavada na Rocha.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="pt_BR">
+      <Text>Desbloqueia a habilidade de Construtores para construírem uma Igreja Escavada na Rocha, exclusiva da Etiópia.[NEWLINE][NEWLINE]+1 de [ICON_Faith] fé. +1 de [ICON_Faith] fé para cada painel adjacente de Montanha e Colinas. Concede [ICON_TOURISM] turismo após pesquisar Voo de [ICON_FAITH] fé. +1 de apelo. Só pode ser pilhada (nunca destruída) por desastres naturais. Só pode ser construída em Colinas ou Solos Vulcânicos não adjacentes a outra Igreja Escavada na Rocha.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="pt_BR">
+      <Text>Conselho de Ministros</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="pt_BR">
+      <Text>Receba [ICON_SCIENCE] ciência e [ICON_CULTURE] cultura igual a 15% da sua geração de [ICON_FAITH] fé em cidades fundadas em Colinas. As unidades recebem +4 de [ICON_STRENGTH] força de combate em Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="pt_BR">
+      <Text>Terras Altas da Etiópia</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="pt_BR">
+      <Text>+4 de [ICON_Strength] força de combate em Colinas (Conselho de Ministros)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade de cavalaria leve da Era Medieval exclusiva da Etiópia. Possui visão adicional e não recebe nenhuma penalidade de [ICON_Movement] movimento por se mover em Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade de cavalaria leve da Era Medieval exclusiva da Etiópia. Visão maior e mais forte do que a Cavalaria Especial que substitui. Não recebe nenhuma penalidade de [ICON_Movement] movimento por se mover em Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="pt_BR">
+      <Text>Cavalaria Oromo</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="pt_BR">
+      <Text>Não recebe nenhuma penalidade de movimento por se mover em Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="pt_BR">
+      <Text>Menelik quer que você estabeleça suas cidades longe de colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="pt_BR">
+      <Text>Menelik está satisfeito por você deixar as terras altas para ele.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="pt_BR">
+      <Text>Menelik está irritado por você competir com ele pelas colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="pt_BR">
+      <Text>Gosta daqueles que se estabelecem longe das colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="pt_BR">
+      <Text>Terras Altas da Etiópia</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="pt_BR">
+      <Text>Gosta de construir em Colinas e ao redor delas, se possível, e gosta de outras civilizações que deixam para ele as áreas próximas a Colinas. Não gosta de quem também se estabelece e constrói em Colinas e ao redor delas.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="pt_BR">
+      <Text>Menelik II, grande Rei e Imperador, você possui uma visão para seu povo. Construirá amizades e fábricas, alianças e ferrovias, e usará sua inteligência e sabedoria para levar a Etiópia a um futuro brilhante e livre.</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="pt_BR">
+      <Text>{Value : number +#.#;-#.#} de recursos</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="pt_BR">
+      <Text>+{1_Amount} de [ICON_Strength] força de combate (Conselho de Ministros)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="pt_BR">
+      <Text>Cavalaria Oromo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="fr_FR">
+      <Text>Église rupestre|Églises rupestres</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="fr_FR">
+      <Text>Éthiopie</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="fr_FR">
+      <Text>Empire éthiopien</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="fr_FR">
+      <Text>éthiopien|éthiopienne|éthiopiens|éthiopiennes</Text>
+      <Gender>masculine:vowel|feminine:vowel|masculine:vowel|feminine:vowel</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="fr_FR">
+      <Text>Menelik II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="fr_FR">
+      <Text>Mode Sociétés secrètes</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="fr_FR">
+      <Text>Ce mode de jeu introduit dans le monde jusqu'à quatre sociétés secrètes, influentes, mystérieuses et aux intentions souvent discutables, toutes basées sur des organisations fictives ou mythiques de l'histoire. Vous trouverez leurs traces dans les campements barbares et les villages tribaux, en envoyant des émissaires dans des cités-états ou en découvrant des merveilles naturelles. Vous pourrez également augmenter votre niveau de visibilité diplomatique avec les dirigeants ayant déjà découvert l'une d'entre elles. [NEWLINE][NEWLINE]Vous ne rejoignez pas automatiquement une société secrète en la découvrant, mais vous débloquez un nouveau gouverneur qui n'a pas besoin d'être assigné à une ville. Offrez-lui un titre de gouverneur pour être recruté et ainsi profiter de puissants bonus, mais réfléchissez bien : une fois ce gouverneur nommé, vous serez membre de la société pour le reste de la partie, et les autres dirigeants réagiront en conséquence. Dépensez d'autres titres de gouverneurs pour prouver votre engagement auprès de la société et accéder à ses plus sombres secrets.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="fr_FR">
+      <Text>Héritage aksoumite</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Faith] Foi +0.5 par ressource à l'origine de vos routes commerciales internationales de l'Éthiopie. [ICON_Faith] Foi +1 grâce au ressources aménagées pour chaque doublon de la ressource exploitée par la ville. Peut acheter des musées archéologiques et des archéologues avec de la [ICON_Faith] foi.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="fr_FR">
+      <Text>Débloque la compétence de bâtisseur permettant de construire une église rupestre, un bâtiment exclusif à l'Éthiopie.[NEWLINE][NEWLINE][ICON_Faith] Foi +2. [ICON_Faith] Foi +1 pour chaque case de montagnes ou de collines adjacente. La [ICON_FAITH] foi génère du [ICON_TOURISM] tourisme après la découverte de l'aviation. Attrait +1. Ne peut être construite que sur des collines qui ne sont pas adjacentes à un quartier spécialisé ou à une autre église rupestre.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="fr_FR">
+      <Text>Débloque la compétence de bâtisseur permettant de construire une église rupestre, un bâtiment exclusif à l'Éthiopie.[NEWLINE][NEWLINE][ICON_Faith] Foi +2. [ICON_Faith] Foi +1 pour chaque case de montagnes ou de collines adjacente. La [ICON_FAITH] foi génère du [ICON_TOURISM] tourisme après la découverte de l'aviation. Attrait +1. Peut uniquement être pillée (jamais détruite) par les catastrophes naturelles. Ne peut être construite que sur une colline ou un sol volcanique n'étant pas adjacent à un quartier spécialisé ou à une autre église rupestre.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="fr_FR">
+      <Text>Conseil des ministres</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="fr_FR">
+      <Text>Vous gagnez une quantité de [ICON_SCIENCE] science et de [ICON_CULTURE] culture égale à 15% de la [ICON_FAITH] foi générée dans les villes fondées sur des collines. [ICON_STRENGTH] Puissance de combat +4 pour les unités sur les collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="fr_FR">
+      <Text>Plateaux éthiopiens</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +4 sur les collines (Conseil des ministres).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="fr_FR">
+      <Text>Unité de cavalerie légère du Moyen-âge exclusive à l'Éthiopie. Champ de vision amélioré et pas de pénalité de [ICON_Movement] PM dans les collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="fr_FR">
+      <Text>Unité de cavalerie légère du Moyen-âge exclusive à l'Éthiopie, plus puissante et avec un meilleur champ de vision que le coursier, qu'elle remplace. Pas de pénalité de [ICON_Movement] PM dans les collines. </Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="fr_FR">
+      <Text>Cavalerie oromo</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="fr_FR">
+      <Text>Pas de pénalité de mouvement sur les collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="fr_FR">
+      <Text>Menelik vous demande d'établir vos villes loin des collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="fr_FR">
+      <Text>Menelik vous sait gré de lui laisser les collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="fr_FR">
+      <Text>Menelik est contrarié que vous rivalisiez avec lui pour le contrôle des collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="fr_FR">
+      <Text>Apprécie ceux qui restent à distance des collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="fr_FR">
+      <Text>Plateaux éthiopiens</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="fr_FR">
+      <Text>Aime construire sur les collines ou alentour si possible, et apprécie les civilisations qui lui laissent les zones proches des collines. N'apprécie pas les civilisations s'installant sur les collines ou alentour.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="fr_FR">
+      <Text>Menelik II, grand roi et empereur, vous avez une vision pour votre peuple. Vous bâtirez des amitiés et des usines, des alliances et des routes ferroviaires, et utiliserez votre sagesse et votre talent pour mettre l'Éthiopie sur les rails d'un avenir lumineux et empreint de liberté.</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="fr_FR">
+      <Text>Ressources : {Value : number +#.#;-#.#}</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="fr_FR">
+      <Text>Conseil des ministres : [ICON_Strength] Puissance de combat +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="fr_FR">
+      <Text>Cavalerie oromo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="de_DE">
+      <Text>Felskirche|Felskirche|Felskirche|Felskirche|Felskirche</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="de_DE">
+      <Text>Äthiopien|Äthiopien|Äthiopien|Äthiopiens|Äthiopien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="de_DE">
+      <Text>Äthiopisches Reich|Äthiopische Reich|Äthiopischen Reich|Äthiopischen Reichs|Äthiopische Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="de_DE">
+      <Text>Äthiopisch|Äthiopischen|Äthiopische|Äthiopischer|Äthiopisches</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="de_DE">
+      <Text>Menelik II.</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="de_DE">
+      <Text>Geheimgesellschaften-Modus</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="de_DE">
+      <Text>Dieser Spielmodus fügt der Welt bis zu vier mächtige, rätselhafte und oft ruchlose Geheimgesellschaften hinzu. Jede von ihnen basiert auf fiktionalen oder mythischen Organisationen der Vergangenheit. Ihr könnt ihre Spuren in Barbarenlagern oder Stammesdörfern oder durch die Entsendung von Gesandten in Stadtstaaten sowie die Entdeckung von Naturwundern finden. Ihr könnt auch in diplomatische Sichtbarkeit investieren und so durch andere Oberhäupter, die eine Geheimgesellschaft gefunden haben, mehr über die jeweilige Gesellschaft erfahren.[NEWLINE][NEWLINE]Die Entdeckung einer Geheimgesellschaft bewirkt nicht automatisch Euren Beitritt, doch schaltet einen neuen Gouverneur frei, der keiner Stadt zugewiesen werden muss. Wenn Ihr einen Gouverneur-Titel ausgebt, um diesen Gouverneur zu ernennen, schließt Ihr Euch damit der Gesellschaft an und erlangt starke Bonusse. Aber wählt weise - sobald Ihr diesen Gouverneur ernennt, seid Ihr bis zum Ende des Spiels Mitglied dieser Gesellschaft und die anderen Oberhäupter werden entsprechend reagieren. Gebt zusätzliche Gouverneur-Titel aus, um Eure Hingabe zu beweisen und die höheren Mysterien freizuschalten.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="de_DE">
+      <Text>Aksumitisches Vermächtnis</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="de_DE">
+      <Text>Äthiopiens internationale Handelswege gewähren +0,5 [ICON_Faith] Glauben pro Ressource am Ausgangsort. Verbesserte Ressourcen liefern +1 [ICON_Faith] Glauben pro Kopie im Besitz der Stadt. Kauf von Archäologischen Museen und Archäologen mit [ICON_Faith] Glauben möglich.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="de_DE">
+      <Text>Schaltet die Handwerker-Fähigkeit frei, eine Felskirche zu bauen, die einzigartig für Äthiopien ist.[NEWLINE][NEWLINE]+1 [ICON_Faith] Glauben. +1 [ICON_Faith] Glauben für jedes angrenzende Berg- und Hügel-Geländefeld. Gewährt nach der Erforschung der Luftfahrt [ICON_TOURISM] Tourismus durch [ICON_FAITH] Glauben. +1 Anziehungskraft. Kann nur auf Hügeln gebaut werden und darf nicht an eine weitere Felskirche angrenzen.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="de_DE">
+      <Text>Schaltet die Handwerker-Fähigkeit frei, eine Felskirche zu bauen, die einzigartig für Äthiopien ist.[NEWLINE][NEWLINE]+1 [ICON_Faith] Glauben. +1 [ICON_Faith] Glauben für jedes angrenzende Berg- und Hügel-Geländefeld. Gewährt nach der Erforschung der Luftfahrt [ICON_TOURISM] Tourismus durch [ICON_FAITH] Glauben. +1 Anziehungskraft. Kann nur von Naturkatastrophen geplündert (niemals zerstört) werden. Kann nur auf Hügeln oder Vulkanerde gebaut werden und darf nicht an eine weitere Felskirche angrenzen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="de_DE">
+      <Text>Ministerrat</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="de_DE">
+      <Text>Erhaltet [ICON_SCIENCE] Wissenschaft und [ICON_CULTURE] Kultur in Höhe von 15 % Eurer [ICON_FAITH] Glaubensgenerierung in Städten, die auf Hügeln gegründet wurden. Einheiten erhalten +4 [ICON_STRENGTH] Kampfstärke auf Hügeln.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="de_DE">
+      <Text>Äthiopisches Hochland</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="de_DE">
+      <Text>+4 [ICON_Strength] Kampfstärke auf Hügeln (Ministerrat)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="de_DE">
+      <Text>Äthiopische Leichte Kavallerie-Spezialeinheit des Mittelalters. Hat verbesserte Sicht und erhält keinen [ICON_Movement] Fortbewegungsmalus für die Fortbewegung auf Hügeln.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="de_DE">
+      <Text>Äthiopische Leichte Kavallerie-Spezialeinheit des Mittelalters. Stärker und hat bessere Sicht als der Renner, den sie ersetzt. Erhält keinen [ICON_Movement] Fortbewegungsmalus für die Fortbewegung auf Hügeln.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="de_DE">
+      <Text>Oromo-Kavallerie</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="de_DE">
+      <Text>Erhält keinen Fortbewegungsmalus bei der Bewegung über Hügel.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="de_DE">
+      <Text>Menelik wünscht, dass Ihr Eure Städte weit weg von Hügeln gründet.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="de_DE">
+      <Text>Menelik ist erfreut, dass Ihr ihm das Hochland überlasst.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="de_DE">
+      <Text>Menelik ist ungehalten, dass Ihr ihm die Hügel streitig macht.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="de_DE">
+      <Text>Mag Zivilisationen, die weit von Hügeln entfernt siedeln.</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="de_DE">
+      <Text>Äthiopisches Hochland</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="de_DE">
+      <Text>Baut bevorzugt auf oder in der Nähe von Hügeln und steht Zivilisationen positiv gegenüber, die ihm solche Bereiche überlassen. Ist negativ eingestellt gegenüber anderen, die auch an Hügeln siedeln möchten.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="de_DE">
+      <Text>Menelik II., großer König und Kaiser, Ihr habt eine Vision für Euer Volk. Ihr werdet sowohl Freundschaften als auch Fabriken aufbauen, sowohl Allianzen als auch Schienenwege errichten und Eure Klugheit und Weisheit dazu nutzen, Äthiopien in eine strahlende und freie Zukunft zu führen.</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="de_DE">
+      <Text>{Value : number +#.#;-#.#} durch Ressourcen</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="de_DE">
+      <Text>+{1_Amount} [ICON_Strength] Kampfstärke (Ministerrat)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="de_DE">
+      <Text>Oromo-Kavallerie|Oromo-Kavallerie|Oromo-Kavallerie|Oromo-Kavallerie|Oromo-Kavallerie</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="it_IT">
+      <Text>Chiesa nella roccia|la Chiesa nella roccia|una Chiesa nella roccia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="it_IT">
+      <Text>Etiopia|dell'Etiopia|all'Etiopia|l'Etiopia|dall'Etiopia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="it_IT">
+      <Text>Impero etiope|dell'Impero etiope|all'Impero etiope|l'Impero etiope|dall'Impero etiope</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="it_IT">
+      <Text>etiope|etiope|etiopi|etiopi</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="it_IT">
+      <Text>Menelik II|di Menelik II|a Menelik II|Menelik II|da Menelik II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="it_IT">
+      <Text>Modalità Società segrete</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="it_IT">
+      <Text>Questa modalità di gioco aggiunge quattro Società segrete potenti e misteriose, ciascuna basata su una mitica organizzazione del passato. Le loro tracce possono essere portate alla luce distruggendo Avamposti barbarici, scoprendo Villaggi tribali, inviando Emissari nelle città-stato o scoprendo Meraviglie naturali. Alternativamente, se un altro leader del mondo ha scoperto una Società, puoi aumentare il tuo livello di Visibilità diplomatica con la sua civiltà per convincerlo a svelartela.[NEWLINE][NEWLINE]Scoprire una Società segreta non significa diventarne automaticamente membri, ma sblocca un nuovo Governatore che non ha bisogno di essere assegnato a una città. Spendere un Titolo Governatore su di lui ti farà entrare nella Società, facendoti ottenere potenti bonus. Ma scegli con cautela: una volta nominato tale Governatore, farai parte della Società per il resto della partita e gli altri leader reagiranno di conseguenza. Spendi ulteriori Titoli Governatore per dimostrare la tua dedizione alla Società e sbloccare i suoi misteri più occulti.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="it_IT">
+      <Text>Eredità di Axum</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="it_IT">
+      <Text>Le Rotte commerciali internazionali dell'Etiopia forniscono +0,5 [ICON_Faith] Fede per ogni risorsa nella città di origine. Le risorse migliorate forniscono +1 [ICON_Faith] Fede per ogni copia posseduta dalla città. Può acquistare Musei Archeologici e Archeologi in cambio di [ICON_Faith] Fede.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="it_IT">
+      <Text>Sblocca l'abilità dei Costruttori di realizzare una Chiesa nella roccia, miglioramento esclusivo dell'Etiopia.[NEWLINE][NEWLINE]+1 [ICON_Faith] Fede. +1 [ICON_Faith] Fede per ogni casella adiacente di montagna e collina. Dopo la scoperta del Volo fornisce [ICON_TOURISM] Turismo dalla [ICON_FAITH] Fede. +1 Appeal. Si può costruire solo su una collina non adiacente a un'altra Chiesa nella roccia.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="it_IT">
+      <Text>Sblocca l'abilità dei Costruttori di realizzare una Chiesa nella roccia, miglioramento esclusivo dell'Etiopia.[NEWLINE][NEWLINE]+1 [ICON_Faith] Fede. +1 [ICON_Faith] Fede per ogni casella adiacente di montagna e collina. Dopo la scoperta del Volo fornisce [ICON_TOURISM] Turismo dalla [ICON_FAITH] Fede. +1 Appeal. I disastri naturali possono solo danneggiarla (mai distruggerla). Si può costruire solo su una collina o Suolo vulcanico non adiacente a un'altra Chiesa nella roccia.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="it_IT">
+      <Text>Consiglio dei ministri</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="it_IT">
+      <Text>Le città fondate in collina ricevono [ICON_SCIENCE] Scienza e [ICON_CULTURE] Cultura pari al 15% della [ICON_FAITH] Fede generata. Le unità hanno +4 alla [ICON_STRENGTH] Forza di combattimento in collina.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="it_IT">
+      <Text>Altopiani dell'Etiopia</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="it_IT">
+      <Text>+4 alla [ICON_Strength] Forza di combattimento in collina (Consiglio dei ministri)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="it_IT">
+      <Text>Unità di cavalleria leggera di epoca medievale, esclusiva dell'Etiopia. Ha un raggio di visione più ampio e non riceve alcuna penalità al [ICON_Movement] movimento quando si muove in collina.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="it_IT">
+      <Text>Unità di cavalleria leggera di epoca medievale, esclusiva dell'Etiopia. È più forte e ha un raggio di visione più ampio del Corsiero che sostituisce. Non riceve alcuna penalità al [ICON_Movement] movimento quando si muove in collina.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="it_IT">
+      <Text>Cavalleria Oromo</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="it_IT">
+      <Text>Nessuna penalità al movimento in collina.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="it_IT">
+      <Text>Menelik vuole che le tue città siano fondate lontano dalle colline.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="it_IT">
+      <Text>Menelik è contento perché gli stai lasciando le colline</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="it_IT">
+      <Text>Menelik è irritato perché gli stai contendendo il terreno collinoso</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="it_IT">
+      <Text>Apprezza chi fonda città lontano dalle colline</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="it_IT">
+      <Text>Altopiani dell'Etiopia</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="it_IT">
+      <Text>Preferisce colonizzare le regioni vicino alle colline e apprezza le civiltà che gliele lasciano a disposizione. Non ama le civiltà che cercano di colonizzare sulle colline o nelle immediate vicinanze.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="it_IT">
+      <Text>Menelik II, grande re e imperatore, hai una grandiosa visione per il tuo popolo. Tu saprai costruire amicizie e fabbriche, alleanze e ferrovie, e con la tua intelligenza e saggezza saprai condurre l'Etiopia in un futuro libero e luminoso.</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="it_IT">
+      <Text>{Value : number +#.#;-#.#} dalle risorse</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="it_IT">
+      <Text>+{1_Amount} alla [ICON_Strength] Forza di combattimento (Consiglio dei ministri)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="it_IT">
+      <Text>Cavalleria Oromo|una Cavalleria Oromo|dalla tua Cavalleria Oromo|alla tua Cavalleria Oromo|la tua Cavalleria Oromo|da una Cavalleria Oromo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="ja_JP">
+      <Text>岩窟教会</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="ja_JP">
+      <Text>エチオピア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="ja_JP">
+      <Text>エチオピア帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="ja_JP">
+      <Text>エチオピアの</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="ja_JP">
+      <Text>メネリク2世</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="ja_JP">
+      <Text>秘密結社モード</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="ja_JP">
+      <Text>このモードでは、最大で4つの秘密結社が登場します。秘密結社はいずれも強大で、謎に満ち、時には人倫を無視した行動をとります。このゲームに登場する秘密結社は、フィクションや過去に実在したと語り継がれている組織から着想を得ています。秘密結社の手がかりは、蛮族の野営地や原住民の集落、自然遺産の発見、都市国家への代表団の派遣などを通じて得ることができます。他の指導者がいずれかの秘密結社と接触している場合は、その文明に対する外交的視野を高めることによって結社の存在を知ることも可能です。[NEWLINE][NEWLINE]秘密結社を発見しても、自動的にその一員になるわけではありません。まずは都市への配属を必要としない総督が新たに解除されます。この総督の称号を消費すると、晴れてその組織へ加入したことになり、強力なボーナスが手に入ります。ただし、選択には慎重さが求められます。いったん総督を任命すると、ゲーム終了までその組織と手を切ることはできなくなりますし、他の指導者の反応にも影響が生じるからです。その一方で、総督の称号をさらに消費して結社への忠誠を証明すれば、より深い秘密に触れることが許されます。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="ja_JP">
+      <Text>アクスムの遺産</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="ja_JP">
+      <Text>交易路の起点都市にある資源1つにつき、エチオピアの国際交易路の [ICON_Faith] 信仰力+0.5。施設を建設済みの資源がある場合は、その都市にある同じ資源1つにつき [ICON_Faith] 信仰力+1。考古博物館と考古学者を [ICON_Faith] 信仰力で購入できる。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="ja_JP">
+      <Text>労働者がエチオピア固有の岩窟教会を建設できるようになる。[NEWLINE][NEWLINE][ICON_Faith] 信仰力+1。隣接する山岳か丘陵タイル1つにつき [ICON_Faith] 信仰力+1。「航空技術」を研究すると [ICON_Faith] 信仰力から [ICON_TOURISM] 観光力が得られるようになる。アピール+1。別の岩窟教会に隣接していない丘陵にのみ建設可能。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="ja_JP">
+      <Text>労働者がエチオピア固有の岩窟教会を建設できるようになる。[NEWLINE][NEWLINE][ICON_Faith] 信仰力+1。隣接する山岳や丘陵タイル1つにつき [ICON_Faith] 信仰力+1。「航空技術」を研究すると [ICON_Faith] 信仰力から [ICON_TOURISM] 観光力が得られるようになる。アピール+1。自然災害によってのみ略奪状態となる (破壊されることはない)。別の岩窟教会に隣接していない丘陵か火山性土にのみ建設可能。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="ja_JP">
+      <Text>大臣評議会</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="ja_JP">
+      <Text>丘陵の都市で産出される [ICON_Faith] 信仰力の15%に相当する [ICON_SCiENCE] 科学力と [ICON_CULTURE] 文化力を得る。丘陵にいるユニットの [ICON_Strength] 戦闘力+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="ja_JP">
+      <Text>エチオピア高原</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="ja_JP">
+      <Text>丘陵での [ICON_Strength] 戦闘力+4 (大臣評議会) 。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="ja_JP">
+      <Text>エチオピア固有の中世の軽騎兵ユニット。視界が広く、丘陵から移動を開始した場合には [ICON_Movement] 移動ペナルティを受けない。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="ja_JP">
+      <Text>エチオピア固有の中世の軽騎兵ユニット。コーサーに取ってかわるユニットで、より強く、視界も広い。丘陵から移動を開始した場合には [ICON_Movement] 移動ペナルティを受けない。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="ja_JP">
+      <Text>オロモ騎兵隊</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="ja_JP">
+      <Text>丘陵から移動を開始した場合に移動ペナルティを受けない。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="ja_JP">
+      <Text>メネリクはあなたに、丘陵から離れた場所に都市を築いてほしがっている。</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="ja_JP">
+      <Text>メネリクはあなたが丘陵を避けているので喜んでいる</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="ja_JP">
+      <Text>メネリクはあなたが丘陵を狙っているので憤っている</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="ja_JP">
+      <Text>丘陵から離れた場所に都市を築く文明を好む</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="ja_JP">
+      <Text>エチオピア高原</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="ja_JP">
+      <Text>丘陵タイルやその周辺に都市を築くことを目指す。丘陵に近いエリアを残しておいてくれる文明を好み、自分と同じように丘陵タイルやその周辺に都市を築く文明を嫌う。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="ja_JP">
+      <Text>メネリク2世、民に理想を示す偉大なる王にして皇帝よ。友情と工場、同盟と鉄道を築き上げ、機転と叡智を駆使してエチオピアを明るく自由な未来へ導くのだ。</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="ja_JP">
+      <Text>資源により{Value : number +#.#;-#.#}</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="ja_JP">
+      <Text>[ICON_Strength] 戦闘力+{1_Amount} (大臣評議会)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="ja_JP">
+      <Text>オロモ騎兵</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="ko_KR">
+      <Text>암굴 교회</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="ko_KR">
+      <Text>에티오피아</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="ko_KR">
+      <Text>에티오피아 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="ko_KR">
+      <Text>에티오피아</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="ko_KR">
+      <Text>메넬리크 2세</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="ko_KR">
+      <Text>비밀 결사 모드</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="ko_KR">
+      <Text>이 게임 모드에서는 최대 네 개의 강력하고 신비스러우며 과거의 가상 또는 신화적 조직을 기반으로 한 비밀 결사가 월드에 추가됩니다. 야만인 주둔지, 부족 마을에서 그들의 흔적을 발견하거나, 도시 국가에 사절을 파견하거나, 자연경관을 발견하십시오. 혹은 다른 지도자들이 결사를 발견했다면 그들을 통해 외교 시정 레벨을 높여 결사에 대해 알아내세요.[NEWLINE][NEWLINE]결사를 발견한다고 해서 자동으로 합류하는 것은 아니지만, 도시에 할당할 필요 없는 새 총독이 잠금 해제됩니다. 이 총독에게 총독 타이틀을 사용하는 것은 결사에 합류하는 것이고 강력한 보너스가 부여됩니다. 하지만 현명하게 선택하세요. 한번 총독을 임명하면 이후 게임에서 계속 결사에 헌신해야 하며 다른 지도자들이 똑같이 대응할 것입니다. 총독 타이틀을 더 사용해 결사에 대한 자신의 헌신을 증명하고 더 심오한 비밀을 알아내세요.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="ko_KR">
+      <Text>악숨 왕국 유산</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="ko_KR">
+      <Text>에티오피아의 국제 교역로가 출발지의 자원당 [ICON_Faith] 신앙 +0.5를 부여합니다. 도시가 소유한 개발된 자원의 개수마다 [ICON_Faith] 신앙 +1을 제공합니다. [ICON_Faith] 신앙으로 고고학 박물관과 고고학자를 구매할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="ko_KR">
+      <Text>에티오피아 특유 건물인 암굴 교회를 건설할 수 있는 건설자 능력을 잠금 해제합니다.[NEWLINE][NEWLINE][ICON_Faith] 신앙 +1를 제공합니다. 인접한 산맥 및 언덕마다 [ICON_Faith] 신앙 +1을 획득합니다. [ICON_FAITH] 신앙으로 비행 연구 시 [ICON_TOURISM] 관광을 제공합니다. 매력도 +1을 제공합니다. 다른 암굴 교회에 인접하지 않은 언덕에만 건설할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="ko_KR">
+      <Text>에티오피아 특유 건물인 암굴 교회를 건설할 수 있는 건설자 능력을 잠금 해제합니다.[NEWLINE][NEWLINE][ICON_Faith] 신앙 +1을 제공합니다. 인접한 산맥 및 언덕마다 [ICON_Faith] 신앙 +1을 획득합니다. [ICON_FAITH] 신앙으로 비행 연구 시 [ICON_TOURISM] 관광을 제공합니다. 매력도 +1을 제공합니다. 자연재해로 약탈당할 수 있으나 파괴되지 않습니다. 다른 암굴 교회에 인접하지 않은 언덕 또는 화산토에만 건설할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="ko_KR">
+      <Text>각료 회의</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="ko_KR">
+      <Text>언덕에 세운 도시에서 생성되는 [ICON_FAITH] 신앙의 15%에 준하는 [ICON_SCIENCE] 과학과 [ICON_CULTURE] 문화를 얻습니다. 유닛이 언덕에서 [ICON_STRENGTH] 전투력 +4를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="ko_KR">
+      <Text>에티오피아 고지</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="ko_KR">
+      <Text>언덕에서 [ICON_Strength] 전투력 +4(각료 회의)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="ko_KR">
+      <Text>에티오피아 특유의 중세 시대 경기병 유닛입니다. 추가 시야를 얻고 언덕에서 이동 시 [ICON_Movement] 이동력 페널티를 받지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="ko_KR">
+      <Text>에티오피아 특유의 중세 시대 경기병 유닛입니다. 대체하는 군마보다 더 강력한 힘과 뛰어난 시야를 자랑합니다. 언덕에서 이동 시 [ICON_Movement] 이동력 페널티를 받지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="ko_KR">
+      <Text>오로모 기병대</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="ko_KR">
+      <Text>언덕에서 이동 시 이동력 페널티를 받지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="ko_KR">
+      <Text>메넬리크가 도시를 언덕과 떨어뜨려 지으라고 합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="ko_KR">
+      <Text>메넬리크는 고지를 남겨놓은 것에 만족합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="ko_KR">
+      <Text>메넬리크는 언덕을 놓고 경쟁하는 것에 속상해합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="ko_KR">
+      <Text>언덕에서 먼 곳에 정착하는 것을 좋아합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="ko_KR">
+      <Text>에티오피아 고지</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="ko_KR">
+      <Text>가능하면 언덕 주변에 건설하는 것을 선호하며, 그를 위해 언덕 근처 영토를 비워두는 문명을 좋아합니다. 언덕 근처에 정착해 건물을 짓는 사람을 싫어합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="ko_KR">
+      <Text>위대한 왕이자 황제인 메넬리크 2세시여, 당신에겐 백성들을 위한 꿈이 있습니다. 우정과 공장, 동맹과 철도 양쪽을 쌓아 올리며 기지와 지혜로 에티오피아를 밝고 자유로운 미래로 이끌어야 합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="ko_KR">
+      <Text>자원에서 {Value : number +#.#;-#.#}</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="ko_KR">
+      <Text>[ICON_Strength] 전투력 +{1_Amount}(각료 회의)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="ko_KR">
+      <Text>오로모 기병대</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="pl_PL">
+      <Text>Kościół skalny|Kościoła skalnego|Kościołowi skalnemu|Kościół skalny|Kościołem skalnym|Kościele skalnym|kościół skalny|kościoła skalnego|kościołowi skalnemu|kościół skalny|kościołem skalnym|kościele skalnym</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="pl_PL">
+      <Text>Etiopia|Etiopii|Etiopii|Etiopię|Etiopią|Etiopii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Etiopskie|Imperium Etiopskiego|Imperium Etiopskiemu|Imperium Etiopskie|Imperium Etiopskim|Imperium Etiopskim|Imperium Etiopskie|Imperium Etiopskiego|Imperium Etiopskiemu|Imperium Etiopskie|Imperium Etiopskim|Imperium Etiopskim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="pl_PL">
+      <Text>Etiopski|Etiopska|Etiopscy|Etiopskie|Etiopsk|etiopski|etiopska|etiopscy|etiopskie|etiopsk|etiopskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="pl_PL">
+      <Text>Menelik II|Menelika II|Menelikowi II|Menelika II|Menelikiem II|Meneliku II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="pl_PL">
+      <Text>Tryb tajnych stowarzyszeń</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="pl_PL">
+      <Text>Ten tryb wprowadza do świata gry maksymalnie cztery potężne, tajemnicze i często niegodziwe tajne stowarzyszenia zainspirowane fikcyjnymi lub mitycznymi organizacjami, które zapisały się w dziejach świata. Na ich trop wpaść można, odwiedzając obozy barbarzyńców i wioski plemienne, wysyłając emisariuszy do miast-państw lub odkrywając cuda natury. Możesz też zainwestować w widoczność dyplomatyczną, aby dowiedzieć się o stowarzyszeniach od innych przywódców, którzy zdołali nawiązać z nimi kontakt.[NEWLINE][NEWLINE]Odkrycie tajnego stowarzyszenia nie oznacza automatycznego przyjęcia w jego szeregi. Odblokuje jednak dostęp do nowego gubernatora, którego nie trzeba przypisywać do miasta. Wykorzystaj na niego tytuł gubernatora, a wstąpisz do reprezentowanego przezeń tajnego stowarzyszenia i zyskasz potężne premie. Dobrze przemyśl tę decyzję, bo nie będzie jej można zmienić do końca rozgrywki, a twoja przynależność do danego stowarzyszenia może nie spodobać się innym przywódcom. Wykorzystuj dodatkowe tytuły gubernatora, by udowodnić swoje oddanie stowarzyszeniu i odblokować jego głęboko skrywane tajemnice.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="pl_PL">
+      <Text>Dziedzictwo Aksum</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="pl_PL">
+      <Text>Międzynarodowe szlaki handlowe Etiopii zapewniają +0,5 do [ICON_Faith] wiary za każdy zasób w mieście docelowym. Ulepszone zasoby dają +1 do [ICON_Faith] wiary za każdą kopię należącą do miasta. Etiopia może nabywać muzea archeologiczne i archeologów za [ICON_Faith] wiarę.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="pl_PL">
+      <Text>Odblokowuje zdolność budowniczych pozwalającą wznieść kościół skalny, dostępny tylko dla Etiopii.[NEWLINE][NEWLINE]+1 do [ICON_Faith] wiary. +1 do [ICON_Faith] wiary za każde sąsiadujące pole z górą lub wzgórzami. Po opracowaniu technologii lotu zapewnia [ICON_TOURISM] turystykę dzięki [ICON_FAITH] wierze. +1 do atrakcyjności. Można wznieść tylko na wzgórzach, które nie sąsiadują z innym kościołem skalnym.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="pl_PL">
+      <Text>Odblokowuje zdolność budowniczych pozwalającą wznieść kościół skalny, dostępny tylko dla Etiopii.[NEWLINE][NEWLINE]+1 do [ICON_Faith] wiary. +1 do [ICON_Faith] wiary za każde sąsiadujące pole z górą lub wzgórzami. Po opracowaniu technologii lotu zapewnia [ICON_TOURISM] turystykę dzięki [ICON_FAITH] wierze. +1 do atrakcyjności. Może być jedynie splądrowany (nigdy zniszczony) przez katastrofy naturalne. Można wznieść tylko na polach ze wzgórzami lub wulkaniczną glebą, które nie sąsiadują z innym kościołem skalnym.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="pl_PL">
+      <Text>Rada ministrów</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="pl_PL">
+      <Text>Otrzymujesz [ICON_SCIENCE] naukę i [ICON_CULTURE] kulturę równą 15% [ICON_FAITH] wiary generowanej w miastach założonych na wzgórzach. Jednostki na wzgórzach zyskują +4 do [ICON_STRENGTH] siły bojowej.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="pl_PL">
+      <Text>Wyżyna Abisyńska</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="pl_PL">
+      <Text>+4 do [ICON_Strength] siły bojowej na wzgórzach (rada ministrów).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="pl_PL">
+      <Text>Średniowieczna jednostka lekkiej kawalerii dostępna wyłącznie dla Etiopii. Ma zwiększony zasięg widzenia i nie otrzymuje kary do [ICON_Movement] ruchu podczas przemieszczania się na wzgórzach.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="pl_PL">
+      <Text>Średniowieczna jednostka lekkiej kawalerii dostępna wyłącznie dla Etiopii. Silniejsza i dysponująca większym zasięgiem widzenia niż kawaleria courserska, którą zastępuje. Nie otrzymuje kary do [ICON_Movement] ruchu podczas przemieszczania się na wzgórzach.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="pl_PL">
+      <Text>Kawaleria oromska</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="pl_PL">
+      <Text>Brak kary do ruchu podczas przemieszczania się na wzgórzach.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="pl_PL">
+      <Text>Menelik chce, aby twoje miasta powstawały z dala od wzgórz.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="pl_PL">
+      <Text>Menelik jest zadowolony, gdy pozostawiasz wzgórza do jego dyspozycji.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="pl_PL">
+      <Text>Menelik jest niezadowolony, gdy konkurujesz z nim o dostęp do wzgórz.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="pl_PL">
+      <Text>Lubi tych, którzy osiedlają się z dala od wzgórz.</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="pl_PL">
+      <Text>Wyżyna Abisyńska</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="pl_PL">
+      <Text>Gdy jest to możliwe, buduje na wzgórzach i w ich pobliżu. Lubi cywilizacje, które pozostawiają te obszary do jego dyspozycji. Nie lubi tych, którzy również osiedlają się na wzgórzach i w ich pobliżu.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="pl_PL">
+      <Text>Meneliku II, wielki królu i imperatorze, wizjonerze swego ludu! Wzniesiesz fabryki i zawrzesz przyjaźnie, wybudujesz kolej i zdobędziesz sojuszników. Twój spryt i mądrość poprowadzą Etiopię ku wolnej i wspaniałej przyszłości.</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="pl_PL">
+      <Text>{Value : number +#.#;-#.#} dzięki zasobom</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="pl_PL">
+      <Text>+{1_Amount} do [ICON_Strength] siły bojowej (rada ministrów)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="pl_PL">
+      <Text>Kawaleria oromska|Kawalerii oromskiej|Kawalerii oromskiej|Kawalerię oromską|Kawalerią oromską|Kawalerii oromskiej|kawaleria oromska|kawalerii oromskiej|kawalerii oromskiej|kawalerię oromską|kawalerią oromską|kawalerii oromskiej</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="ru_RU">
+      <Text>Скальный храм|скального храма|скальному храму|скальный храм|скальным храмом|скальном храме</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="ru_RU">
+      <Text>Эфиопия|Эфиопии|Эфиопии|Эфиопию|Эфиопией|Эфиопии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="ru_RU">
+      <Text>Эфиопская империя|Эфиопской империи|Эфиопской империи|Эфиопскую империю|Эфиопской империей|Эфиопской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="ru_RU">
+      <Text>Эфиопск.|эфиопск.|эфиопск.|эфиопск.|эфиопск.|эфиопск.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="ru_RU">
+      <Text>Менелик II|Менелика II|Менелику II|Менелика II|Менеликом II|Менелике II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="ru_RU">
+      <Text>Режим «Тайные общества»</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="ru_RU">
+      <Text>Этот режим добавляет в игру четыре могучих, загадочных и зачастую порочных тайных общества, каждое из которых основано на вымышленных или мифических обществах прошлого. Ищите их следы в лагерях варваров и племенных поселениях или отправляйте послов в города-государства и отыскивайте чудеса природы. Если другие лидеры уже вступили в контакт с тайными обществами, можно вложиться в дипломатическую видимость и узнать об этих обществах побольше.[NEWLINE][NEWLINE]Если вы нашли тайное общество, то это еще не значит, что в него можно будет сразу вступить. Однако этим вы откроете губернатора, которого даже не нужно назначать в город. Чтобы вступить в общество, нужно дать губернатору титул, после чего вы получите мощные бонусы. Выбирайте с умом: назначив губернатора, вы заявите о поддержке выбранного общества, и остальные лидеры отреагируют на это. Используйте дополнительные титулы губернатора, чтобы доказать обществу свою преданность и открыть новые тайны.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="ru_RU">
+      <Text>Аксумское наследие</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="ru_RU">
+      <Text>Международные торговые пути Эфиопии дают +0,5 ед. [ICON_Faith] веры на начальном этапе. Улучшенные ресурсы дают +1 ед. [ICON_Faith] веры за каждую копию, имеющуюся у города. За [ICON_Faith] веру можно покупать археологические музеи и археологов.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="ru_RU">
+      <Text>Открывает способность «Строитель», чтобы построить скальный храм (уникально для Эфиопии).[NEWLINE][NEWLINE]+1 ед. [ICON_Faith] веры. +1 ед. [ICON_Faith] веры за каждую соседнюю гору и холм. Даёт [ICON_TOURISM] туризм после исследования «Авиации» через [ICON_FAITH] веру. +1 к престижу. Можно строить только на холмах, не соседствующих с другим скальным храмом.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="ru_RU">
+      <Text>Открывает способность «Строитель», чтобы построить скальный храм (уникально для Эфиопии).[NEWLINE][NEWLINE]+1 ед. [ICON_Faith] веры. +1 ед. [ICON_Faith] веры за каждую соседнюю гору и холм. Дает [ICON_TOURISM] туризм после исследования «Авиации» через [ICON_FAITH] веру. +1 к престижу. Может быть разорена, но не уничтожена стихийными бедствиями. Можно строить только на холмах, не соседствующих с другим скальным храмом.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="ru_RU">
+      <Text>Совет министров</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="ru_RU">
+      <Text>Бонус к [ICON_SCIENCE] науке и [ICON_CULTURE] культуре в размере 15% от [ICON_FAITH] производства веры в городах, построенных на холмах. Юниты получают +4 к [ICON_STRENGTH] боевой мощи на холмах.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="ru_RU">
+      <Text>Эфиопское нагорье</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="ru_RU">
+      <Text>+4 [ICON_Strength] к боевой мощи на холмах (совет министров).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="ru_RU">
+      <Text>Эфиопский уникальный легкий кавалерийский юнит эпохи Средневековья. Обладает дополнительным обзором и не получает штрафа к ОП за перемещение по холмам.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="ru_RU">
+      <Text>Эфиопский уникальный легкий кавалерийский юнит эпохи Средневековья. Сильнее и зорче заменяемого летучего отряда. Не получает штрафа к ОП за перемещение по холмам.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="ru_RU">
+      <Text>Кавалерия оромо</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="ru_RU">
+      <Text>Не получает штрафа к ОП за перемещение по холмам.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="ru_RU">
+      <Text>Менелик не хочет, чтобы вы строили города рядом с холмами</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="ru_RU">
+      <Text>Менелик рад тому, что вы оставляете холмы ему</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="ru_RU">
+      <Text>Менелик недоволен тем, что вы боретесь с ним за холмы</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="ru_RU">
+      <Text>Любит тех, кто селится далеко от холмов</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="ru_RU">
+      <Text>Эфиопское нагорье</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="ru_RU">
+      <Text>Предпочитает по возможности основывать поселения на холмах и рядом с ними. Любит цивилизации, которые позволяют ему селиться на холмах. Не любит цивилизации, так же селящиеся на холмах и рядом с ними.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="ru_RU">
+      <Text>Менелик II, негус-негести, верховный правитель, вы прозреваете славное будущее для своего народа. Развивайте отношения и заключайте альянсы, стройте фабрики и железные дороги и своей смекалкой и мудростью приведите Эфиопию к светлому, свободному будущему.</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="ru_RU">
+      <Text>{Value : number +#.#;-#.#} от ресурсов</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="ru_RU">
+      <Text>+{1_Amount} к [ICON_Strength] боевой мощи (совет министров)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="ru_RU">
+      <Text>Кавалерия оромо|кавалерии оромо|кавалерии оромо|кавалерию оромо|кавалерией оромо|кавалерии оромо</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="zh_Hans_CN">
+      <Text>独石教堂</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="zh_Hans_CN">
+      <Text>埃塞俄比亚</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>埃塞俄比亚帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>埃塞俄比亚的</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="zh_Hans_CN">
+      <Text>孟尼利克二世</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="zh_Hans_CN">
+      <Text>秘密结社模式</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>此游戏模式在世界中加入了4个强大而神秘的秘密结社，每个皆以现实中存在的组织为原型。清理蛮族营地、造访部落村庄、将使者派往城邦或寻找自然奇观，便能找到他们的蛛丝马迹。另外，如果其他领袖已经发现秘密结社，提高与其的外交能见度也能接触到秘密结社。[NEWLINE][NEWLINE]发现秘密结社并不代表自动加入，但会解锁一名不需要指定到城市的新总督。将头衔颁发给此总督则代表加入此结社，并获得强大加成。但此举需要谨慎抉择。一旦任命总督后，在整场游戏中便会成为此结社的成员，而其他领袖也会对此作出反应。颁发更多总督头衔可以证明自己对结社的忠诚，从而解锁深层秘密。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="zh_Hans_CN">
+      <Text>阿克苏姆的遗产</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>埃塞俄比亚的国际贸易路线起点处每拥有一种资源，其提供的 [ICON_Faith] 信仰值便+0.5。城市每拥有一种重复的改良资源，其提供的 [ICON_Faith] 信仰值便+1。可用信仰值购买考古博物馆和考古学家。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>解锁建造者建造埃塞俄比亚特色建筑独石教堂的能力。[NEWLINE][NEWLINE]+1 [ICON_Faith] 信仰值。每与1个山脉和丘陵单元格相邻，便+1 [ICON_Faith] 信仰值。研究完“飞行”后，便能从 [ICON_FAITH] 信仰值提供 [ICON_TOURISM] 旅游业绩。+1魅力。只能建在丘陵上，不能与另一座独石教堂相邻。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>解锁建造者建造埃塞俄比亚特色建筑独石教堂的能力。[NEWLINE][NEWLINE]+1 [ICON_Faith] 信仰值。每与1个山脉和丘陵单元格相邻，便+1 [ICON_Faith] 信仰值。研究完“飞行”后，便能从 [ICON_FAITH] 信仰值提供 [ICON_TOURISM] 旅游业绩。+1魅力。只能被自然灾害掠夺（无法被摧毁）。只能建在丘陵或火山土上，不能与另一座独石教堂相邻。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="zh_Hans_CN">
+      <Text>内阁会议</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>获得等同于建在丘陵上的城市所产生 [ICON_FAITH] 信仰值15%的 [ICON_SCIENCE] 科技值和 [ICON_CULTURE] 文化值。单位在丘陵上时+4 [ICON_STRENGTH] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="zh_Hans_CN">
+      <Text>埃塞俄比亚高地</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在丘陵上+4 [ICON_Strength] 战斗力（内阁会议）</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>埃塞俄比亚特色中世纪轻骑兵单位。拥有额外的视野，在丘陵中移动时无 [ICON_Movement] 移动力减益。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>埃塞俄比亚特色中世纪轻骑兵单位。替代追猎者，战斗力更强、视野更广。在丘陵中移动时无 [ICON_Movement] 移动力减益。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="zh_Hans_CN">
+      <Text>奥罗莫骑兵</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在丘陵中移动时无移动力减益。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="zh_Hans_CN">
+      <Text>孟尼利克二世希望您在远离丘陵的地方建立城市。</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="zh_Hans_CN">
+      <Text>你将高地让给了孟尼利克二世，他十分欢喜</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="zh_Hans_CN">
+      <Text>你与孟尼利克二世争夺丘陵地貌，让他十分不悦</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="zh_Hans_CN">
+      <Text>喜欢在远离丘陵之处定居的文明</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="zh_Hans_CN">
+      <Text>埃塞俄比亚高地</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>喜欢在丘陵之上或丘陵周边建造城市，并且喜欢将丘陵附近区域让给他的文明。讨厌同样围绕丘陵进行发展的文明。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="zh_Hans_CN">
+      <Text>孟尼利克二世，伟大的帝王，你期望带领人民走上康庄大道。你将广结盟友、积极建设，用自己的聪明才智给埃塞俄比亚带来光明而自由的未来。</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="zh_Hans_CN">
+      <Text>资源提供{Value : number +#.#;-#.#}</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>+{1_Amount} [ICON_Strength] 战斗力（内阁会议）</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="zh_Hans_CN">
+      <Text>奥罗莫骑兵</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="es_ES">
+      <Text>Iglesia tallada en la roca|Iglesias talladas en la roca</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="es_ES">
+      <Text>Etiopía</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="es_ES">
+      <Text>Imperio etíope</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="es_ES">
+      <Text>etíope|etíope|etíopes|etíopes</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="es_ES">
+      <Text>Menelik II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="es_ES">
+      <Text>Modo Sociedades secretas</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="es_ES">
+      <Text>Este modo de juego añade al mundo hasta cuatro nuevas sociedades secretas que son misteriosas y poderosas, y con frecuencia también nefandas, cada una basada en organizaciones ficticias o míticas del pasado. Su rastro puede encontrarse en Campamentos bárbaros o Aldeas tribales, llevando Enviados a las ciudades-estado y hallando Maravillas naturales. Como alternativa, si otros líderes han descubierto una sociedad, puedes saber de ellas si inviertes en tu visibilidad diplomática con ellos.[NEWLINE][NEWLINE]Descubrir una sociedad no significa que se entre de manera automática en ella, sino que desbloquea a un nuevo Gobernador que no tiene que asignarse a una ciudad. Gastar un Título de gobernador en él sí que comporta entrar en la sociedad, lo cual te dará bonificaciones importantes. Pero elige con cuidado, porque una vez nombres al Gobernador, te comprometes a ser miembro durante el resto de la partida, y los demás líderes reaccionarán en consecuencia. Gasta más Títulos de gobernador para demostrar tu compromiso con la Sociedad y descubrir sus mayores secretos.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="es_ES">
+      <Text>Legado de Aksum</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="es_ES">
+      <Text>Las Rutas comerciales internacionales de Etiopía dan +0,5 a Fe [ICON_Faith] por recurso en el punto de origen. Los recursos mejorados dan +1 a Fe [ICON_Faith] por cada copia que tenga la ciudad. Se pueden adquirir Museos arqueológicos y Arqueólogos con Fe [ICON_Faith].</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="es_ES">
+      <Text>Desbloquea la habilidad del Constructor de erigir una Iglesia tallada en la roca, exclusiva de Etiopía.[NEWLINE][NEWLINE]+1 a Fe [ICON_Faith]. +1 a Fe [ICON_Faith] por cada casilla de Montaña y Colina adyacente. Da Turismo [ICON_TOURISM] por Fe [ICON_FAITH] después de investigar Vuelo. +1 a Atractivo. Solo puede construirse en Colinas que no estén adyacentes a otra Iglesia tallada en la roca.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="es_ES">
+      <Text>Desbloquea la habilidad del Constructor de erigir una Iglesia tallada en la roca, exclusiva de Etiopía.[NEWLINE][NEWLINE]+1 a Fe [ICON_Faith]. +1 a Fe [ICON_Faith] por cada casilla de Montaña y Colina adyacente. Da Turismo [ICON_TOURISM] por Fe [ICON_FAITH] después de investigar Vuelo. +1 a Atractivo. Solo se puede saquear (nunca destruir) por la acción de desastres naturales. Solo puede construirse en Colinas o Suelo volcánico que no estén adyacentes a otra Iglesia tallada en la roca.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="es_ES">
+      <Text>Consejo de Ministros</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="es_ES">
+      <Text>Recibe una Ciencia [ICON_SCIENCE] y Cultura [ICON_CULTURE] iguales al 15% de la generación de Fe [ICON_FAITH] en las ciudades fundadas en Colinas. Las unidades reciben +4 a la Fuerza de combate [ICON_STRENGTH] en Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="es_ES">
+      <Text>Altiplanos etíopes</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="es_ES">
+      <Text>+4 a la Fuerza de combate [ICON_Strength] en Colinas (Consejo de Ministros).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="es_ES">
+      <Text>Unidad exclusiva etíope de caballería ligera de la Edad Media. Tiene más Visual y no recibe penalizaciones de Movimiento [ICON_Movement] por moverse en Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="es_ES">
+      <Text>Unidad exclusiva etíope de caballería ligera de la Edad Media. Es más fuerte y tiene más Visual que el Corcel, al cual sustituye. No recibe penalizaciones de Movimiento [ICON_Movement] por moverse en Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="es_ES">
+      <Text>Caballería oromo</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="es_ES">
+      <Text>No recibe penalizaciones de Movimiento por moverse en Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="es_ES">
+      <Text>Menelik quiere que fundes tus ciudades lejos de las Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="es_ES">
+      <Text>Menelik está complacido de que le dejes las Montañas.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="es_ES">
+      <Text>Menelik está molesto de que compitas con él por las Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="es_ES">
+      <Text>Le gustan los que se asientan lejos de las Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="es_ES">
+      <Text>Altiplanos etíopes</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="es_ES">
+      <Text>Disfruta construyendo en Colinas y alrededor de ellas, si es posible, y le gusta que las otras civilizaciones le dejen las áreas cercanas a las Colinas. Desprecia a aquellos que también se asientan y construyen en Colinas y alrededor de ellas.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="es_ES">
+      <Text>Menelik II, gran rey y emperador, tienes una visión para tu pueblo. Construirás amistades y fábricas, alianzas y trenes, y usarás tu ingenio y tu sabiduría para llevar a Etiopía a un futuro brillante y libre.</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="es_ES">
+      <Text>{Value : number +#.#;-#.#} por recursos</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="es_ES">
+      <Text>+{1_Amount} a la Fuerza de combate [ICON_Strength] (Consejo de Ministros)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="es_ES">
+      <Text>Caballería oromo|Caballerías oromo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="zh_Hant_HK">
+      <Text>岩洞教堂</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="zh_Hant_HK">
+      <Text>衣索比亞</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>衣索比亞帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>衣索比亞的</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="zh_Hant_HK">
+      <Text>孟尼利克二世</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="zh_Hant_HK">
+      <Text>祕密結社模式</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>此遊戲模式可在遊戲世界中加入最多四個強大、神祕且邪氣逼人的祕密結社，每個祕密結社都是以過往的虛構或神話組織改編而出。玩家可透過蠻族營地、部落村莊、派遣使者至城邦或尋找自然奇觀來尋找他們的蹤跡。除此之外，若其他領袖已經發現某個祕密結社，則可以透過增加與他們間的外交能見度，來更深入瞭解這些結社。[NEWLINE][NEWLINE]發現某個結社，並不代表就能因此加入，但這樣能解鎖新的行政長官，這名行政長官不需要指派至任何城市。在此行政長官身上花費行政長官職稱，即代表加入了該結社，並能因此獲得強大加成。但要審慎選擇，一旦指派那名行政長官後，在剩下的遊戲中你就會是那結社的一員了，而其他領袖也會據此做出反應。花費額外的行政長官職稱來證明自己對社團的貢獻，並且進一步解鎖深層祕密。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="zh_Hant_HK">
+      <Text>阿克蘇姆人的傳承</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>起源地每擁有一個資源，衣索比亞的國際貿易路線便+0.5 [ICON_Faith] 信仰值。城市中每個重複的已改良資源提供+1 [ICON_Faith] 信仰值。可使用 [ICON_Faith] 信仰值購買考古博物館及考古學家。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>解鎖建造者建造衣索比亞特色建築岩洞教堂的能力。[NEWLINE][NEWLINE]+1 [ICON_Faith] 信仰值。每個相鄰的山脈與丘陵單元格+1 [ICON_Faith] 信仰值。研發完「飛行」後將從 [ICON_Faith] 信仰值改為提供 [ICON_TOURISM] 旅遊業績。+1魅力。僅能建在丘陵上，不可與另一座岩洞教堂相鄰。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>解鎖建造者建造衣索比亞特色建築岩洞教堂的能力。[NEWLINE][NEWLINE]+1 [ICON_Faith] 信仰值。每個相鄰的山脈與丘陵單元格+1 [ICON_Faith] 信仰值。研發完「飛行」後將從 [ICON_Faith] 信仰值改為提供 [ICON_TOURISM] 旅遊業績。+1魅力。僅能遭到天災掠奪（無法摧毀）。僅能建在丘陵或火山灰土上，不可與另一座岩洞教堂相鄰。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="zh_Hant_HK">
+      <Text>部長會議</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>於建立在丘陵上的城市中獲得同 [ICON_FAITH] 信仰值15%的 [ICON_SCIENCE] 科技值及 [ICON_CULTURE] 文化值。所有單位在丘陵上的 [ICON_STRENGTH] 戰鬥力+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="zh_Hant_HK">
+      <Text>衣索比亞高原</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在丘陵時+4 [ICON_Strength] 戰鬥力（部長會議）</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>衣索比亞中世紀特色輕騎兵單位。擁有額外視野，並且在丘陵中移動無 [ICON_Movement] 移動力減益。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>衣索比亞中世紀特色輕騎兵單位。取代追獵者，戰力更強，視野更遠。在丘陵地形無 [ICON_Movement] 移動力減益。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="zh_Hant_HK">
+      <Text>奧羅莫騎兵</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在丘陵中移動無移動力減益。</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="zh_Hant_HK">
+      <Text>孟尼利克想要你在遠離丘陵處開拓城市。</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="zh_Hant_HK">
+      <Text>孟尼利克為你將高地留給他感到滿意</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="zh_Hant_HK">
+      <Text>孟尼利克為你和他爭奪丘陵之舉感到不滿</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="zh_Hant_HK">
+      <Text>喜歡在遠離丘陵處開拓城市的人</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="zh_Hant_HK">
+      <Text>衣索比亞高原</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>若有可能，喜愛在丘陵上及其周圍建造都市，並且喜歡將丘陵附近區域留給他的文明。不喜歡同時也在丘陵周圍開拓城市或建造區域的文明。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="zh_Hant_HK">
+      <Text>孟尼利克二世，偉大的國王及皇帝啊，你對人民有著高瞻遠矚的願景。你不只會締結友誼及同盟，還會建造工廠與鐵路，運用你的機敏與智慧帶領衣索比亞走向光明與自由的未來。</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="zh_Hant_HK">
+      <Text>{Value : number +#.#;-#.#}來自資源</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>+{1_Amount} [ICON_Strength] 戰鬥力（部長會議）</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="zh_Hant_HK">
+      <Text>奧羅莫騎兵</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

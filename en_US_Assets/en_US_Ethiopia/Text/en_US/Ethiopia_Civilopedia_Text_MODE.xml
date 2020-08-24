@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- concepts -->
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME">
+			<Text>Modes</Text>
+		</Replace>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_CONTENT_TITLE">
+			<Text>Secret Societies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_WELCOME_TITLE">
+			<Text>Welcome</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_WELCOME_PARA_1">
+			<Text>In game setup, players can turn on the Secret Societies game mode, introducing powerful and mysterious new forces to the world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_TITLE">
+			<Text>Make Contact</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_1">
+			<Text>There are four Secret Societies operating in the shadows around the world. To make contact, seek out a Society where its influence might hide: Barbarian Outposts, Tribal Villages, Natural Wonders, or foreign City-States. Discovery is not guaranteed, but you are more likely to find a Society that other players have not discovered, or on continents where no Society has yet been discovered.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_2">
+			<Text>[ICON_SECRETSOCIETY_OWLS] {LOC_SECRETSOCIETY_OWLS_OF_MINERVA_DESCRIPTION} Attempt contact by sending [ICON_Envoy] Envoys to City-States where you currently have no [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_3">
+			<Text>[ICON_SECRETSOCIETY_HERMETIC] {LOC_SECRETSOCIETY_HERMETIC_ORDER_DESCRIPTION} Attempt contact by discovering Natural Wonders.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_4">
+			<Text>[ICON_SECRETSOCIETY_VOIDSINGERS] {LOC_SECRETSOCIETY_VOIDSINGERS_DESCRIPTION} Attempt contact by investigating Tribal Villages.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_5">
+			<Text>[ICON_SECRETSOCIETY_SANGUINE] {LOC_SECRETSOCIETY_SANGUINE_PACT_DESCRIPTION} Attempt contact by capturing Barbarian Camps.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_6">
+			<Text>Alternatively, reaching the [ICON_VisSecret] Secret level of diplomatic visibility on another player will automatically make contact with that player's Society. Once you do make contact with a Society, you will be able to see which other leaders are members by visiting the Diplomacy screen, even if you do not join it.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_INITIATION_TITLE">
+			<Text>Initiation</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_INITIATION_PARA_1">
+			<Text>Making contact with a Secret Society is only the first step. It unlocks a unique [ICON_Governor] Governor with powerful bonuses, which you do not need to assign to a city. To become a full-fledged member of the Society, appoint the corresponding Governor. Once you become a member of a Society, you are locked into that Society for the rest of the game.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_INITIATION_PARA_2">
+			<Text>Alliances with players who are members of the same Society generate Alliance Points more quickly, and those players will have an improved opinion of you in diplomacy. Players who are members of a different Societies, however, will dislike you once they are aware of your affiliation.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DEEPER_MYSTERIES_TITLE">
+			<Text>Deeper Mysteries</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DEEPER_MYSTERIES_PARA_1">
+			<Text>Each [ICON_Governor] Governor has four promotions, unlocked sequentially. Unlike normal Governor promotions, a promotion's effect is not revealed until the previous promotion is earned. (If you prefer not to be surprised, keep reading the Civilopedia.)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DEEPER_MYSTERIES_PARA_2">
+			<Text>Secret Societies need generations of time to lay their plans, so not all promotions are available right away. The second promotion is available when the game enters the Medieval Era. The third is available in the Industrial Era. The final one is available in the Atomic Era.</Text>
+		</Row>
+		<!-- units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VAMPIRE_CHAPTER_HISTORY_PARA_1">
+			<Text>The myth of the vampire is one that has a particular resonance in a world where hereditary aristocracy is largely a thing of the past. Cruel masters, obsessed with eternal youth, who prey upon a populace to whom they imagine themselves to be superior, full of decadent but decayed culture, hold a fascination as monarchies worldwide have fallen one by one. They emerge as sometimes tragic, sometimes horrific villains or antiheroes to a population confined to normalcy. Of these, the quintessential real-life vampire would be the Countess Elizabeth Báthory de Ecsed, a Hungarian noblewoman who, according to legend, believed that she could preserve her youth and beauty through the blood of her victims – over 600 of them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULTIST_CHAPTER_HISTORY_PARA_1">
+			<Text>In weird fiction, those that catch a glimpse of ultimate truths go mad. But this madness is of a strange variety, one that does not fragment, but oddly brings together. In H.P. Lovecraft’s “Call of Cthulhu” (1928), a series of horrific dreams links artists with tribal peoples, dreamers and outlaws, all dreaming the same syllables from a dead language. Here, then, madness is not psychopathy, rather, it is a connection with something more fundamental underlying the world, and to become a cultist is to live one’s life according to these, and not society’s, principles.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULTIST_CHAPTER_HISTORY_PARA_2">
+			<Text>For scholars of religion, “cult” simply means a religious group focused around one object of worship. We can speak of Catholic “cults” devoted to a particular saint, or Buddhist “cults” that choose a particular teacher, without all of the negative implications that the word has here. Cults can often claim to have a body of knowledge that is particular to that group, and new discoveries often give rise to new cults: the publishing of the Dead Sea Scrolls, for instance, provoked a boom in groups claiming to have privileged access to the knowledge in these texts. The followers of Heaven’s Gate believed that they were receiving messages from a UFO hiding in the tail of a passing comet. The cult Aum Shinrikyo, that released sarin gas into the Tokyo subway, believed itself to be in possession of supreme truth about the nature of the world. In these last two examples, the result was tragedy.</Text>
+		</Row>
+		<!-- buildings -->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ALCHEMICAL_SOCIETY_CHAPTER_HISTORY_PARA_1">
+			<Text>Alchemy and chemistry, magic and science, are not as far removed as they might initially seem. For anthropologists of magic (such as Marcel Mauss), each seeks to manipulate the world in order to produce an effect. With the case of alchemy and chemistry, each involves the transformation of one substance into another, a transformation that looked to medieval observers as though one was changing its essence. For medieval alchemists, the potential that this change could have was dramatic – one might change lead into gold or transform an old body into a young one. While the Alchemy Society here is based upon the medieval and Renaissance European tradition, elsewhere, Chinese, Indian, and other parts of the world developed their own alchemical traditions and practices.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ALCHEMICAL_SOCIETY_CHAPTER_HISTORY_PARA_2">
+			<Text>In the middle ages, Islamic science spread throughout medieval Europe, as Muslim scholars had preserved Latin texts, developed their own universities and institutions of learning, and brought in insights from Asia. For Europeans, these new bodies of knowledge presented a dizzying array of languages, propositions, ideas, and possibilities – scientific, political, religious, and, of course, magical. For this latter end, Europeans put together societies to put what they were reading into practice, and – at least in their hopes – unlock the key to the universe.  Alchemy was focused on understanding the ancient truths that were embedded in these texts. For this reason, as 18th and 19th century scientific schools focused on experimentation rather than translation, new knowledge rather than old, alchemical societies went further underground and out of the mainstream of Western thought.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GILDED_VAULT_CHAPTER_HISTORY_PARA_1">
+			<Text>The secret societies of the 18th and 19th centuries always had a secret base – a place where the members could gather in robes and masks for clandestine ceremonies (or, more likely, gather in funny hats for watered-down beer). Here, around a sumptuous table, decisions were alleged to be made about what countries rose and fell, and who would hold the reins of power. This is an image cribbed from popular culture, but certain societies did and still do play upon such tropes for fun or to expand their own mystique. Yale’s secret societies, for instance, still meet in elaborate, Orientalist-themed vaults for what outsiders would have you believe to be world-defining meetings (but which are more likely the wearing of funny hats and drinking of watered-down beer). In these “gilded vaults,” money and power, noble titles and authority, are traded freely. Or so they say.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_OLD_GOD_OBELISK_CHAPTER_HISTORY_PARA_1">
+			<Text>In the “weird fiction” of and inspired by H.P. Lovecraft and others, the gods are thankfully forgotten. Lovecraft’s Old Ones are fundamentally unconcerned with humanity and contact inevitably results in madness or death. But not everyone has forgotten – weird fiction is full of examples of hidden cults having rediscovered markers of the Old Gods and turned them into objects of worship.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_OLD_GOD_OBELISK_CHAPTER_HISTORY_PARA_2">
+			<Text>We have always recycled the religious detritus of older beliefs, especially ones that we do not understand completely. European magic of the middle ages and later often drew upon Greek or Egyptian symbols not because they actually contained some kind of esoteric knowledge, but because they seemed to hold in their very incomprehensibility the promise of some extra power. And it is not just Europeans who make appeals to the incomprehensible. The Mien people of highland Southeast Asia carry elaborate documents written in Chinese characters (which few of them can read) by a divine emperor guaranteeing them a right to live on mountaintops without harassment. Villagers in Tanzania seeking healing will prefer to go to a healer from a distant village, rather than from one who lives next door. And teenage wizards in popular fantasy books rarely call out their magical spells in English. The appeal of the unknown is that it might contain a source of power beyond our comprehension. Might as well put up an obelisk to it.</Text>
+		</Row>
+		<!-- improvements -->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_VAMPIRE_CASTLE_CHAPTER_HISTORY_PARA_1">
+			<Text>Stoker’s Dracula lived alone – undead brides aside - in a castle in the Carpathian mountains of Transylvania. When Jonathan Harker comes to conduct his business with the Count, Dracula must dress up as his own coachman, cook Harker’s meals, and, of course, make sure Harker stays locked in his room. From the balcony overlooking the Transylvanian forests, the Count broods over his past and future conquests. The inspiration for Dracula’s castle is today popularly attributed to Bran Castle in Romania, although neither Stoker nor Dracula’s supposedly real-world counterpart Vlad Tepes had anything to do with the place, instead, the castle was selected by the Romanian government as the place most evocative of the Count’s home. It remains, though, the quintessential vampire’s castle: a brooding structure on a cliff overlooking a dark forest where wolves still prowl. </Text>
+		</Row>
+		<!-- resources -->
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_LEY_LINE_CHAPTER_HISTORY_PARA_1">
+			<Text>It is a geometrical truth that between two points exist a straight line. This, plus a map of the English countryside, gave rise to the notion of ley lines crisscrossing England in the 19th and early 20th centuries. A British antiquarian, Alfred Watkins, proposed that dead-straight ancient highways linking sacred sites in the British countryside could be found if one looked hard enough. While his theory was dismissed by archaeologists, who noted that true ancient highways were often rambling, it was taken up again by New Age devotees in the 1960s. Instead of ancient highways, these “ley lines” that linked sacred sites were veins in which the Earth’s mystical energies flowed. Where lines crossed would be sites of great spiritual and chthonic power, places that, if harnessed, could unleash the potential in the landscape and in the individual. There was never any evidence for ley lines’ reality, either as an archaeological feature or as a mystical energy source, and the theory slowly died out as new trends in New Age and mystical belief took over.</Text>
+		</Row>
+		<!-- governors -->
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_OWLS_OF_MINERVA_CHAPTER_HISTORY_PARA_1">
+			<Text>Politics often looks like chaos. Bumbling leaders can make stupid mistakes that risk the safety and security of entire nations, and too often choices seem to be made based upon the most short-term goals. There is little wonder, then, that people might dream about a world where this is not so. Rumors of shadowy organizations that pull the strings of power for good or (more often) ill have persisted for centuries. We are drawn to such beliefs as they give us a sense that there is structure underlying seeming chaos (and, for the conspiracy theorist, a feeling of importance in being let in on the secret), even if that secret truth can seem hostile. Like someone solving a puzzle, there is a sense of pleasure in putting together pieces that seem to fit… even if, in truth, the pieces never quite fit just the way we would like them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_OWLS_OF_MINERVA_CHAPTER_HISTORY_PARA_2">
+			<Text>Many of these conspiracy theories arose around the time of the Enlightenment. As new ways of thinking swept over Europe, they clashed with church and royal authorities. New groups of people (men, almost always) formed with the stated goals of applying rational thought to what had been unquestionable before. These groups – the Freemasons, the Illuminati (a Bavarian group), and others – were often made up of powerful but non-noble men: merchants, landowners, and others. They were often victims of repression by reactionary forces, as church and crown both found themselves less than thrilled about having their legitimacy questioned by a bunch of “free thinkers.” After the French Revolution – when a king was not only deposed, but executed, the panic over secular political/philosophical societies grew profound, and in the course of the 19th century, reached a fever pitch, especially when combined with the rise of Communist and Socialist groups. It was a tension that was to persist, with these societies  challenging traditional authority and in turn facing accusations of treason, impiety, and the like. The Owls of Minerva here – named after the Bavarian Illuminati – seek to represent not the historical intellectual societies, but its popular culture referent: this feared cabal of powerful men lurking behind the scenes of temporal politics.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_HERMETIC_ORDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Especially in times of great social change, when new knowledge and new ways of being show great potential to change the way that we live, societies often arise based around the cultivation and protection of this secret, world-transforming knowledge. While they might at first look like scientific societies, these orders were different in that they focused on the collection of secret knowledge, not its application. We can see examples of such societies in medieval Europe, Southeast Asia (especially as concerns tantric Buddhism), and East Asia; from ancient times to the present day. Here, the Hermetic Order seeks to model a late medieval alchemical society, as well as mystical/religious organizations that grew up in the later 19th century.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_HERMETIC_ORDER_CHAPTER_HISTORY_PARA_2">
+			<Text>The Hermetic Order of the Golden Dawn was an English group concerned with cultivating esoteric knowledge around the early 20th century. For inspiration, the Order drew upon a variety of sources: medieval European (“hermetic”) magic, Kabbalah (Jewish mysticism), Egyptian and Greek myth, and individual revelation. Devotees – most famously the English occultist Aleister Crowley - focused on expanding their mystical knowledge via astral travel, clairvoyance, and other magical practices, and the movement attracted a body of individuals seeking a greater truth that they felt was lacking in an increasingly rational and disenchanted society. The Order drew in a wide body of influential people, including Arthur Conan Doyle (creator of Sherlock Holmes), the English horror author Algernon Blackwood, the Irish author Bram Stoker (creator of Dracula), and others. Chapters of the Order exist today, and the Order’s practices have been influential on the development of many New Age religions, as people still seek a greater truth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_VOIDSINGERS_CHAPTER_HISTORY_PARA_1">
+			<Text>In the early 20th century, a new genre of science fiction and fantasy began to take hold, especially in the United States and UK. The horrors of World War I had proven that a new, scientific age could potentially be an inhuman one, and the universe revealed by exploration and scientific inquiry could be just as profoundly uncaring about humanity and its hopes and dreams. In addition, for citizens in colonizing countries, a growing awareness that the colonized world could in fact return to haunt the colonizers lent itself to a kind of isolationism – something helped along by that era’s virulent racism. The speculative worlds that emerged in the fiction of authors such as Arthur Machen, H.P. Lovecraft, and others were neither the morally-tinged Gothic nor the heroic tales of exploration of the 19th century, but something more disturbing, a new, “weird” fiction.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_VOIDSINGERS_CHAPTER_HISTORY_PARA_2">
+			<Text>A weird reality is one where the powers that shape the world are fundamentally uncaring and even hostile to humanity. While their inattention allows us to exist in the world today, traces of them might persist in forgotten places, drowned cities, or in the spaces between the stars, and might be revealed by science’s forward progress. In weird fiction, the world is one where we do not belong, and only the mad would actually seek out the things that make the world work.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_SANGUINE_PACT_CHAPTER_HISTORY_PARA_1">
+			<Text>It is difficult to imagine horror fiction without invoking Dracula. Bram Stoker, on writing his tale of the lonely bloodsucking Count trapped in his Transylvanian castle, drew upon Irish fairy legend, Romanian folktales, and a host of Northern European anxiety surrounding the Continent. In writing about vampires, he also drew upon a body of literature and folklore from closer to home, following Gothic authors such as Le Fanu, Lord Byron, and James Rymer, whose vampires were cautionary tales about unhealthy friendships and obsessions. In these, vampires are a kind of pinnacle of Gothic literature, bringing together moral decay, dark castles, and a decadent and corrupted elite. Here, the Sanguine Pact seeks to represent the kind of dark brother- and sister-hood inspired by Stoker.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_SANGUINE_PACT_CHAPTER_HISTORY_PARA_2">
+			<Text>Vampire myth in Greece, Turkey and Romania is in its origins about the return of a dead relative – especially the victim of a suicide or epidemic - to bother living family members. Unlike the Romantic (and romantic) Gothic vampire, the folkloristic vampire looks like a more like a fresh corpse of a loved one rather than a mysterious nocturnal nobleman. It is more a reflection on grief and mourning, and the ways that a dead loved one can still haunt us, especially when taken from us too quickly. However, like the Count, one got rid of such a being via the traditional method of stakes and crosses. While our modern-day vampire draws from southeastern Europe, other regions have their own bloodsucking revenants: the Chinese jiangshi, the Thai phi pop, the Norse draugur, or the myth of Lilith in Jewish folklore.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_HERMETIC_ORDER_TAB_NAME">
+			<Text>Hermetic Order Titles</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_OWLS_OF_MINERVA_TAB_NAME">
+			<Text>Owls of Minerva Titles</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_SANGUINE_PACT_TAB_NAME">
+			<Text>Sanguine Pact Titles</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_VOIDSINGERS_TAB_NAME">
+			<Text>Voidsingers Titles</Text>
+		</Row>
+	</EnglishText>
+</GameData>

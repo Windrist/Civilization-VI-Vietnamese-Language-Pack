@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_ETHIOPIA_MOD_TITLE">
+			<Text>DLC: Ethiopia Pack</Text>
+		</Row>
+		<Row Tag="LOC_ETHIOPIA_MOD_TEASER">
+			<Text>New Civilization and Leader - Menelik II of Ethiopia</Text>
+		</Row>
+		<Row Tag="LOC_ETHIOPIA_MOD_DESCRIPTION">
+			<Text>Contains a new civilization and leader, a new district, 2 new buildings, and the Secret Society game mode.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

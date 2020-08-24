@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_GOLDEN_AGE_WAR">
+			<Text>[SIZE_16]Tuyên bố chiến tranh thời kỳ Hoàng kim[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_WAR_OF_RETRIBUTION">
+			<Text>[SIZE_16]Tuyên bố chiến tranh Trả thù[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_IDEOLOGICAL_WAR">
+			<Text>[SIZE_16]Tuyên bố Chiến tranh Chủ nghĩa[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_WAR_OF_RETRIBUTION_DESCRIPTION">
+			<Text>Nền văn minh bạn muốn nhắm tới phải phá vỡ lời hứa với bạn trong khoảng thời gian gần đây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_IDEOLOGICAL_WAR_DESCRIPTION">
+			<Text>Nền văn minh bạn muốn nhắm tới phải có chính phủ Cấp 3 khác với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_GOLDEN_AGE_WAR_DESCRIPTION">
+			<Text>Bạn phải ở trong thời kỳ Hoàng kim.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Yêu cầu gia hạn Liên minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} đã yêu cầu gia hạn Liên minh với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Yêu cầu gia hạn Liên minh được chấp thuận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} đã chấp nhận gia hạn Liên minh cùng bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Gia hạn Liên minh bị từ chối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} đã từ chối gia hạn Liên minh với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Liên minh của chúng ta đã mang lại lợi ích to lớn cho cả hai dân tộc. Tôi đề xuất chúng ta nên tiếp tục gia hạn liên minh này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Tôi rất vui vì bạn đồng ý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Ngu xuẩn, tôi đã nghĩ chúng ta sẽ là đồng minh mãi mãi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>Có vẻ như là một ý tưởng tuyệt vời. Chúng tôi đồng ý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>Chúng tôi không muốn tiếp tục đồng hành với bạn vào lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_CHOICE_POSITIVE">
+			<Text>Chúng tôi rất vui khi Liên minh giữa chúng ta được gia hạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_CHOICE_NEGATIVE">
+			<Text>Chúng tôi không muốn gia hạn Liên minh này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_1">
+			<Text>Được, vì lợi ích và sự thịnh vượng trong tương lai của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_2">
+			<Text>Đồng ý, thỏa thuận này sẽ mang lại lợi ích cho cả hai nền văn minh chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_3">
+			<Text>Hãy gia hạn liên minh này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_GILGAMESH">
+			<Text>Tất nhiên rồi! Chúng ta chiến đấu cùng nhau chưa đủ lâu hay sao? Kẻ thù của chúng ta rồi sẽ phải thốt lên tên của chúng ta với sự sợ hãi trong ánh mắt mà thôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_ALEXANDER">
+			<Text>Tất nhiên rồi! Chúng ta chiến đấu cùng nhau chưa đủ lâu hay sao? Kẻ thù của chúng ta rồi sẽ phải thốt lên tên của chúng ta với sự sợ hãi trong ánh mắt mà thôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_TEDDY">
+			<Text>Đúng là chúng ta nên tiếp tục Liên minh với nhau.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_CATHERINE">
+			<Text>Tôi đồng ý, tôi không muốn từ bỏ lợi ích từ phía bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_CLEOPATRA">
+			<Text>Đồng ý. Tôi muốn nắm lấy mọi cơ hội để tiếp tục mối quan hệ thân thiết giữa hai chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_1">
+			<Text>Mọi thứ bây giờ đã khác trước rất nhiều. Chúng tôi không thể gia hạn Liên minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_2">
+			<Text>Không. Liên minh này không còn vì lợi ích của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_3">
+			<Text>Không. Không cần phải gia hạn Liên minh này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_GILGAMESH">
+			<Text>Không. Nó không thể như nó đã từng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_ALEXANDER">
+			<Text>Không. Nó không thể như nó đã từng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_TEDDY">
+			<Text>Nước Mỹ sẽ đi theo con đường riêng của mình, vì lợi ích là một cường quốc hạng nhất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_CATHERINE">
+			<Text>Tôi phải từ chối công ty của bạn. Ngay bây giờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_CLEOPATRA">
+			<Text>Không. Tình yêu của tôi với Liên minh này đã phai nhạt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_1">
+			<Text>Liên minh của chúng tôi đã mang lại hòa bình và thịnh vượng cho các nền văn minh của chúng tôi. Hãy để chúng tôi làm mới nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_2">
+			<Text>Chúng ta nên đổi mới Liên minh vốn rất có lợi cho cả hai nền văn minh của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_3">
+			<Text>Chúng ta có nên gia hạn Liên minh của mình không? Cả hai chúng tôi đều có lợi bởi thỏa thuận này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_GILGAMESH">
+			<Text>Gia hạn liên minh của chúng ta, bạn của tôi! Chúng ta sẽ cùng nhau tìm thấy niềm vui khi đánh bại kẻ thù của mình!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_ALEXANDER">
+			<Text>Gia hạn liên minh của chúng ta, bạn của tôi! Chúng ta sẽ cùng nhau tìm thấy niềm vui khi đánh bại kẻ thù của mình!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_TEDDY">
+			<Text>Hãy để chúng tôi làm mới Liên minh của chúng tôi! Sau đó, chúng ta hãy kỷ niệm dịp này bằng một trận đấu vật sôi nổi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_CATHERINE">
+			<Text>Chúng ta sẽ tiếp tục Liên minh của chúng ta chứ? Bạn sẽ rất tiếc nếu bạn bỏ lỡ bữa tiệc của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_CLEOPATRA">
+			<Text>Chúng tôi đã phát triển rất gần trong Liên minh này. Chắc chắn bạn sẽ không rút khỏi tôi bây giờ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_1">
+			<Text>Thông minh. Cả hai nền văn minh của chúng ta sẽ phát triển mạnh mẽ hơn nhờ điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_2">
+			<Text>Rất tốt. Hòa bình và thịnh vượng sẽ tiếp tục.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_3">
+			<Text>Tôi rất vui vì bạn thấy những lợi ích mà Liên minh này đã mang lại cho chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_GILGAMESH">
+			<Text>Hãy để chúng tôi vui mừng về sức mạnh tổng hợp của chúng tôi! Tôi nghe thấy tiếng răng của kẻ thù của chúng ta kêu lên vì sợ hãi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_ALEXANDER">
+			<Text>Hãy để chúng tôi vui mừng về sức mạnh tổng hợp của chúng tôi! Tôi nghe thấy tiếng răng của kẻ thù của chúng ta kêu lên vì sợ hãi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_TEDDY">
+			<Text>Đầu gấu!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_CATHERINE">
+			<Text>Tốt. Tôi rất ghét nếu bạn bỏ lỡ bất cứ điều gì quan trọng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_CLEOPATRA">
+			<Text>Tôi rất vui lòng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_1">
+			<Text>Một quyết định đáng thất vọng, bạn chắc chứ?.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_2">
+			<Text>Tôi hy vọng bạn không hối hận về quyết định này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_3">
+			<Text>Thật tiếc khi bạn cảm thấy như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_GILGAMESH">
+			<Text>Không vấn đề. Tôi có đủ sức mạnh mà không có bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_ALEXANDER">
+			<Text>Không vấn đề. Tôi có đủ sức mạnh mà không có bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_TEDDY">
+			<Text>Sức mạnh của Mỹ chỉ đang tăng lên. Bạn sẽ rất khôn ngoan khi chấp nhận lời đề nghị của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_CATHERINE">
+			<Text>Thất vọng làm sao. Bạn thật là thiển cận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_CLEOPATRA">
+			<Text>Không nghi ngờ gì nữa, một số nền văn minh khác đã lọt vào mắt xanh của bạn. Tìm sự thoải mái của bạn với họ, sau đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_BUTTON_ACCEPT">
+			<Text>Gia hạn liên minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_BUTTON_REJECT">
+			<Text>Kết thúc Liên minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_GOLDEN_AGE_WAR">
+			<Text>(Tuyên bố một cuộc chiến thời hoàng kim chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_EMERGENCY_WAR">
+			<Text>(Đã tham gia Khẩn cấp chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_WAR_OF_RETRIBUTION">
+			<Text>(Tuyên bố chiến tranh trả thù bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_IDEOLOGICAL_WAR">
+			<Text>(Tuyên bố một cuộc chiến tranh lý tưởng chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_GOLDEN_AGE_WAR">
+			<Text>(Tuyên bố một cuộc chiến tranh thời kỳ vàng chung chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_WAR_OF_RETRIBUTION">
+			<Text>(Tuyên bố một cuộc Chiến tranh trả thù chung chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_IDEOLOGICAL_WAR">
+			<Text>(Tuyên bố một cuộc chiến tranh lý tưởng chung chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Thật tốt là mối quan hệ của chúng ta được xây dựng dựa trên sức mạnh của việc biết bí mật của người khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Bạn phải thích thú với báo cáo của các phái viên và gián điệp của bạn nhiều như tôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Lần sau cử phái đoàn cho anh, trưởng đoàn sẽ có một bộ hồ sơ to béo đầy bí mật. Đảm bảo không có ai xung quanh khi bạn mở nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Có thể bạn đã nghe thấy những lời thì thầm rằng tôi coi bạn là một trong những nguồn tốt nhất của tôi. Nhưng ai là người lắng nghe những gì người ta nói? Tất nhiên là ngoài bạn và tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_GOSSIP_NEGATIVE">
+			<Text>Tôi thường tự hỏi tại sao bạn nói quá ít. Tôi tin rằng bạn không có gì thú vị để nói.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Các nhà thơ và nhà triết học của chúng tôi coi nền văn minh của bạn là ánh sáng của thế giới, và tôi phải đồng ý với họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Sự tráng lệ của cá nhân bạn được phản ánh trong vinh quang của nền văn minh của bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Người dân của mọi nền văn minh nhìn bạn với sự ngạc nhiên. Bạn là nguồn cảm hứng cho thế giới!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Tôi nhìn vào nền văn minh của bạn và các công trình của nó, và tôi hiểu tại sao dân tộc của bạn được ca ngợi trong các bài hát và câu chuyện trên khắp thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Nền văn minh của các bạn là hình mẫu mà tôi sẽ xây dựng nước Nga mới!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Còn gì tuyệt vời hơn khi được vây quanh mình với những nhà thơ, nhà viết kịch, thánh nhân và nhà khoa học như vậy? Tôi luôn nghĩ rằng một quốc gia vĩ đại là biểu hiện của những phước lành của Đấng Toàn năng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_GORGO_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Đúng! Sự xuất sắc của bạn — Arete của bạn — thực sự xứng đáng để thi đua! </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYCOPHANT_DARK_AGE">
+			<Text>Khát vọng trở thành một tấm gương tốt hơn cho phần còn lại của thế giới! Người của bạn sẽ yêu bạn nếu bạn dẫn họ đến vinh quang.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Nền văn minh của chúng ta ngưỡng mộ cách bạn đang gánh chịu rắc rối hiện tại bằng sự kiên trì và quyết tâm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Bạn chịu đựng những đau khổ của Thời kỳ Đen tối của bạn với sự cao thượng như vậy! Tôi ước gì đối tượng của tôi cũng vững vàng như bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Tôi đang gửi cho bạn một món quà: Một chiếc nhẫn có ghi “This Too Shall Pass”. Có thể nó sẽ an ủi bạn trong lúc khó khăn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Một nhà lãnh đạo kém hơn sẽ không thể làm những gì bạn đang làm: Giữ quyền kiểm soát vững chắc nền văn minh của bạn trong thời kỳ khủng hoảng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_GENGHIS_KHAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Tôi ngưỡng mộ cách bạn cai trị. Tôi đánh giá cao việc không phải đưa ra một chiến lược phức tạp để chinh phục nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_JADWIGA_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Trái tim của bạn phải đau đớn cho những đau khổ của người dân của bạn. Ba Lan hiểu hoàn cảnh của bạn, và chúng tôi cầu nguyện cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_LAUTARO_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Bạn cũng biết ý nghĩa của việc chống lại sự tàn ác của kẻ mạnh. Mapuche tôn trọng những gì bạn làm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_JAYAVARMAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Bây giờ bạn đang bị trói buộc vào vòng luân hồi. Tôi không ngừng cầu nguyện rằng bạn sẽ sớm được giải thoát và bình an.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_GOLDEN_AGE">
+			<Text>"Thời kỳ huy hoàng" của người ta trông giống như tôi đang hả hê lắm. Tôi mong chờ ngày rơi của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_GOSSIP_NEGATIVE">
+			<Text>(Bạn không nói chuyện phiếm đủ.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SYCOPHANT_DARK_AGE">
+			<Text>(Bạn đang ở trong một thời kỳ đen tối.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>(Bạn đang ở thời kỳ hoàng kim.)</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME">
+			<Text>Catherine de Medici (Magnificence)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME">
+			<Text>Catherine’s Magnificences</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION">
+			<Text>Improved Luxury resources adjacent to Theater Square districts or Châteaux receive +2 [ICON_CULTURE] Culture. May initiate the Court Festival project in any city with a Theater Square district.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME">
+			<Text>Catherine de Medici (Black Queen)</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,56 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+    <Replace Language='en_US' Tag="LOC_UNITOPERATION_CAUSE_DISASTER_DESCRIPTION">
+      <Text>Cause Disaster</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_UNITOPERATION_SACRIFICE_UNIT_DESCRIPTION">
+      <Text>Sacrifice Adjacent Unit</Text>
+    </Replace>
+    
+    <!-- promotions class -->
+    <Replace Language='en_US' Tag="LOC_PROMOTION_CLASS_SOOTHSAYER_NAME">
+      <Text>Soothsayer</Text>
+    </Replace>
+    <!-- promotions --><Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_MESSENGER_NAME">
+      <Text>Messenger</Text>
+    </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_INQUISITOR_NAME">
+	    <Text>Inquisitor</Text>
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_ZEALOT_NAME">
+	    <Text>Zealot</Text>
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_INCANTATION_NAME">
+	    <Text>Incantation</Text>
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_PLAGUE_BEARER_NAME">
+	    <Text>Plague Bearer</Text>
+	  </Replace>
+	  <!-- promotion descrips -->
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_MESSENGER_DESCRIPTION">
+	    <Text>+1 Charge, +2 [ICON_Movement] Movement.</Text>
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_INQUISITOR_DESCRIPTION">
+	    <Text>+1 Charge, gains Stealth.</Text>
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_ZEALOT_DESCRIPTION">
+	    <Text>+2 Charges.</Text>
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_INCANTATION_DESCRIPTION">
+	    <Text>+1 Charge. Adjacent units gain +5 [ICON_Strength] Combat Strength.</Text>
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_PLAGUE_BEARER_DESCRIPTION">
+	    <Text>+1 Charge. Adjacent enemy cities are automatically Besieged.</Text>
+	  </Replace>
+    <Replace Language='en_US' Tag="LOC_ABILITY_AUTO_SIEGE_DESCRIPTION">
+      <Text>Adjacent enemy cities are automatically Besieged.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_ABILITY_SOOTHSAYER_AOE_COMBAT_STRENGTH_DESCRIPTION">
+      <Text>+5 [ICON_Strength] Combat Strength from adjacent Soothsayer.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_SOOTHSAYER_AOE_COMBAT_STRENGTH_PREVIEW">
+      <Text>+5 [ICON_Strength] Combat Strength from Soothsayer.</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

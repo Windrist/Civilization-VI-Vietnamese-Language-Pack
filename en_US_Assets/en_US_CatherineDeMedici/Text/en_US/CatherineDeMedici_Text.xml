@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_PROJECT_COURT_FESTIVAL_NAME">
+			<Text>Court Festival</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME">
+			<Text>Court Festival</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION">
+			<Text>When complete, this project awards 50 [ICON_CULTURE] Culture and 50  [ICON_TOURISM] Tourism (on Standard speed) based on the number of excess copies of Luxury resources France possesses.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME">
+			<Text>Sumptuous Finery</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION">
+			<Text>Likes civilizations that trade Luxury resources to her. Dislikes civilizations that have not made such a trade. Tries to collect as many copies of Luxury resources as possible.</Text>
+		</Row>
+		<!-- Diplo text-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>I apologize, but this would be too sudden a change. Perhaps another time?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>How unfortunate!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>I accept your offer of friendship. And of course, you'll be invited to the next royal wedding.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>I extend to you the royal hand in friendship. Will you accept it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Masquerading as friends was kind of fun, wasn't it?  Unfortunately it's time to drop the pretense and get to the business at hand.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>You dare attack my sovereign realm? I don't believe even Nostradamus could have predicted this!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>I have lived long enough to know when I am defeated. Carry on.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Tempting, but no.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>I have sent you a trade delegation with all of the customary gifts : herbs, olives, various cheeses, and baguettes to eat them with, of course.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>We received your delegation at the palace. Thank you. The gifts will be treasured.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>I don't like the look of what you've been up to. What would your friends think of this information? (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>The glory and might of France will not be tarnished by such obvious lies.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>You have not lived until you have had our delicacies of food and drink. And I can show you how to use a fork, if you wish.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>By all means.  It will be a pleasure to see your growing city up close.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>I am enamored with architecture. Tell me, does your capital have any triumphant arches, or large metal towers?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>I am Catherine, the Queen Mother of France, and I welcome you to the realm. I do so look forward to learning all there is to know about you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>A pleasure, as always.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Would you like to form an alliance?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>I do not want to be remembered as a warmonger. Let us put aside our differences.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Absolutely not.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>I beg you for the sake of our loved ones, let there be peace between us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Unfortunately, I simply cannot allow it. For safety, of course.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>My military would like permission to pass through your lands. Peacefully, of course.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Oh, very well. You may proceed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Do you think to intimidate us with force? That will not go well for you, at all.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE">
+			<Text>Catherine is pleased you are trading luxury resources to her.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE">
+			<Text>Catherine is upset that you are hoarding luxury resources she'd rather have herself.</Text>
+		</Row>
+		<!-- Kudos and warnings -->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>All of my lovers are positively murdering each other to get some of your goods. What fun!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>How can my Flying Squadron critique your supposed luxuries if you don’t even send me any?</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="pt_BR">
+      <Text>DLC: Pacote da Personalidade Teddy Roosevelt</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="pt_BR">
+      <Text>Personalidades: Teddy Roosevelt (Alce) e Teddy Roosevelt (Rough Rider)</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="pt_BR">
+      <Text>Contém as personalidades Teddy Roosevelt (Alce) e Teddy Roosevelt (Rough Rider), cada uma com diferente aparência, habilidade e estilo de jogo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="fr_FR">
+      <Text>Contenu téléchargeable : pack de personnalités Theodore Roosevelt</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="fr_FR">
+      <Text>Personnalités "Élan" et "Rough Rider" pour Theodore Roosevelt</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="fr_FR">
+      <Text>Contient les personnalités "Élan" et "Rough Rider" pour Theodore Roosevelt, avec chacune leurs propres apparences, capacités et styles de jeu.</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="de_DE">
+      <Text>DLC: Teddy Roosevelt-Paket</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="de_DE">
+      <Text>Versionen von Teddy Roosevelt als Bull Moose und Rough Rider</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="de_DE">
+      <Text>Beinhaltet Teddy Roosevelt als "Bull Moose"- und "Rough Rider"-Version jeweils mit einzigartiger Erscheinung, Fähigkeit und Spielweise.</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="it_IT">
+      <Text>DLC: Pacchetto personaggio Teddy Roosevelt</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="it_IT">
+      <Text>Personaggi: Teddy Roosevelt (l'Alce) e Teddy Roosevelt (Rough Rider)</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="it_IT">
+      <Text>Contiene i personaggi Teddy Roosevelt (l'Alce) e Teddy Roosevelt (Rough Rider), ognuno con delle abilità, un aspetto e uno stile di gioco tutti suoi.</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="ja_JP">
+      <Text>DLC: セオドア“テディ”・ルーズベルト パーソナリティ・パック</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="ja_JP">
+      <Text>セオドア・ルーズベルトの2つの異なる側面、テディ・ルーズベルト (ブルムース) とテディ・ルーズベルト (ラフライダー)</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="ja_JP">
+      <Text>テディ・ルーズベルト (ブルムース) とテディ・ルーズベルト (ラフライダー) が追加されます。テディ・ルーズベルトのこの2つの異なる側面は、容姿、能力、プレイスタイルがそれぞれ異なります。</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="ko_KR">
+      <Text>DLC: 테오도어 루즈벨트 페르소나 팩</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="ko_KR">
+      <Text>테오도어 루즈벨트(불 무스) 및 테오도어 루즈벨트(의용 기병대) 페르소나</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="ko_KR">
+      <Text>테오도어 루즈벨트(불 무스) 및 테오도어 루즈벨트(의용 기병대) 페르소나를 포함하며, 각 페르소나는 고유한 모습, 능력, 플레이 스타일을 지닙니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="pl_PL">
+      <Text>Zawartość do pobrania: Pakiet wariantów Teddy’ego Roosevelta</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="pl_PL">
+      <Text>Dodatkowe warianty Teddy’ego Roosevelta: Teddy Roosevelt (Łoś) i Teddy Roosevelt (Rough Rider).</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="pl_PL">
+      <Text>Zawiera dodatkowe warianty Teddy’ego Roosevelta – Łosia i Rough Ridera – różniące się wyglądem, umiejętnościami i stylem gry.</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="ru_RU">
+      <Text>Набор: «Персона: Теодор Рузвельт»</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="ru_RU">
+      <Text>Личности: Теодор Рузвельт (прогрессивист) и Теодор Рузвельт (мужественный всадник)</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="ru_RU">
+      <Text>Включает двух новых правителей: Теодора Рузвельта (прогрессивиста) и Теодора Рузвельта (мужественного всадника). У каждого из них уникальная внешность, способность и стиль игры.</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="zh_Hans_CN">
+      <Text>DLC：泰迪·罗斯福领袖包</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="zh_Hans_CN">
+      <Text>泰迪·罗斯福（进步党）及泰迪·罗斯福（莽骑兵）</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>包含泰迪·罗斯福（进步党）及泰迪·罗斯福（莽骑兵）。每个版本皆有独特外观、能力及玩法。</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="es_ES">
+      <Text>DLC: Pack de personalidades de Teddy Roosevelt</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="es_ES">
+      <Text>Personalidades Teddy Roosevelt (Alce) y Teddy Roosevelt (Jinete duro)</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="es_ES">
+      <Text>Contiene a las personalidades Teddy Roosevelt (Alce) y Teddy Roosevelt (Jinete duro), cada uno con su aspecto, habilidad y estilo de juego únicos.</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="zh_Hant_HK">
+      <Text>DLC：西奧多‧羅斯福造型包</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="zh_Hant_HK">
+      <Text>西奧多‧羅斯福（公麋黨員）及西奧多‧羅斯福（莽騎兵）形象</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>包含西奧多‧羅斯福（公麋黨員）及西奧多‧羅斯福（莽騎兵）形象。每個形象都有自己的獨特外觀、能力與遊玩風格。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

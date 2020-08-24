@@ -1,0 +1,26 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+    <Replace Language='en_US' Tag="LOC_TUTORIAL_FIRST_TIME_MEGADISASTERS">
+      <Text>Thế giới của chúng ta đã chống lại chúng ta! Với Chế độ Ngày tận thế được bật, hạn hán, bão, lũ lụt và núi lửa phun trào thường xuyên hơn và nguy hiểm hơn. May mắn thay, bạn có thể đào tạo một Soothsayer, người có thể biến những tai họa này thành kẻ thù của bạn. Để mắt đến khí hậu; với sự gia tăng nhiệt độ cuối cùng, thế giới sẽ bước vào Ngày tận thế, và thảm họa sẽ ập đến từng lượt!</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_TUTORIAL_FOREST_FIRES">
+      <Text>Sét hay lỗi của con người đã châm ngòi cho một đám cháy rừng! Ngọn lửa sẽ lan sang bất kỳ khu rừng hoặc khu rừng lân cận nào. Trong khi khói sẽ gây ra cho chúng ta một số rắc rối, tro sẽ cung cấp phân bón tốt. Tất nhiên sau khi ngọn lửa tắt.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_TUTORIAL_METEOR_SHOWERS">
+      <Text>Thiên thạch đã rơi xuống từ bầu trời! Hãy xem họ đã mang theo những gì.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_TUTORIAL_COMET_IMPACT">
+      <Text>Một sao chổi đã tấn công Trái đất! Các cuộc tấn công của sao chổi phá hủy bất cứ thứ gì chúng va phải.[NEWLINE]'Ngay từ ban đầu, không có gì tồn tại cả.'</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_TUTORIAL_SOLAR_FLARES">
+      <Text>Thế giới đang trải qua một đợt bùng phát năng lượng mặt trời, làm hỏng tất cả các thiết bị điện của chúng ta. Các tòa nhà và cải tiến tạo ra điện của chúng tôi, và thậm chí cả các đơn vị sử dụng điện của chúng tôi đã bị hư hại!</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_TUTORIAL_SOOTHSAYERS">
+      <Text>Nhà Tiên tri hiện có sẵn cho chúng tôi thông qua Niềm tin. Nhà Tiên tri có thể gọi tai họa cho kẻ thù của bạn. Thông qua việc cạnh tranh với các nền văn minh khác, bạn có thể tăng sức mạnh của họ bằng cách hy sinh các đơn vị chiến đấu của mình cho núi lửa.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_TUTORIAL_APOCALYPSE">
+      <Text>Thế giới đang kết thúc! Thảm họa đang bắt đầu trên một quy mô mà chúng ta chưa từng thấy trước đây! Lao tới chiến thắng trước khi bạn bị tiêu diệt!</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

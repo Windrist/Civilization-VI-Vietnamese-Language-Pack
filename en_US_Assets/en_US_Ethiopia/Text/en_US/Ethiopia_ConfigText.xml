@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Secret Societies Mode -->
+		<Row Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME">
+			<Text>Secret Societies Mode</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION">
+			<Text>This game mode adds up to four powerful, mysterious, and often nefarious Secret Societies to the world, each based upon fictional or mythical organizations from the past. Their traces can be found in Barbarian Camps, Tribal Villages, or by sending Envoys to City-States and finding Natural Wonders. Alternatively, if other leaders have discovered a Society, you can learn about them by increasing your diplomatic visibility levels with them.[NEWLINE][NEWLINE]Discovering a Society does not mean joining it automatically, but it unlocks a new Governor that does not need to be assigned to a city. Spending a Governor Title on this governor means joining the society, giving you powerful bonuses. But choose wisely - once you appoint that Governor, you commit to membership for the rest of the game, and other leaders will react to your decision. Spend additional Governor Titles to prove your commitment to the Society and unlock its deeper mysteries.</Text>
+		</Row>
+		<!-- Ethiopia: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_ETHIOPIA_NAME">
+			<Text>Ethiopia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION">
+			<Text>Ethiopian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE">
+			<Text>Ethiopian</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME">
+			<Text>Aksumite Legacy</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION">
+			<Text>Ethiopia’s International Trade Routes grant +0.5 [ICON_Faith] Faith per resource at the origin. Improved resources provide +1 [ICON_Faith] Faith for each copy the city owns. Can purchase Archaeological Museums and Archaeologists with [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP">
+			<Text>{Value : number +#.#;-#.#} from Resources</Text>
+		</Row>
+		<!-- Ethiopia: Improvement Info -->
+		<Row Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME">
+			<Text>Rock-Hewn Church</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Rock-Hewn Church, unique to Ethiopia.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith. +1 [ICON_Faith] Faith for every adjacent Mountain and Hills tile. Provides [ICON_TOURISM] Tourism after researching Flight from [ICON_FAITH] Faith. +1 Appeal. Can only be built on Hills not adjacent to another Rock-Hewn Church.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Rock-Hewn Church, unique to Ethiopia.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith. +1 [ICON_Faith] Faith for every adjacent Mountain and Hills tile. Provides [ICON_TOURISM] Tourism after researching Flight from [ICON_FAITH] Faith. +1 Appeal. Can only be pillaged (never destroyed) by natural disasters. Can only be built on Hills or Volcanic Soil not adjacent to another Rock-Hewn Church.</Text>
+		</Row>
+		<!-- Ethiopia: Leader Info -->
+		<Row Tag="LOC_LEADER_MENELIK_NAME">
+			<Text>Menelik II</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MENELIK_NAME">
+			<Text>Council of Ministers</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION">
+			<Text>Receive [ICON_SCIENCE] Science and [ICON_CULTURE] Culture equal to 15% of your [ICON_FAITH] Faith generation in cities founded on Hills. Units receive +4 [ICON_STRENGTH] Combat Strength on Hills.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME">
+			<Text>Ethiopian Highlands</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Combat Strength on Hills (Council of Ministers)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength (Council of Ministers)</Text>
+		</Row>
+		<!-- Ethiopia: Unit Info -->
+		<Row Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME">
+			<Text>Oromo Cavalry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION">
+			<Text>Ethiopian unique Medieval era light cavalry unit. Has additional sight and receives no [ICON_Movement] Movement penalty from moving in Hills.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION">
+			<Text>Ethiopian unique Medieval era light cavalry unit. Stronger and greater sight than the Courser that it replaces. Receives no [ICON_Movement] Movement penalty from moving in Hills.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME">
+			<Text>Oromo Cavalry</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION">
+			<Text>Receives no movement penalty from moving in Hills.</Text>
+		</Row>
+		<!-- Ethiopia: Agenda Info -->
+		<Row Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS">
+			<Text>Menelik wants you to settle your cities far from any hills</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE">
+			<Text>Menelik is pleased that you leave the highlands to him</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE">
+			<Text>Menelik is upset that you compete with him for the hills</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS">
+			<Text>Likes those who settle far from the hills</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME">
+			<Text>Ethiopian Highlands</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION">
+			<Text>Enjoys building on and around Hills if possible, and likes other civilizations that leave the areas near Hills to him. Dislikes those who also settle and build on and around Hills.</Text>
+		</Row>
+		<!-- Ethiopia: Fawn of Man -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MENELIK">
+			<Text>Menelik II, great King and Emperor, you have a vision for your people. You will build both friendships and factories, alliances and railways, and use your wits and your wisdom to bring Ethiopia into a bright and free future.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

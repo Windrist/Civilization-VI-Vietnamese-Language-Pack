@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Lady Six Sky-->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Chúng tôi được liên kết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Các vì sao không đúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>War Serpent bay lượn trên bầu trời, và tình cảm tốt đẹp trỗi dậy. Chúng ta sẽ là bạn bè?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Chúng ta cùng nhau tỏa sáng trên bầu trời, bạn và tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Tôi chắc đã đánh giá sai bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Tôi sẽ không cho phép bạn tiếp tục nắm quyền nữa. Bạn đã xúc phạm tôi quá lâu!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Bạn không xứng đáng với quyền cai trị. Tôi sẽ lấy các thành phố của bạn và người dân của bạn, và cai trị chúng cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Phái đoàn của bạn đã được phép đến thăm thủ đô của chúng tôi. Tôi hứa sẽ không ai bị ép đến bàn thờ vĩ đại của War Serpent.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Phái đoàn của bạn không được hoan nghênh. Ngoại trừ, có thể, như một sự hy sinh?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Các sứ giả của tôi mang đến cho bạn uống sô cô la, xay với ớt và mật ong. Bạn sẽ cho họ vào chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Báo đốm sẽ đến tìm bạn trong đêm, và không ai thương tiếc sự ra đi của bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Tôi đã kiên nhẫn nói lời khuyên của mình, và bạn đã không để ý đến điều đó. Tôi nói nó bây giờ trong sự tức giận và thất vọng (Tố cáo bạn).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Bạn đang ở trong sự hiện diện của Lady Six Sky, nữ tư tế và chiến binh, nữ hoàng của Maya. Chào mừng bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Chúng tôi có một trận đấu giữa hai đội mạnh nhất của chúng tôi trên sân bóng. Đối với những người chiến thắng, chúng tôi có một lễ hội được tổ chức tại quảng trường ngôi đền. Chúng tôi đã sắp xếp cho những người thua cuộc trên đỉnh bàn thờ. Bạn sẽ đến và ăn mừng với chúng tôi chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Đúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Hãy để chúng tôi trao đổi thông tin về ngôi nhà của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Điều gì mang bạn đến với tôi?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Thấy rằng bạn vẫn tiếp tục rời xa quê hương của người Maya. Còn bây giờ những vì sao tỏa sáng có lợi cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Các ngôi sao tự nhìn ra xa những việc làm của bạn. Đừng đến gần vùng đất của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Sao Kim lặn ở điểm chỉ định, và mặt trăng mọc trên kim tự tháp. Các dấu hiệu phù hợp với một liên minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Những vì sao lại hướng về hòa bình. Tôi cũng sẽ đặt tay xuống. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Không. Cizin, chúa tể của thế giới ngầm, vẫn khát máu. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Máu, máu. Máu quá nhiều. Hãy để nó kết thúc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Mọi người của bạn được chào đón đi trên con đường của chúng tôi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Đường Maya sẽ không dể đôi chân người của bạn đạp lên. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Cầu mong đôi chân Maya đi trên con đường của bạn?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Các chiến binh của bạn gần vùng đất của người Maya. Xóa chúng cùng một lúc!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>War Serpent đã hướng dẫn chúng tôi ở đây. Bạn là ai để từ chối chúng tôi?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>War Serpent không đến với bạn. Chúng tôi sẽ rút lui. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Chu kỳ của người Maya kết thúc. Nhưng cuối cùng của thời đại của bạn cũng sẽ đến. Tôi cầu nguyện nó sẽ sớm. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Đây không phải là lúc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Các vì sao nói đúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_LADY_SIX_SKY_NEIGHBOR">
+			<Text>Lady Six Sky bị làm phiền bởi bạn định cư gần một trong những thành phố của cô ấy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_LADY_SIX_SKY_NOT_NEIGHBOR">
+			<Text>Lady Six Sky rất vui vì bạn đã định cư xa đế chế của cô ấy.</Text>
+		</Replace>
+		<!-- Simon Bolivar-->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Đúng! Hãy cùng nhau phá bỏ xiềng xích nô lệ!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tôi vẫn chưa tin rằng bạn đấu tranh cho tự do.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Cả hai chúng tôi đều phục vụ Cách mạng. Chúng ta sẽ cùng nhau cày biển? </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Thông minh! </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tôi đưa tay cho bạn, và bạn hất nó đi. Thật buồn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Sử dụng chiến tranh là điều đáng tiếc, nhưng cần thiết, khi đối phó với những kẻ mạnh như bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Sự chuyên chế của bạn, nếu không được kiểm soát, sẽ khiến thế giới chìm trong bóng tối, và vì lý do này, tôi phải tuyên chiến với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Chúng tôi đã tổ chức một cuộc diễu hành và một lễ hội tại quảng trường thành phố để vinh danh phái đoàn của bạn. Họ đã có một đêm dài. Hãy để họ ngủ trong.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Gran Colombia hôm nay đi trên con đường của riêng mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tôi gửi cho các bạn một phái đoàn gồm những kỵ sĩ tốt nhất của tôi chở cà phê và đường. Bạn sẽ cho họ vào chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Bạo chúa! Kẻ áp bức nhân dân! Kẻ thù của tự do! Các phương pháp tính toán trong ngày của bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Có lẽ bạn có thể lừa dối người khác, nhưng tôi không ảo tưởng về những thiết kế xấu xa của bạn. (Tố cáo bạn).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tôi, Tổng thống Simon Bolivar, chào mừng bạn đến Gran Colombia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Chúng tôi đang tổ chức một cuộc tranh luận cởi mở trong thành phố của tôi về bản chất của tự do. Bạn có muốn đến và nghe tôi nói chuyện không? </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Vâng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Trên tinh thần hữu nghị, chúng ta hãy đến thăm thủ đô của nhau. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Mừng trở lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Có vẻ như bạn hiểu cả lịch sử và pháp chế với một đội quân được phát huy tốt. Người của bạn được hưởng lợi từ sự lãnh đạo của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tôi có thể đưa ra một lời cảnh báo thân thiện không? Thay đổi cách của bạn, bạn bè hoặc những người lãnh đạo quân đội được thăng cấp sẽ thay đổi chúng cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Bạn sẽ tham gia cùng tôi trong cuộc đấu tranh cho tự do của tôi?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Vâng, thời gian cho hòa bình đã đến. Chúng ta hãy đặt tay xuống.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Chúng tôi sẽ không quay lại! Chúng tôi tiến về phía trước, đến sự giải phóng của chúng tôi và sự đổ nát của bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Đây. Tôi cung cấp thanh kiếm của mình vì lợi ích của hòa bình. Hãy để chúng tôi nói các điều khoản.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Vâng, chúng ta hãy cùng nhau diễu hành!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Để những con đường của Colombia được tự do.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Cầu mong các đội quân giải phóng hành quân qua vùng đất của bạn?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Lực lượng của bạn đe dọa vùng đất của chúng tôi. Xóa chúng cùng một lúc!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Những đội quân vinh quang của tự do không thể di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Những đội quân vinh quang của tự do sẽ tự đưa mình đi nơi khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tất cả những gì tôi đã làm, tôi đã làm cho đất nước Gran Colombia. Tôi vẫn là một người yêu nước cho đến cùng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tôi biết một thỏa thuận thối khi tôi nhìn thấy một.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Đúng! Hãy để cả hai chúng tôi thu lợi từ điều này!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_AGENDA_SIMON_BOLIVAR">
+			<Text>Simón Bolívar rất vui với sự tiến bộ của quân đội của bạn.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

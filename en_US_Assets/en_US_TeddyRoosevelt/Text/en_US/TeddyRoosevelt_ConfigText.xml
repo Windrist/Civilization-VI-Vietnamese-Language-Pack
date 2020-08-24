@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+    <Row Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME">
+      <Text>Teddy Roosevelt (Rough Rider)</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME">
+      <Text>Teddy Roosevelt (Bull Moose)</Text>
+    </Row>
+    <Row Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME">
+      <Text>Antiquities and Parks</Text>
+    </Row>
+    <Row Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION">
+      <Text>Breathtaking tiles adjacent to either a Natural Wonder or a Mountain receive +2 [ICON_SCIENCE] Science. Breathtaking tiles adjacent to either a Wonder or Woods receive +2 [ICON_CULTURE] Culture. All tiles in a city with a National Park are +1 Appeal.</Text>
+    </Row>
+    <Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION">
+      <Text>Units receive +5 [ICON_Strength] Combat Strength on their home continent. Envoys sent to City-States you have a [ICON_TradeRoute] Trade-Route to count as two [ICON_Envoy] Envoys. Gain the Rough Rider unique unit with Rifling.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL">
+      <Text>They admire the many appealing areas within your empire</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL">
+      <Text>They are disappointed that your empire lacks appealing areas</Text>
+    </Row>
+  </EnglishText>
+</GameData>

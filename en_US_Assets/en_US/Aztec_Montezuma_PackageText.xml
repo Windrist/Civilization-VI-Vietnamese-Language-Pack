@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+		<Replace Language='en_US' Tag="LOC_AZTEC_MONTEZUMA_MOD_TITLE">
+			<Text>DLC: Aztec Civilization Pack</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AZTEC_MONTEZUMA_MOD_TEASER">
+			<Text>New Civilization and Leader - Montezuma of the Aztecs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AZTEC_MONTEZUMA_MOD_DESCRIPTION">
+			<Text>Contains a new civilization and leader as well as a new world wonder.</Text>
+		</Replace>
+   </LocalizedText>
+</GameData>
+

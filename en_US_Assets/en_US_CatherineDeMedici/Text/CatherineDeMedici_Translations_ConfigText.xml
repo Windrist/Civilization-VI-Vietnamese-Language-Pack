@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="pt_BR">
+      <Text>Catarina de Médici (Magnificência)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="pt_BR">
+      <Text>Catarina de Médici (Rainha Negra)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="pt_BR">
+      <Text>Magnificências de Catarina</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="pt_BR">
+      <Text>Recursos de luxo melhorados adjacentes a distritos de Teatro ou Châteaux recebem +2 de [ICON_CULTURE] cultura. Pode iniciar o projeto Festival da Corte em qualquer cidade com um distrito de Teatro.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="fr_FR">
+      <Text>Catherine de Médicis (magnifique)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="fr_FR">
+      <Text>Catherine de Médicis (reine noire)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="fr_FR">
+      <Text>Magnificences de Catherine</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_CULTURE] Culture +2 pour les ressources de luxe aménagées adjacentes à une place du théâtre ou un castel. Peut lancer le projet "Fête de la cour" dans une ville dotée d'une place du théâtre.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="de_DE">
+      <Text>Katharina von Medici (Erhabenheit)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="de_DE">
+      <Text>Katharina von Medici (Schwarze Königin)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="de_DE">
+      <Text>Katharinas Erhabenheit</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="de_DE">
+      <Text>Modernisierte Luxus-Ressourcen, die an Theaterplatz-Bezirke oder Chateaus angrenzen, erhalten +2 [ICON_CULTURE] Kultur. Kann das Projekt 'Hoffest' in beliebigen Städten mit einem Theaterplatz-Bezirk beginnen.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="it_IT">
+      <Text>Caterina de' Medici (la Magnifica)|di Caterina de' Medici (la Magnifica)|a Caterina de' Medici (la Magnifica)|Caterina de' Medici (la Magnifica)|da Caterina de' Medici (la Magnifica)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="it_IT">
+      <Text>Caterina de' Medici (Regina nera)|di Caterina de' Medici (Regina nera)|a Caterina de' Medici (Regina nera)|Caterina de' Medici (Regina nera)|da Caterina de' Medici (Regina nera)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="it_IT">
+      <Text>La magnificenza di Caterina</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="it_IT">
+      <Text>Le risorse di lusso migliorate adiacenti a un distretto Piazza del Teatro o a uno Château forniscono +2 [ICON_CULTURE] Cultura. Può dare inizio al progetto Festa di corte in qualsiasi città dotata di una Piazza del Teatro.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="ja_JP">
+      <Text>カトリーヌ・ド・メディシス (麗妃)</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="ja_JP">
+      <Text>カトリーヌ・ド・メディシス (黒妃)</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="ja_JP">
+      <Text>カトリーヌの威光</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="ja_JP">
+      <Text>劇場広場地区やシャトーに隣接している開発済みの高級資源の [ICON_CULTURE] 文化力+2。劇場広場のある都市であればどこでも「宮廷の祭典」プロジェクトを開始できる。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="ko_KR">
+      <Text>카트린 데메디치(위엄)</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="ko_KR">
+      <Text>카트린 데메디치(검은 여왕)</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="ko_KR">
+      <Text>캐서린의 위엄</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="ko_KR">
+      <Text>극장가 특수지구 또는 샤토에 인접한 사치 자원을 개발할 때마다 [ICON_CULTURE] 문화 +2를 얻습니다. 극장가 특수지구가 있는 도시에서 궁중 축제 프로젝트가 시작될 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="pl_PL">
+      <Text>Katarzyna Medycejska (Magnificencja)|Katarzyny Medycejskiej (Magnificencji)|Katarzynie Medycejskiej (Magnificencji)|Katarzynę Medycejską (Magnificencję)|Katarzyną Medycejską (Magnificencją)|Katarzynie Medycejskiej (Magnificencji)|Katarzyna Medycejska (Magnificencja)|Katarzyny Medycejskiej (Magnificencji)|Katarzynie Medycejskiej (Magnificencji)|Katarzynę Medycejską (Magnificencję)|Katarzyną Medycejską (Magnificencją)|Katarzynie Medycejskiej (Magnificencji)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="pl_PL">
+      <Text>Katarzyna Medycejska (Czarna Królowa)|Katarzyny Medycejskiej (Czarnej Królowej)|Katarzynie Medycejskiej (Czarnej Królowej)|Katarzynę Medycejską (Czarną Królową)|Katarzyną Medycejską (Czarną Królową)|Katarzynie Medycejskiej (Czarnej Królowej)|Katarzyna Medycejska (Czarna Królowa)|Katarzyny Medycejskiej (Czarnej Królowej)|Katarzynie Medycejskiej (Czarnej Królowej)|Katarzynę Medycejską (Czarną Królową)|Katarzyną Medycejską (Czarną Królową)|Katarzynie Medycejskiej (Czarnej Królowej)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="pl_PL">
+      <Text>Wspaniałości Katarzyny</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="pl_PL">
+      <Text>Ulepszone zasoby luksusowe sąsiadujące z dzielnicami kulturalnymi lub château zyskują +2 do [ICON_CULTURE] kultury. Może zainicjować projekt dworskiego festiwalu w dowolnym mieście z dzielnicą kulturalną.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="ru_RU">
+      <Text>Екатерина Медичи (великолепная)|Екатерины Медичи (великолепной)|Екатерине Медичи (великолепной)|Екатерину Медичи (великолепную)|Екатериной Медичи (великолепной)|Екатерине Медичи (великолепной)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="ru_RU">
+      <Text>Екатерина Медичи (Черная королева)|Екатерины Медичи (Черной королевы)|Екатерине Медичи (Черной королеве)|Екатерину Медичи (Черную королеву)|Екатериной Медичи (Черной королевой)|Екатерине Медичи (Черной королеве)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="ru_RU">
+      <Text>Екатерининские чудеса</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="ru_RU">
+      <Text>Улучшенные редкие ресурсы, находящиеся рядом с театральной площадью или шато, получают +2 к [ICON_CULTURE] культуре. Может устроить «Придворный фестиваль» в любом городе с театральной площадью.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="zh_Hans_CN">
+      <Text>凯瑟琳·德·美第奇（寻欢作乐）</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="zh_Hans_CN">
+      <Text>凯瑟琳·德·美第奇（黑王后）</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="zh_Hans_CN">
+      <Text>寻欢作乐的凯瑟琳</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>与剧院广场区域或法国特色城堡相邻的改良奢侈品资源提供的 [ICON_CULTURE] 文化值+2。可在拥有剧院广场区域的任意城市中开始“宫廷盛会”项目。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="es_ES">
+      <Text>Catalina de Médici (de la magnificencia)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="es_ES">
+      <Text>Catalina de Médici (Reina negra)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="es_ES">
+      <Text>"Magnificences" de Catalina</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="es_ES">
+      <Text>Los recursos de lujo adyacentes a distritos de Teatros o Châteaux reciben +2 de Cultura [ICON_CULTURE]. Puede iniciar el proyecto Festival de la corte en cualquier ciudad que tenga un distrito de Teatros.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="zh_Hant_HK">
+      <Text>凱薩琳‧德‧麥地奇（雍容華貴）</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="zh_Hant_HK">
+      <Text>凱薩琳‧德‧麥地奇（黑女王）</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="zh_Hant_HK">
+      <Text>凱薩琳的雍容</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>與改良奢侈品資源相鄰的劇院廣場區域和城堡+2 [ICON_CULTURE] 文化值。可在任何擁有劇院廣場區域的城市開始「宮廷慶典」項目。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

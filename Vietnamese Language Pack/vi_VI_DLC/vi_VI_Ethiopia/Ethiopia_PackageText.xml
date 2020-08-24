@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_ETHIOPIA_MOD_TITLE">
+			<Text>DLC: Gói Ethiopia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ETHIOPIA_MOD_TEASER">
+			<Text>Nền văn minh mới và nhà lãnh đạo - Menelik II của Ethiopia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ETHIOPIA_MOD_DESCRIPTION">
+			<Text>Chứa một nền văn minh và thủ lĩnh mới, một quận mới, 2 tòa nhà mới và chế độ chơi Hội kín.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
