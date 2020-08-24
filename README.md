@@ -17,7 +17,7 @@ This is fan translation done for free and own amusement. XML files may include u
 
 **Lưu ý!** Phương pháp cài đặt này gây khó chịu vì bạn phải tự cập nhật bản dịch tiếng Việt. Khi cập nhật, nên xóa các tệp cũ để tránh xung đột.
 
-[Tải xuống tệp ZIP](https://github.com/KingCTer/Civilization-VI-Vietnamese-Language-Pack/archive/master.zip)
+[Tải xuống tệp ZIP](https://github.com/Windrist/Civilization-VI-Vietnamese-Language-Pack/archive/master.zip)
 
 Tìm thư mục người dùng `Sid Meier's Civilization VI`. Ví dụ về địa điểm:
 
@@ -42,7 +42,7 @@ Nếu bạn chưa cài đặt Git, thì hãy [Tải Git!](https://git-scm.com/do
 
 3. Bây giờ Nhận gói ngôn ngữ này với lệnh:
 
-        git clone https://github.com/KingCTer/Civilization-VI-Vietnamese-Language-Pack
+        git clone https://github.com/Windrist/Civilization-VI-Vietnamese-Language-Pack
 
     Bằng cách đi tới thư mục `Civilization-VI-Vietnamese-Language-Pack`, bạn có thể cập nhật lên phiên bản mới nhất của gói ngôn ngữ bằng lệnh sau:
 
