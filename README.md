@@ -39,6 +39,10 @@ Nếu bạn chưa cài đặt Git, thì hãy [Tải Git!](https://git-scm.com/do
 2. Điều hướng đến thư mục người dùng Civil 6: 
 
         cd "Documents\My Games\Sid Meier's Civilization VI\Mods"
+        
+    Đối với người mua Civil 6 từ Epic Games:
+
+        cd "Documents\My Games\Sid Meier's Civilization VI(Epic)\Mods"
 
 3. Bây giờ Nhận gói ngôn ngữ này với lệnh:
 
