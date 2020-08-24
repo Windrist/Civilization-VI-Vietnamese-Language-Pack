@@ -23,6 +23,7 @@ Tìm thư mục người dùng `Sid Meier's Civilization VI`. Ví dụ về đ�
 
 - Windows 7, 8, 10: `C:\Users\USERNAME\Documents\My Games\Sid Meier's Civilization VI\Mods`
 - Mac OS X: `Users/USERNAME/Library/Application Support/Sid Meier's Civilization VI/Mods`
+- Với bản Epic Games: Thay `Sid Meier's Civilization VI` bằng `Sid Meier's Civilization VI (Epic)`
 
 Giải nén file ZIP vào thư mục `Mods`.
 
