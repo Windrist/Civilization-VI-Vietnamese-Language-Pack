@@ -31,7 +31,6 @@
 		<Replace Language='en_US' Tag="LOC_UNIT_MILITARY_ENGINEER_ALT_DESCRIPTION">
 			<Text>Đơn vị hỗ trợ kỷ nguyên Trung Cổ. Yêu cầu kho vũ khí để sản xuất. Có thể xây dựng các tuyến đường bộ, đường sắt, bến cảng, đường băng, hầm chứa tên lửa và cải tạo đường hầm trên núi. Cũng có thể được sử dụng để hoàn thành 20% Kênh đào, Đập, Cống thoát nước hoặc Đê ngăn lũ.</Text>
 		</Replace>
-		<!--Rock Band Text-->
 		<Replace Language='en_US' Tag="LOC_UNIT_ROCK_BAND_NAME">
 			<Text>Rock Band</Text>
 		</Replace>
@@ -56,7 +55,6 @@
 		<Replace Language='en_US' Tag="LOC_RESULT_AGING_ROCKERS_NAME">
 			<Text>Rocker dưỡng già</Text>
 		</Replace>
-		<!--Updated Text-->
 		<Replace Language='en_US' Tag="LOC_UNIT_INQUISITOR_EXPANSION2_DESCRIPTION">
 			<Text>Có thể giảm 75% sự hiện diện của các Tôn giáo khác trong lãnh thổ và bắt đầu chiến đấu thần học với các đơn vị của Tôn giáo khác.</Text>
 		</Replace>
