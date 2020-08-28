@@ -29,7 +29,6 @@
 		<Replace Language='en_US' Tag = "LOC_AGENDA_SICILIAN_WARS_NAME">
 		    <Text>Chiến tranh Sicilia</Text>
 		</Replace>
-		<! - Tên chương trình ngẫu nhiên ->
 		<Replace Language='en_US' Tag = "LOC_AGENDA_DEMAGOGUE_NAME">
 		    <Text>Nhân tướng học</Text>
 		</Replace>
@@ -112,7 +111,6 @@
 		<Replace Language='en_US' Tag = "LOC_AGENDA_ZEALOT_DESCRIPTION">
 		    <Text>Cố gắng đạt được một chiến thắng tôn giáo. Thích những công dân đã theo tôn giáo của họ.</Text>
 		</Replace>
-		<! - Thành-phố ->
 		<Replace Language='en_US' Tag = "LOC_CIVILIZATION_AKKAD_NAME">
 		    <Text>Akkad</Text>
 		</Replace>

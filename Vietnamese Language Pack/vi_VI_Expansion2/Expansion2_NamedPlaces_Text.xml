@@ -785,7 +785,6 @@
 		<Replace Language='en_US' Tag = "LOC_NAMED_RIVER_ZAYANDE_RIVER_NAME">
 		    <Text>Sông Zāyandé</Text>
 		</Replace>
-		<! - Núi lửa ->
 		<Replace Language='en_US' Tag = "LOC_VOLCANO_TOOLTIP_STRING">
 		    <Text>{1_VolcanoName}</Text>
 		</Replace>
@@ -1149,7 +1148,6 @@
 		<Replace Language='en_US' Tag = "LOC_NAMED_VOLCANO_ZUIDWAL_VOLCANO_NAME">
 		    <Text>Núi lửa Zuidwal</Text>
 		</Replace>
-		<! - Núi ->
 		<Replace Language='en_US' Tag = "LOC_NAMED_MOUNTAIN_AKAISHI_NAME">
 		    <Text>Dãy núi Akaishi</Text>
 		</Replace>
@@ -1762,7 +1760,6 @@
 		<Replace Language='en_US' Tag = "LOC_NAMED_MOUNTAIN_ZEMPOALTEPETL_NAME">
 		    <Text>Zempoaltépetl</Text>
 		</Replace>
-		<! - Sa mạc ->
 		<Replace Language='en_US' Tag = "LOC_NAMED_DESERT_ACCONA_DESERT_NAME">
 		    <Text>Sa mạc Accona</Text>
 		</Replace>
@@ -1913,7 +1910,6 @@
 		<Replace Language='en_US' Tag = "LOC_NAMED_DESERT_THAR_NAME">
 		    <Text>Sa mạc Thar</Text>
 		</Replace>
-		<! - Hồ ->
 		<Replace Language='en_US' Tag = "LOC_NAMED_LAKE_AGUA_VERMELHA_NAME">
 		    <Text>Agua Vermelha</Text>
 		</Replace>
@@ -2718,7 +2714,6 @@
 		<Replace Language='en_US' Tag = "LOC_NAMED_LAKE_YANAQUCHA_NAME">
 		    <Text>Yanaqucha</Text>
 		</Replace>
-		<! - Biển ->
 		<Replace Language='en_US' Tag = "LOC_NAMED_SEA_ABU_QIR_BAY_NAME">
 		    <Text>Vịnh Abu Qir</Text>
 		</Replace>

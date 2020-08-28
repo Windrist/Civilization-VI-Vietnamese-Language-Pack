@@ -1220,7 +1220,6 @@
 		<Replace Language='en_US' Tag = "LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
 		    <Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} hoàn thành vòng quanh đầu tiên trên thế giới!</Text>
 		</Replace>
-		<! - Dữ liệu khoảnh khắc ->
 		<Replace Language='en_US' Tag = "LOC_MOMENT_DATA_BELIEF">
 		    <Text>Niềm tin</Text>
 		</Replace>
@@ -1290,7 +1289,6 @@
 		<Replace Language='en_US' Tag = "LOC_MOMENT_DATA_WAR">
 		    <Text>Chiến tranh</Text>
 		</Replace>
-		<! - Các loại chiến tranh (vì vậy chúng tôi có thể chỉ định trong văn bản thời điểm) ->
 		<Replace Language='en_US' Tag = "LOC_MOMENT_DATA_WAR_SURPRISE_WAR">
 		    <Text>Cuộc chiến bất ngờ</Text>
 		</Replace>
@@ -1336,7 +1334,6 @@
 		<Replace Language='en_US' Tag = "LOC_MOMENT_DATA_WAR_IDEOLOGICAL_WAR">
 		    <Text>Chiến tranh Ý tưởng</Text>
 		</Replace>
-		<! - Danh mục Khoảnh khắc và Phần thưởng ->
 		<Replace Language='en_US' Tag = "LOC_MOMENT_CATEGORY_AERONAUTICAL">
 		    <Text>Bầu trời và các vì sao</Text>
 		</Replace>

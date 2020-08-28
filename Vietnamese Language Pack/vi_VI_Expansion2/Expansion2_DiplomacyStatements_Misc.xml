@@ -274,7 +274,6 @@
 		<Replace Language='en_US' Tag = "LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_KRISTINA_ANY">
 		    <Text>Đây là một trao đổi công bằng.</Text>
 		</Replace>
-		<! - Kupe Diplo Text ->
 		<Replace Language='en_US' Tag = "LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUPE_ANY">
 		    <Text>Vâng, bạn không sao. Chúng tôi người Maori rất vui được làm bạn của bạn.</Text>
 		</Replace>
@@ -464,7 +463,6 @@
 		<Tag Tag = "LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LAURIER_ANY">
 		    <Text>Tôi chấp nhận của bạn xuất đề, xin cảm ơn.</Text>
 		</Replace>
-		<! - Văn bản Diplo Mansa Musa ->
 		<Tag Tag = "LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MANSA_MUSA_ANY">
 		    <Text>Tôi rất vui vì bạn nên gọi tôi là "bạn", vì tôi coi bạn là bạn của tôi.</Text>
 		</Replace>
