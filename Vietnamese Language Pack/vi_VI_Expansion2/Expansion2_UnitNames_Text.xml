@@ -48,22 +48,22 @@
 			<Text>Mù</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_BLONDE">
-			<Text>Tóc vàng</Text>
+			<Text>Vàng hoe</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_BLUE">
 			<Text>Xanh lam</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_BROKEN">
-			<Text>Bị hỏng</Text>
+			<Text>Phá vỡ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_BROWN">
-			<Text>Màu nâu</Text>
+			<Text>Nâu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_BUFFALO">
-			<Text>trâu</Text>
+			<Text>Trâu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_CHEAP">
-			<Text>Giá rẻ</Text>
+			<Text>Rẻ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_CLASSICAL">
 			<Text>Cổ điển</Text>
@@ -99,7 +99,7 @@
 		    <Text>Sử thi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_EXTREME">
-		    <Text>Cực đoan</Text>
+		    <Text>Cùng cực</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_FAKE">
 		    <Text>Giả mạo</Text>
@@ -138,7 +138,7 @@
 		    <Text>Biết ơn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_GREEN">
-		    <Text>Màu xanh lá cây</Text>
+		    <Text>Xanh lá</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_HILARIOUS">
 		    <Text>Vui nhộn</Text>
@@ -156,7 +156,7 @@
 		    <Text>Đói</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_INDIGO">
-		    <Text>Màu chàm</Text>
+		    <Text>Chàm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_INDUSTRIAL">
 		    <Text>Công nghiệp</Text>
@@ -174,13 +174,13 @@
 		    <Text>Nhẹ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_LITTLE">
-		    <Text>Nhỏ</Text>
+		    <Text>Ít</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_LONELY">
 		    <Text>Cô đơn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_LOST">
-		    <Text>Bị mất</Text>
+		    <Text>Mất tích</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_LOUD">
 		    <Text>To</Text>
@@ -201,7 +201,7 @@
 		    <Text>Tối đa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_MEDIEVAL">
-		    <Text>Thời trung cổ</Text>
+		    <Text>Trung cổ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_MEGA">
 		    <Text>Mega</Text>
@@ -255,10 +255,10 @@
 		    <Text>Cũ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_ORANGE">
-		    <Text>Màu cam</Text>
+		    <Text>Cam</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_OVERPOWERED">
-		    <Text>Chế ngự</Text>
+		    <Text>Chinh phục</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_PALE">
 		    <Text>Nhạt</Text>
@@ -315,7 +315,7 @@
 		    <Text>Đối thủ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_SICK">
-		    <Text>Bị ốm</Text>
+		    <Text>Ốm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_SILENT">
 		    <Text>Im lặng</Text>
@@ -345,7 +345,7 @@
 		    <Text>Nói chuyện</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_TAME">
-		    <Text>Chế ngự</Text>
+		    <Text>Thuần hóa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_TOXIC">
 		    <Text>Độc hại</Text>
@@ -363,7 +363,7 @@
 		    <Text>Không xác định</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_VEGAN">
-		    <Text>Thuần chay</Text>
+		    <Text>Ăn chay</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_WAR">
 		    <Text>Chiến tranh</Text>
@@ -381,7 +381,7 @@
 		    <Text>Xeric</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_YELLOW">
-		    <Text>Màu vàng</Text>
+		    <Text>Vàng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_PREFIX_YOUNG">
 		    <Text>Trẻ</Text>
@@ -417,7 +417,7 @@
 		    <Text>Bọc thép</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_PREFIX_CYBERNETIC">
-		    <Text>Điều khiển từ mạng</Text>
+		    <Text>Điều khiển học</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_PREFIX_TERRIBLE">
 		    <Text>Kinh khủng</Text>
@@ -426,17 +426,16 @@
 		    <Text>Khả ái</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_PREFIX_INFERNAL">
-		    <Text>Infernal</Text>
+		    <Text>Địa ngục</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_PREFIX_DREAD">
-		    <Text>Dread</Text>
+		    <Text>Khiếp sợ</Text>
 		</Replace>
-		<! - Hậu tố ->
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_ANIMALS">
 		    <Text>Động vật</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_ANT">
-		    <Text>Ant</Text>
+		    <Text>Kiến</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_ATLAS">
 		    <Text>Bản đồ</Text>
@@ -445,19 +444,19 @@
 		    <Text>Tác giả</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_BAND">
-		    <Text>Băng </Text>
+		    <Text>Nhóm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_BARBARIANS">
-		    <Text>man rợ</Text>
+		    <Text>Man rợ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_BEACH">
-		    <Text>Bãi biển </Text>
+		    <Text>Bãi biển</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_BEARS">
 		    <Text>Gấu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_BEATS">
-		    <Text>Nhịp đập</Text>
+		    <Text>Nhịp</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_BELLS">
 		    <Text>Chuông</Text>
@@ -469,7 +468,7 @@
 		    <Text>Bữa sáng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_BUCKET">
-		    <Text>Nhóm </Text>
+		    <Text>Thùng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_BUFFALO">
 		    <Text>Trâu</Text>
@@ -484,7 +483,7 @@
 		    <Text>Kênh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_CARD">
-		    <Text>Thẻ </Text>
+		    <Text>Thẻ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_CARROTS">
 		    <Text>Cà rốt</Text>
@@ -511,16 +510,16 @@
 		    <Text>Chinchilla</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_CITIES">
-		    <Text>Các thành phố</Text>
+		    <Text>Thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVICS">
-		    <Text>Giáo dục công dân</Text>
+		    <Text>Công dân</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVILIZATION">
 		    <Text>Văn minh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_CLUB">
-		    <Text>Câu lạc bộ </Text>
+		    <Text>Câu lạc bộ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_COAST">
 		    <Text>Bờ biển</Text>
@@ -532,13 +531,13 @@
 		    <Text>Châu lục</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_COOKIES">
-		    <Text>Cookie</Text>
+		    <Text>Bánh quy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_COUNTRY">
 		    <Text>Quốc gia</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_CREW">
-		    <Text>Phi hành đoàn</Text>
+		    <Text>Đoàn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_CROWS">
 		    <Text>Quạ</Text>
@@ -553,7 +552,7 @@
 		    <Text>Cái chết</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_DEITY">
-		    <Text>Vị thần</Text>
+		    <Text>Thần</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_DIAMONDS">
 		    <Text>Kim cương</Text>
@@ -565,22 +564,22 @@
 		    <Text>Chó</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_DRAGONS">
-		    <Text>Những câu chuyện về rồng</Text>
+		    <Text>Rồng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_EAGLE">
 		    <Text>Đại bàng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_ECHIDNA">
-		    <Text>Echidna</Text>
+		    <Text>Nhím</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_EEL">
 		    <Text>Lươn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_ELEPHANT">
-		    <Text>Con voi</Text>
+		    <Text>Voi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_EMERGENCIES">
-		    <Text>Trường hợp khẩn cấp</Text>
+		    <Text>Khẩn cấp</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPEROR">
 		    <Text>Hoàng đế</Text>
@@ -592,7 +591,7 @@
 		    <Text>Hoàng hậu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_EMU">
-		    <Text>Emu</Text>
+		    <Text>Đà điểu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_ENEMY">
 		    <Text>Kẻ thù</Text>
@@ -616,10 +615,10 @@
 		    <Text>Trang trại</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_FIGHTERS">
-		    <Text>Máy bay chiến đấu</Text>
+		    <Text>Chiến sĩ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_FIRE">
-		    <Text>Cháy</Text>
+		    <Text>Lửa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_FOOD">
 		    <Text>Đồ ăn</Text>
@@ -628,7 +627,7 @@
 		    <Text>Thiên tài</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_GHOST">
-		    <Text>Ghost</Text>
+		    <Text>Ma</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_GIANTS">
 		    <Text>Người khổng lồ</Text>
@@ -646,7 +645,7 @@
 		    <Text>Thống đốc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_GUITARS">
-		    <Text>Guitars</Text>
+		    <Text>Ghi ta</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_HATS">
 		    <Text>Nón</Text>
@@ -676,16 +675,16 @@
 		    <Text>Cải tiến</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_ISLANDS">
-		    <Text>Quần đảo </Text>
+		    <Text>Quần đảo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_JACKET">
 		    <Text>Áo khoác</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_JETS">
-		    <Text>Máy bay phản lực</Text>
+		    <Text>Đen nhánh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_KALE">
-		    <Text>Cải xoăn</Text>
+		    <Text>Canh cải</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_KING">
 		    <Text>Vua</Text>
@@ -703,7 +702,7 @@
 		    <Text>Chữ cái</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_LIZARD">
-		    <Text>Con thằn lằn</Text>
+		    <Text>Thằn lằn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_LOW">
 		    <Text>Thấp</Text>
@@ -715,7 +714,7 @@
 		    <Text>Máy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_MANIACS">
-		    <Text>Maniacs</Text>
+		    <Text>Điên cuồng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_MAP">
 		    <Text>Bản đồ</Text>
@@ -733,7 +732,7 @@
 		    <Text>Quốc gia</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_NOISE">
-		    <Text>Tiếng ồn</Text>
+		    <Text>Nhiễu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_OBSERVATIONS">
 		    <Text>Quan sát</Text>
@@ -745,10 +744,10 @@
 		    <Text>Đặt hàng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_PANTHEON">
-		    <Text>Pantheon</Text>
+		    <Text>Bách thần</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_PARTY">
-		    <Text>Bên</Text>
+		    <Text>Đội</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_PEACOCK">
 		    <Text>Con công</Text>
@@ -784,7 +783,7 @@
 		    <Text>Tiên tri</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_PUNK">
-		    <Text>Punk</Text>
+		    <Text>Yêu tinh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_PUPPIES">
 		    <Text>Chó con</Text>
@@ -805,7 +804,7 @@
 		    <Text>Từ chối</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_REVOLUTION">
-		    <Text>Cuộc cách mạng</Text>
+		    <Text>Cách mạng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_RHINO">
 		    <Text>Tê giác</Text>
@@ -841,7 +840,7 @@
 		    <Text>Linh hồn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_SPADES">
-		    <Text>Spades</Text>
+		    <Text>Mỡ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIDERS">
 		    <Text>Nhện</Text>
@@ -853,7 +852,7 @@
 		    <Text>Sóc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_STAR">
-		    <Text>Dấu sao</Text>
+		    <Text>Sao</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_STONES">
 		    <Text>Đá</Text>
@@ -868,13 +867,13 @@
 		    <Text>Sushi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_SUZERAINS">
-		    <Text>Suzerains</Text>
+		    <Text>Độc tài</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_TECHNOLOGIES">
 		    <Text>Công nghệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_TILES">
-		    <Text>Ô</Text>
+		    <Text>Đề mục</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_TIGERS">
 		    <Text>Hổ</Text>
@@ -901,7 +900,7 @@
 		    <Text>Tường</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_WOLF">
-		    <Text>Con sói</Text>
+		    <Text>Sói</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_WOMBATS">
 		    <Text>Gấu túi</Text>
@@ -910,10 +909,10 @@
 		    <Text>Kỳ quan</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_XYLOPHONES">
-		    <Text>Xylophones</Text>
+		    <Text>Mộc cầm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_YAKS">
-		    <Text>Yaks</Text>
+		    <Text>Vò Tây Tạng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_ROCK_BAND_SUFFIX_ZOMBIES">
 		    <Text>Xác sống</Text>
@@ -922,10 +921,10 @@
 		    <Text>Máy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_SUFFIX_MECH">
-		    <Text>Mech</Text>
+		    <Text>Công nghệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_SUFFIX_GOLEM">
-		    <Text>Golem</Text>
+		    <Text>Tượng đá</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_SUFFIX_BEHEMOTH">
 		    <Text>Sinh vật khổng lồ</Text>
@@ -949,10 +948,10 @@
 		    <Text>Robot</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_SUFFIX_AUTOMATON">
-		    <Text>Automaton</Text>
+		    <Text>Tự động</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_SUFFIX_CYCLOPS">
-		    <Text>Cyclops</Text>
+		    <Text>Cyclop</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_SUFFIX_GIANT">
 		    <Text>Khổng lồ</Text>
@@ -961,7 +960,7 @@
 		    <Text>Titan</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_SUFFIX_WALKER">
-		    <Text>Người di hành</Text>
+		    <Text>Người vi hành</Text>
 		</Replace>
 		<Replace Language='en_US' Tag = "LOC_UNITNAME_GDR_SUFFIX_DEVASTATOR">
 		    <Text>Kẻ tàn phá</Text>
