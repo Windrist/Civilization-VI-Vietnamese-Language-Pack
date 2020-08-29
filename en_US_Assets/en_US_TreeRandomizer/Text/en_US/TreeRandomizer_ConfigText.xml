@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Tree Randomizer -->
+		<Row Tag="LOC_GAMEMODE_TREE_RANDOMIZER_NAME">
+			<Text>Tech and Civic Shuffle Mode</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_TREE_RANDOMIZER_DESCRIPTION">
+			<Text>This game mode shuffles techs and civics within their historical eras, leading to different costs and prerequisites than normal. The resulting trees are the same for all players. Techs and civics are also hidden until a prerequisite is earned, preserving the mystery of discovery all the way until the end of the game.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE]Tech and Civic Shuffle Mode</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1]This game mode shuffles techs and civics within their historical eras, leading to different costs and prerequisites than normal. The resulting trees are the same for all players. Techs and civics are also hidden until a prerequisite is earned, preserving the mystery of discovery all the way until the end of the game.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE]Welcome</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME]Modes</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

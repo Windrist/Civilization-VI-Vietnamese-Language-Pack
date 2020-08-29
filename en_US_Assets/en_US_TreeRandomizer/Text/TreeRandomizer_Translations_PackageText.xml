@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="pt_BR">
+      <Text>DLC: Modo de Jogo Tecnologias e Cívicos Aleatórios</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="pt_BR">
+      <Text>Um modo de jogo com Árvores de Tecnologias e Cívica selecionadas aleatoriamente</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="pt_BR">
+      <Text>Contém o modo de jogo Tecnologias e Cívicos Aleatórios, com Árvores de Tecnologias e Cívica randomizadas.</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="fr_FR">
+      <Text>Contenu téléchargeable : mode Technologies et dogmes aléatoires</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="fr_FR">
+      <Text>Un mode qui mélange les arbres technologique et dogmatique.</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="fr_FR">
+      <Text>Contient le mode de jeu Technologies et dogmes aléatoires, qui mélange les arbres technologique et dogmatique.</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="de_DE">
+      <Text>DLC: Tech- und Ausrichtungs-Mix-Spielmodus</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="de_DE">
+      <Text>Ein Spielmodus mit zufallsbasierten Technologie- und Ausrichtungsbäumen</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="de_DE">
+      <Text>Enthält den Tech- und Ausrichtungs-Mixmodus mit zufallsbasierten Technologie- und Ausrichtungsbäumen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="it_IT">
+      <Text>DLC: modalità di gioco Tecnologie e Progressi civici mescolati</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="it_IT">
+      <Text>Una modalità di gioco che rende casuale la struttura degli alberi delle tecnologie e dei Progressi civici</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="it_IT">
+      <Text>Contiene la modalità di gioco Tecnologie e Progressi civici mescolati, che rende casuale la struttura degli alberi delle tecnologie e dei Progressi civici.</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="ja_JP">
+      <Text>DLC: 技術・社会制度シャッフル・ゲームモード</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="ja_JP">
+      <Text>技術ツリーと社会制度ツリーがランダムに決まるゲームモード</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="ja_JP">
+      <Text>技術ツリーと社会制度ツリーがランダムに決定される「技術・社会制度シャッフル」モードが追加されます。</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="ko_KR">
+      <Text>DLC: 기술 및 사회 제도 셔플 게임 모드</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="ko_KR">
+      <Text>무작위 기술 및 사회 제도 트리가 포함된 게임 모드</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="ko_KR">
+      <Text>기술 및 사회 제도 셔플 게임 모드가 들어 있으며, 각각 무작위 기술 및 사회 제도 트리를 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="pl_PL">
+      <Text>Zawartość do pobrania: tryb mieszania technologii i idei</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="pl_PL">
+      <Text>Tryb gry z losowymi drzewami technologii i idei.</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="pl_PL">
+      <Text>Zawiera tryb losowego mieszania układu drzew technologii i idei.</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="ru_RU">
+      <Text>Набор: «Случайные технологии и соц. институты»</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="ru_RU">
+      <Text>Игровой режим со случайными технологиями и соц. институтами</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="ru_RU">
+      <Text>В состав входит игровой режим со случайными технологиями и соц. институтами</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="zh_Hans_CN">
+      <Text>DLC：科技与市政随机游戏模式</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="zh_Hans_CN">
+      <Text>拥有随机科技树与市政树的游戏模式</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>包含科技与市政随机模式（随机科技树与市政树）。</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="es_ES">
+      <Text>Contenido descargable: Modo de juego Barajar Tecnologías y Principios</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="es_ES">
+      <Text>Un modo de juego con árboles de Tecnologías y Principios al azar.</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="es_ES">
+      <Text>Contiene el modo de juego Barajar Tecnologías y Principios, con árboles tecnológicos y de principios aleatorizados.</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="zh_Hant_HK">
+      <Text>DLC：科技與市政洗牌模式</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="zh_Hant_HK">
+      <Text>擁有隨機科技與市政樹的遊戲模式</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>包含科技與市政洗牌模式，能隨機洗亂科技與市政樹。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

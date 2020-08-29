@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TREE_RANDOMIZER_MOD_DESCRIPTION]Contains the Tech and Civic Shuffle game mode, with randomized Tech and Civic Trees.</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TREE_RANDOMIZER_MOD_TEASER]A game mode with randomized Tech and Civic Trees</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TREE_RANDOMIZER_MOD_TITLE]DLC: Tech and Civic Shuffle Game Mode</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

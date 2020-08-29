@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="pt_BR">
+      <Text>Modo Tecnologias e Cívicos Aleatórios</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="pt_BR">
+      <Text>Boas-vindas</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="pt_BR">
+      <Text>Este modo de jogo sorteia tecnologias e cívicos dentro de suas eras históricas, levando a custos e pré-requisitos diferentes do normal. As árvores resultantes são as mesmas para todos os jogadores. Tecnologias e cívicos também são ocultos até se obter um pré-requisito, preservando o mistério da descoberta até o final do jogo.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="pt_BR">
+      <Text>Modos</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="fr_FR">
+      <Text>Mode Technologies et dogmes aléatoires</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="fr_FR">
+      <Text>Bienvenue</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="fr_FR">
+      <Text>Ce mode de jeu mélange les technologies et les dogmes au sein de leur ère historique, ce qui modifie leurs coûts et conditions de déblocage. Ces nouveaux arbres sont les mêmes pour tous les joueurs. Les technologies et les dogmes sont également cachés tant qu'une condition préalable n'est pas remplie, préservant ainsi le mystère de la découverte jusqu'à la fin de la partie.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="fr_FR">
+      <Text>Modes</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="de_DE">
+      <Text>Tech- und Ausrichtungs-Mixmodus</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="de_DE">
+      <Text>Willkommen</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="de_DE">
+      <Text>Dieser Spielmodus mischt Technologien und Ausrichtungen innerhalb ihrer historischen Zeitalter, wodurch andere Kosten und Voraussetzungen als üblich entstehen. Die resultierenden Bäume sind für alle Spieler gleich. Technologien und Ausrichtungen sind zudem verborgen, bis eine Voraussetzung erreicht wird, sodass die spannende Entdeckungsreise bis zum Ende des Spiels weitergeht.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="de_DE">
+      <Text>Modi</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="it_IT">
+      <Text>Mod. Tecnologie e Progressi civici misti</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="it_IT">
+      <Text>Benvenuti</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="it_IT">
+      <Text>Questa modalità di gioco mescola le tecnologie e i Progressi civici all'interno delle rispettive epoche storiche, portando a costi e requisiti diversi rispetto alle partite classiche. Gli alberi generati sono gli stessi per tutti i giocatori. Tecnologie e Progressi civici restano nascosti finché i loro prerequisiti non sono stati sbloccati, per cui la composizione precisa degli alberi rimane un mistero per tutta la partita.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="it_IT">
+      <Text>Modalità</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="ja_JP">
+      <Text>「技術・社会制度シャッフル」モード</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="ja_JP">
+      <Text>ようこそ</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="ja_JP">
+      <Text>このモードでは、技術と社会制度が時代ごとにシャッフルされ、コストと前提条件が通常と異なるものになります。最終的に出来あがるツリーは、全プレイヤー共通です。また、前提条件の技術や社会制度を獲得するまで、次の技術や社会制度は明らかにされません。これにより、謎を解き明かす楽しみをゲーム終了まで味わえます。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="ja_JP">
+      <Text>モード</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="ko_KR">
+      <Text>기술 및 사회 제도 셔플 모드</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="ko_KR">
+      <Text>환영합니다</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="ko_KR">
+      <Text>이 게임 모드는 해당 역사 시대의 기술 및 사회 제도를 무작위로 선택하기 때문에 비용과 전제 조건이 일반 모드와 다릅니다. 이러한 이유로 모든 플레이어의 트리가 동일합니다. 또한 기술 및 사회 제도는 전제 조건을 충족할 때까지 표시되지 않으므로 게임이 끝날 때까지 발견의 즐거움이 유지됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="ko_KR">
+      <Text>모드</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="pl_PL">
+      <Text>Tryb mieszania technologii i idei</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="pl_PL">
+      <Text>Witaj</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="pl_PL">
+      <Text>W tym trybie gry technologie i idee są mieszane w obrębie poszczególnych epok, co prowadzi do zmiany ich kosztu i wymagań. Powstałe w ten sposób drzewa są takie same dla wszystkich graczy. Dodatkowo technologie i idee są ukryte do chwili spełnienia ich wymagań, dzięki czemu gracze mogą czerpać radość z ich odkrywania aż do samego końca rozgrywki.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="pl_PL">
+      <Text>Tryby</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="ru_RU">
+      <Text>Режим случайных технологий и соц. институтов</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="ru_RU">
+      <Text>Добро пожаловать!</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="ru_RU">
+      <Text>В этом режиме в рамках своих исторических периодов технологии и социальные институты случайным образом перемешиваются, поэтому меняются как их стоимость, так и условия открытия. Получившиеся деревья одинаковы для всех игроков. Технологии и институты скрыты до момента достижения условий открытия, поэтому до самого конца игры для всех будет загадкой, что же откроется далее.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="ru_RU">
+      <Text>Режимы</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="zh_Hans_CN">
+      <Text>科技与市政随机模式</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="zh_Hans_CN">
+      <Text>欢迎</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="zh_Hans_CN">
+      <Text>此模式会随机选择历史时代中的科技与市政，带来不同寻常的花费与先决条件。所有玩家的科技与市政树皆相同。此外，在达到先决条件之前，科技与市政为隐藏状态，一路保留探索秘密的神秘感，直至游戏结束。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="zh_Hans_CN">
+      <Text>模式</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="es_ES">
+      <Text>Modo Barajar Tecnologías y Principios</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="es_ES">
+      <Text>Bienvenida</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="es_ES">
+      <Text>Este modo de juego baraja tecnologías y principios dentro de sus épocas históricas, lo cual conlleva costes y requisitos distintos a los normales. Los árboles resultantes son los mismos para todos los jugadores. Además, tecnologías y principios permanecen ocultos hasta que se obtiene un requisito, lo cual mantiene el misterio de descubrir hasta el final de la partida.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="es_ES">
+      <Text>Modos</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE" Language="zh_Hant_HK">
+      <Text>科技與市政洗牌模式</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE" Language="zh_Hant_HK">
+      <Text>歡迎</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1" Language="zh_Hant_HK">
+      <Text>此遊戲模式會重洗各歷史時代內的科技與市政，因此其花費與先決條件也會和平常有所不同。重洗之後，所有玩家的科技與市政樹都將相同。在滿足先決條件前，科技與市政皆會隱藏，一路保留等待探索的神祕感，直至遊戲結束為止。</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="zh_Hant_HK">
+      <Text>模式</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

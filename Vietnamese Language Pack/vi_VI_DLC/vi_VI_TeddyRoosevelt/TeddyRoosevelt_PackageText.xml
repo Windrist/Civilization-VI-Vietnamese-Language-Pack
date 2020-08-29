@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+		<Replace Language='en_US' Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE">
+			<Text>DLC: Gói Teddy Roosevelt Persona</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER">
+			<Text>Teddy Roosevelt (Bull Moose) và Teddy Roosevelt (Rough Rider) Personas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION">
+			<Text>Chứa các nhân vật Teddy Roosevelt (Bull Moose) và Teddy Roosevelt (Rough Rider), mỗi nhân vật có ngoại hình, khả năng và phong cách chơi độc đáo của riêng mình.</Text>
+		</Replace>
+  </LocalizedText>
+</GameData>

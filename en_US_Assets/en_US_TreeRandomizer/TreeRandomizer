@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="19d1c7ec-54de-11ea-a2e3-2e728ce88125" version="1">
+	<Properties>
+		<Name>LOC_TREE_RANDOMIZER_MOD_TITLE</Name>
+		<Teaser>LOC_TREE_RANDOMIZER_MOD_TEASER</Teaser>
+		<Description>LOC_TREE_RANDOMIZER_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+		<CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<References>
+		<Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE"/>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+	</References>
+	<ActionCriteria>
+		<Criteria id="TreeRandomizer_Mode">
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_TREE_RANDOMIZER</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="TreeRandomizer_Mode_Expansion2">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_TREE_RANDOMIZER</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+	</ActionCriteria>
+	<FrontEndActions>
+		<UpdateArt id="TreeRandomizerSettingsArt">
+			<File>TreeRandomizer.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="TreeRandomizerSettings">
+			<File>Data/TreeRandomizer_ConfigData.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="TreeRandomizerSettingsIcons">
+			<File>Data/TreeRandomizer_Icons_GameModes.xml</File>
+		</UpdateIcons>
+		<UpdateText id="TreeRandomizerSettingsText">
+			<File Priority="1">Text/en_US/TreeRandomizer_PackageText.xml</File>
+			<File Priority="1">Text/en_US/TreeRandomizer_ConfigText.xml</File>
+			<File>Text/TreeRandomizer_Translations_PackageText.xml</File>
+			<File>Text/TreeRandomizer_Translations_ConfigText.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<InGameActions>
+		<UpdateArt id="TreeRandomizerArt" criteria="TreeRandomizer_Mode">
+			<File>TreeRandomizer.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="TreeRandomizerDB" criteria="TreeRandomizer_Mode">
+			<File>Data/TreeRandomizer_Technologies_MODE.xml</File>
+			<File>Data/TreeRandomizer_Civics_MODE.xml</File>
+			<File>Data/TreeRandomizer_Civilopedia_MODE.xml</File>
+			<File>Data/TreeRandomizer_GameCapabilities.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="TreeRandomizerDB_Expansion2" criteria="TreeRandomizer_Mode_Expansion2">
+			<File>Data/TreeRandomizer_Expansion2_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="TreeRandomizerIcons" criteria="TreeRandomizer_Mode">
+			<File>Data/TreeRandomizer_Icons_GameModes.xml</File>
+		</UpdateIcons>
+		<UpdateText id="TreeRandomizerText" criteria="TreeRandomizer_Mode">
+			<File Priority="1">Text/en_US/TreeRandomizer_PackageText.xml</File>
+			<File Priority="1">Text/en_US/TreeRandomizer_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/TreeRandomizer_InGameText_MODE.xml</File>
+			<File>Text/TreeRandomizer_Translations_PackageText.xml</File>
+			<File>Text/TreeRandomizer_Translations_ConfigText.xml</File>
+			<File>Text/TreeRandomizer_Translations_Text.xml</File>
+		</UpdateText>
+	</InGameActions>
+	<LocalizedText>
+		<File>Text/en_US/TreeRandomizer_PackageText.xml</File>
+		<File>Text/TreeRandomizer_Translations_PackageText.xml</File>
+	</LocalizedText>
+	<Files>
+		<File>TreeRandomizer.dep</File>
+		<File>Data/TreeRandomizer_Icons_GameModes.xml</File>
+		<File>Data/TreeRandomizer_ConfigData.xml</File>
+		<File>Data/TreeRandomizer_Technologies_MODE.xml</File>
+		<File>Data/TreeRandomizer_Civics_MODE.xml</File>
+		<File>Data/TreeRandomizer_Civilopedia_MODE.xml</File>
+		<File>Data/TreeRandomizer_GameCapabilities.xml</File>
+		<File>Data/TreeRandomizer_Expansion2_MODE.xml</File>
+		<File>Text/en_US/TreeRandomizer_PackageText.xml</File>
+		<File>Text/en_US/TreeRandomizer_ConfigText.xml</File>
+		<File>Text/en_US/TreeRandomizer_InGameText_MODE.xml</File>
+		<File>Text/TreeRandomizer_Translations_PackageText.xml</File>
+		<File>Text/TreeRandomizer_Translations_ConfigText.xml</File>
+		<File>Text/TreeRandomizer_Translations_Text.xml</File>
+	</Files>
+</Mod>
