@@ -6,7 +6,7 @@
 			<Text>Chế độ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE">
-			<Text>Chế độ xáo trộn Công Nghệ và Hành Chính</Text>
+			<Text>Chế độ xáo trộn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE">
 			<Text>Chào mừng</Text>

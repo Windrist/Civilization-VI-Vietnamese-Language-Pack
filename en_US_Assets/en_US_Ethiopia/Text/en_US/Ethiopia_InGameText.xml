@@ -1,13 +1,13 @@
 <GameData>
-	<EnglishText>
-		<Row Tag="LOC_PLAYER_YIELD_DELEGATIONS">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_DELEGATIONS">
 			<Text>{Value : number +#.#;-#.#} from Delegations</Text>
-		</Row>
-		<Row Tag="LOC_PLAYER_YIELD_EMBASSIES">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_EMBASSIES">
 			<Text>{Value : number +#.#;-#.#} from Embassies</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_LEY_LINE_RESOURCE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_LEY_LINE_RESOURCE">
 			<Text>Ley Line Resource</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>
