@@ -100,7 +100,6 @@
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_HISTORY_SETTINGS">
 			<Text>Cài đặt</Text>
 		</Replace>
-	
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_VIEWDETAILS">
 			<Text>Chi tiết trò chơi</Text>
 		</Replace>
@@ -115,15 +114,13 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_LOADCONFIGURATION">
 			<Text>Tải cấu hình</Text>
-		</Replace>	
-		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_NOREPORTDATA">
 			<Text>Không có dữ liệu báo cáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_NOGRAPHDATA">
 			<Text>Không có dữ liệu đồ thị</Text>
 		</Replace>
-		
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CATEGORY_GENERAL">
 			<Text>Chung</Text>
 		</Replace>
@@ -145,6 +142,5 @@
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CATEGORY_EXTRA">
 			<Text>Thêm</Text>
 		</Replace>
-
 	</LocalizedText>
 </GameData>

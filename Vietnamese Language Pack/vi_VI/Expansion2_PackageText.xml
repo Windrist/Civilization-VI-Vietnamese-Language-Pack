@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-  <LocalizedText>
-	 <Replace Language='en_US' Tag="LOC_EXPANSION2_MOD_TITLE">
-      <Text>Bản mở rộng: Cơn bão ập đến</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_EXPANSION2_MOD_TEASER">
-      <Text>Một gói mở rộng với Đại hội thế giới, các tác động và thảm họa môi trường, quyền lực, các nền văn minh và nhà lãnh đạo mới, và nhiều, nhiều hơn nữa!</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
-      <Text>Đây là một trò chơi sử dụng Mở rộng Bão thu thập, bao gồm Đại hội thế giới, các tác động và thảm họa môi trường, sức mạnh, v.v. Bạn có thể đối phó với sự khó lường của một thế giới đang thay đổi để tạo nên một nền văn minh sẽ đứng trước thử thách của thời gian?</Text>
-    </Replace>
-	<!-- Black Death Scenario -->
-	<Replace Language='en_US' Tag="LOC_BLACKDEATH_MOD_TITLE">
-		<Text>Kịch bản: Cái chết đen</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
-		<Text>Bạn có thể hướng dẫn quốc gia của bạn thông qua các bệnh dịch khủng khiếp? 4 người chơi, 85 lượt.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
-		<Text>Trong kịch bản này, bạn phải hướng dẫn một nền văn minh thời Trung cổ vượt qua Cái chết đen khét tiếng, giữ cho những nỗ lực văn hóa và khoa học của họ tồn tại khi dân số của họ sụp đổ và đức tin sụp đổ. Bệnh dịch hạch sẽ quét sạch cảnh quan trong sóng, giết chết công dân và khiến gạch không thể hoạt động. Bạn có thể giữ đủ lâu để gieo hạt giống của Khai sáng, hoặc quốc gia của bạn sẽ sụp đổ vào sự không trung thành và tuyệt vọng?</Text>
-	</Replace>
-	  <!-- War Machine Scenario -->
-	<Replace Language='en_US' Tag="LOC_WARMACHINE_MOD_TITLE">
-		<Text>Kịch bản nhiều người chơi: Cỗ máy chiến tranh</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
-		<Text>Kịch bản nhiều người chơi 1v1 dựa trên cuộc tấn công của Đức vào Pháp trong khi WWI bùng nổ.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
-		<Text>Trong kịch bản này, bạn nắm quyền chỉ huy quân đội của Pháp hoặc Đức trong tháng đầu tiên của WWI. Bạn có một đội quân đông đảo sẵn sàng tấn công, một quốc gia công nghiệp sẵn sàng hỗ trợ và chỉ 40 lượt để đánh chiếm hoặc bảo vệ Paris. Bạn có thể chiến thắng trong cuộc đụng độ lớn nhất mà thế giới từng thấy không? Hay chiến tranh trên quy mô này và tốc độ sẽ áp đảo bạn?</Text>
-	</Replace>
-  </LocalizedText>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_EXPANSION2_MOD_TITLE">
+			<Text>Bản mở rộng: Cơn bão ập đến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EXPANSION2_MOD_TEASER">
+			<Text>Một gói mở rộng với Đại hội thế giới, các tác động và thảm họa môi trường, quyền lực, các nền văn minh và nhà lãnh đạo mới, và nhiều, nhiều hơn nữa!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
+			<Text>Đây là một trò chơi sử dụng Mở rộng Bão thu thập, bao gồm Đại hội thế giới, các tác động và thảm họa môi trường, sức mạnh, v.v. Bạn có thể đối phó với sự khó lường của một thế giới đang thay đổi để tạo nên một nền văn minh sẽ đứng trước thử thách của thời gian?</Text>
+		</Replace>
+		<!-- Black Death Scenario -->
+		<Replace Language='en_US' Tag="LOC_BLACKDEATH_MOD_TITLE">
+			<Text>Kịch bản: Cái chết đen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
+			<Text>Bạn có thể hướng dẫn quốc gia của bạn thông qua các bệnh dịch khủng khiếp? 4 người chơi, 85 lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
+			<Text>Trong kịch bản này, bạn phải hướng dẫn một nền văn minh thời Trung cổ vượt qua Cái chết đen khét tiếng, giữ cho những nỗ lực văn hóa và khoa học của họ tồn tại khi dân số của họ sụp đổ và đức tin sụp đổ. Bệnh dịch hạch sẽ quét sạch cảnh quan trong sóng, giết chết công dân và khiến gạch không thể hoạt động. Bạn có thể giữ đủ lâu để gieo hạt giống của Khai sáng, hoặc quốc gia của bạn sẽ sụp đổ vào sự không trung thành và tuyệt vọng?</Text>
+		</Replace>
+		<!-- War Machine Scenario -->
+		<Replace Language='en_US' Tag="LOC_WARMACHINE_MOD_TITLE">
+			<Text>Kịch bản nhiều người chơi: Cỗ máy chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
+			<Text>Kịch bản nhiều người chơi 1v1 dựa trên cuộc tấn công của Đức vào Pháp trong khi WWI bùng nổ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
+			<Text>Trong kịch bản này, bạn nắm quyền chỉ huy quân đội của Pháp hoặc Đức trong tháng đầu tiên của WWI. Bạn có một đội quân đông đảo sẵn sàng tấn công, một quốc gia công nghiệp sẵn sàng hỗ trợ và chỉ 40 lượt để đánh chiếm hoặc bảo vệ Paris. Bạn có thể chiến thắng trong cuộc đụng độ lớn nhất mà thế giới từng thấy không? Hay chiến tranh trên quy mô này và tốc độ sẽ áp đảo bạn?</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>
-

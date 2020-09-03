@@ -16,10 +16,10 @@
 			<Text>Seondeok thất vọng vì bạn bỏ qua Khoa học</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_FLOWER_SCOTLAND_PEACEFUL">
-			<Text>Robert của Bruce hài lòng bạn đã giữ gìn hòa bình với láng giềng của bạn</Text>
+			<Text>Robert the Bruce hài lòng bạn đã giữ gìn hòa bình với láng giềng của bạn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_FLOWER_SCOTLAND_WARLIKE">
-			<Text>Robert của Bruce bất an khi bạn chiến đấu với láng giềng của bạn</Text>
+			<Text>Robert the Bruce bất an khi bạn chiến đấu với láng giềng của bạn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_IRON_CONFEDERACY_MANY_ALLIANCES">
 			<Text>Poundmaker chấp thuận làm liên minh với bạn</Text>

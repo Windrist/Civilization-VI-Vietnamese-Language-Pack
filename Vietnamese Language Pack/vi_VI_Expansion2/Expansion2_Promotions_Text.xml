@@ -1,128 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<BaseGameText>
+	<LocalizedText>
 		<!--Rock Band-->
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_CLASS_ROCK_BAND_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CLASS_ROCK_BAND_NAME">
 		    <Text>Ban nhạc rock</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_ALBUM_COVER_ART_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ALBUM_COVER_ART_NAME">
 		    <Text>Ảnh bìa album</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_ARENA_ROCK_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ARENA_ROCK_NAME">
 		    <Text>Arena Rock</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GLAM_ROCK_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GLAM_ROCK_NAME">
 		    <Text>Glam Rock</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GOES_TO_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GOES_TO_NAME">
 		    <Text>Chuyển đến 11</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_INDIE_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_INDIE_NAME">
 		    <Text>Indie</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_MUSIC_FESTIVAL_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MUSIC_FESTIVAL_NAME">
 		    <Text>Lễ hội âm nhạc</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_POP_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_POP_NAME">
 		    <Text>Pop Star</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_REGGAE_ROCK_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_REGGAE_ROCK_NAME">
 		    <Text>Reggae Rock</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_RELIGIOUS_ROCK_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_RELIGIOUS_ROCK_NAME">
 		    <Text>Tảng đá tôn giáo</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_ROADIES_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ROADIES_NAME">
 		    <Text>Roadies</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_SPACE_ROCK_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPACE_ROCK_NAME">
 		    <Text>Space Rock</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_SURF_ROCK_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SURF_ROCK_NAME">
 		    <Text>Băng tần</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_SPY_SATCHEL_CHARGES_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_SATCHEL_CHARGES_NAME">
 		    <Text>Các khoản phí của Satchel</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_SPY_SURVEILLANCE_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_SURVEILLANCE_NAME">
 		    <Text>Giám sát</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_SPY_POLYGRAPH_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_POLYGRAPH_NAME">
 		    <Text>Polygraph</Text>
 		</Replace>
 		<!--Rock Band Description-->
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_ALBUM_COVER_ART_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ALBUM_COVER_ART_DESCRIPTION">
 		    <Text>Hoạt động như thể có thêm 1 cấp độ trên các ô kỳ diệu.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_ARENA_ROCK_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ARENA_ROCK_DESCRIPTION">
 		    <Text>Hoạt động như thể trải nghiệm thêm 2 cấp độ trên ô xếp khu phức hợp Giải trí.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GLAM_ROCK_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GLAM_ROCK_DESCRIPTION">
 		    <Text>Thực hiện như thể trải nghiệm thêm 2 cấp độ trên ô vuông của quận Theater Square.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GOES_TO_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GOES_TO_DESCRIPTION">
 		    <Text>Các nền văn minh trong vòng 10 ô sẽ nhận được 50% [ICON_TOURISM] Du lịch từ buổi hòa nhạc này.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_INDIE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_INDIE_DESCRIPTION">
 		    <Text>Biểu diễn một buổi hòa nhạc khiến thành phố đó mất đi 40 Trung thành.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_MUSIC_FESTIVAL_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MUSIC_FESTIVAL_DESCRIPTION">
 		    <Text>Biểu diễn tại các Công viên Quốc gia và Kỳ quan Thiên nhiên với mong đợi 1000 [ICON_TOURISM] Du lịch và thêm 1 cấp độ kinh nghiệm.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_POP_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_POP_DESCRIPTION">
 		    <Text>Kiếm [ICON_GOLD] Vàng bằng 25% số lượng Du lịch [ICON_Tourism] tạo ra.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_REGGAE_ROCK_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_REGGAE_ROCK_DESCRIPTION">
 		    <Text>Hoạt động như thể có kinh nghiệm hơn 2 cấp trên các ô lát của khu Công viên nước.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_RELIGIOUS_ROCK_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_RELIGIOUS_ROCK_DESCRIPTION">
 		    <Text>Biểu diễn một buổi hòa nhạc chuyển đổi tôn giáo đa số của thành phố đó sang tôn giáo do người chơi thành lập.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_ROADIES_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ROADIES_DESCRIPTION">
 		    <Text>+4 [ICON_Movement] Di chuyển.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_SPACE_ROCK_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPACE_ROCK_DESCRIPTION">
 		    <Text>Thực hiện tại Spaceports và Campus cho +500 [ICON_TOURISM] Du lịch (+1000 [ICON_TOURISM] Du lịch nếu Campus có Đại học) và thêm 1 cấp độ kinh nghiệm.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_SURF_ROCK_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SURF_ROCK_DESCRIPTION">
 		    <Text>Biểu diễn tại Seaside Resorts and Harbors với +500 [ICON_TOURISM] Du lịch (+1000 [ICON_TOURISM] Du lịch nếu Cảng có Xưởng đóng tàu) và thêm 1 cấp kinh nghiệm.</Text>
 		</Replace>
 		<!--Spy-->
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_SPY_SATCHEL_CHARGES_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_SATCHEL_CHARGES_DESCRIPTION">
 		    <Text>Đập vỡ như thể trải nghiệm thêm 2 cấp độ.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_SPY_SURVEILLANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_SURVEILLANCE_DESCRIPTION">
 		    <Text>Khi phản công tất cả các quận thành phố đều được bảo vệ (và +1 cấp tại các quận trong vòng 1 ô).</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_SPY_POLYGRAPH_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_POLYGRAPH_DESCRIPTION">
 		    <Text>Nếu Gián điệp này ở trong lãnh thổ nước nhà, thì Gián điệp của đối phương trong vùng đất của bạn sẽ hoạt động ở mức thấp hơn bình thường 1 cấp.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_CLASS_GIANT_DEATH_ROBOT_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CLASS_GIANT_DEATH_ROBOT_NAME">
 		    <Text>GDR</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GDR_AA_DEFENSE_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_AA_DEFENSE_NAME">
 		    <Text>Phòng không Drone</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GDR_AA_DEFENSE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_AA_DEFENSE_DESCRIPTION">
 		    <Text>[ICON_AntiAir_Large] Sức mạnh Phòng không tăng lên 130.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GDR_SIEGE_LASER_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_SIEGE_LASER_NAME">
 		    <Text>Pháo bao vây chùm hạt</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GDR_SIEGE_LASER_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_SIEGE_LASER_DESCRIPTION">
 		    <Text>Các cuộc tấn công phạm vi nhằm vào Cities và Encampments có hiệu quả 100% và nhận được +30 [ICON_Ranged] Sức mạnh phạm vi.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GDR_BONUS_MOVEMENT_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_BONUS_MOVEMENT_NAME">
 		    <Text>Tính di động nâng cao</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GDR_BONUS_MOVEMENT_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_BONUS_MOVEMENT_DESCRIPTION">
 		    <Text>+3 [ICON_Movement] Di chuyển. Có thể thực hiện hành động Nhảy để vượt qua địa hình núi.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GDR_ARMOR_UPGRADE_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_ARMOR_UPGRADE_NAME">
 		    <Text>Mạ giáp gia cố</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_PROMOTION_GDR_ARMOR_UPGRADE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GDR_ARMOR_UPGRADE_DESCRIPTION">
 		    <Text>+10 [ICON_Strength] Sức mạnh chiến đấu khi phòng thủ trước các đơn vị trên bộ và hải quân.</Text>
 		</Replace>
-	</BaseGameText>
+	</LocalizedText>
 </GameData>

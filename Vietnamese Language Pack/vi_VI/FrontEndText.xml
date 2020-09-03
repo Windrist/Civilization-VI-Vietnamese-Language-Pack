@@ -535,7 +535,7 @@
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_FALSE">
 			<Text>Sai</Text>
 		</Replace>
-	<!-- Options -->
+		<!-- Options -->
 		<Replace Language='en_US' Tag="LOC_CONFIRM_KEY_BINDING">
 			<Text>Xác nhận gán phím</Text>
 		</Replace>
@@ -1128,7 +1128,7 @@
 		<Replace Language='en_US' Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
 			<Text>Khôi phục tất cả về giá trị mặc định.</Text>
 		</Replace>
-				<Replace Language='en_US' Tag="LOC_SETUP_MAP_MAP_SELECT">
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_MAP_SELECT">
 			<Text>Chọn bản đồ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SETUP_MAP_CREATE_GAME_SELECT_MAP">
@@ -1176,7 +1176,7 @@
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_LOAD">
 			<Text>Tải bản đồ</Text>
 		</Replace>
-				<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_IMPORT">
+		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_IMPORT">
 			<Text>Nhập bản đồ từ Trình chỉnh sửa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_START_NEW_TOOLTIP">

@@ -117,7 +117,7 @@
 			<Text>Đã kích hoạt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MODS_ENABLE_INCLUDE">
-		<Text>Kích hoạt nó cũng sẽ kích hoạt thêm:</Text>
+			<Text>Kích hoạt nó cũng sẽ kích hoạt thêm:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MODS_ENABLE_ERROR">
 			<Text>Không thể kích hoạt do:</Text>
@@ -129,10 +129,10 @@
 			<Text>Bỏ kích hoạt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MODS_DISABLE_ERROR">
-		<Text>Không thể bỏ kích hoạt do:</Text>
+			<Text>Không thể bỏ kích hoạt do:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MODS_DISABLE_ERROR_DEPENDS">
-		<Text>Không thể bỏ kích hoạt vì các Mod sau đây có phụ thuộc:</Text>
+			<Text>Không thể bỏ kích hoạt vì các Mod sau đây có phụ thuộc:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MODS_YES">
 			<Text>Có</Text>

@@ -26,7 +26,6 @@
 		<Replace Language='en_US' Tag="LOC_MAINMENU_MULTIPLAYER_CIVROYALE_NEW_MODE_TT">
 			<Text>Chế độ mới Cái chết đỏ (Battle Royale) có sẵn!</Text>
 		</Replace>
-		
 		<!-- CivRoyale How to Play -->
 		<Replace Language='en_US' Tag="LOC_CIVROYALE_INTRO_NEXT">
 			<Text>Kế tiếp</Text>

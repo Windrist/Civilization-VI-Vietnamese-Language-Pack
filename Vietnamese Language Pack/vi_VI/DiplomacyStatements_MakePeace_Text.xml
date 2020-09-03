@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		
 		<!-- AI accepts from human -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_ANY_ANY">
 			<Text>Ta chấp nhận điều khoản hòa bình của ngài.</Text>
@@ -63,7 +62,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_VICTORIA_ANY">
 			<Text>Thay mặt cho toàn thể Vương Quốc Anh và Ireland, ta phê chuẩn hòa bình giữa hai nước chúng ta.</Text>
 		</Replace>
-
 		<!-- AI refuses human -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_ANY_ANY">
 			<Text>Sẽ không thể có hòa bình giữa chúng ta!</Text>
@@ -125,7 +123,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_VICTORIA_ANY">
 			<Text>Một chữ "không" nhấn mạnh.</Text>
 		</Replace>
-
 		<!-- AI requests from human -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_ANY_ANY">
 			<Text>Hòa bình nhé, được không?</Text>
@@ -187,17 +184,14 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_VICTORIA_ANY">
 			<Text>Ta không thể không nghĩ rằng một thỏa thuận chung là có thể đạt được sự đồng ý của hai chúng ta.</Text>
 		</Replace>
-
 		<!-- Human accepts, AI responds -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_ANY_ANY">
 			<Text>Chiến tranh đã kết thúc.</Text>
 		</Replace>
-
 		<!-- Human rejects, AI responds -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_ANY_ANY">
 			<Text>Vậy thì chiến tranh lại tiếp tục.</Text>
 		</Replace>
-
 		<!-- Choices -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_NEGATIVE">
 			<Text>Từ chối thỏa thuận hòa bình</Text>

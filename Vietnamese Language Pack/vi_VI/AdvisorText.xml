@@ -205,8 +205,6 @@
 		<Replace Language='en_US' Tag="LOC_ADVISOR_MESSAGE_NATURAL_WONDER_REVEALED">
 			<Text>Trong Civilization VI, ngài có thể có được khoảnh khắc Eureka giúp thúc đẩy Công Nghệ khoa học nào đó. Khoảnh khắc Eureka này được gán cho việc tìm thấy một kỳ quan thiên nhiên. Các khoảnh khắc khác sẽ kiếm được trong một công việc cụ thể nhất định, như đào tạo đơn vị, xây dựng kiến trúc.</Text>
 		</Replace>
-		
-		
 		<!-- Listener lines -->
 		<Replace Language='en_US' Tag="ADVISOR_LINE_LISTENER_1">
 			<Text>Qua khám phá chúng ta tìm thấy một kỳ quan thiên nhiên của thế giới. Chắc chắn nó cung cấp nhiều lợi ích cho Dân Di Cư lập thành phố xung quanh nó.</Text>
@@ -466,8 +464,6 @@
 		<Replace Language='en_US' Tag="ADVISOR_LINE_LISTENER_90">
 			<Text>Công trình Bảo Tàng Khảo Cổ sẽ cho phép ta đào tạo Nhà Khảo Cổ. Có rất nhiều thứ cần học từ thế giới, và họ sẽ giúp chúng ta có được các kiến thức này.</Text>
 		</Replace>
-		
-		
 		<!---->
 		<!-- META TEXT -->
 		<!---->
@@ -696,15 +692,15 @@
 		<Replace Language='en_US' Tag="LOC_META_33_HEAD">
 			<Text>LỰA CHỌN NGHIÊN CỨU</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_META_332_HEAD">
-      <Text>LỰA CHỌN NGHIÊN CỨU</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_META_332_BODY">
-      <Text>Click vào Chọn Nghiên Cứu để hiện bảng chọn nghiên cứu.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_META_331_HEAD">
-      <Text>THAY ĐỔI NGHIÊN CỨU</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_META_332_HEAD">
+			<Text>LỰA CHỌN NGHIÊN CỨU</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_META_332_BODY">
+			<Text>Click vào Chọn Nghiên Cứu để hiện bảng chọn nghiên cứu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_META_331_HEAD">
+			<Text>THAY ĐỔI NGHIÊN CỨU</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_33_BODY">
 			<Text>Lựa chọn công nghệ Đồ Gốm.</Text>
 		</Replace>
@@ -1164,9 +1160,9 @@
 		<Replace Language='en_US' Tag="LOC_META_SELECT_IRRIGATION">
 			<Text>Chọn công nghệ Tưới Tiêu.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_META_6_HEAD">
-      <Text>CHỌN NGHIÊN CỨU</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_META_6_HEAD">
+			<Text>CHỌN NGHIÊN CỨU</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_6_BODY">
 			<Text>Click NGHIÊN CỨU để mở bảng nghiên cứu.</Text>
 		</Replace>

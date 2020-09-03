@@ -6,7 +6,6 @@
 		<Delete Tag="LOC_HOF_GRAPH_PLAYER_ERASCORE"/>
 		<Delete Tag="LOC_HOF_GRAPH_GOVERNOR_TITLES" />
 	</LocalizedText>
-
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_ERASCORE">
 			<Text>Player Era Score</Text>

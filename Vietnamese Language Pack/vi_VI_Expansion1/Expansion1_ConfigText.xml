@@ -226,7 +226,7 @@
 			<Text>Các thành phố hạnh phúc nhận được thêm +5%  [ICON_SCIENCE] Khoa học và +5%  [ICON_PRODUCTION] Sản xuất. Các thành phố hạnh phúc thêm +1  [ICON_GreatScientist] Đại Khoa học gia cho mỗi Trường học và +1 [ICON_GreatEngineer] Đại Kỹ sư viên cho mỗi Khu Công nghiệp. Các thành phố bị ảnh hưởng giúp tăng gấp đôi điểm thưởng này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LEADER_ROBERT_THE_BRUCE_NAME">
-			<Text>Robert của Bruce</Text>
+			<Text>Robert the Bruce</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_BANNOCKBURN_NAME">
 			<Text>Bannockburn</Text>

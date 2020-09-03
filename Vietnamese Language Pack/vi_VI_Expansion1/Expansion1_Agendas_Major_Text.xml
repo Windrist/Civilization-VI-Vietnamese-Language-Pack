@@ -29,7 +29,6 @@
 		<Replace Language='en_US' Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_NAME">
 			<Text>Spirit of Tucapel</Text>
 		</Replace>
-
 		<!--Agenda Description-->
 		<Replace Language='en_US' Tag="LOC_AGENDA_BILLIONAIRE_DESCRIPTION">
 			<Text>Cố gắng tối đa hóa [ICON_TradeRoute] Các tuyến giao dịch. Thích những nền văn minh buôn bán với cô ấy, không thích những người không thích.</Text>

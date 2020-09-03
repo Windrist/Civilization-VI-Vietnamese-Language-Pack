@@ -68,9 +68,9 @@
 		<Replace Language='en_US' Tag="LOC_GOSSIPDESC_TRAIN_SETTLER">
 			<Text>Dân di cư đã đào tạo</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_GOSSIPDESC_WMD_BUILT">
-      <Text>Xây dựng vũ khí hủy diệt hàng loạt</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIPDESC_WMD_BUILT">
+			<Text>Xây dựng vũ khí hủy diệt hàng loạt</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOSSIPDESC_WMD_STRIKE">
 			<Text>Tấn công vũ khí hủy diệt hàng loạt</Text>
 		</Replace>
@@ -287,9 +287,9 @@
 		<Replace Language='en_US' Tag="LOC_GOSSIP_STOP_VICTORY_STRATEGY">
 			<Text>{1_CivName} không còn muốn {2_VictoryType}.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_GOSSIP_WMD_BUILT">
-      <Text>{1_CivName} đã xây dựng {2_WMDCount} vũ khí hủy diệt hoàng loạt.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_WMD_BUILT">
+			<Text>{1_CivName} đã xây dựng {2_WMDCount} vũ khí hủy diệt hoàng loạt.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOSSIP_WMD_STRIKE">
 			<Text>{1_CivName} vừa tung ra một vũ khí hủy diệt hàng loạt! Một {2_UnitName}! Hãy tìm chỗ ẩn nấp!</Text>
 		</Replace>

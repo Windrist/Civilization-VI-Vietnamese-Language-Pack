@@ -10,6 +10,5 @@
 		<Replace Language='en_US' Tag="LOC_USER_WARNING_QUIT">
 			<Text>Thoát</Text>
 		</Replace>
-
 	</LocalizedText>
 </GameData>

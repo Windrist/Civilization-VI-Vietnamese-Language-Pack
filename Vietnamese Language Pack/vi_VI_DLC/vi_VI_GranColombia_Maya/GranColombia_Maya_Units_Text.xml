@@ -51,12 +51,12 @@
 			<Text>+{CalculatedAmount} [ICON_Strength] Sức mạnh chiến đấu từ Llanero liền kề.</Text>
 		</Replace>
 		<!--Natural Wonder Unit Abilities-->
-    <Replace Language='en_US' Tag="LOC_ABILITY_MYSTERIOUS_CURRENTS_NAME">
-      <Text>Dòng chảy bí ẩn</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ABILITY_MYSTERIOUS_CURRENTS_DESCRIPTION">
-      <Text>Dòng chảy bí ẩn: +1 [ICON_Movement] Di chuyển.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MYSTERIOUS_CURRENTS_NAME">
+			<Text>Dòng chảy bí ẩn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MYSTERIOUS_CURRENTS_DESCRIPTION">
+			<Text>Dòng chảy bí ẩn: +1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_WATER_OF_LIFE_NAME">
 			<Text>Nước của cuộc sống</Text>
 		</Replace>

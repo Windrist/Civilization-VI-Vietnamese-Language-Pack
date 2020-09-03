@@ -2,7 +2,6 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
-
 		<!-- AI accepts from human -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
 			<Text>Ta rất hân hạnh được chấp nhận tình hữu nghị này.</Text>
@@ -64,7 +63,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
 			<Text>Vâng, điều này làm ta hài lòng. Hai nước chúng ta sẽ được hưởng lợi ích từ mối quan hệ hữu nghị này.</Text>
 		</Replace>
-
 		<!-- AI Rejects from human -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
 			<Text>Ta không có hứng thú vào lúc này.</Text>
@@ -126,7 +124,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
 			<Text>Còn quá sớm để đưa ra cam kết. Tất nhiên ta sẽ xem xét khi thích hợp. Hiểu chứ?</Text>
 		</Replace>
-	
 		<!-- AI Requests friendship from human -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY">
 			<Text>Ngài có muốn chính thức tuyên bố tình hữu nghị của chúng ta?</Text>
@@ -188,7 +185,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
 			<Text>Ta đã xem ngài là một người bạn quý. Hi vọng chúng ta đã hiểu nhau...</Text>
 		</Replace>
-
 		<!-- Human accepts AI requests, AI responds -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
 			<Text>Quá tuyệt vời.</Text>
@@ -250,7 +246,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
 			<Text>Ngài rất tử tế và chu đáo.</Text>
 		</Replace>
-		
 		<!-- Human rejects AI requests, AI responds -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
 			<Text>Điều đó thật đáng tiếc.</Text>
@@ -312,7 +307,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
 			<Text>Thật đáng tiếc.</Text>
 		</Replace>
-		
 		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_NEGATIVE">
 			<Text>Xin lỗi, nhưng chúng ta chỉ không thể cam kết một tình hữu nghị chính thức vào lúc này.</Text>
 		</Replace>

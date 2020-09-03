@@ -25,16 +25,13 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_NO">
 			<Text>Không</Text>
 		</Replace>
-
 		<!-- Option Enums -->
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_ENABLED">
 			<Text>Bật</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_DISABLED">
 			<Text>Tắt</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_MINIMUM">
 			<Text>Tối thiểu</Text>
 		</Replace>
@@ -74,7 +71,6 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_ALWAYS">
 			<Text>Luôn luôn</Text>
 		</Replace>
-
 		<!-- Gameplay Panel -->
 		<Replace Language='en_US' Tag="LOC_OPTIONS_TUTORIAL_EXPERIENCED_PLAYER">
 			<Text>Người chơi có kinh nghiệm</Text>
@@ -104,7 +100,6 @@
 			<Text>Chạm vào Kích hoạt đầu vào</Text>
 		</Replace>
 		<!-- Graphics Panel - Option Enums -->
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_TICK_INTERVAL_30_FPS">
 			<Text>30 FPS</Text>
 		</Replace>
@@ -114,7 +109,6 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_TICK_INTERVAL_60_FPS">
 			<Text>60 FPS</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_WINDOW_MODE_WINDOWED">
 			<Text>Cửa sổ</Text>
 		</Replace>
@@ -124,7 +118,6 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_WINDOW_MODE_BORDERLESS">
 			<Text>Không viền</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_MSAA_2X">
 			<Text>MSAA 2X</Text>
 		</Replace>
@@ -143,7 +136,6 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_MSAA_FULL">
 			<Text>MSAA Full</Text>
 		</Replace>
-		
 		<Replace Language='en_US' Tag="LOC_OPTIONS_CSAA_2X">
 			<Text>CSAA 2X / 4X</Text>
 		</Replace>
@@ -162,7 +154,6 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_CSAA_FULL">
 			<Text>CSAA Full</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_EQAA_2X">
 			<Text>EQAA 2X / 4X</Text>
 		</Replace>
@@ -180,8 +171,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_EQAA_FULL">
 			<Text>EQAA Full</Text>
-		</Replace>
-			
+		</Replace>		
 		<Replace Language='en_US' Tag="LOC_OPTIONS_LOW_MEMORY_OPTIMIZED">
 			<Text>Thấp (Tối ưu bộ nhớ)</Text>
 		</Replace>
@@ -194,7 +184,6 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_MEDIUM_PERFORMANCE_OPTIMIZED">
 			<Text>Trung bình (Tối ưu hiệu năng)</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTION_1PASS">
 			<Text>1 Pass</Text>
 		</Replace>
@@ -207,11 +196,9 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTION_4PASSES">
 			<Text>4 Passes</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_LEADERS_STATIC">
 			<Text>Tĩnh (Không âm thanh)</Text>
 		</Replace>
-    
 		<Replace Language='en_US' Tag="LOC_OPTIONS_100_PERCENT">
 			<Text>100%</Text>
 		</Replace>
@@ -221,9 +208,7 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_200_PERCENT">
 			<Text>200%</Text>
 		</Replace>
-
 		<!-- Graphics Panel - Main -->
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_VIDEO_ADAPTER_TEXT">
 			<Text>Chọn GPU:</Text>
 		</Replace>
@@ -266,16 +251,13 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_VIDEO_MEMORY_TOOLTIP">
 			<Text>Thay đổi cài đặt nâng cao để phù hợp với bộ nhớ mong muốn.[NEWLINE][NEWLINE]Giá trị thấp làm giảm độ trung thực của hình ảnh, nhưng lại [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Replace>
-
 		<!-- Graphics Panel - Advanced -->
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_SHOW_ADVANCED_GRAPHICS">
 			<Text>Hiển Thị Cài Đặt Nâng Cao</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HIDE_ADVANCED_GRAPHICS">
 			<Text>Ẩn Cài Đặt Nâng Cao</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_ADVANCED_GRAPHICS">
 			<Text>Cài Đặt Đồ Họa Nâng Cao</Text>
 		</Replace>
@@ -309,9 +291,7 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TOOLTIP">
 			<Text>Tạo ra nhiều hiệu ứng hơn.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Replace>
-
 		<!-- Graphics Panel - Lighting -->
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_LIGHTING">
 			<Text>Ánh sáng</Text>
 		</Replace>
@@ -345,9 +325,7 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TOOLTIP">
 			<Text>Thêm nguồn sáng hơn mặt trời.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Replace>
-
 		<!-- Graphics Panel - Shadows -->
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_SHADOWS">
 			<Text>Đổ bóng</Text>
 		</Replace>
@@ -363,15 +341,13 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TOOLTIP">
 			<Text>Thay đổi độ chi tiết và sắc nét của bóng.[NEWLINE][NEWLINE]Giá trị thấp sẽ [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CLOUD_SHADOWS_ENABLED_TEXT">
-      <Text>Bóng mây</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CLOUD_SHADOWS_ENABLED_TOOLTIP">
-      <Text>Thêm các vùng tối nơi ánh sáng bị chặn bởi các đám mây.[NEWLINE][NEWLINE]Tắt [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
-    </Replace>
-
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CLOUD_SHADOWS_ENABLED_TEXT">
+			<Text>Bóng mây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CLOUD_SHADOWS_ENABLED_TOOLTIP">
+			<Text>Thêm các vùng tối nơi ánh sáng bị chặn bởi các đám mây.[NEWLINE][NEWLINE]Tắt [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
+		</Replace>
 		<!-- Graphics Panel - Overlay -->
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_OVERLAY">
 			<Text>Lớp phủ</Text>
 		</Replace>
@@ -381,9 +357,7 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TOOLTIP">
 			<Text>Vẽ lớp phủ nằm trên mọi thứ khác, không chỉ trên mỗi địa hình.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Replace>
-
 		<!-- Graphics Panel - Terrain -->
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_TERRAIN">
 			<Text>Địa hình</Text>
 		</Replace>
@@ -417,9 +391,7 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TOOLTIP">
 			<Text>Tăng số lượng cây và khối đá.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Replace>
-
 		<!-- Graphics Panel - Water -->
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_WATER">
 			<Text>Nước</Text>
 		</Replace>
@@ -441,27 +413,23 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TOOLTIP">
 			<Text>Thay đổi chất lượng của nước phản chiếu.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Replace>
-
-    <!-- Graphics Panel - Reflections -->
-
-    <Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTIONS">
-      <Text>Ánh xạ</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTIONS_ENABLED_TEXT">
-      <Text>Ánh xạ</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTIONS_ENABLED_TOOLTIP">
-      <Text>Thêm ánh xạ vào địa hình và nước.[NEWLINE][NEWLINE]Tắt [COLOR_Civ6DarkRed] tăng hiệu suất[ENDCOLOR].</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTION_PASSES_TEXT">
-      <Text>Chất lượng Ánh xạ:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTION_PASSES_TOOLTIP">
-      <Text>Kiểm soát chất lượng Ánh xạ.[NEWLINE][NEWLINE]Sử dụng ít đường chuyền hơn hoặc vô hiệu hoá để [COLOR_Civ6DarkRed]Tăng hiệu suất[ENDCOLOR].</Text>
-    </Replace>
-    
-    <!-- Graphics Panel - Leaders -->
-
+    	<!-- Graphics Panel - Reflections -->
+		<Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTIONS">
+			<Text>Ánh xạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTIONS_ENABLED_TEXT">
+			<Text>Ánh xạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTIONS_ENABLED_TOOLTIP">
+			<Text>Thêm ánh xạ vào địa hình và nước.[NEWLINE][NEWLINE]Tắt [COLOR_Civ6DarkRed] tăng hiệu suất[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTION_PASSES_TEXT">
+			<Text>Chất lượng Ánh xạ:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTION_PASSES_TOOLTIP">
+			<Text>Kiểm soát chất lượng Ánh xạ.[NEWLINE][NEWLINE]Sử dụng ít đường chuyền hơn hoặc vô hiệu hoá để [COLOR_Civ6DarkRed]Tăng hiệu suất[ENDCOLOR].</Text>
+		</Replace>
+    	<!-- Graphics Panel - Leaders -->
 		<Replace Language='en_US' Tag="LOC_OPTIONS_LEADERS">
 			<Text>Hoạt cảnh người lãnh đạo</Text>
 		</Replace>
@@ -477,34 +445,29 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_LEADER_MOTIONBLUR_TOOLTIP">
 			<Text>Bật mờ chuyển động ở các lãnh đạo.</Text>
 		</Replace>
-
 		<!-- Application Panel -->
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_APP_SHOW_MOVIE">
 			<Text>Hiện phim mở đầu:</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_APP_WARN_MOD_COMPATIBILITY">
 			<Text>Cảnh báo về khả năng tương thích mod</Text>
 		</Replace>
-
 		<!-- Interface Panel -->
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_GRAB_MOUSE">
 			<Text>Khóa chuột vào cửa sổ:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_EDGE_SCROLL">
 			<Text>Cuộn chuột tại viền cửa sổ:</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_OPEN_TO_PROD_QUEUE">
-      <Text>Luôn luôn mở hàng đợi sản xuất:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_FORCE_CLICK_TO_DRAG">
-      <Text>Thay thế Giữ để kéo bằng Nhấp chuột:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_FORCE_CLICK_TO_DRAG_TT">
-      <Text>Tùy chọn này thay thế hành vi Giữ-Kéo của các thành phần UI có thể kéo bằng các nhấp chuột đơn giản để chọn và thả chúng.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_OPEN_TO_PROD_QUEUE">
+			<Text>Luôn luôn mở hàng đợi sản xuất:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_FORCE_CLICK_TO_DRAG">
+			<Text>Thay thế Giữ để kéo bằng Nhấp chuột:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_FORCE_CLICK_TO_DRAG_TT">
+			<Text>Tùy chọn này thay thế hành vi Giữ-Kéo của các thành phần UI có thể kéo bằng các nhấp chuột đơn giản để chọn và thả chúng.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_CLOCK_FORMAT">
 			<Text>Kiểu đồng hồ:</Text>
 		</Replace>
@@ -517,30 +480,30 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_TIME_OF_DAY">
 			<Text>Các hoạt động hàng ngày:</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_AUTO_UNIT_CYCLING">
-      <Text>Tự động chuyển đơn vị:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CHAT_TEXT_SIZE">
-      <Text>Kích thước văn bản trò chuyện:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CHAT_TEXT_SIZE_VALUE">
-      <Text>{1_Value : number #.##}</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_AUTO_UNIT_CYCLING">
+			<Text>Tự động chuyển đơn vị:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CHAT_TEXT_SIZE">
+			<Text>Kích thước văn bản trò chuyện:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CHAT_TEXT_SIZE_VALUE">
+			<Text>{1_Value : number #.##}</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_MINIMAP_SIZE">
 			<Text>Kích thước Minimap:</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
-      <Text>Trì hoãn chú thích:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE">
-      <Text>{1_Value : number #.##}giây</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_SCROLL_SPEED">
-      <Text>Tốc độ con lăn chuột:</Text>
-    </Replace>		
-    <Replace Language='en_US' Tag="LOC_OPTIONS_SCROLL_SPEED_VALUE">
-      <Text>{1_Value : number #.##}</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
+			<Text>Trì hoãn chú thích:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE">
+			<Text>{1_Value : number #.##}giây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_SCROLL_SPEED">
+			<Text>Tốc độ con lăn chuột:</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_OPTIONS_SCROLL_SPEED_VALUE">
+			<Text>{1_Value : number #.##}</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_RIBBON_STATS_LABEL">
 			<Text>Hiển thị năng suất trong Ribbon HUD:</Text>
 		</Replace>
@@ -589,36 +552,36 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_PLAYBYCLOUD_CLIENT_READY_BEHAVIOR_EXIT_TO_LOBBY">
 			<Text>Thoát ra sảnh</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_COLOR_BLINDNESS_ADAPTATION">
-        <Text>Khả năng truy cập Colorblind:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CBADAPT_DO_NOTHING">
-        <Text>Màu mặc định</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CBADAPT_PROTANOPIA">
-        <Text>Red-blind Protanopia</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CBADAPT_DEUTERANOPIA">
-        <Text>Green-blind Deuteranopia</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CBADAPT_TRITANOPIA">
-        <Text>Blue-blind Tritanopia</Text>
-    </Replace>
-	<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_LIGHTING">
-		<Text>Sử dụng phần cứng chiếu sáng RGB tương thích</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_LIGHTING_TOOLTIP">
-		<Text>Cho phép Civilization VI kiểm soát ánh sáng trên máy tính và thiết bị ngoại vi tương thích với Phần mềm chơi game Logitech hoặc Alienware AlienFX.</Text>
-	</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_SWITCH_UI_LAYOUT">
-      <Text>Chuyển giao diện người dùng</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_LAYOUT_PC">
-      <Text>PC / Bàn phím và Chuột</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_LAYOUT_CONSOLE">
-      <Text>Console / Gamepad</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_COLOR_BLINDNESS_ADAPTATION">
+			<Text>Khả năng truy cập Colorblind:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CBADAPT_DO_NOTHING">
+			<Text>Màu mặc định</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CBADAPT_PROTANOPIA">
+			<Text>Red-blind Protanopia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CBADAPT_DEUTERANOPIA">
+			<Text>Green-blind Deuteranopia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CBADAPT_TRITANOPIA">
+			<Text>Blue-blind Tritanopia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_LIGHTING">
+			<Text>Sử dụng phần cứng chiếu sáng RGB tương thích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_LIGHTING_TOOLTIP">
+			<Text>Cho phép Civilization VI kiểm soát ánh sáng trên máy tính và thiết bị ngoại vi tương thích với Phần mềm chơi game Logitech hoặc Alienware AlienFX.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_SWITCH_UI_LAYOUT">
+			<Text>Chuyển giao diện người dùng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_LAYOUT_PC">
+			<Text>PC / Bàn phím và Chuột</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_LAYOUT_CONSOLE">
+			<Text>Console / Gamepad</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_QUEUE_DISPLAY">
 			<Text>Hàng đợi sản xuất:</Text>
 		</Replace>
@@ -634,12 +597,11 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_QUEUE_ALWAYS_SHOW_MANGER">
 			<Text>Luôn hiển thị hàng đợi Trình quản lý</Text>
 		</Replace>
-
 		<!-- Hotkeys Panel -->		
-    <!-- Expansion 2 - Additional Hotkeys-->
-    <Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI_XP2">
+		<!-- Expansion 2 - Additional Hotkeys-->
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI_XP2">
 			<Text>Giao diện người dùng (Cơn bão ập đến):</Text>
-    </Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_WORLDCLIMATE">
 			<Text>Khí hậu thế giới</Text>
 		</Replace>
@@ -652,7 +614,6 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_POWER_HELP">
 			<Text>Bật ống kính Power.</Text>
 		</Replace>
-    		
 		<!-- Expansion 1 - Additional Hotkeys-->
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS">
 			<Text>Thống đốc</Text>
@@ -678,16 +639,13 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_CAPITALCITY_HELP">
 			<Text>Chuyển tới Thành phố Thủ đô</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI_XP1">
 			<Text>Giao diện người dùng (Trỗi dậy và Sụp đổ):</Text>
 		</Replace>
-
 		<!-- Base Game Hot Keys-->
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI">
 			<Text>Giao diện người dùng:</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_TECH">
 			<Text>Cây công nghệ</Text>
 		</Replace>
@@ -730,7 +688,6 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_FSMAP">
 			<Text>Hiển thị bản đồ toàn màn hình</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_TECH_HELP">
 			<Text>Hiển thị cây công nghệ</Text>
 		</Replace>
@@ -773,11 +730,9 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_FSMAP_HELP">
 			<Text>Hiển thị mức độ hiển thị của Bản đồ toàn màn hình</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UNIT">
 			<Text>Đơn vị hành động:</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY">
 			<Text>Sáng lập thành phố</Text>
 		</Replace>
@@ -847,12 +802,9 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT_HELP">
 			<Text>Thực hiện hành động Thông báo với đơn vị đã chọn.</Text>
 		</Replace>
-
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_CATEGORY_GLOBAL">
 			<Text>Hành Động Chung:</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN">
 			<Text>Kết thúc lượt</Text>
 		</Replace>
@@ -907,7 +859,6 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW">
 			<Text>Bật tắt tầm nhìn chiến thuật</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
 			<Text>Kết thúc lượt của người chơi nếu có thể.</Text>
 		</Replace>
@@ -956,23 +907,18 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW_HELP">
 			<Text>Chuyển trò chơi giữa các chế độ xem tiêu chuẩn và chiến lược (2D).</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
 			<Text>Hành động Online:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE">
 			<Text>Dừng Online</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE_HELP">
 			<Text>Tạm dừng một trò chơi trực tuyến.</Text>
 		</Replace>
-
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_CATEGORY_LENSES">
 			<Text>Ống kính:</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION">
 			<Text>Tên giáo</Text>
 		</Replace>
@@ -1000,25 +946,24 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_EMPIRE">
 			<Text>Đế chế</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_MOVE_CURSOR">
-      <Text>Di chuyển con trỏ</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LEFT_CLICK_CURSOR">
-      <Text>Nhấp chuột trái</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_UP">
-      <Text>Camera Pan Up</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_DOWN">
-      <Text>Camera Pan Down</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_LEFT">
-      <Text>Camera Pan Left</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_RIGHT">
-      <Text>Camera Pan Right</Text>
-    </Replace>
-
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_MOVE_CURSOR">
+			<Text>Di chuyển con trỏ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LEFT_CLICK_CURSOR">
+			<Text>Nhấp chuột trái</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_UP">
+			<Text>Camera Pan Up</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_DOWN">
+			<Text>Camera Pan Down</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_LEFT">
+			<Text>Camera Pan Left</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_RIGHT">
+			<Text>Camera Pan Right</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP">
 			<Text>Toggles the Tôn giáo lens.</Text>
 		</Replace>
@@ -1046,25 +991,24 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_EMPIRE_HELP">
 			<Text>Toggles the Đế chế lens.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_MOVE_CURSOR_HELP">
-      <Text>Mô phỏng chuyển động con trỏ bằng cách sử dụng gậy analog.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LEFT_CLICK_CURSOR_HELP">
-      <Text>Giả lập nhấp chuột trái vào con trỏ.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_UP_HELP">
-      <Text>Xoay camera trò chơi lên.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_DOWN_HELP">
-      <Text>Xoay camera trò chơi xuống.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_LEFT_HELP">
-      <Text>Xoay camera trò chơi sang trái.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_RIGHT_HELP">
-      <Text>Xoay máy ảnh trò chơi ngay.</Text>
-    </Replace>
-
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_MOVE_CURSOR_HELP">
+			<Text>Mô phỏng chuyển động con trỏ bằng cách sử dụng gậy analog.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LEFT_CLICK_CURSOR_HELP">
+			<Text>Giả lập nhấp chuột trái vào con trỏ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_UP_HELP">
+			<Text>Xoay camera trò chơi lên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_DOWN_HELP">
+			<Text>Xoay camera trò chơi xuống.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_LEFT_HELP">
+			<Text>Xoay camera trò chơi sang trái.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CAMERA_PAN_RIGHT_HELP">
+			<Text>Xoay máy ảnh trò chơi ngay.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_KEY_UNDERSCORE">
 			<Text>_</Text>
 		</Replace>
@@ -1437,18 +1381,18 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_KEY_APPS">
 			<Text>Apps</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_MOUSE_L">
-      <Text>Chuột trái</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_MOUSE_R">
-      <Text>Chuột phải</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_MOUSE_M">
-      <Text>Chuột giữa</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_MOUSE_X">
-      <Text>Chuột {1_ButtonIndex}</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_MOUSE_L">
+			<Text>Chuột trái</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_MOUSE_R">
+			<Text>Chuột phải</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_MOUSE_M">
+			<Text>Chuột giữa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_MOUSE_X">
+			<Text>Chuột {1_ButtonIndex}</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_A">
 			<Text>Pad A</Text>
 		</Replace>
@@ -1470,15 +1414,15 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LTRIGGER">
 			<Text>Pad LT</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LTRIGGER_CLICK">
-      <Text>Pad LT Click</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LTRIGGER_CLICK">
+			<Text>Pad LT Click</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RTRIGGER">
 			<Text>Pad RT</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RTRIGGER_CLICK">
-      <Text>Pad RT Click</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RTRIGGER_CLICK">
+			<Text>Pad RT Click</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_DPAD_UP">
 			<Text>Pad Dpad Up</Text>
 		</Replace>
@@ -1491,81 +1435,81 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_DPAD_RIGHT">
 			<Text>Pad Dpad Right</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_UP">
-      <Text>Pad Right Dpad Up</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_DOWN">
-      <Text>Pad Right Dpad Down</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_LEFT">
-      <Text>Pad Right Dpad Left</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_RIGHT">
-      <Text>Pad Right Dpad Right</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_UP">
+			<Text>Pad Right Dpad Up</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_DOWN">
+			<Text>Pad Right Dpad Down</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_LEFT">
+			<Text>Pad Right Dpad Left</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_RIGHT">
+			<Text>Pad Right Dpad Right</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_START">
 			<Text>Pad Start</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_BACK">
 			<Text>Pad Back</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS">
-      <Text>Pad LStick Press</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS">
-      <Text>Pad RStick Press</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LTHUMB_AXIS">
-      <Text>Pad Left Stick</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RTHUMB_AXIS">
-      <Text>Pad Right Stick</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LEFT_GRIP">
-      <Text>Pad Left Grip</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_GRIP">
-      <Text>Pad Right Grip</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_TOUCH">
-      <Text>Left Touchpad Touch</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_SWIPE">
-      <Text>Left Touchpad Swipe</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_CLICK">
-      <Text>Left Touchpad Click</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_TOUCH">
-      <Text>Middle Touchpad Touch</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_SWIPE">
-      <Text>Middle Touchpad Swipe</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_CLICK">
-      <Text>Middle Touchpad Click</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_TOUCH">
-      <Text>Right Touchpad Touch</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_SWIPE">
-      <Text>Right Touchpad Swipe</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_CLICK">
-      <Text>Right Touchpad Click</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_GYRO_MOVE">
-      <Text>Pad Gyro Move</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_GYRO_PITCH">
-      <Text>Pad Gyro Pitch</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_GYRO_YAW">
-      <Text>Pad Gyro Yaw</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_GYRO_ROLL">
-      <Text>Pad Gyro Roll</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS">
+			<Text>Pad LStick Press</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS">
+			<Text>Pad RStick Press</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LTHUMB_AXIS">
+			<Text>Pad Left Stick</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RTHUMB_AXIS">
+			<Text>Pad Right Stick</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LEFT_GRIP">
+			<Text>Pad Left Grip</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_GRIP">
+			<Text>Pad Right Grip</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_TOUCH">
+			<Text>Left Touchpad Touch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_SWIPE">
+			<Text>Left Touchpad Swipe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_CLICK">
+			<Text>Left Touchpad Click</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_TOUCH">
+			<Text>Middle Touchpad Touch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_SWIPE">
+			<Text>Middle Touchpad Swipe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_CLICK">
+			<Text>Middle Touchpad Click</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_TOUCH">
+			<Text>Right Touchpad Touch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_SWIPE">
+			<Text>Right Touchpad Swipe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_CLICK">
+			<Text>Right Touchpad Click</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_GYRO_MOVE">
+			<Text>Pad Gyro Move</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_GYRO_PITCH">
+			<Text>Pad Gyro Pitch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_GYRO_YAW">
+			<Text>Pad Gyro Yaw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_GYRO_ROLL">
+			<Text>Pad Gyro Roll</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_KEY_VOLUME_MUTE">
 			<Text>Mute</Text>
 		</Replace>
@@ -1587,9 +1531,9 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_KEY_MEDIA_PLAY_PAUSE">
 			<Text>Play / Pause</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_PAD_TOOLTIP_REFRESH">
-      <Text>Tooltip Refresh</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_PAD_TOOLTIP_REFRESH">
+			<Text>Tooltip Refresh</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_KEY_NUM_KEYS">
 			<Text>Num Keys</Text>
 		</Replace>
@@ -1598,4 +1542,3 @@
 		</Replace>
 	</LocalizedText>
 </GameData>
-

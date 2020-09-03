@@ -8,7 +8,7 @@
 			<Text>Thuộc về {1_CivName}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_BELONGS_FREECITY_TT">
-			Text>Thuộc về một thành phố tự do</Text>
+			<Text>Thuộc về một thành phố tự do</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_BANNER_TT">
 			<Text>{1_CityName} ({2_CivName})</Text>

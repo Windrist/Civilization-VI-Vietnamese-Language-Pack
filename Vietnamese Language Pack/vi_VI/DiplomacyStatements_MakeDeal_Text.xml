@@ -4,11 +4,9 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_ANY_ANY">
 			<Text>Vâng, ta rất vui đồng ý thỏa thuận này.</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_ANY_ANY">
 			<Text>Ta không thể chấp nhận thỏa thuận này.</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_ANY_ANY">
 			<Text>Cảm ơn. Ta nghĩ điều này đều có lợi cho cả hai.</Text>
 		</Replace>
@@ -69,7 +67,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_VICTORIA_ANY">
 			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY}</Text>
 		</Replace>
-		
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_ANY_ANY">
 			<Text>Ta phải nói rằng ta có một chút thất vọng.</Text>
 		</Replace>
@@ -130,7 +127,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_VICTORIA_ANY">
 			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY}</Text>
 		</Replace>
-		
 		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_ANY_ANY">
 			<Text>Thỏa thuận này có thay đổi so với ý muốn của ta.</Text>
 		</Replace>

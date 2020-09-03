@@ -28,15 +28,15 @@
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME">
 			<Text>Quý tộc Volhynian</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_CIVILIZATION_RADZIWILL_NAME">
-      <Text>Quý tộc Litva</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_CIVILIZATION_POTOCKI_NAME">
-      <Text>Quý tộc Ba Lan</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_CIVILIZATION_OSTROGSKI_NAME">
-      <Text>Quý tộc Volhynian</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_RADZIWILL_NAME">
+			<Text>Quý tộc Litva</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_POTOCKI_NAME">
+			<Text>Quý tộc Ba Lan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_OSTROGSKI_NAME">
+			<Text>Quý tộc Volhynian</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME">
 			<Text>Tự do vàng</Text>
 		</Replace>

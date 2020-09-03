@@ -2,7 +2,6 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
-		
 		<!-- AI Accepts -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_ANY_ANY">
 			<Text>Ta rất vui khi được chào đón phái đoàn của ngài đến với thủ đô của ta.</Text>
@@ -64,7 +63,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
 			<Text>Ta đã tiếp nhận phái đoàn thương mại của ngài và ngài có thể yên tâm rằng ta sẽ thiết đãi xứng với chức vị của họ.</Text>
 		</Replace>
-		
 		<!-- AI Rejects -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_ANY_ANY">
 			<Text>Chúng tôi xin từ chối phái đoàn của ngài một cách lịch sự.</Text>
@@ -193,16 +191,13 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_CHOICE_POSITIVE">
 			<Text>Ta rất hoan nghênh phái đoàn của ngài.</Text>
 		</Replace>
-		
 		<!-- Human Accepts -->		
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_ANY_ANY">
 			<Text>Tuyệt vời!</Text>
 		</Replace>
-
 		<!-- Human Rejects -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_ANY_ANY">
 			<Text>Điều đó thật tệ, có lẽ vào một ngày khác.</Text>
 		</Replace>
-
 	</LocalizedText>
 </GameData>

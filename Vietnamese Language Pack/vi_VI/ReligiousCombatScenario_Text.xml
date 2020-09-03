@@ -15,7 +15,6 @@
 		<Replace Language='en_US' Tag="LOC_RELIGIOUS_COMBAT_VICTORY_DESC">
 			<Text>Có những tín đồ ngoan đạo nhất vào buổi bình minh của Thời Đại Công Nghiệp (công nghệ công nghiệp đầu tiên hoặc hành chính)</Text>
 		</Replace>	
-		
 		<!-- Mod Package Text -->
 		<Replace Language='en_US' Tag="LOC_RELIGIOUS_COMBAT_MOD_TITLE">
 			<Text>Màn chơi dành cho đa người chơi: Vùng đất Thiêng</Text>
@@ -31,7 +30,6 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RC_GAME_ERA_LIMIT_REACHED_PROGRESS">
 			<Text>Đã đạt đến Thời Đại Công Nghiệp {StatusIcon}</Text>
-		</Replace>	
-
+		</Replace>
 	</LocalizedText>
 </GameData>

@@ -25,11 +25,9 @@
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_MOD">
 			<Text>Phụ thuộc</Text>
 		</Replace>
-		
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_TEXT">
 			<Text>Văn bản</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
 			<Text>Thêm người chơi</Text>
 		</Replace>
@@ -84,12 +82,12 @@
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT_PILLAGED">
 			<Text>Công trình đã bị cướp</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT">
-      <Text>Đặc khu</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT_PILLAGED">
-      <Text>Phá Đặc khu</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT">
+			<Text>Đặc khu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT_PILLAGED">
+			<Text>Phá Đặc khu</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE">
 			<Text>Tuyến đường</Text>
 		</Replace>
@@ -102,7 +100,6 @@
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_LOWLAND_TYPE">
 			<Text>Loại đất thấp</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_TERRAIN">
 			<Text>Địa hình</Text>
 		</Replace>
@@ -151,141 +148,108 @@
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_GOODY_HUTS">
 			<Text>Ngôi làng bộ lạc</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
 			<Text>Chi tiết bản đồ và văn bản</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
 			<Text>Chỉnh sửa người chơi</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
 			<Text>Click trái để đặt. Click phải để loại bỏ.</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
 			<Text>Không có ô đất được lựa chọn.</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_PLACEMENT_TT">
 			<Text>Cho phép bạn vẽ bản đồ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_PLOT_TT">
 			<Text>Cung cấp quyền kiểm soát chi tiết hơn cho từng lô</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
 			<Text>ID</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
 			<Text>Tạo ID mới...</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
 			<Text>Chiều rộng</Text>
 		</Replace>
-		
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
 			<Text>Chiều dài</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
 			<Text>Luật</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
 			<Text>Script Bản đồ</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
 			<Text>Bản đồ này là một Mod</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
 			<Text>Nếu được đánh dấu, bộ tạo thế giới tạo ra Mod bản đồ khép kín và chỉ có thể sử dụng như một Loại Bản Đồ khi bắt đầu trò chơi. Nếu không được đánh dấu, bản đồ được giả định sử dụng như một phần của Mod lớn hơn.</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_REFERENCE_MAP">
 			<Text>Bản đồ tham khảo</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_REFERENCE_ALPHA">
 			<Text>Tham chiếu Alpha</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_MAP_LOADED">
 			<Text>Bản đồ tham chiếu được tải thành công</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_MAP_NOT_FOUND">
 			<Text>Không tìm thấy tệp bản đồ tham chiếu</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_RULESET_TT">
 			<Text>Đặt những gì quy tắc bản đồ này được thực hiện cho.</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_SCRIPT_TT">
 			<Text>Đặt tệp LUA sẽ sử dụng để tạo bản đồ này, nếu có.</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_MAP_TT">
 			<Text>Đặt tệp PNG thành lớp phủ mờ trên bản đồ của Nhà xây dựng Thế giới.</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_TT">
 			<Text>Đặt số lượng bạn nhìn thấy của lớp phủ so với bản đồ.[NEWLINE]0.0 hiển thị tất cả bản đồ và không có lớp phủ, và 1.0 hiển thị tất cả lớp phủ và không có bản đồ. [NEWLINE] 0.5 là giá trị bắt đầu.</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_SET">
 			<Text>Bản đồ tham chiếu alpha mới</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_BAD">
 			<Text>Alpha phải nằm trong khoảng từ 0.0 đến 1.0</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_BAD_2">
 			<Text>Alpha phải là một số</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
 			<Text>Bản đồ không tên</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MAP_DESCRIPTION">
 			<Text>Một bản đồ không tên được tạo bởi Bộ Tạo Thế Giới</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MOD_TITLE">
 			<Text>Mod bản đồ không tên</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MOD_DESCRIPTION">
 			<Text>Một Mod bản đồ không tên được tạo bởi Bộ Tạo Thế Giới</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ADD_BUTTON">
 			<Text>Thêm</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REMOVE_BUTTON">
 			<Text>Bỏ</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_FEATURE">
 			<Text>Không có tính năng</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_LOWLAND">
 			<Text>Không phải vùng đất thấp ven biển</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_CITY">
 			<Text>Không có thành phố</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_DIRECTION">
 			<Text>Không phương hướng</Text>
 		</Replace>
@@ -316,16 +280,15 @@
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ROTATE_PLACEMENT_RIGHT_TOOLTIP">
 			<Text>Xoay vòng xoay vị trí sang phải</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_RESOURCE">
 			<Text>Không có tài nguyên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_IMPROVEMENT">
 			<Text>Không có cải thiện</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_DISTRICT">
-      <Text>Không có Đặc khu</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_DISTRICT">
+			<Text>Không có Đặc khu</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_ROUTE">
 			<Text>Không có tuyến đường</Text>
 		</Replace>
@@ -704,7 +667,6 @@
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_MAPEDIT_DUMMYTEXT">
 			<Text>Dummy text</Text>
 		</Replace>
-
 		<!-- Front End Text -->
 		<Replace Language='en_US' Tag="LOC_SETUP_CREATE_MAP">
 			<Text>Create Map</Text>
@@ -730,7 +692,6 @@
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_MENU_NAME">
 			<Text>Menu</Text>
 		</Replace>
-		
 		<!-- World Builder Maps -->
 		<Replace Language='en_US' Tag="LOC_MAP_WORLDBUILDER_EMPTY">
 			<Text>Empty Map</Text>
@@ -738,8 +699,6 @@
 		<Replace Language='en_US' Tag="LOC_MAP_WORLDBUILDER_EMPTY_DESCRIPTION">
 			<Text>A blank canvas.</Text>
 		</Replace>
-		
-		
 		<!-- Misc strings -->
 		<Replace Language='en_US' Tag="LOC_LEADER_FREE_CITIES_NAME">
 			<Text>Free Cities Leader</Text>

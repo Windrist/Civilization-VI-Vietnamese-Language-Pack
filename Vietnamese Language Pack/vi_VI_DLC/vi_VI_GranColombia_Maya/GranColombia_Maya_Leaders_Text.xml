@@ -1,18 +1,18 @@
 <GameData>
 	<LocalizedText>
     <!--Historic Agendas-->
-    <Replace Language='en_US' Tag="LOC_AGENDA_LADY_SIX_SKY_NAME">
-      <Text>Đơn độc</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_AGENDA_LADY_SIX_SKY_DESCRIPTION">
-      <Text>Định cư gần thủ đô của cô ấy. Thích những nền văn minh định cư ở khoảng cách xa. Không thích bất kỳ nền văn minh nào xâm phạm lãnh thổ của người Maya.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_AGENDA_SIMON_BOLIVAR_NAME">
-      <Text>Carabobo</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_AGENDA_SIMON_BOLIVAR_DESCRIPTION">
-      <Text>Thích những nền văn minh có đơn vị thăng tiến cao. Không thích những nền văn minh có ít đơn vị được thăng cấp cao.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_LADY_SIX_SKY_NAME">
+			<Text>Đơn độc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_LADY_SIX_SKY_DESCRIPTION">
+			<Text>Định cư gần thủ đô của cô ấy. Thích những nền văn minh định cư ở khoảng cách xa. Không thích bất kỳ nền văn minh nào xâm phạm lãnh thổ của người Maya.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SIMON_BOLIVAR_NAME">
+			<Text>Carabobo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SIMON_BOLIVAR_DESCRIPTION">
+			<Text>Thích những nền văn minh có đơn vị thăng tiến cao. Không thích những nền văn minh có ít đơn vị được thăng cấp cao.</Text>
+		</Replace>
 		<!--City-States-->
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CAGUANA_NAME">
 			<Text>Caguana</Text>
@@ -38,12 +38,12 @@
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HUNZA_ADJECTIVE">
 			<Text>Hunza</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_LEADER_TRAIT_HUNZA_NAME">
-      <Text>Tiền thưởng Hunza Suzerain</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_LEADER_TRAIT_HUNZA_DESCRIPTION">
-      <Text>Lộ trình giao dịch [ICON_TradeRoute] của bạn tạo ra +1 [ICON_Gold] Vàng cho mỗi 5 ô mà chúng di chuyển.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_HUNZA_NAME">
+			<Text>Tiền thưởng Hunza Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_HUNZA_DESCRIPTION">
+			<Text>Lộ trình giao dịch [ICON_TradeRoute] của bạn tạo ra +1 [ICON_Gold] Vàng cho mỗi 5 ô mà chúng di chuyển.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_LAHORE_NAME">
 			<Text>Lahore</Text>
 		</Replace>
@@ -68,12 +68,12 @@
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SINGAPORE_ADJECTIVE">
 			<Text>người Singapore</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_LEADER_TRAIT_SINGAPORE_NAME">
-      <Text>Tiền thưởng Suzerain Singapore</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_LEADER_TRAIT_SINGAPORE_DESCRIPTION">
-      <Text>Các thành phố của bạn nhận được +2 [ICON_Production] Sản xuất cho mỗi nền văn minh nước ngoài mà họ có Tuyến giao thương [ICON_TradeRoute] tới.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_SINGAPORE_NAME">
+			<Text>Tiền thưởng Suzerain Singapore</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_SINGAPORE_DESCRIPTION">
+			<Text>Các thành phố của bạn nhận được +2 [ICON_Production] Sản xuất cho mỗi nền văn minh nước ngoài mà họ có Tuyến giao thương [ICON_TradeRoute] tới.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_TARUGA_NAME">
 			<Text>Taruga</Text>
 		</Replace>
@@ -104,8 +104,8 @@
 		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_VATICAN_CITY_DESCRIPTION">
 			<Text>Khi bạn kích hoạt [ICON_GreatPerson] Người vĩ đại, họ đã truyền 400 áp lực tôn giáo của tôn giáo do bạn sáng lập (hoặc đa số) đến các thành phố trong vòng 10 ô.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_SIMON_BOLIVAR">
-      <Text>Giống như những nền văn minh có nhiều đơn vị được thăng cấp hơn anh ta</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_SIMON_BOLIVAR">
+			<Text>Giống như những nền văn minh có nhiều đơn vị được thăng cấp hơn anh ta</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>

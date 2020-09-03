@@ -2,7 +2,6 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
-		
 		<!-- AI accepts from human -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
 			<Text>Ta hạnh phúc cho phép mọi người của ngài tự do đi lại trong lãnh thổ của ta.</Text>
@@ -64,7 +63,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
 			<Text>Để thừa nhận sự biết ơn vì đã sẽ chia mong muốn về sự hòa bình thì ta chấp nhận để quân đội của ngài gia nhập lực lượng chính của chúng ta.</Text>
 		</Replace>
-		
 		<!-- AI rejects from human -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
 			<Text>Ta không hứng thú lúc này.</Text>
@@ -126,7 +124,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
 			<Text>Vì sự an toàn cho người dân của ta, ta phải từ chối yêu cầu này. Ta hi vọng ngài có thể cảm thông giúp.</Text>
 		</Replace>
-		
 		<!-- AI requests from human -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_ANY_ANY">
 			<Text>Liệu ngài sẽ để cho mọi người của ta đi qua lãnh thổ của ngài chứ?</Text>
@@ -188,17 +185,14 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_VICTORIA_ANY">
 			<Text>Ta khiêm nhường mong muốn binh lính của ta được đi qua lãnh địa của ngài. Ý ngài thì sao?</Text>
 		</Replace>
-		
 		<!-- Human accepts AI, AI respones -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_ANY_ANY">
 			<Text>Tuyệt vời!</Text>
 		</Replace>
-
 		<!-- Human rejects AI, AI respones -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_ANY_ANY">
 			<Text>Thật không may</Text>
 		</Replace>
-
 		<!-- Selections -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_NEGATIVE">
 			<Text>Ta sẽ không cho phép quân đội của ngài ở trong biên giới vào lúc này.</Text>

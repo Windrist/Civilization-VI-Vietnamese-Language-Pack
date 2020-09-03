@@ -21,7 +21,6 @@
 		<Replace Language='en_US' Tag="LOC_NAPOLEON_VICTORY_WIN_BLURB">
 			<Text>"Chiến trường là một cảnh tượng hỗn loạn liên hồi. Người chiến thắng là người kiểm soát sự hỗn loạn đó, bao gồm chính mình và kẻ thù." —Napoleon Bonaparte</Text>
 		</Replace>
-
 		<!-- Mod Package Text -->
 		<Replace Language='en_US' Tag="LOC_NAPOLEON_MOD_TITLE">
 			<Text>Kịch bản chơi nhiều người: Kỵ binh và Pháo binh</Text>
@@ -38,7 +37,6 @@
 		<Replace Language='en_US' Tag="LOC_MAX_TURNS_REACHED_PROGRESS">
 			<Text>Giới hạn số lượt {ElapsedTurns}/{MaxGameTurn} {StatusIcon}</Text>
 		</Replace>
-		
 		<!-- End Game Leader Ranking -->
 		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_QUOTE">
 			<Text>"Chiến thắng chỉ thuộc về người kiên trì nhất." —Napoleon Bonaparte</Text>
@@ -79,6 +77,5 @@
 		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME_ALT">
 			<Text>Trung Uý Martinet</Text>
 		</Replace>
-		
 	</LocalizedText>
 </GameData>

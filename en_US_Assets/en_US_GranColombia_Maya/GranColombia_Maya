@@ -87,7 +87,7 @@
 			<File Priority="1">Text/en_US/GranColombia_Maya_Units_Text.xml</File>
 			<File Priority="1">Text/en_US/GranColombia_Maya_RandomEvents_Text.xml</File>
 			<File Priority="1">Text/en_US/GranColombia_Maya_Notifications_Text.xml</File>
-      <File Priority="1">Text/en_US/GranColombia_Maya_AdvisorText_MODE.xml</File>
+      		<File Priority="1">Text/en_US/GranColombia_Maya_AdvisorText_MODE.xml</File>
 			<File>Text/GranColombia_Maya_Translations_PackageText.xml</File>
 			<File>Text/GranColombia_Maya_Translations_ConfigText.xml</File>
 			<File>Text/GranColombia_Maya_Translations_Text.xml</File>
@@ -146,7 +146,7 @@
 		<UpdateIcons id="GranColombiaMayaIcons" criteria="GranColombiaMaya">
 			<File>Data/GranColombia_Maya_Icons_Civilizations.xml</File>
 			<File>Data/GranColombia_Maya_Icons_Districts.xml</File>
-      <File>Data/GranColombia_Maya_Icons_Emergencies.xml</File>
+      		<File>Data/GranColombia_Maya_Icons_Emergencies.xml</File>
 			<File>Data/GranColombia_Maya_Icons_Features.xml</File>
 			<File>Data/GranColombia_Maya_Icons_FontIcons.xml</File>
 			<File>Data/GranColombia_Maya_Icons_GameModes.xml</File>
@@ -186,7 +186,7 @@
 		<ImportFiles id="GranColombiaMaya_XP2Files" criteria="GranColombiaMaya_Expansion2">
 			<File>UI/Replacements/ClimateScreen_GranColombia_Maya.lua</File>
 			<File>UI/Replacements/ClimateScreen.xml</File>
-      <File>UI/Loaders/TutorialLoader_GranColombia_Maya.lua</File>
+      		<File>UI/Loaders/TutorialLoader_GranColombia_Maya.lua</File>
 		</ImportFiles>
 		<ImportFiles id="GranColombiaMaya_ModeFiles" criteria="GranColombiaMaya_Mode_Expansion2">
 			<File>UI/Replacements/EndGameMenu_GranColombia_Maya.lua</File>
@@ -275,7 +275,7 @@
 		<File>Text/en_US/GranColombia_Maya_RandomEvents_Text.xml</File>
 		<File>Text/en_US/GranColombia_Maya_Units_Text.xml</File>
 		<File>Text/en_US/GranColombia_Maya_Units_Text_MODE.xml</File>
-    <File>Text/en_US/GranColombia_Maya_AdvisorText_MODE.xml</File>
+    	<File>Text/en_US/GranColombia_Maya_AdvisorText_MODE.xml</File>
 		<File>Text/GranColombia_Maya_Translations_ConfigText.xml</File>
 		<File>Text/GranColombia_Maya_Translations_PackageText.xml</File>
 		<File>Text/GranColombia_Maya_Translations_Text.xml</File>
@@ -283,7 +283,7 @@
 		<!--Icons-->
 		<File>Data/GranColombia_Maya_Icons_Civilizations.xml</File>
 		<File>Data/GranColombia_Maya_Icons_Districts.xml</File>
-    <File>Data/GranColombia_Maya_Icons_Emergencies.xml</File>
+    	<File>Data/GranColombia_Maya_Icons_Emergencies.xml</File>
 		<File>Data/GranColombia_Maya_Icons_Features.xml</File>
 		<File>Data/GranColombia_Maya_Icons_FontIcons.xml</File>
 		<File>Data/GranColombia_Maya_Icons_GameModes.xml</File>
@@ -302,7 +302,7 @@
 		<File>UI/Replacements/EraCompletePopup_GranColombia_Maya.lua</File>
     
     <!--Loaders-->
-    <File>UI/Loaders/TutorialLoader_GranColombia_Maya.lua</File>
+    	<File>UI/Loaders/TutorialLoader_GranColombia_Maya.lua</File>
 
 		<File>Platforms/Windows/Audio/XP3_DLC1Banks.ini</File>
 		<File>Platforms/Windows/Audio/XP3_DLC1_Ambiences.bnk</File>

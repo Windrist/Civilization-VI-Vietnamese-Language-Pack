@@ -1,263 +1,263 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_GAIN_DIPLO_POINTS_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_GAIN_DIPLO_POINTS_MESSAGE">
             <Text>Điểm chiến thắng ngoại giao</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_GAIN_DIPLO_POINTS_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_GAIN_DIPLO_POINTS_SUMMARY">
             <Text>World Congress đã trao cho bạn {1_Value} Điểm Chiến thắng Ngoại giao.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_VOLCANO_ACTIVE_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ACTIVE_MESSAGE">
             <Text>Núi lửa trở nên hoạt động</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_VOLCANO_ACTIVE_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ACTIVE_SUMMARY">
             <Text>{1_VolcanoName} hiện đang hoạt động. Nó có thể nổ ra bất cứ lúc nào.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_VOLCANO_INACTIVE_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_INACTIVE_MESSAGE">
             <Text>Núi lửa trở thành người ngủ yên</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_VOLCANO_INACTIVE_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_INACTIVE_SUMMARY">
             <Text>{1_VolcanoName} hiện không hoạt động. Không còn bất kỳ nguy cơ nào khi nó nổ ra.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV0_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV0_MESSAGE">
             <Text>Phun trào núi lửa nhẹ nhàng</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV0_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV0_SUMMARY">
             <Text>{1_VolcanoName} đã nổ ra. Rất may thiệt hại có vẻ là nhẹ ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} bị hư hỏng, {3_Pop} [ICON_CITIZEN] dân số bị mất, {4_Units} {4_Units: plural 1?unit; other?units;} đã bị giết, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} đã tăng sinh).</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV1_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV1_MESSAGE">
             <Text>Vụ phun trào núi lửa thảm khốc</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV1_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV1_SUMMARY">
             <Text>{1_VolcanoName} đã nổ ra. Thiệt hại nghiêm trọng trong khu vực ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} bị hư hỏng, {3_Pop} [ICON_CITIZEN] dân số bị mất, {4_Units} {4_Units: plural 1?unit; other?units;} đã bị giết, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} đã tăng sinh).</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV2_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV2_MESSAGE">
             <Text>Núi lửa Megacolossal phun trào!</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV2_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV2_SUMMARY">
             <Text>{1_VolcanoName} đã nổ ra trong một trong những vụ nổ chết người nhất mà nhân loại biết đến ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} bị hư hỏng, {3_Pop} [ICON_CITIZEN] dân số bị mất, {4_Units} {4_Units: plural 1?unit; other?units;} đã bị giết, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} đã tăng khả năng sinh sản).</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RIVER_FLOODS_SEV0_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV0_MESSAGE">
             <Text>Lũ sông</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RIVER_FLOODS_SEV0_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV0_SUMMARY">
             <Text>Sông {1_RiverName} đã ngập lụt. Rất may thiệt hại có vẻ là nhẹ ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} bị hư hỏng, {3_Pop} [ICON_CITIZEN] dân số bị mất, {4_Units} {4_Units: plural 1?unit; other?units;} đã bị giết, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} đã tăng sinh).</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RIVER_FLOODS_SEV1_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV1_MESSAGE">
             <Text>Lũ lụt lớn trên sông</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RIVER_FLOODS_SEV1_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV1_SUMMARY">
             <Text>{1_RiverName} đã bị ngập. Thiệt hại nghiêm trọng trong khu vực ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} bị hư hỏng, {3_Pop} [ICON_CITIZEN] dân số bị mất, {4_Units} {4_Units: plural 1?unit; other?units;} đã bị giết, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} đã tăng sinh).</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RIVER_FLOODS_SEV2_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV2_MESSAGE">
             <Text>Ngập lụt sông lập kỷ lục</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RIVER_FLOODS_SEV2_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV2_SUMMARY">
             <Text>{1_RiverName} đã ngập lụt và tàn phá khu vực chưa từng thấy trước đây ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} bị hư hỏng, {3_Pop} [ICON_CITIZEN] dân số bị mất, {4_Units} {4_Units: plural 1?unit; other?units;} đã bị giết, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} đã tăng khả năng sinh sản).</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RIVER_FLOOD_MITIGATED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOOD_MITIGATED_MESSAGE">
             <Text>Ngăn lũ lụt sông</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RIVER_FLOOD_MITIGATED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOOD_MITIGATED_SUMMARY">
             <Text>Mưa lớn dọc theo {1_RiverName} có thể là một vấn đề lớn. Rất may {LOC_GRAMMAR_A_AN &lt;&lt; {2_BuildingOrDistrict}} {2_BuildingOrDistrict: plural 1?was; other?were;} để kiểm soát nước dâng. ({3_Yields} {3_Yields: plural 1?tile; other?tiles;} đã tăng khả năng sinh sản)</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_STORM_ARRIVED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_ARRIVED_MESSAGE">
             <Text>Bão dữ dội!</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_STORM_ARRIVED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_ARRIVED_SUMMARY">
             <Text>Một {1_StormType} có tên {2_StormName} đã phát triển và hướng đến {3_Direction}. Cơn bão sẽ gây ra sự hủy diệt trong hai lượt tiếp theo. (Khi đến nơi, đã có {4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} bị hỏng, dân số {5_Pop} [ICON_CITIZEN] bị mất, {6_Units} {6_Units: plural 1?unit; other?units;} bị giết , {7_Yields} {7_Yields: plural 1?tile; other?tiles;} đã tăng khả năng sinh sản)</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_STORM_ARRIVED_LOSSES_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_ARRIVED_LOSSES_SUMMARY">
             <Text>Một {1_StormType} có tên {2_StormName} đã phát triển và hướng đến {3_Direction}. Cơn bão sẽ gây ra sự hủy diệt trong hai lượt tiếp theo. (Khi đến nơi, đã có {4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} bị hỏng, dân số {5_Pop} [ICON_CITIZEN] bị mất, {6_Units} {6_Units: plural 1?unit; other?units;} bị giết , {7_Yields} {7_Yields: plural 1?tile; other?tiles;} mất khả năng sinh sản)</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_STORM_MOVED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_MOVED_MESSAGE">
         <Text>Cơn thịnh nộ đang bật</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_STORM_MOVED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_MOVED_SUMMARY">
             <Text>{1_StormType} có tên {2_StormName} tiếp tục chuyển động của nó và bây giờ đang hướng đến {3_Direction}. (Trong lượt này, có {4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} bị hỏng, {5_Pop} [ICON_CITIZEN] dân số bị mất, {6_Units} {6_Units: plural 1?unit; other?units;} bị giết , {7_Yields} {7_Yields: plural 1?tile; other?tiles;} đã tăng khả năng sinh sản)</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_STORM_MOVED_LOSSES_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_MOVED_LOSSES_SUMMARY">
             <Text>{1_StormType} có tên {2_StormName} tiếp tục chuyển động của nó và bây giờ đang hướng đến {3_Direction}. (Trong lượt này, có {4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} bị hỏng, {5_Pop} [ICON_CITIZEN] dân số bị mất, {6_Units} {6_Units: plural 1?unit; other?units;} bị giết , {7_Yields} {7_Yields: plural 1?tile; other?tiles;} mất khả năng sinh sản)</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_STORM_DISSIPATED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_DISSIPATED_MESSAGE">
         <Text>Storm Peters Out</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_STORM_DISSIPATED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_DISSIPATED_SUMMARY">
             <Text>{1_StormType} có tên {2_StormName}, hiện yếu hơn, đã thực hiện bước đi cuối cùng trên bản đồ. (Trong lượt này, có {3_Tiles} {3_Tiles: plural 1?tile; other?tiles;} bị hỏng, {4_Pop} [ICON_CITIZEN] dân số bị mất, {5_Units} {5_Units: plural 1?unit; other?units;} bị giết , {6_Yields} {6_Yields: plural 1?tile; other?tiles;} đã tăng sinh)</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_STORM_DISSIPATED_LOSSES_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_DISSIPATED_LOSSES_SUMMARY">
             <Text>{1_StormType} có tên {2_StormName}, hiện yếu hơn, đã thực hiện bước đi cuối cùng trên bản đồ. (Trong lượt này, có {3_Tiles} {3_Tiles: plural 1?tile; other?tiles;} bị hỏng, {4_Pop} [ICON_CITIZEN] dân số bị mất, {5_Units} {5_Units: plural 1?unit; other?units;} bị giết , {6_Yields} {6_Yields: plural 1?tile; other?tiles;} mất khả năng sinh sản)</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_DROUGHT_ARRIVED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_MESSAGE">
             <Text>Hạn hán!</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_DROUGHT_ARRIVED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_SUMMARY">
             <Text>Một {1_DroughtType} đã xảy ra. Được đặt tên là Hạn hán {2_DroughtName}, tình trạng thiếu mưa nghiêm trọng này có thể làm hỏng các cải tiến và sẽ hạn chế sản lượng lương thực của [ICON_Food] trong các lượt {3_Duration} tiếp theo. ({4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} bị hư hỏng)</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_DROUGHT_ARRIVED_LOSSES_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_LOSSES_SUMMARY">
             <Text>Một {1_DroughtType} đã xảy ra. Được đặt tên là Hạn hán {2_DroughtName}, tình trạng thiếu mưa nghiêm trọng này có thể làm hỏng các cải tiến và sẽ hạn chế sản lượng lương thực của [ICON_Food] trong các lượt {3_Duration} tiếp theo. ({4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} bị hư hỏng, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} mất khả năng sinh sản)</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_DROUGHT_CLEARED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_DROUGHT_CLEARED_MESSAGE">
         <Text>Chào mừng lượng mưa</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_DROUGHT_CLEARED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_DROUGHT_CLEARED_SUMMARY">
             <Text>Cuối cùng cơn mưa đã đến để làm giảm bớt những đau khổ từ {1_DroughtType}. Mùa màng của chúng ta đang hồi phục và Hạn hán {2_DroughtName} hiện là một chú thích trong hồ sơ lịch sử.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_EVENT_AVOIDED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_EVENT_AVOIDED_MESSAGE">
             <Text>Đã ngăn chặn khủng hoảng</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_EVENT_AVOIDED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_EVENT_AVOIDED_SUMMARY">
             <Text>{1_RandomEvent} đã được {2_civName} tránh, tránh gây thiệt hại cho nền văn minh của họ.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RISING_SEA_LEVEL_FLOODED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_FLOODED_MESSAGE">
             <Text>Ngập lụt ven biển vĩnh viễn</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RISING_SEA_LEVEL_FLOODED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_FLOODED_SUMMARY">
             <Text>Mực nước biển đã dâng cao. Tất cả các ô đất thấp ven biển được đánh dấu là '{1_Name}' đã bị ngập vĩnh viễn.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RISING_SEA_LEVEL_SUBMERGED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUBMERGED_MESSAGE">
             <Text>Gạch ven biển bị mất</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RISING_SEA_LEVEL_SUBMERGED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUBMERGED_SUMMARY">
             <Text>Mực nước biển đã dâng cao hơn nữa. Tất cả các ô đất trũng ven biển được đánh dấu là '{1_Name}' đã bị nhấn chìm và bị chìm xuống biển.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RISING_SEA_LEVEL_SUMMARY_TEMPLATE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUMMARY_TEMPLATE">
             <Text>{1_Summary}[NEWLINE][NEWLINE]{2_LongDescription}</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_CITY_UNPOWERED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_UNPOWERED_MESSAGE">
             <Text>Thành phố không năng lượng</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_CITY_UNPOWERED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_UNPOWERED_SUMMARY">
             <Text>Các tòa nhà hoặc dự án trong {1_CityName} có thể được tăng cường bởi {2_PowerRequired} [ICON_Power] Năng lượng, nhưng thành phố chỉ có {3_PowerAvailable}. Chúng sẽ kém hiệu quả hơn cho đến khi [ICON_Power] Năng lượng được khôi phục.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_PLAYER_WMD_DISARMAMENT_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_DISARMAMENT_MESSAGE">
             <Text>Giải trừ vũ khí hạt nhân</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_PLAYER_WMD_DISARMAMENT_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_DISARMAMENT_SUMMARY">
             <Text>Do các hành động của Đại hội Thế giới, bạn đã buộc phải hủy bỏ kho vũ khí hạt nhân của mình.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_PLAYER_WMD_POSITIVE_ADJUSTMENT_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_POSITIVE_ADJUSTMENT_MESSAGE">
             <Text>Cân bằng vũ khí hạt nhân</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_PLAYER_WMD_POSITIVE_ADJUSTMENT_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_POSITIVE_ADJUSTMENT_SUMMARY">
             <Text>Do các hoạt động của Đại hội Thế giới, kho vũ khí hạt nhân của bạn đã được tăng lên để phù hợp với kho vũ khí của các nền văn minh khác.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_PLAYER_WMD_NEGATIVE_ADJUSTMENT_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_NEGATIVE_ADJUSTMENT_MESSAGE">
             <Text>Cắt giảm vũ khí</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_PLAYER_WMD_NEGATIVE_ADJUSTMENT_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_NEGATIVE_ADJUSTMENT_SUMMARY">
             <Text>Do các hành động của Đại hội thế giới, bạn buộc phải giảm kho vũ khí hạt nhân của mình để phù hợp với kho vũ khí của các nền văn minh khác.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_SPY_BREACH_DAM_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_BREACH_DAM_MESSAGE">
             <Text>Đập phá thành công</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_SPY_BREACH_DAM_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_BREACH_DAM_SUMMARY">
             <Text>Đặc vụ của bạn {1_unitName} đã thành công trong việc phá Đập ở thành phố {2_cityName}.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_SPY_ENEMY_BREACH_DAM_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_BREACH_DAM_MESSAGE">
             <Text>Đập bị gián điệp của kẻ thù</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_SPY_ENEMY_BREACH_DAM_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_BREACH_DAM_SUMMARY">
             <Text>Một Gián điệp của kẻ thù đã thành công trong việc chọc thủng Đập ở thành phố {1_cityName}.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV0_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV0_MESSAGE">
             <Text>Thông gió bằng hơi phóng xạ!</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV0_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV0_SUMMARY">
             <Text>Một nhà máy điện hạt nhân ở {1_CityName} đã gặp sự cố và buộc phải xả một lượng nhỏ hơi phóng xạ để tránh một thảm họa lớn. (Trong lượt này, có {2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} bị ảnh hưởng, dân số {3_Pop} [ICON_CITIZEN] bị mất và {4_Units} {4_Units: plural 1?unit; other?units;} bị giết.)</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_MESSAGE">
             <Text>Rò rỉ bức xạ!</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_SUMMARY">
             <Text>Một nhà máy điện hạt nhân ở {1_CityName} đã gặp sự cố lớn gây ra một vết nứt trong lò phản ứng. Một lượng lớn phóng xạ đã được giải phóng ra khu vực xung quanh. (Trong lượt này, có {2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} bị ảnh hưởng, dân số {3_Pop} [ICON_CITIZEN] bị mất và {4_Units} {4_Units: plural 1?unit; other?units;} bị giết.)</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_MESSAGE">
             <Text>Vụ nổ hạt nhân!</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_SUMMARY">
             <Text>Một nhà máy điện hạt nhân ở {1_CityName} đã gặp sự cố thảm khốc gây ra sự cố toàn bộ lò phản ứng. Một lượng phóng xạ gây chết người đã được giải phóng vào khu vực xung quanh. (Trong lượt này, có {2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} bị ảnh hưởng, dân số {3_Pop} [ICON_CITIZEN] bị mất và {4_Units} {4_Units: plural 1?unit; other?units;} bị giết.)</Text>
         </Replace>
         <!--DIPLOMACY-->
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
             <Text>Lời hứa của {1_CivName} với {2_PromiseType} đã bị phá vỡ (100 [ICON_STAT_GRIEVANCE] Đã tạo ra lời than phiền).</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
             <Text>Lời hứa của bạn với {1_CivName} đối với {2_PromiseType} đã bị phá vỡ (100 [ICON_STAT_GRIEVANCE] Đã tạo ra lời than phiền).</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_DIPLO_NO_PROMISE_FROM_BUT_REPEATED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_FROM_BUT_REPEATED_MESSAGE">
             <Text>Khiếu kiện bổ sung chống lại đối thủ</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_DIPLO_NO_PROMISE_FROM_BUT_REPEATED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_FROM_BUT_REPEATED_SUMMARY">
             <Text>Bạn đã yêu cầu một lời hứa từ {1_CivName} đến {2_PromiseType} và họ đã từ chối. Trên thực tế, họ đã tiếp tục làm điều này, thêm 25 [ICON_STAT_GRIEVANCE] Khiếu nại chống lại họ.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_DIPLO_NO_PROMISE_TO_BUT_REPEATED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_TO_BUT_REPEATED_MESSAGE">
             <Text>Khiếu kiện bổ sung chống lại bạn</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_DIPLO_NO_PROMISE_TO_BUT_REPEATED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_TO_BUT_REPEATED_SUMMARY">
             <Text>{1_CivName} đã yêu cầu bạn hứa với {2_PromiseType} và bạn đã từ chối. Trên thực tế, bạn đã tiếp tục làm điều này, thêm 25 [ICON_STAT_GRIEVANCE] Khiếu nại chống lại bạn.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_BLOCKING_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_BLOCKING_MESSAGE">
             <Text>Đại hội thế giới sắp họp</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_BLOCKING_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_BLOCKING_SUMMARY">
             <Text>Ai đó đã kêu gọi một Phiên họp Đặc biệt của Đại hội Thế giới. Vui lòng chọn nội dung bạn muốn thảo luận (nếu có) tại phiên này. Nó sẽ bắt đầu vào cuối lượt này.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_NON_BLOCKING_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_NON_BLOCKING_MESSAGE">
             <Text>Đại hội thế giới sắp họp</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_NON_BLOCKING_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_NON_BLOCKING_SUMMARY">
             <Text>Ai đó đã kêu gọi một Phiên họp Đặc biệt của Đại hội Thế giới. Nó sẽ bắt đầu vào cuối lượt này.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_CAN_BE_CALLED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_CAN_BE_CALLED_MESSAGE">
             <Text>Các cuộc thảo luận có sẵn cho đề xuất</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_CAN_BE_CALLED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_CAN_BE_CALLED_SUMMARY">
             <Text>Giờ đây, bạn có thể tổ chức Phiên họp Đặc biệt của Đại hội Thế giới.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_WORLD_CONGRESS_EMERGENCY_CAN_BE_CALLED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_EMERGENCY_CAN_BE_CALLED_MESSAGE">
             <Text>Có sẵn thảo luận mới cho đề xuất</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_WORLD_CONGRESS_EMERGENCY_CAN_BE_CALLED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_EMERGENCY_CAN_BE_CALLED_SUMMARY">
             <Text>Do các sự kiện thế giới gần đây, bạn hiện có những mối quan tâm mới cần thu hút sự chú ý của Đại hội thế giới trong một Phiên họp đặc biệt.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_GRIEVANCES_AGAINST_YOU_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_GRIEVANCES_AGAINST_YOU_MESSAGE">
             <Text>Khiếu nại chống lại bạn</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_GRIEVANCES_AGAINST_YOU_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_GRIEVANCES_AGAINST_YOU_SUMMARY">
             <Text>{1_DecightsCivName} đã tuyên chiến với {2_TargetCivName}, một trong những người bạn hoặc đồng minh của bạn. Bạn hiện có {3_NumGrievances} mới [ICON_STAT_GRIEVANCE] Khiếu nại họ.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_MESSAGE">
             <Text>Thành phố của bạn được giải phóng</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_SUMMARY">
             <Text>Công dân của bạn trong {1_CityName} vui mừng vì sự giải phóng của họ. Họ đang gia nhập lại đế chế của bạn nhờ vào hành động cao cả này với sự hỗ trợ của {2_LiberatingLeader}.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_SCORED_COMPETITION_BEGUN_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_SCORED_COMPETITION_BEGUN_MESSAGE">
             <Text>Bắt đầu cuộc thi cho điểm</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_SCORED_COMPETITION_BEGUN_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_SCORED_COMPETITION_BEGUN_SUMMARY">
             <Text>Theo quyết định của Đại hội Thế giới, Cuộc thi cho điểm {1_CompetitionName} đã bắt đầu.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_REQUEST_FOR_AID_BEGUN_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_REQUEST_FOR_AID_BEGUN_SUMMARY">
             <Text>Để hỗ trợ {1_CivName} trong thời điểm họ cần, Cuộc thi cho điểm yêu cầu viện trợ đã bắt đầu.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_SCORED_COMPETITION_OVER_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_SCORED_COMPETITION_OVER_MESSAGE">
             <Text>Cuộc thi đã chấm điểm đã hoàn thành</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_SCORED_COMPETITION_OVER_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_SCORED_COMPETITION_OVER_SUMMARY">
             <Text>Cuộc thi cho điểm {1_CompetitionName} đã kết thúc. Phần thưởng đã được trao cho những người tham gia.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RECEIVED_AID_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RECEIVED_AID_MESSAGE">
             <Text>Đã nhận viện trợ</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_RECEIVED_AID_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_RECEIVED_AID_SUMMARY">
             <Text>{1_PlayerName} đã gửi cho bạn {2_Amount} [ICON_Gold] Vàng dưới dạng Viện trợ.</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_ROCK_BANDS_PROHIBITED_MESSAGE">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_ROCK_BANDS_PROHIBITED_MESSAGE">
             <Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt;  {1_leader}} Kiểm duyệt nhạc Rock</Text>
         </Replace>
-        <Replace Language='en_US' Tag = "LOC_NOTIFICATION_ROCK_BANDS_PROHIBITED_SUMMARY">
+        <Replace Language='en_US' Tag="LOC_NOTIFICATION_ROCK_BANDS_PROHIBITED_SUMMARY">
             <Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt;  {1_leader}} {1_leader: plural 1?is; other?are;} hiện đang cấm các buổi hòa nhạc rock. Các ban nhạc Rock của bạn bên trong đế chế của họ đã được chuyển đến một ô ngay bên ngoài vùng đất của họ.</Text>
         </Replace>
 	</LocalizedText>

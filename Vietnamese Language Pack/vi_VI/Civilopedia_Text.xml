@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<LocalizedText>
-
-
 		<!-- Sections -->
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_TITLE">
 			<Text>Các khái niệm</Text>
@@ -55,7 +53,6 @@
 		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_TITLE">
 			<Text>Công trình và tuyến đường</Text>
 		</Replace>
-
 		<!-- Common page text -->
 		<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_INTRO_TITLE">
 			<Text>Giới thiệu</Text>
@@ -75,12 +72,10 @@
 		<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_DETAILED_TITLE">
 			<Text>Hướng phát triển</Text>
 		</Replace>
-
     	<!-- Common chapter header -->
     	<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_INTRO_TITLE">
       		<Text>Giới thiệu</Text>
    		 </Replace>
-
     	<!-- Page group text>-->
 		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CULTURAL_NAME">
 			<Text>Văn hóa</Text>
@@ -100,8 +95,6 @@
 		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_TRADE_NAME">
 			<Text>Thương mại</Text>
 		</Replace>
-
-
 		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGEGROUP_TERRAINS_NAME">
 			<Text>Địa hình</Text>
 		</Replace>
@@ -111,7 +104,6 @@
 		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGEGROUP_NATURAL_WONDERS_NAME">
 			<Text>Kỳ quan thiên nhiên</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOVERNMENTS_NAME">
 			<Text>Chính phủ</Text>
 		</Replace>
@@ -130,14 +122,12 @@
 		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_WILDCARD_POLICIES_NAME">
 			<Text>Chính sách bất ngờ</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_IMPROVEMENTS_NAME">
 			<Text>Công trình</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_ROUTES_NAME">
 			<Text>Đường</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_RELIGIONS_NAME">
 			<Text>Lịch sử tôn giáo</Text>
 		</Replace>
@@ -156,7 +146,6 @@
 		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_ENHANCER_BELIEFS_NAME">
 			<Text>Tín ngưỡng nâng cao</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_BONUS_NAME">
 			<Text>Thưởng</Text>
 		</Replace>
@@ -169,7 +158,6 @@
 		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_ARTIFACT_NAME">
 			<Text>Cổ vật</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGEGROUP_WONDERS_NAME">
 			<Text>Kỳ quan</Text>
 		</Replace>

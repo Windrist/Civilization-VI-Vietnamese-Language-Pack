@@ -4,7 +4,6 @@
 		<Replace Language='en_US' Tag="LOC_AUTONARRATE_BUTTON_DONE">
 			<Text>Xong</Text>
 		</Replace>
-		
 		<Replace Language='en_US' Tag="LOC_AUTONARRATE_CITY_FOUNDED">
 			<Text>Một thành phố đã được thành lập bởi {1_CivName}.</Text>
 		</Replace>

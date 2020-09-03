@@ -2,106 +2,106 @@
 <GameData>
 	<LocalizedText>
 		<!--Improvements-->
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
 		    <Text>Mở khóa khả năng Người xây dựng để xây dựng một Lâu đài, duy nhất của Pháp.[NEWLINE][NEWLINE]+2 [ICON_Culture] Culture. Kháng nghị +1. +2 [ICON_Culture] Văn hóa nếu ở bên cạnh một kỳ quan. +1 [ICON_Gold] Vàng nếu bên cạnh tài nguyên Xa xỉ. Chỉ có thể được xây dựng tiếp giáp với Sông, kể cả trên Vùng ngập lũ.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
 		    <Text>Mở khóa khả năng Builder để tạo ra một Ziggurat, duy nhất cho Sumeria.[NEWLINE][NEWLINE]+2 [ICON_Science] Khoa học. +1 [ICON_Culture] Văn hóa nếu bên cạnh River. Không thể xây trên Đồi nhưng có thể xây trên Vùng ngập.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_GEOTHERMAL_PLANT_NAME">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_GEOTHERMAL_PLANT_NAME">
 		    <Text>Nhà máy địa nhiệt</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_GEOTHERMAL_PLANT_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_GEOTHERMAL_PLANT_DESCRIPTION">
 		    <Text>Mở khóa khả năng Người xây dựng để xây dựng Nhà máy địa nhiệt.[NEWLINE][NEWLINE]+1 [ICON_Science] Khoa học. +2 [ICON_Production] Sản xuất. Cung cấp 4 [ICON_Power] Năng lượng mỗi lượt. Phải được xây dựng trên Khe nứt địa nhiệt.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_SOLAR_FARM_NAME">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SOLAR_FARM_NAME">
 		    <Text>Trang trại năng lượng mặt trời</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_SOLAR_FARM_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SOLAR_FARM_DESCRIPTION">
 		    <Text>Mở khóa khả năng xây dựng Trang trại Mặt trời của Người xây dựng.[NEWLINE][NEWLINE]+1 [ICON_Gold] Vàng. +1 [ICON_Production] Sản xuất. Cung cấp 2 [ICON_Power] Năng lượng mỗi lượt. Phải xây dựng trên địa hình bằng phẳng. Không thể xây dựng trên Tuyết.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_WIND_FARM_NAME">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_WIND_FARM_NAME">
 		    <Text>Trang trại gió</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_WIND_FARM_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_WIND_FARM_DESCRIPTION">
 		    <Text>Mở khóa khả năng Người xây dựng để xây dựng Trang trại gió.[NEWLINE][NEWLINE]+2 [ICON_Gold] Vàng. +1 [ICON_Production] Sản xuất. Cung cấp 2 [ICON_Power] Năng lượng mỗi lượt. Phải được xây dựng trên địa hình Đồi.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_NAME">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_NAME">
 		    <Text>Trang trại gió ngoài khơi</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_DESCRIPTION">
 		    <Text>Mở khóa khả năng Builder để xây dựng Trang trại gió ngoài khơi.[NEWLINE][NEWLINE]+2 [ICON_Production] Sản xuất. Cung cấp 2 [ICON_Power] Năng lượng mỗi lượt. Phải được xây dựng trên địa hình Bờ biển hoặc Hồ.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_SEASTEAD_NAME">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SEASTEAD_NAME">
 		    <Text>Seastead</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_SEASTEAD_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SEASTEAD_DESCRIPTION">
 		    <Text>Mở khóa khả năng Builder để tạo ra Seastead.[NEWLINE][NEWLINE]+2 [ICON_FOOD] Thức ăn. +1 [ICON_Production] Sản xuất cho mỗi Thuyền đánh cá liền kề. Thuyền đánh cá nhận được +1 [ICON_Production] Sản xuất cho mỗi Seastead liền kề. +1 [ICON_Culture] Văn hóa và [ICON_Tourism] Du lịch cho mỗi Rạn san hô liền kề. +2 [ICON_HOUSING] Nhà ở. Phải được xây dựng trên địa hình Bờ biển, Hồ hoặc Đại dương. Không thể đặt liền kề với Seastead khác.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_MOAI_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MOAI_DESCRIPTION">
 		    <Text>Mở khóa khả năng xây dựng Moai của Builder.[NEWLINE][NEWLINE]+1 [ICON_Culture] Văn hóa. +1 [ICON_Culture] Văn hóa cho mỗi 2 Moai liền kề. +2 [ICON_Culture] Nuôi cấy nếu trên hoặc liền kề với ô Đất núi lửa. +1 [ICON_Culture] Văn hóa nếu tiếp giáp với ô Bờ biển hoặc Hồ. Văn hóa [ICON_Culture] và Du lịch [ICON_Tourism] bổ sung khi bạn tiến bộ qua Cây công nghệ và công nghệ. Có thể được xây dựng trên Bình nguyên, Đồi bình nguyên, Đồng cỏ, Đồi đồng cỏ hoặc Đất núi lửa. Không thể đặt liền kề với ô Rừng hoặc Rừng nhiệt đới.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_MOUND_NAME">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MOUND_NAME">
 		    <Text>Cahokia Mounds</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_MOUND_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MOUND_DESCRIPTION">
 		    <Text>Mở khóa khả năng Builder để tạo ra các gò Cahokia.[NEWLINE][NEWLINE]+3 [ICON_GOLD] Vàng. Các thành phố nhận được +1 [ICON_AMENITIES] Tiện ích từ việc cải tiến Cahokia Mound đầu tiên của họ. Sau khi khám phá Lịch sử tự nhiên, các thành phố nhận được +1 [ICON_AMENITIES] Tiện ích từ việc cải thiện Cahokia Mound thứ hai của họ. +1 [ICON_FOOD] Thức ăn cho mỗi 2 Quận liền kề sau khi Chế độ phong kiến ​​được phát hiện hoặc cho mọi Quận lân cận sau khi Bộ phận có thể thay thế được nghiên cứu. Cung cấp +1 [ICON_HOUSING] Nhà ở. Nhận thêm [ICON_HOUSING] Nhà ở sau khi Di sản Văn hóa được phát hiện. Không thể xây dựng liền kề với các gò Cahokia khác.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_NAZCA_LINE_NAME">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_NAZCA_LINE_NAME">
 		    <Text>Đường Nazca</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_NAZCA_LINE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_NAZCA_LINE_DESCRIPTION">
 		    <Text>Mở khóa khả năng Builder để xây dựng Đường Nazca.[NEWLINE][NEWLINE]+1 [ICON_Faith] Niềm tin vào các ô liền kề. +1 [ICON_Faith] Niềm tin vào các ô liền kề với một tài nguyên. +1 [ICON_FOOD] Thức ăn cho các ô Sa mạc và Đồi sa mạc liền kề sau khi khám phá Dịch vụ dân sự. +1 [ICON_PRODUCTION] Sản xuất ô phẳng liền kề sau khi nghiên cứu Sản xuất hàng loạt. Kháng nghị +1. Chỉ có thể được xây dựng trên Sa mạc bằng phẳng. Ô này không thể hoạt động được.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_MOAI_NAME">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MOAI_NAME">
 		    <Text>Moai</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_SKI_RESORT_NAME">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SKI_RESORT_NAME">
 		    <Text>Khu nghỉ dưỡng trượt tuyết</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_SKI_RESORT_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SKI_RESORT_DESCRIPTION">
 		    <Text>Mở khóa khả năng xây dựng Khu nghỉ dưỡng trượt tuyết cho Người xây dựng.[NEWLINE][NEWLINE]Cung cấp cho [ICON_Tourism] Du lịch ngang bằng với sự hấp dẫn của ô. Cung cấp [ICON_AMENITIES] Tiện ích. Chỉ có thể được xây dựng trên một ngọn núi. Không thể được xây dựng liền kề với Khu trượt tuyết khác. Không thể bị cướp bóc, làm việc hoặc loại bỏ.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_NAME">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_NAME">
 		    <Text>Đường hầm trên núi</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_DESCRIPTION">
 		    <Text>Mở khóa khả năng xây dựng Đường hầm trên núi của Kỹ sư quân sự.[NEWLINE][NEWLINE]Hoạt động như một cổng di chuyển trên một dãy núi, cho phép các đơn vị di chuyển vào đó và thoát ra khỏi cổng khác với chi phí là 2 [ICON_Movement] Di chuyển . [ICON_TradeRoute] Các tuyến đường thương mại di chuyển qua đó có thể nhân lên [ICON_Gold] Vàng mà họ nhận được từ các quận tại điểm đến. Chỉ có thể được xây dựng trên một ô Núi liền kề. Không thể bị cướp bóc hoặc loại bỏ.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_GOODYHUT_DIPLOMACY_GOVERNOR_TITLE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_DIPLOMACY_GOVERNOR_TITLE_DESCRIPTION">
 		    <Text>[COLOR_FLOAT_DIPLOMATIC] +1 [ICON_Governor] Chức danh thống đốc [ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_GOODYHUT_DIPLOMACY_ENVOY_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_GOODYHUT_DIPLOMACY_ENVOY_DESCRIPTION">
 		    <Text>[COLOR_FLOAT_DIPLOMATIC] + {1_Num} [ICON_Envoy] Phái viên [ENDCOLOR]</Text>
 		</Replace>
-		<Tag Tag = "LOC_IMPROVEMENT_MOUND_DESCRIPTION">
+		<Tag Tag="LOC_IMPROVEMENT_MOUND_DESCRIPTION">
 		    <Text>Mở khóa Builder có thể để tạo gò Cahokia.[NEWLINE][NEWLINE]+3 [ICON_GOLD] Vàng. Các thành phố nhận được +1 [ICON_AMENITIES] Tiện ích từ việc cải tiến Cahokia Mound đầu tiên của họ. Sau khi khám phá Lịch sử tự nhiên, các thành phố nhận được +1 [ICON_AMENITIES] Tiện ích từ việc cải thiện Cahokia Mound thứ hai của họ. +1 [ICON_FOOD] Thức ăn cho mỗi 2 Quận liền kề khi Chế độ kiến ​​trúc được phát hiện hoặc cho mọi Quận lân cận khi Bộ phận có thể thay thế được nghiên cứu. Cung cấp +1 [ICON_HOUSING] Nhà ở. Đã nhận thêm [ICON_HOUSING] Nhà ở sau khi Di sản Văn hóa được phát hiện. Không thể xây liền kề với các gò khác của Cahokia.</Text>
 		</Replace>
-		<Tag Tag = "LOC_IMPROVEMENT_NAZCA_LINE_NAME">
+		<Tag Tag="LOC_IMPROVEMENT_NAZCA_LINE_NAME">
 		    <Text>Đường Nazca</Text>
 		</Replace>
-		<Tag Tag = "LOC_IMPROVEMENT_NAZCA_LINE_DESCRIPTION">
+		<Tag Tag="LOC_IMPROVEMENT_NAZCA_LINE_DESCRIPTION">
 		    <Text>Mở khóa Builder để xây dựng Đường Nazca.[NEWLINE][NEWLINE]+1 [ICON_Faith] Niềm tin vào các ô kề. +1 [ICON_Faith] Niềm tin vào các ô liền kề với một tài nguyên. +1 [ICON_FOOD] Thức ăn cho các sa mạc và sa mạc liền kề khi khám phá Dịch vụ dân sự. +1 [ICON_PRODUCTION] Sản xuất ô liền kề khi nghiên cứu sản xuất hàng loạt. Kháng nghị +1. Only can be built on Sa mạc bằng phẳng. This ô could not be active.</Text>
 		</Replace>
-		<Tag Tag = "LOC_IMPROVEMENT_MOAI_NAME">
+		<Tag Tag="LOC_IMPROVEMENT_MOAI_NAME">
 		    <Text>Moai</Text>
 		</Replace>
-		<Tag Tag = "LOC_IMPROVEMENT_SKI_RESORT_NAME">
+		<Tag Tag="LOC_IMPROVEMENT_SKI_RESORT_NAME">
 		    <Text>Khu nghỉ dưỡng tuyết trượt</Text>
 		</Replace>
-		<Tag Tag = "LOC_IMPROVEMENT_SKI_RESORT_DESCRIPTION">
+		<Tag Tag="LOC_IMPROVEMENT_SKI_RESORT_DESCRIPTION">
 		    <Text>Open the build keyable Khu nghỉ dưỡng cho người xây dựng.[NEWLINE][NEWLINE]Cung cấp cho [ICON_Tourism] Du lịch ngang với ô hấp dẫn. Cung cấp [ICON_AMENITIES] Tiện ích. Only can be built on a ngọn núi. Cannot be build liền kề với các slide khác. Cannot was robet, work or remove.</Text>
 		</Replace>
-		<Tag Tag = "LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_NAME">
+		<Tag Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_NAME">
 		    <Text>Đường hầm trên núi</Text>
 		</Replace>
-		<Tag Tag = "LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_DESCRIPTION">
+		<Tag Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_DESCRIPTION">
 		    <Text>Mở hầm xây dựng khóa trên núi của Kỹ sư quân sự.[NEWLINE][NEWLINE]Hoạt động như một cổng chuyển trên một dãy núi, cho phép các đơn vị chuyển vào đó và thoát ra khỏi cổng khác với chi phí là 2 [ICON_Movement] Di chuyển. [ICON_TradeRoute] Tuyến đường thương mại di chuyển qua đó có thể nhân lên [ICON_Gold] Vàng mà họ nhận được từ các quận tại điểm đến. There is only be built on a Núi liền kề. Can not be robet hay remove.</Text>
 		</Replace>
-		<Tag Tag = "LOC_GOODYHUT_DIPLOMACY_GOVERNOR_TITLE_DESCRIPTION">
+		<Tag Tag="LOC_GOODYHUT_DIPLOMACY_GOVERNOR_TITLE_DESCRIPTION">
 		    <Text>[COLOR_FLOAT_DIPLOMATIC] +1 [ICON_Governor] Chức danh giám đốc [ENDCOLOR]</Text>
 		</Replace>
-		<Tag Tag = "LOC_GOODYHUT_DIPLOMACY_ENVOY_DESCRIPTION">
+		<Tag Tag="LOC_GOODYHUT_DIPLOMACY_ENVOY_DESCRIPTION">
 		    <Text>[COLOR_FLOAT_DIPLOMATIC] + {1_Num} [ICON_Envoy] Phái viên [ENDCOLOR]</Text>
 		</Replace>
 	</LocalizedText>

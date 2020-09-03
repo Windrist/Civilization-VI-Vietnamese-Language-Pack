@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<BaseGameText>
+	<LocalizedText>
 		<!-- Human Declares War -->
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_DIDO_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_DIDO_ANY">
 		    <Text>Chiến tranh? Bạn có phải là một kẻ ngốc? Các thành phố của bạn sẽ phải chịu số phận của Epirus và Saguntum.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELEANOR_ENGLAND_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELEANOR_ENGLAND_ANY">
 		    <Text>Tôi rất tiếc vì bây giờ chúng ta phải gây chiến với nhau — nhưng tôi chỉ tiếc một chút thôi.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELEANOR_FRANCE_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELEANOR_FRANCE_ANY">
 		    <Text>Tôi rất tiếc vì bây giờ chúng ta phải gây chiến với nhau — nhưng tôi chỉ tiếc một chút thôi.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KRISTINA_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KRISTINA_ANY">
 		    <Text>Thụy Điển sẽ trừng phạt những kẻ đe dọa thế giới. Chuẩn bị tinh thần cho chiến tranh.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KUPE_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KUPE_ANY">
 		    <Text>Hãy nhìn thủ lĩnh dân sự lớn ở đó với lời tuyên chiến! Làm tốt lắm, anh bạn. Thực sự cho thấy bạn chăm chỉ như thế nào.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LAURIER_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LAURIER_ANY">
 		    <Text>Vì chúng tôi không thể đạt được giải pháp hòa bình nào với bạn, Canada phải chuyển sang chiến tranh, với sự miễn cưỡng.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MANSA_MUSA_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MANSA_MUSA_ANY">
 		    <Text>Đủ rồi! Nhẫn của tôi kết thúc ở đây! Giữa chúng ta phải có chiến tranh, thay vì một nền hòa bình giả tạo.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MATTHIAS_CORVINUS_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MATTHIAS_CORVINUS_ANY">
 		    <Text>Chắc chắn bạn phải biết rằng một ngày nào đó sẽ có chiến tranh giữa chúng ta.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PACHACUTI_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PACHACUTI_ANY">
 		    <Text>Bây giờ là thời gian cho chiến tranh. Nghe dấu ấn của các chiến binh của chúng ta — những chiến binh với trái tim của puma.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SULEIMAN_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SULEIMAN_ANY">
 		    <Text>Tốt. Thế giới sẽ chứng kiến ​​sức mạnh không thể kiểm soát của quân đội của tôi và vinh quang của Đế chế.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_DIDO_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_DIDO_ANY">
 		    <Text>Bây giờ chúng ta có chiến tranh giữa chúng ta. Nhìn ra biển — chân trời đã đông đúc với những cánh buồm của các đội tàu của tôi.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELEANOR_ENGLAND_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELEANOR_ENGLAND_ANY">
 		    <Text>Tôi thấy những vùng đất yếu, do một kẻ thống trị yếu kém lãnh đạo. Bạn thấy quân đội của tôi đang ồ ạt lật đổ bạn.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELEANOR_FRANCE_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELEANOR_FRANCE_ANY">
 		    <Text>Tôi thấy những vùng đất yếu, do một kẻ thống trị yếu kém lãnh đạo. Bạn thấy quân đội của tôi đang ồ ạt lật đổ bạn.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KRISTINA_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KRISTINA_ANY">
 		    <Text>Thụy Điển sẽ làm phần việc của mình để đẩy lùi những tệ nạn trên thế giới. Nghệ thuật là một cách để làm điều này — chiến tranh với bạn là một cách khác.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KUPE_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KUPE_ANY">
 		    <Text>Bạn chọn cái chết! Người của bạn than vãn và rên rỉ! Các cột nhà của bạn rung chuyển, tất cả các vùng đất của bạn đang rung chuyển!</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LAURIER_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LAURIER_ANY">
 		    <Text>Vì một căn bệnh ác tính không rõ ràng xác định mối quan hệ của bạn với Canada, chúng tôi không có biện pháp nào khác ngoài chiến tranh.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MANSA_MUSA_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MANSA_MUSA_ANY">
 		    <Text>Sự vi phạm của bạn sâu như đại dương. Lạy Chúa, xin ban cho tôi có thể trừng phạt kẻ này!</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MATTHIAS_CORVINUS_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MATTHIAS_CORVINUS_ANY">
 		    <Text>Sự xấc xược của bạn đã kích động cuộc chiến này, và tôi sẽ rất vui khi được dẫn dắt Đội quân Áo đen chiến thắng bạn.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PACHACUTI_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PACHACUTI_ANY">
 		    <Text>Hãy để có chiến tranh giữa chúng ta! Tôi sẽ giành giật vùng đất của bạn và thống trị thần dân của bạn bằng sức mạnh.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SULEIMAN_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SULEIMAN_ANY">
 		    <Text>Việc bạn tiếp tục xấc xược và không nhận ra sự ưu việt của tôi đã dẫn chúng ta đến chiến tranh.</Text>
 		</Replace>
-	</BaseGameText>
+	</LocalizedText>
 </GameData>

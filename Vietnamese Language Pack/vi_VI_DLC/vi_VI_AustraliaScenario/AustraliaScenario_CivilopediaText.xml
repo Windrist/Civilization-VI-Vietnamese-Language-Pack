@@ -6,167 +6,164 @@
       <Where Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_BARRIER_REEF_CHAPTER_HISTORY_PARA_1" />
       <Set Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_BARRIER_REEF_EXTENDED_CHAPTER_HISTORY_PARA_1" />
     </Update>
-  
-  
-	
-		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SYDNEY_CHAPTER_HISTORY_PARA_1">
-			<Text>Vị trí thuộc địa của Anh ở miền đông nước Úc lần đầu tiên bén rễ với sự thành lập của Sydney vào năm 1788. Từ khởi đầu khiêm tốn của nó như một thuộc địa hình sự cho đến khi chuyển đổi thành một xã hội tự do, New South Wales luôn (hoặc cảm thấy cần phải có) đi đầu về các vấn đề của Úc.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SYDNEY_CHAPTER_HISTORY_PARA_2">
-			<Text>Việc phát hiện ra vàng vào năm 1851 đã làm cho New South Wales trở nên hùng mạnh về mặt kinh tế cũng như về mặt chính trị. Khi Australia chuyển đổi từ thuộc địa sang Khối thịnh vượng chung, sự cạnh tranh giữa New South Wales và Victoria về thủ đô quốc gia đã dẫn đến sự thỏa hiệp: thành phố Canberra sẽ được xây dựng tại một khu vực trống giữa Sydney và Melbourne, sau đó bị hầu hết người Australia bỏ qua ngay.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_QUEENSLAND_CHAPTER_HISTORY_PARA_1">
-			<Text>Phần đông bắc tươi tốt của Úc được biết đến với vẻ đẹp tự nhiên và — theo những người Úc không đến từ Queensland — những trái chuối thẳng không tự nhiên mà cần phải uốn cong trước khi xuất khẩu. (Phản ứng lựa chọn của người dân Queensland quá nhiều màu sắc để chia sẻ ở đây.) Nơi đây từng có dân số thổ dân lớn nhất ở Úc, nhưng điều này đã thay đổi với sự xuất hiện của thực dân Anh, dịch bệnh của họ và hàng loạt cuộc xung đột đẫm máu vào đầu thế kỷ 19.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_QUEENSLAND_CHAPTER_HISTORY_PARA_2">
-			<Text>Khi Queensland tách khỏi New South Wales để trở thành thuộc địa Crown của riêng mình vào năm 1859, Brisbane - ban đầu được thành lập như một thuộc địa hình sự vào năm 1824 - đã may mắn được chọn làm thủ đô của nó. Điều này đặc biệt chứng minh với việc phát hiện ra vàng ở Queensland, dẫn đến nhiều cuộc đổ xô tìm vàng trong nửa sau của thế kỷ 19. Ngoài nhiều công viên quốc gia, rạn san hô Great Barrier Reef có thể được tìm thấy dọc theo hầu hết bờ biển phía đông của Queensland.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_1">
-			<Text>Toàn bộ phần ba phía tây của lục địa Úc bao gồm Tây Úc được đặt tên phù hợp, được gọi như vậy vì “Cảnh quan địa ngục bị thổi bay (và Perth)” quá nguy hiểm đối với bản đồ Thế kỷ 19. Người Tây Úc được đặt biệt danh theo tên một loài châu chấu đào hang đặc biệt kiên cường được gọi là sandgroper, đây là một sự tôn vinh cho sự kiên trì của họ hoặc một cách tế nhị để nói rằng họ đang chúi đầu vào đất.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_2">
-			<Text>Khu định cư Perth được thành lập vào năm 1829 và nhanh chóng trở thành thủ phủ của Tây Úc. Nằm ở góc tây nam ôn đới, nơi đại đa số người Tây Úc sẽ đến cư trú, Perth bị cô lập đến mức có thể mất một tuần để đến Melbourne bằng đường biển.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_3">
-			<Text>Tây Úc được biết đến với Vùng hẻo lánh rộng lớn và hoang vắng, nơi tốt nhất là dân cư thưa thớt. Hầu hết người dân Tây Úc sống bám biển — và với rất nhiều bờ biển để khai thác, đánh bắt cá luôn là một phần quan trọng trong nền kinh tế của thuộc địa.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_1">
-			<Text>Khu vực đông nam ôn đới chủ yếu của Úc từ lâu đã nổi tiếng là một bang vườn. Mặc dù sản xuất bắp cải quanh năm, nhưng không phải người dân Victoria nào cũng có trách nhiệm tự bảo quản cải bắp của mình.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_2">
-			<Text>Melbourne được thành lập bởi John Batman vào năm 1835. Đây không phải là khu định cư đầu tiên trong khu vực, nhưng nó đã phát triển đủ quan trọng để được đặt tên là thủ đô vào năm 1851, khi thuộc địa mới của Crown là Victoria tách khỏi New South Wales. Chúc may mắn cho những người Victoria đã phát hiện ra một lượng vàng khổng lồ cùng năm đó, khởi động một cơn sốt tìm vàng sẽ mang lại nhiều bộ mặt tươi mới cho thuộc địa của họ.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_3">
-			<Text>Những người không gặp may mắn khi đào hoặc khai thác vẫn đang sống trong một khí hậu ôn hòa (đối với Úc) xung quanh những người giàu có, cho phép họ khai thác vàng trực tiếp thông qua các dịch vụ hoặc trại đầu lâu. Ngoại trừ cuộc khủng hoảng kinh tế đặc biệt đau đớn vào năm 1893, vận may của Victoria vẫn duy trì.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_1">
-			<Text>Khu vực trung tâm phía nam của Úc bao gồm đất ven biển ôn đới, ít bụi rậm ôn đới và vùng hẻo lánh. Mặc dù nổi tiếng thuộc địa về việc tiêu thụ quạ khi không có thức ăn khác, nhưng đây là một huyền thoại - những người thực dân Nam Úc đói ăn bị mắc kẹt với những con vẹt và vẹt đuôi dài ngon hơn nhiều.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_2">
-			<Text>Nam Úc là thuộc địa duy nhất được tạo ra bởi một đạo luật của Quốc hội Anh. Được thiết kế một cách có chủ ý như một thuộc địa tự do cấm lao động hình sự, nó chào đón những người nhập cư nghèo muốn bắt đầu lại cuộc sống, nhấn mạnh vào các nguyên tắc tự do tôn giáo và đảm bảo quyền đất đai cho thổ dân. Từ khi thành lập năm 1836 ở Adelaide, thuộc địa chủ yếu tuân theo các nguyên tắc của nó.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_3">
-			<Text>Các trạm hẻo lánh nuôi cừu khắp Nam Úc. Mặc dù không bao giờ có cơn sốt vàng thực sự ở thuộc địa, nhưng những cánh đồng lúa mì rộng lớn của nó sẽ hỗ trợ phần lớn nước Úc vào cuối thế kỷ 19.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_AERIAL_SERVICES_CHAPTER_HISTORY_PARA_1">
-			<Text>Sự ra đời của radio và máy bay đã thay đổi cuộc sống cho những khu định cư xa xôi ở Úc. Giáo dục và chăm sóc y tế đột nhiên khả thi đối với những cư dân vùng hẻo lánh, những người trước đây phải tự lo cho mình. Mặc dù nhà của họ ở rất xa, nhưng những đổi mới tiên tiến của thế kỷ 20 đã mang những người Úc xa xôi đến gần nhau hơn.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_CROWN_COLONY_CHAPTER_HISTORY_PARA_1">
-			<Text>Vào giữa thế kỷ 19, lục địa Úc không còn là một tập hợp các trại tù xa xôi đầy bệnh kiết lỵ và các mối nguy hiểm khác, mà thay vào đó là một vùng đất xa xôi đầy quyến rũ, nơi người ta có thể bắt đầu lại một lần nữa và (có lẽ) làm giàu. Mặc dù tự quản ở một mức độ nào đó, họ vẫn không thể phủ nhận là người Anh.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_CRUISE_LINES_CHAPTER_HISTORY_PARA_1">
-			<Text>Trong nửa đầu thế kỷ 20, du lịch biển là cách an toàn và đáng tin cậy duy nhất để đến Úc. Khi Khối thịnh vượng chung Úc mới thành lập đã chi tiền liên bang cho các công viên quốc gia, các chuyến tàu chở khách của Úc đã đưa mọi người trải nghiệm sự huy hoàng của chúng và giúp ngành du lịch Antipodean trở nên khả thi.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_FEDERATION_CHAPTER_HISTORY_PARA_1">
-			<Text>Khối thịnh vượng chung Australia hình thành vào buổi bình minh của thế kỷ 20. Người Úc có được bản sắc dân tộc, chính sách thuế quan ít nhầm lẫn hơn và các thể chế chính phủ thiết yếu (Nghị viện và Tòa án tối cao). Họ cũng giành được Canberra, một thủ đô quốc gia được thiết kế một phần để giữ cho Melbourne và Sydney không tranh cãi về đặc quyền.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_GOLD_RUSH_CHAPTER_HISTORY_PARA_1">
-			<Text>Đến năm 1851, vận may giành được ở các mỏ vàng California đã được cả thế giới biết đến. Khi Edward Hargraves và John Lister phát hiện ra một lượng vàng đáng kể ở New South Wales, vàng của Úc đổ xô nhập khẩu dân số, xuất khẩu của cải, và gây ra căng thẳng xã hội đáng kể liên quan đến "sắc tộc mong muốn" của người nhập cư.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_GREAT_WAR_CHAPTER_HISTORY_PARA_1">
-			<Text>Mặc dù chiến trường của Thế chiến thứ nhất cách xa đất Úc, nhưng Khối thịnh vượng chung đã gửi hơn 400.000 tình nguyện viên đến chiến đấu thay mặt cho Vương quốc Anh. Với quân đội ở Trung Đông và Mặt trận phía Tây, Australia tham gia cuộc chiến với tư cách thuộc địa liên bang nhưng rời đi với tư cách là một quốc gia.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_PASTORAL_LEASES_CHAPTER_HISTORY_PARA_1">
-			<Text>Khi các thuộc địa của Úc chính thức khảo sát những vùng đất thích hợp cho chăn nuôi, họ bắt đầu cho những người chăn nuôi gia súc thuê những vùng đất này. Điển hình là bao gồm rất nhiều địa hình, các trạm hẻo lánh yêu cầu không gian đủ để hỗ trợ đất chăn thả mà không gây ra hạn hán - một bài học khó khăn cho những người làm nghề khai thác vào cuối những năm 1860.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_PENAL_COLONY_CHAPTER_HISTORY_PARA_1">
-			<Text>Các thuộc địa sớm nhất của Úc được xây dựng bởi các tù nhân Anh được vận chuyển nửa vòng trái đất. Thật không may, việc bảo những tên trộm vặt đến trang trại, khai thác mỏ hoặc chăm sóc y tế không giúp chúng thấm nhuần những khả năng đó. Tuy nhiên, bất chấp những khó khăn của họ, hầu hết những người thuộc địa bị kết án cuối cùng đã có thể hình thành nên xương máu của những thuộc địa khả thi.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SHEEP_REARING_CHAPTER_HISTORY_PARA_1">
-			<Text>Mong muốn ngày càng tăng của nước Anh đối với len trong thế kỷ 19 đã biến hoạt động kinh doanh nuôi cừu trở thành một phần quan trọng của nền kinh tế thuộc địa của Úc. Len là một trong số ít mặt hàng không bị biến chất trong những chuyến đi biển dài ngày, do đó, việc sản xuất len thuộc địa xa xôi phục vụ lợi ích của người Anh — và lời kể của các nhà nghiên cứu về đồ vật ở Úc.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_WORLD_WAR_II_CHAPTER_HISTORY_PARA_1">
-			<Text>Không giống như Đại chiến, Chiến tranh thế giới thứ hai bùng nổ đã chứng kiến một mối đe dọa xâm lược trên đất Úc. Mặc dù quân đội Úc một lần nữa hỗ trợ các lực lượng của Vương quốc Anh, việc bố trí của họ đã được Khối thịnh vượng chung xử lý với sự độc lập hơn. Điều này cho phép quân đội Australia phối hợp chặt chẽ với các lực lượng Đồng minh ở Thái Bình Dương.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_PANTANAL_CHAPTER_HISTORY_PARA_1">
-			<Text>Khu vực tự nhiên tươi tốt của Kakadu là nơi có nhiều loại động thực vật độc đáo đến nỗi nhiều loài vẫn chưa được phân loại trong thời hiện đại. Đây cũng là nơi sinh sống của những người thổ dân được cho là đã sống trong khu vực ít nhất 20.000 năm. Các tác phẩm nghệ thuật trên đá rộng lớn, một số có hàng nghìn năm tuổi, tiết lộ lịch sử của những người thổ dân địa phương. Nhiều nỗ lực thực dân châu Âu vào thế kỷ 19 đã thất bại do địa hình khắc nghiệt của Kakadu.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_TSINGY_CHAPTER_HISTORY_PARA_1">
-			<Text>Gần bờ biển phía tây nam của lục địa Úc là một loạt các thành tạo đá kỳ lạ gợi nhớ đến những đầu ngón tay vươn ra từ những bãi cát mà chúng nằm. Các thành tạo đá vôi này được hình thành từ các sinh vật biển bị phân hủy của một thời đại trước đó, mặc dù không có lý thuyết nào tiết lộ cách chúng tồn tại ở dạng hiện tại. Cho đến khi họ được hợp nhất thành công viên quốc gia vào những năm 1960, du khách sinh sống phổ biến nhất của họ là chuột túi.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Chỉ định Công viên Quốc gia có thể nâng cao đáng kể các [ICON_Gold] Vàng và [ICON_Amenities] Tiện nghi. Các Công viên Quốc gia được chỉ định bởi các đơn vị Chủ nghĩa Tự nhiên, có thể được đào tạo hoặc mua tại thành phố của bạn sau khi nghiên cứu Công dân Bảo tồn.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_5">
-			<Text>Sản lượng [ICON_Gold] Vàng của Công viên Quốc gia bằng với tổng mức Kháng cáo của tất cả các ô trong công viên. Ngoài ra, thành phố sở hữu công viên nhận được 2 [ICON_Amenities] Tiện nghi và bốn thành phố gần nhất trong nền văn minh của bạn nhận được 1 [ICON_Amenities] Tiện nghi.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_PENAL_SETTLEMENT_CHAPTER_HISTORY_PARA_1">
-			<Text>Một quốc gia với khát vọng thuộc địa, những vùng đất xa xôi được tuyên bố trên danh nghĩa của nó, và một cách tiếp cận sáng tạo đối với công lý hình sự có thể đưa ra các dàn xếp hình sự. Hệ thống nô lệ được ủy thác này đã đưa các tù nhân đến những vùng đất xa xôi, khắc nghiệt để làm những công việc mệt mỏi và nguy hiểm khi thành lập thuộc địa. Thường được lãnh đạo bởi một thống đốc từng là quản giáo, các tù nhân không có nơi nào để trốn thoát. Tuy nhiên, có những động lực để giải quyết nợ xã hội của họ — quyền sở hữu những gì họ đã xây dựng.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_COLONIAL_GOVERNMENT_CHAPTER_HISTORY_PARA_1">
-			<Text>Khi một thuộc địa hình sự trở nên tự duy trì, nó cần nhiều hơn một thống đốc có quyền tuyệt đối đối với những người hầu cận. Công lý thuộc địa khắc nghiệt không hẳn là điểm bán hàng cho những tay buôn thành đạt và những người muốn thay đổi vận mệnh của mình. Do đó, một chính quyền thuộc địa thực sự cung cấp quyền cai trị địa phương và khu vực hạn chế cho cư dân của mình. Các văn phòng chính trị được mở rộng như thuộc địa, cho phép thủ đô thuộc địa cung cấp (và quan trọng hơn là đánh thuế) các khu định cư bên ngoài.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_STATE_GOVERNMENT_CHAPTER_HISTORY_PARA_1">
-			<Text>Việc thành lập các quốc gia liên bang thiết lập quyền tự quản khu vực trong hệ thống quốc gia. Các chính sách rõ ràng của hiến pháp liên bang, được ban hành và thực thi ở cấp liên bang, cho phép chính quyền tiểu bang quản lý các vấn đề địa phương và ảnh hưởng đến chính sách quốc gia thông qua cơ quan đại diện quốc gia. Về cơ bản, chính quyền các bang giữ ngón tay của họ trong nhiều loại bánh nướng khác nhau, làm việc để thêm ngón tay miễn phí vào những chiếc bánh nướng mới và lớn tiếng nhấn mạnh về sự ngang bằng khi một bang khác được quan sát thấy có nhiều bánh hơn chính họ.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LAND_GRANTS_CHAPTER_HISTORY_PARA_1">
-			<Text>Các thống đốc thuộc địa có thể cấp đất cho những người thực dân có địa vị tốt, mặc dù họ thường nhắm mắt làm ngơ để kết tội những người làm việc trên đất.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FIRST_FLEET_CHAPTER_HISTORY_PARA_1">
-			<Text>Sáu tàu kết án, hai tàu hải quân và ba tàu tiếp tế đã đến Úc vào năm 1788. Đánh bắt cá ban đầu là cách duy nhất để bổ sung nguồn cung cấp thuộc địa đang bị suy giảm</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_REWARDS_OFFERED_CHAPTER_HISTORY_PARA_1">
-			<Text>Cơn sốt vàng ở Úc năm 1851 đã khiến các chính phủ thuộc địa đưa ra những phần thưởng béo bở cho quặng từ các mỏ vàng. Mọi người với một cái chảo đều trở thành một người khai thác.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TERRA_NULLIUS_CHAPTER_HISTORY_PARA_1">
-			<Text>Tuyên bố năm 1835 của Úc là "vùng đất không của con người" mà không có chủ quyền được công nhận cho phép các thuộc địa tuyên bố lãnh thổ là của riêng họ - bất chấp sự hiện diện của thổ dân.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COLONIAL_ARCHITECTS_CHAPTER_HISTORY_PARA_1">
-			<Text>Sau sự phát triển hỗn loạn ban đầu của các thực dân hình sự, các thống đốc thuộc địa đã bổ nhiệm nhiều thợ thủ công lành nghề và chuyên môn hóa để lập kế hoạch phát triển các thuộc địa.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PARRAMATTA_ROAD_CHAPTER_HISTORY_PARA_1">
-			<Text>Con đường đầu tiên và lâu đời nhất của Úc nối các thành phố thuộc địa Sydney và Parramatta. Sự phát triển cơ sở hạ tầng như vậy dẫn đến một hệ thống đường cao tốc thuộc địa rộng khắp.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TICKET_OF_LEAVE_CHAPTER_HISTORY_PARA_1">
-			<Text>Một văn bản ân xá được ban hành cho những người bị kết án có thể tự nuôi sống bản thân, hoặc như một phần thưởng cho hành vi tốt và được phép làm việc trong các quận thuộc địa.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MOUNTED_STOCKMEN_CHAPTER_HISTORY_PARA_1">
-			<Text>Những người dự trữ được gắn kết đã làm việc trên những vùng đất rộng lớn được cấp cho các trạm hẻo lánh. Họ là những bậc thầy trong việc đối phó với những đàn gia súc nằm rải rác trên những vùng đất rộng lớn.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TRANS_AUSTRALIAN_RAILWAY_CHAPTER_HISTORY_PARA_1">
-			<Text>Sau khi chuyển đổi thành Khối thịnh vượng chung, việc xây dựng Đường sắt xuyên Úc cho phép vận chuyển thường xuyên, đáng tin cậy từ Perth phía tây Úc đến Sydney phía đông Úc.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FEED_THE_TROOPS_CHAPTER_HISTORY_PARA_1">
-			<Text>Quân AIF cần một nguồn cung cấp lương thực ổn định trong các chiến dịch của họ ở những vùng đất xa xôi. Lớp vỏ cứng (và nứt toác) lâu dài đã giữ cho binh lính được ăn ở Gallipoli và hơn thế nữa.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_GALLIPOLLI_CHAPTER_HISTORY_PARA_1">
-			<Text>Mặc dù Gallipoli cuối cùng là một thất bại cho các lực lượng Đồng minh, nhưng cuộc chiến đấu cam go của quân AIF đã thu hút được nhiều ý kiến của mọi người trên mặt trận quê nhà Úc.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SCHOOL_OF_THE_AIR_CHAPTER_HISTORY_PARA_1">
-			<Text>Sự phổ biến của đài phát thanh có nghĩa là các chương trình học thuật có thể được phát sóng đến các vùng xa xôi của Úc. Điều này cho phép giáo dục ở những vùng xa xôi hẻo lánh nhất.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FLYING_DOCTORS_CHAPTER_HISTORY_PARA_1">
-			<Text>Dịch vụ Bác sĩ Bay đã sử dụng sự kết hợp của phương tiện giao thông trên không và radio để hỗ trợ nhu cầu y tế của người dân ở các vùng xa xôi của Úc.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_MATERIEL_CHAPTER_HISTORY_PARA_1">
-			<Text>Nền kinh tế chiến tranh của Úc đòi hỏi nguyên liệu thô để chế tạo vũ khí, phương tiện quân sự và tàu chiến. Sự ưu tiên đã dẫn đến những nỗ lực khai thác gia tăng đáp ứng nhu cầu chiến tranh quan trọng của quốc gia.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_INVASION_THREAT_CHAPTER_HISTORY_PARA_1">
-			<Text>Nỗi sợ hãi về sự xâm lược của Nhật Bản đã dẫn đến chính sách cho phép triển khai lực lượng dân quân nghĩa vụ ra ngoài biên giới Úc, miễn là làm như vậy sẽ hỗ trợ cho việc phòng thủ của Úc.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SEAFOOD_PRESERVATION_CHAPTER_HISTORY_PARA_1">
-			<Text>Sự gia tăng nhập cư sau Thế chiến II đã dẫn đến sự mở rộng đáng kể của ngành công nghiệp cá của Úc. Tôm và tôm hùm đá trở thành mặt hàng xuất khẩu có giá trị.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PARK_RANGERS_CHAPTER_HISTORY_PARA_1">
-			<Text>Các nhân viên kiểm lâm của công viên Úc chịu trách nhiệm về những vùng đất công viên rộng lớn — cả đặc tính tự nhiên của vùng đất và phúc lợi của những du khách đến trải nghiệm.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_GOLD_CHAPTER_HISTORY_PARA_1">
-			<Text>Mặc dù nó được phát hiện vào đầu thế kỷ 19, nhưng Úc không bị “sốt vàng” cho đến năm 1851. Nhiều quặng vàng đã được thu hồi đến mức Anh mở Xưởng đúc tiền Sydney, đây là lần đầu tiên tiền xu của Anh được phép sản xuất bên ngoài nước Anh. Vàng luôn là mặt hàng xuất khẩu béo bở của Úc.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PROSPECTOR_CHAPTER_HISTORY_PARA_1">
-			<Text>Kể từ khi phát hiện ra vàng của Úc vào thế kỷ 19, các nhà khảo sát đã tìm kiếm tài sản của họ từ lâu trong lòng đất antipodean. Không giống như những người tìm kiếm hóa thạch (những người sàng lọc đống mullock để lấy vàng, bạc hoặc opal làm vật giải trí), việc làm cho nó trở nên giàu có nằm trong tầm nắm bắt của những người khai thác “nghiệp dư chuyên nghiệp” này - miễn là họ đưa ra yêu cầu chính xác.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GRAZIER_CHAPTER_HISTORY_PARA_1">
-			<Text>Graziers là những nơi cố định của các trạm hẻo lánh, chăm sóc đàn gia súc và canh tác cây trồng thân thiện với vật nuôi trên các vùng đất chăn nuôi — thường rộng lớn để hỗ trợ gia súc hoặc cừu ở Úc ít hơn là vùng đất chăn thả gia súc hiếu khách. Cho dù làm pho mát, xén lông cừu hay giết chó dingo, máy cắt thịt là bước đầu tiên trong ngành chăn nuôi có lãi của Úc.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FARMER_CHAPTER_HISTORY_PARA_1">
-			<Text>Những thử thách và khó khăn của nông dân Úc rất nhiều và đa dạng. Xói mòn đất, cây kế scotch đáng sợ và bệnh dịch của thỏ, không nói gì đến vùng đất dễ bị khô hạn. Tuy nhiên, cuộc sống khó khăn này có thể khá hấp dẫn đối với những ai đặt lưng vào đó - và biết nơi nào tốt nhất để giải quyết.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FISHER_CHAPTER_HISTORY_PARA_1">
-			<Text>Có thể là cá phổi Úc, cá tuyết Murray, hoặc cá tầm tây, một ngư dân lành nghề có thể bắt được tất cả chúng — một đề xuất hơi khó khăn ở Úc, lục địa khô hạn nhất trên trái đất. Những con rầy đá dũng cảm vượt qua những tai ương nước ngọt bằng cách bắt sinh vật biển từ những tảng đá ven biển… và tránh cá sấu nước mặn để bắt chúng.</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_1">
-			<Text>Những nhà thám hiểm thuộc địa ở Úc thường là những người gan dạ, đầy tham vọng, những người tìm kiếm sự nổi tiếng và sự công nhận cho những nỗ lực của họ. Thật không may cho họ, Người hẻo lánh không mấy thông cảm cho những mong muốn của họ. Trong số nhiều người đi vào bụi rậm mà không hiểu cơ bản về sự nguy hiểm của nó, một số ít sẽ trở về mà không bị tổn thương. Một số sẽ không quay trở lại.</Text>
-		</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SYDNEY_CHAPTER_HISTORY_PARA_1">
+		<Text>Vị trí thuộc địa của Anh ở miền đông nước Úc lần đầu tiên bén rễ với sự thành lập của Sydney vào năm 1788. Từ khởi đầu khiêm tốn của nó như một thuộc địa hình sự cho đến khi chuyển đổi thành một xã hội tự do, New South Wales luôn (hoặc cảm thấy cần phải có) đi đầu về các vấn đề của Úc.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SYDNEY_CHAPTER_HISTORY_PARA_2">
+		<Text>Việc phát hiện ra vàng vào năm 1851 đã làm cho New South Wales trở nên hùng mạnh về mặt kinh tế cũng như về mặt chính trị. Khi Australia chuyển đổi từ thuộc địa sang Khối thịnh vượng chung, sự cạnh tranh giữa New South Wales và Victoria về thủ đô quốc gia đã dẫn đến sự thỏa hiệp: thành phố Canberra sẽ được xây dựng tại một khu vực trống giữa Sydney và Melbourne, sau đó bị hầu hết người Australia bỏ qua ngay.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_QUEENSLAND_CHAPTER_HISTORY_PARA_1">
+		<Text>Phần đông bắc tươi tốt của Úc được biết đến với vẻ đẹp tự nhiên và — theo những người Úc không đến từ Queensland — những trái chuối thẳng không tự nhiên mà cần phải uốn cong trước khi xuất khẩu. (Phản ứng lựa chọn của người dân Queensland quá nhiều màu sắc để chia sẻ ở đây.) Nơi đây từng có dân số thổ dân lớn nhất ở Úc, nhưng điều này đã thay đổi với sự xuất hiện của thực dân Anh, dịch bệnh của họ và hàng loạt cuộc xung đột đẫm máu vào đầu thế kỷ 19.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_QUEENSLAND_CHAPTER_HISTORY_PARA_2">
+		<Text>Khi Queensland tách khỏi New South Wales để trở thành thuộc địa Crown của riêng mình vào năm 1859, Brisbane - ban đầu được thành lập như một thuộc địa hình sự vào năm 1824 - đã may mắn được chọn làm thủ đô của nó. Điều này đặc biệt chứng minh với việc phát hiện ra vàng ở Queensland, dẫn đến nhiều cuộc đổ xô tìm vàng trong nửa sau của thế kỷ 19. Ngoài nhiều công viên quốc gia, rạn san hô Great Barrier Reef có thể được tìm thấy dọc theo hầu hết bờ biển phía đông của Queensland.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_1">
+		<Text>Toàn bộ phần ba phía tây của lục địa Úc bao gồm Tây Úc được đặt tên phù hợp, được gọi như vậy vì “Cảnh quan địa ngục bị thổi bay (và Perth)” quá nguy hiểm đối với bản đồ Thế kỷ 19. Người Tây Úc được đặt biệt danh theo tên một loài châu chấu đào hang đặc biệt kiên cường được gọi là sandgroper, đây là một sự tôn vinh cho sự kiên trì của họ hoặc một cách tế nhị để nói rằng họ đang chúi đầu vào đất.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_2">
+		<Text>Khu định cư Perth được thành lập vào năm 1829 và nhanh chóng trở thành thủ phủ của Tây Úc. Nằm ở góc tây nam ôn đới, nơi đại đa số người Tây Úc sẽ đến cư trú, Perth bị cô lập đến mức có thể mất một tuần để đến Melbourne bằng đường biển.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_3">
+		<Text>Tây Úc được biết đến với Vùng hẻo lánh rộng lớn và hoang vắng, nơi tốt nhất là dân cư thưa thớt. Hầu hết người dân Tây Úc sống bám biển — và với rất nhiều bờ biển để khai thác, đánh bắt cá luôn là một phần quan trọng trong nền kinh tế của thuộc địa.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_1">
+		<Text>Khu vực đông nam ôn đới chủ yếu của Úc từ lâu đã nổi tiếng là một bang vườn. Mặc dù sản xuất bắp cải quanh năm, nhưng không phải người dân Victoria nào cũng có trách nhiệm tự bảo quản cải bắp của mình.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_2">
+		<Text>Melbourne được thành lập bởi John Batman vào năm 1835. Đây không phải là khu định cư đầu tiên trong khu vực, nhưng nó đã phát triển đủ quan trọng để được đặt tên là thủ đô vào năm 1851, khi thuộc địa mới của Crown là Victoria tách khỏi New South Wales. Chúc may mắn cho những người Victoria đã phát hiện ra một lượng vàng khổng lồ cùng năm đó, khởi động một cơn sốt tìm vàng sẽ mang lại nhiều bộ mặt tươi mới cho thuộc địa của họ.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_3">
+		<Text>Những người không gặp may mắn khi đào hoặc khai thác vẫn đang sống trong một khí hậu ôn hòa (đối với Úc) xung quanh những người giàu có, cho phép họ khai thác vàng trực tiếp thông qua các dịch vụ hoặc trại đầu lâu. Ngoại trừ cuộc khủng hoảng kinh tế đặc biệt đau đớn vào năm 1893, vận may của Victoria vẫn duy trì.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_1">
+		<Text>Khu vực trung tâm phía nam của Úc bao gồm đất ven biển ôn đới, ít bụi rậm ôn đới và vùng hẻo lánh. Mặc dù nổi tiếng thuộc địa về việc tiêu thụ quạ khi không có thức ăn khác, nhưng đây là một huyền thoại - những người thực dân Nam Úc đói ăn bị mắc kẹt với những con vẹt và vẹt đuôi dài ngon hơn nhiều.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_2">
+		<Text>Nam Úc là thuộc địa duy nhất được tạo ra bởi một đạo luật của Quốc hội Anh. Được thiết kế một cách có chủ ý như một thuộc địa tự do cấm lao động hình sự, nó chào đón những người nhập cư nghèo muốn bắt đầu lại cuộc sống, nhấn mạnh vào các nguyên tắc tự do tôn giáo và đảm bảo quyền đất đai cho thổ dân. Từ khi thành lập năm 1836 ở Adelaide, thuộc địa chủ yếu tuân theo các nguyên tắc của nó.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_3">
+		<Text>Các trạm hẻo lánh nuôi cừu khắp Nam Úc. Mặc dù không bao giờ có cơn sốt vàng thực sự ở thuộc địa, nhưng những cánh đồng lúa mì rộng lớn của nó sẽ hỗ trợ phần lớn nước Úc vào cuối thế kỷ 19.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_AERIAL_SERVICES_CHAPTER_HISTORY_PARA_1">
+		<Text>Sự ra đời của radio và máy bay đã thay đổi cuộc sống cho những khu định cư xa xôi ở Úc. Giáo dục và chăm sóc y tế đột nhiên khả thi đối với những cư dân vùng hẻo lánh, những người trước đây phải tự lo cho mình. Mặc dù nhà của họ ở rất xa, nhưng những đổi mới tiên tiến của thế kỷ 20 đã mang những người Úc xa xôi đến gần nhau hơn.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_CROWN_COLONY_CHAPTER_HISTORY_PARA_1">
+		<Text>Vào giữa thế kỷ 19, lục địa Úc không còn là một tập hợp các trại tù xa xôi đầy bệnh kiết lỵ và các mối nguy hiểm khác, mà thay vào đó là một vùng đất xa xôi đầy quyến rũ, nơi người ta có thể bắt đầu lại một lần nữa và (có lẽ) làm giàu. Mặc dù tự quản ở một mức độ nào đó, họ vẫn không thể phủ nhận là người Anh.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_CRUISE_LINES_CHAPTER_HISTORY_PARA_1">
+		<Text>Trong nửa đầu thế kỷ 20, du lịch biển là cách an toàn và đáng tin cậy duy nhất để đến Úc. Khi Khối thịnh vượng chung Úc mới thành lập đã chi tiền liên bang cho các công viên quốc gia, các chuyến tàu chở khách của Úc đã đưa mọi người trải nghiệm sự huy hoàng của chúng và giúp ngành du lịch Antipodean trở nên khả thi.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_FEDERATION_CHAPTER_HISTORY_PARA_1">
+		<Text>Khối thịnh vượng chung Australia hình thành vào buổi bình minh của thế kỷ 20. Người Úc có được bản sắc dân tộc, chính sách thuế quan ít nhầm lẫn hơn và các thể chế chính phủ thiết yếu (Nghị viện và Tòa án tối cao). Họ cũng giành được Canberra, một thủ đô quốc gia được thiết kế một phần để giữ cho Melbourne và Sydney không tranh cãi về đặc quyền.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_GOLD_RUSH_CHAPTER_HISTORY_PARA_1">
+		<Text>Đến năm 1851, vận may giành được ở các mỏ vàng California đã được cả thế giới biết đến. Khi Edward Hargraves và John Lister phát hiện ra một lượng vàng đáng kể ở New South Wales, vàng của Úc đổ xô nhập khẩu dân số, xuất khẩu của cải, và gây ra căng thẳng xã hội đáng kể liên quan đến "sắc tộc mong muốn" của người nhập cư.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_GREAT_WAR_CHAPTER_HISTORY_PARA_1">
+		<Text>Mặc dù chiến trường của Thế chiến thứ nhất cách xa đất Úc, nhưng Khối thịnh vượng chung đã gửi hơn 400.000 tình nguyện viên đến chiến đấu thay mặt cho Vương quốc Anh. Với quân đội ở Trung Đông và Mặt trận phía Tây, Australia tham gia cuộc chiến với tư cách thuộc địa liên bang nhưng rời đi với tư cách là một quốc gia.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_PASTORAL_LEASES_CHAPTER_HISTORY_PARA_1">
+		<Text>Khi các thuộc địa của Úc chính thức khảo sát những vùng đất thích hợp cho chăn nuôi, họ bắt đầu cho những người chăn nuôi gia súc thuê những vùng đất này. Điển hình là bao gồm rất nhiều địa hình, các trạm hẻo lánh yêu cầu không gian đủ để hỗ trợ đất chăn thả mà không gây ra hạn hán - một bài học khó khăn cho những người làm nghề khai thác vào cuối những năm 1860.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_PENAL_COLONY_CHAPTER_HISTORY_PARA_1">
+		<Text>Các thuộc địa sớm nhất của Úc được xây dựng bởi các tù nhân Anh được vận chuyển nửa vòng trái đất. Thật không may, việc bảo những tên trộm vặt đến trang trại, khai thác mỏ hoặc chăm sóc y tế không giúp chúng thấm nhuần những khả năng đó. Tuy nhiên, bất chấp những khó khăn của họ, hầu hết những người thuộc địa bị kết án cuối cùng đã có thể hình thành nên xương máu của những thuộc địa khả thi.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SHEEP_REARING_CHAPTER_HISTORY_PARA_1">
+		<Text>Mong muốn ngày càng tăng của nước Anh đối với len trong thế kỷ 19 đã biến hoạt động kinh doanh nuôi cừu trở thành một phần quan trọng của nền kinh tế thuộc địa của Úc. Len là một trong số ít mặt hàng không bị biến chất trong những chuyến đi biển dài ngày, do đó, việc sản xuất len thuộc địa xa xôi phục vụ lợi ích của người Anh — và lời kể của các nhà nghiên cứu về đồ vật ở Úc.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_WORLD_WAR_II_CHAPTER_HISTORY_PARA_1">
+		<Text>Không giống như Đại chiến, Chiến tranh thế giới thứ hai bùng nổ đã chứng kiến một mối đe dọa xâm lược trên đất Úc. Mặc dù quân đội Úc một lần nữa hỗ trợ các lực lượng của Vương quốc Anh, việc bố trí của họ đã được Khối thịnh vượng chung xử lý với sự độc lập hơn. Điều này cho phép quân đội Australia phối hợp chặt chẽ với các lực lượng Đồng minh ở Thái Bình Dương.</Text>
+	</Replace>
+	<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_PANTANAL_CHAPTER_HISTORY_PARA_1">
+		<Text>Khu vực tự nhiên tươi tốt của Kakadu là nơi có nhiều loại động thực vật độc đáo đến nỗi nhiều loài vẫn chưa được phân loại trong thời hiện đại. Đây cũng là nơi sinh sống của những người thổ dân được cho là đã sống trong khu vực ít nhất 20.000 năm. Các tác phẩm nghệ thuật trên đá rộng lớn, một số có hàng nghìn năm tuổi, tiết lộ lịch sử của những người thổ dân địa phương. Nhiều nỗ lực thực dân châu Âu vào thế kỷ 19 đã thất bại do địa hình khắc nghiệt của Kakadu.</Text>
+	</Replace>
+	<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_TSINGY_CHAPTER_HISTORY_PARA_1">
+		<Text>Gần bờ biển phía tây nam của lục địa Úc là một loạt các thành tạo đá kỳ lạ gợi nhớ đến những đầu ngón tay vươn ra từ những bãi cát mà chúng nằm. Các thành tạo đá vôi này được hình thành từ các sinh vật biển bị phân hủy của một thời đại trước đó, mặc dù không có lý thuyết nào tiết lộ cách chúng tồn tại ở dạng hiện tại. Cho đến khi họ được hợp nhất thành công viên quốc gia vào những năm 1960, du khách sinh sống phổ biến nhất của họ là chuột túi.</Text>
+	</Replace>
+	<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_1">
+		<Text>Chỉ định Công viên Quốc gia có thể nâng cao đáng kể các [ICON_Gold] Vàng và [ICON_Amenities] Tiện nghi. Các Công viên Quốc gia được chỉ định bởi các đơn vị Chủ nghĩa Tự nhiên, có thể được đào tạo hoặc mua tại thành phố của bạn sau khi nghiên cứu Công dân Bảo tồn.</Text>
+	</Replace>
+	<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_5">
+		<Text>Sản lượng [ICON_Gold] Vàng của Công viên Quốc gia bằng với tổng mức Kháng cáo của tất cả các ô trong công viên. Ngoài ra, thành phố sở hữu công viên nhận được 2 [ICON_Amenities] Tiện nghi và bốn thành phố gần nhất trong nền văn minh của bạn nhận được 1 [ICON_Amenities] Tiện nghi.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_PENAL_SETTLEMENT_CHAPTER_HISTORY_PARA_1">
+		<Text>Một quốc gia với khát vọng thuộc địa, những vùng đất xa xôi được tuyên bố trên danh nghĩa của nó, và một cách tiếp cận sáng tạo đối với công lý hình sự có thể đưa ra các dàn xếp hình sự. Hệ thống nô lệ được ủy thác này đã đưa các tù nhân đến những vùng đất xa xôi, khắc nghiệt để làm những công việc mệt mỏi và nguy hiểm khi thành lập thuộc địa. Thường được lãnh đạo bởi một thống đốc từng là quản giáo, các tù nhân không có nơi nào để trốn thoát. Tuy nhiên, có những động lực để giải quyết nợ xã hội của họ — quyền sở hữu những gì họ đã xây dựng.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_COLONIAL_GOVERNMENT_CHAPTER_HISTORY_PARA_1">
+		<Text>Khi một thuộc địa hình sự trở nên tự duy trì, nó cần nhiều hơn một thống đốc có quyền tuyệt đối đối với những người hầu cận. Công lý thuộc địa khắc nghiệt không hẳn là điểm bán hàng cho những tay buôn thành đạt và những người muốn thay đổi vận mệnh của mình. Do đó, một chính quyền thuộc địa thực sự cung cấp quyền cai trị địa phương và khu vực hạn chế cho cư dân của mình. Các văn phòng chính trị được mở rộng như thuộc địa, cho phép thủ đô thuộc địa cung cấp (và quan trọng hơn là đánh thuế) các khu định cư bên ngoài.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_STATE_GOVERNMENT_CHAPTER_HISTORY_PARA_1">
+		<Text>Việc thành lập các quốc gia liên bang thiết lập quyền tự quản khu vực trong hệ thống quốc gia. Các chính sách rõ ràng của hiến pháp liên bang, được ban hành và thực thi ở cấp liên bang, cho phép chính quyền tiểu bang quản lý các vấn đề địa phương và ảnh hưởng đến chính sách quốc gia thông qua cơ quan đại diện quốc gia. Về cơ bản, chính quyền các bang giữ ngón tay của họ trong nhiều loại bánh nướng khác nhau, làm việc để thêm ngón tay miễn phí vào những chiếc bánh nướng mới và lớn tiếng nhấn mạnh về sự ngang bằng khi một bang khác được quan sát thấy có nhiều bánh hơn chính họ.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LAND_GRANTS_CHAPTER_HISTORY_PARA_1">
+		<Text>Các thống đốc thuộc địa có thể cấp đất cho những người thực dân có địa vị tốt, mặc dù họ thường nhắm mắt làm ngơ để kết tội những người làm việc trên đất.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FIRST_FLEET_CHAPTER_HISTORY_PARA_1">
+		<Text>Sáu tàu kết án, hai tàu hải quân và ba tàu tiếp tế đã đến Úc vào năm 1788. Đánh bắt cá ban đầu là cách duy nhất để bổ sung nguồn cung cấp thuộc địa đang bị suy giảm</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_REWARDS_OFFERED_CHAPTER_HISTORY_PARA_1">
+		<Text>Cơn sốt vàng ở Úc năm 1851 đã khiến các chính phủ thuộc địa đưa ra những phần thưởng béo bở cho quặng từ các mỏ vàng. Mọi người với một cái chảo đều trở thành một người khai thác.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TERRA_NULLIUS_CHAPTER_HISTORY_PARA_1">
+		<Text>Tuyên bố năm 1835 của Úc là "vùng đất không của con người" mà không có chủ quyền được công nhận cho phép các thuộc địa tuyên bố lãnh thổ là của riêng họ - bất chấp sự hiện diện của thổ dân.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COLONIAL_ARCHITECTS_CHAPTER_HISTORY_PARA_1">
+		<Text>Sau sự phát triển hỗn loạn ban đầu của các thực dân hình sự, các thống đốc thuộc địa đã bổ nhiệm nhiều thợ thủ công lành nghề và chuyên môn hóa để lập kế hoạch phát triển các thuộc địa.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PARRAMATTA_ROAD_CHAPTER_HISTORY_PARA_1">
+		<Text>Con đường đầu tiên và lâu đời nhất của Úc nối các thành phố thuộc địa Sydney và Parramatta. Sự phát triển cơ sở hạ tầng như vậy dẫn đến một hệ thống đường cao tốc thuộc địa rộng khắp.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TICKET_OF_LEAVE_CHAPTER_HISTORY_PARA_1">
+		<Text>Một văn bản ân xá được ban hành cho những người bị kết án có thể tự nuôi sống bản thân, hoặc như một phần thưởng cho hành vi tốt và được phép làm việc trong các quận thuộc địa.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MOUNTED_STOCKMEN_CHAPTER_HISTORY_PARA_1">
+		<Text>Những người dự trữ được gắn kết đã làm việc trên những vùng đất rộng lớn được cấp cho các trạm hẻo lánh. Họ là những bậc thầy trong việc đối phó với những đàn gia súc nằm rải rác trên những vùng đất rộng lớn.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TRANS_AUSTRALIAN_RAILWAY_CHAPTER_HISTORY_PARA_1">
+		<Text>Sau khi chuyển đổi thành Khối thịnh vượng chung, việc xây dựng Đường sắt xuyên Úc cho phép vận chuyển thường xuyên, đáng tin cậy từ Perth phía tây Úc đến Sydney phía đông Úc.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FEED_THE_TROOPS_CHAPTER_HISTORY_PARA_1">
+		<Text>Quân AIF cần một nguồn cung cấp lương thực ổn định trong các chiến dịch của họ ở những vùng đất xa xôi. Lớp vỏ cứng (và nứt toác) lâu dài đã giữ cho binh lính được ăn ở Gallipoli và hơn thế nữa.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_GALLIPOLLI_CHAPTER_HISTORY_PARA_1">
+		<Text>Mặc dù Gallipoli cuối cùng là một thất bại cho các lực lượng Đồng minh, nhưng cuộc chiến đấu cam go của quân AIF đã thu hút được nhiều ý kiến của mọi người trên mặt trận quê nhà Úc.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SCHOOL_OF_THE_AIR_CHAPTER_HISTORY_PARA_1">
+		<Text>Sự phổ biến của đài phát thanh có nghĩa là các chương trình học thuật có thể được phát sóng đến các vùng xa xôi của Úc. Điều này cho phép giáo dục ở những vùng xa xôi hẻo lánh nhất.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FLYING_DOCTORS_CHAPTER_HISTORY_PARA_1">
+		<Text>Dịch vụ Bác sĩ Bay đã sử dụng sự kết hợp của phương tiện giao thông trên không và radio để hỗ trợ nhu cầu y tế của người dân ở các vùng xa xôi của Úc.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_MATERIEL_CHAPTER_HISTORY_PARA_1">
+		<Text>Nền kinh tế chiến tranh của Úc đòi hỏi nguyên liệu thô để chế tạo vũ khí, phương tiện quân sự và tàu chiến. Sự ưu tiên đã dẫn đến những nỗ lực khai thác gia tăng đáp ứng nhu cầu chiến tranh quan trọng của quốc gia.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_INVASION_THREAT_CHAPTER_HISTORY_PARA_1">
+		<Text>Nỗi sợ hãi về sự xâm lược của Nhật Bản đã dẫn đến chính sách cho phép triển khai lực lượng dân quân nghĩa vụ ra ngoài biên giới Úc, miễn là làm như vậy sẽ hỗ trợ cho việc phòng thủ của Úc.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SEAFOOD_PRESERVATION_CHAPTER_HISTORY_PARA_1">
+		<Text>Sự gia tăng nhập cư sau Thế chiến II đã dẫn đến sự mở rộng đáng kể của ngành công nghiệp cá của Úc. Tôm và tôm hùm đá trở thành mặt hàng xuất khẩu có giá trị.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PARK_RANGERS_CHAPTER_HISTORY_PARA_1">
+		<Text>Các nhân viên kiểm lâm của công viên Úc chịu trách nhiệm về những vùng đất công viên rộng lớn — cả đặc tính tự nhiên của vùng đất và phúc lợi của những du khách đến trải nghiệm.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_GOLD_CHAPTER_HISTORY_PARA_1">
+		<Text>Mặc dù nó được phát hiện vào đầu thế kỷ 19, nhưng Úc không bị “sốt vàng” cho đến năm 1851. Nhiều quặng vàng đã được thu hồi đến mức Anh mở Xưởng đúc tiền Sydney, đây là lần đầu tiên tiền xu của Anh được phép sản xuất bên ngoài nước Anh. Vàng luôn là mặt hàng xuất khẩu béo bở của Úc.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PROSPECTOR_CHAPTER_HISTORY_PARA_1">
+		<Text>Kể từ khi phát hiện ra vàng của Úc vào thế kỷ 19, các nhà khảo sát đã tìm kiếm tài sản của họ từ lâu trong lòng đất antipodean. Không giống như những người tìm kiếm hóa thạch (những người sàng lọc đống mullock để lấy vàng, bạc hoặc opal làm vật giải trí), việc làm cho nó trở nên giàu có nằm trong tầm nắm bắt của những người khai thác “nghiệp dư chuyên nghiệp” này - miễn là họ đưa ra yêu cầu chính xác.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GRAZIER_CHAPTER_HISTORY_PARA_1">
+		<Text>Graziers là những nơi cố định của các trạm hẻo lánh, chăm sóc đàn gia súc và canh tác cây trồng thân thiện với vật nuôi trên các vùng đất chăn nuôi — thường rộng lớn để hỗ trợ gia súc hoặc cừu ở Úc ít hơn là vùng đất chăn thả gia súc hiếu khách. Cho dù làm pho mát, xén lông cừu hay giết chó dingo, máy cắt thịt là bước đầu tiên trong ngành chăn nuôi có lãi của Úc.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FARMER_CHAPTER_HISTORY_PARA_1">
+		<Text>Những thử thách và khó khăn của nông dân Úc rất nhiều và đa dạng. Xói mòn đất, cây kế scotch đáng sợ và bệnh dịch của thỏ, không nói gì đến vùng đất dễ bị khô hạn. Tuy nhiên, cuộc sống khó khăn này có thể khá hấp dẫn đối với những ai đặt lưng vào đó - và biết nơi nào tốt nhất để giải quyết.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FISHER_CHAPTER_HISTORY_PARA_1">
+		<Text>Có thể là cá phổi Úc, cá tuyết Murray, hoặc cá tầm tây, một ngư dân lành nghề có thể bắt được tất cả chúng — một đề xuất hơi khó khăn ở Úc, lục địa khô hạn nhất trên trái đất. Những con rầy đá dũng cảm vượt qua những tai ương nước ngọt bằng cách bắt sinh vật biển từ những tảng đá ven biển… và tránh cá sấu nước mặn để bắt chúng.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_1">
+		<Text>Những nhà thám hiểm thuộc địa ở Úc thường là những người gan dạ, đầy tham vọng, những người tìm kiếm sự nổi tiếng và sự công nhận cho những nỗ lực của họ. Thật không may cho họ, Người hẻo lánh không mấy thông cảm cho những mong muốn của họ. Trong số nhiều người đi vào bụi rậm mà không hiểu cơ bản về sự nguy hiểm của nó, một số ít sẽ trở về mà không bị tổn thương. Một số sẽ không quay trở lại.</Text>
+	</Replace>
 	</LocalizedText>
 </GameData>

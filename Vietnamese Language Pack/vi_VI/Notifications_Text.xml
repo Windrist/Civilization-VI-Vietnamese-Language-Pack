@@ -586,12 +586,12 @@
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_SUMMARY">
 			<Text>Phát hiện quân man di đang tiếp cận thành phố {1_CityName}.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE">
-      <Text>Tiền đồn man di mới</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY">
-      <Text>Chúng tôi đã nhận được tin đồn rằng một bộ tộc man di mới đã chuyển đến một khu vực gần đó.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE">
+			<Text>Tiền đồn man di mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY">
+			<Text>Chúng tôi đã nhận được tin đồn rằng một bộ tộc man di mới đã chuyển đến một khu vực gần đó.</Text>
+		</Replace>
 		<!-- Victory Notifications -->
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_MESSAGE">
 			<Text>Bạn Chiếm Ưu Thế Văn Minh</Text>

@@ -11,8 +11,6 @@
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_HOW_TO_PLAY">
 			<Text>Cách chơi</Text>
 		</Replace>	
-		
 		<!-- Do not put any more text in this file! -->
-		
 	</LocalizedText>
 </GameData>

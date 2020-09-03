@@ -5,7 +5,6 @@
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K">
 			<Text>Tài khoản 2K</Text>
 		</Replace>		
-		
 		<!-- String needed for MY2K but not (yet) provided by the server system... -->
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP_TITLE">
 			<Text>Đăng ký Tài khoản 2K</Text>
@@ -26,31 +25,31 @@
 			<Text>Không</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_LOGIN_USER">
-		  <Text>Đăng nhập</Text>
+		  	<Text>Đăng nhập</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_OK">
-		  <Text>OK</Text>
+		  	<Text>OK</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_CANCEL">
-		  <Text>Hủy</Text>
+		  	<Text>Hủy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_READ">
-		  <Text>Đọc</Text>
+		  	<Text>Đọc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER">
-		  <Text>Tạo Người Dùng Mới</Text>
+		  	<Text>Tạo Người Dùng Mới</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP">
-		  <Text>Đăng Ký</Text>
+		  	<Text>Đăng Ký</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_ISSUE">
-		  <Text>Vấn đề kết nối</Text>
+		  	<Text>Vấn đề kết nối</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_FIRAXIS_LIVE_NOT_CONNECTED">
-		  <Text>Một kết nối tới Civilization VI không được thiết lập. Các tính năng của Civilization VI sẽ không thể sử dụng được.</Text>
+		  	<Text>Một kết nối tới Civilization VI không được thiết lập. Các tính năng của Civilization VI sẽ không thể sử dụng được.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MOTD">
-		  <Text>Truyền đến</Text>
+		  	<Text>Truyền đến</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_TITLE">
 			<Text>Chào mừng trở lại!</Text>
@@ -79,26 +78,26 @@
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT_TITLE">
 			<Text>Hủy liên kết tài khoản</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_LINK_ACCOUNT_TITLE">
-      <Text>Liên kết tài khoản</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_LINK_ACCOUNT_TITLE">
+			<Text>Liên kết tài khoản</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT">
 			<Text>Bạn có chắc muốn hủy liên kết 2K? Bạn có thể quản lý tài khoản hoặc xem xét các chính sách riêng tư và phát luật tại www.2k.com.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_ANONYMOUS">
-      <Text>Offline</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_LINKED_ONLINE">
-      <Text>Đã liên kết - Online</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_LINKED_OFFLINE">
-      <Text>Đã liên kết - Offline</Text>
-    </Replace>
-	<Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_UNLINKED_TOOLTIP">
-      <Text>Đăng ký Tài khoản 2K để mở khóa phần thưởng Mèo trinh sát (yêu cầu khởi động lại trò chơi) và bật lưu trữ đám mây đa nền tảng để bạn có thể bắt đầu trò chơi của mình trên Steam và tiếp tục trên các nền tảng khác. Ngoài ra, bạn sẽ nhận được tin tức mới nhất về Văn minh Sid Meier!</Text>
-    </Replace>
-	<Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_LINKED_TOOLTIP">
-      <Text>Tài khoản 2K được liên kết. Tiết kiệm đám mây đa nền tảng được kích hoạt. Phần thưởng Mèo trinh sát đã được mở khóa (xem trong phần bổ sung nội dung khác).</Text>
-    </Replace>
-  </LocalizedText>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_ANONYMOUS">
+			<Text>Offline</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_LINKED_ONLINE">
+			<Text>Đã liên kết - Online</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_LINKED_OFFLINE">
+			<Text>Đã liên kết - Offline</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_UNLINKED_TOOLTIP">
+			<Text>Đăng ký Tài khoản 2K để mở khóa phần thưởng Mèo trinh sát (yêu cầu khởi động lại trò chơi) và bật lưu trữ đám mây đa nền tảng để bạn có thể bắt đầu trò chơi của mình trên Steam và tiếp tục trên các nền tảng khác. Ngoài ra, bạn sẽ nhận được tin tức mới nhất về Văn minh Sid Meier!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_LINKED_TOOLTIP">
+			<Text>Tài khoản 2K được liên kết. Tiết kiệm đám mây đa nền tảng được kích hoạt. Phần thưởng Mèo trinh sát đã được mở khóa (xem trong phần bổ sung nội dung khác).</Text>
+		</Replace>
+  	</LocalizedText>
 </GameData>

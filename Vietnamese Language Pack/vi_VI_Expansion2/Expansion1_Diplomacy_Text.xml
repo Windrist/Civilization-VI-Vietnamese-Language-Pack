@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-    <Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_LEVEL">
-      <Text>Cấp độ {1_Level}</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_REPORT_ALLIANCE">
-      <Text>Báo cáo: Liên minh</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TOOLTIP">
-      <Text>Xem xét ảnh hưởng của nhà lãnh đạo này với Liên minh trong hiện tại cũng như tương lai.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TURNS_TO_LEVEL">
-      <Text>{1_CurrentTurns} / {2_TurnsToLevel}</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOACTION_CURRENT_ALLIANCE">
-      <Text>Liên minh Hiện tại:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOACTION_BENEFITS_NEXT_LEVEL">
-      <Text>Lợi ích được thêm khi nhảy sang Cấp độ Kế tiếp:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOACTION_BENEFITS_CURRENT_LEVEL">
-      <Text>Những Liên minh Sẵn có:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOACTION_NO_CURRENT_ALLIANCE">
-      <Text>Hiện tại bạn đang không liên minh với người chơi này.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOACTION_EXPIRES_IN_X_TURNS">
-      <Text>(Hết hiệu lực trong [ICON_TURN] {1_Turns} Lượt)</Text>
-	  </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_EMERGENCIES">
-      <Text>Người lãnh đạo này có thể xem xét những trường hợp Khẩn cấp của bạn.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOMACY_EMERGENCIES_TARGET_YOU">
-      <Text>Đang nhắm tới bạn:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOMACY_EMERGENCIES_PARTICIPATING_YOU">
-      <Text>Đang hỗ trợ bạn:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_REPORT_EMERGENCY">
-      <Text>Báo cáo: Khẩn cấp</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLOACTION_EMERGENCY_TAB_TOOLTIP">
-      <Text>Khẩn cấp</Text>
-    </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_LEVEL">
+            <Text>Cấp độ {1_Level}</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_REPORT_ALLIANCE">
+            <Text>Báo cáo: Liên minh</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TOOLTIP">
+            <Text>Xem xét ảnh hưởng của nhà lãnh đạo này với Liên minh trong hiện tại cũng như tương lai.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TURNS_TO_LEVEL">
+            <Text>{1_CurrentTurns} / {2_TurnsToLevel}</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOACTION_CURRENT_ALLIANCE">
+            <Text>Liên minh Hiện tại:</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOACTION_BENEFITS_NEXT_LEVEL">
+            <Text>Lợi ích được thêm khi nhảy sang Cấp độ Kế tiếp:</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOACTION_BENEFITS_CURRENT_LEVEL">
+            <Text>Những Liên minh Sẵn có:</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOACTION_NO_CURRENT_ALLIANCE">
+            <Text>Hiện tại bạn đang không liên minh với người chơi này.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOACTION_EXPIRES_IN_X_TURNS">
+            <Text>(Hết hiệu lực trong [ICON_TURN] {1_Turns} Lượt)</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_EMERGENCIES">
+            <Text>Người lãnh đạo này có thể xem xét những trường hợp Khẩn cấp của bạn.</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOMACY_EMERGENCIES_TARGET_YOU">
+            <Text>Đang nhắm tới bạn:</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOMACY_EMERGENCIES_PARTICIPATING_YOU">
+            <Text>Đang hỗ trợ bạn:</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_REPORT_EMERGENCY">
+            <Text>Báo cáo: Khẩn cấp</Text>
+        </Replace>
+        <Replace Language='en_US' Tag="LOC_DIPLOACTION_EMERGENCY_TAB_TOOLTIP">
+            <Text>Khẩn cấp</Text>
+        </Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_AT_WAR_WITH_CS">
-			<Text>[COLOR_RED]Bạn đang có chiến tranh với Thành phố Tự trị này</Text>
+            <Text>[COLOR_RED]Bạn đang có chiến tranh với Thành phố Tự trị này</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAX_ALLIANCE_POINTS">
-			<Text>TỐI ĐA</Text>
+            <Text>TỐI ĐA</Text>
 		</Replace>
-				<Replace Language='en_US' Tag="LOC_DIPLOMACY_NEED_ALLIANCE_TO_GAIN_POINTS_TT">
-			<Text>[COLOR_RED]Chỉ có thể kiếm được điểm Liên minh khi là một phần tử của Liên minh đang còn tồn tại[ENDCOLOR][NEWLINE]{1_CityDetails}</Text>
+        <Replace Language='en_US' Tag="LOC_DIPLOMACY_NEED_ALLIANCE_TO_GAIN_POINTS_TT">
+            <Text>[COLOR_RED]Chỉ có thể kiếm được điểm Liên minh khi là một phần tử của Liên minh đang còn tồn tại[ENDCOLOR][NEWLINE]{1_CityDetails}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_FLAG_TT">
-			<Text>{1_AllianceType}[NEWLINE]Cấp {2_AllianceLevel}</Text>
+            <Text>{1_AllianceType}[NEWLINE]Cấp {2_AllianceLevel}</Text>
 		</Replace>
-  </LocalizedText>
+    </LocalizedText>
 </GameData>

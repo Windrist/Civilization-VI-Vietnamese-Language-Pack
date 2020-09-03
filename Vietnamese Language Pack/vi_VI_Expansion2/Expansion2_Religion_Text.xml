@@ -2,93 +2,93 @@
 <GameData>
 	<LocalizedText>
 		<!-- Pantheon-->
-		<Replace Language='en_US' Tag = "LOC_BELIEF_GODDESS_OF_FIRE_NAME">
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FIRE_NAME">
 		    <Text>Nữ thần lửa</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_GODDESS_OF_FIRE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FIRE_DESCRIPTION">
 		    <Text>+2 [ICON_FAITH] Đức tin từ Khe nứt địa nhiệt và đất núi lửa.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_GOD_OF_CRAFTSMEN_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_EXPANSION2_DESCRIPTION">
 		    <Text>+1 [ICON_Production] Sản xuất và +1 [ICON_Faith] Đức tin từ các tài nguyên Chiến lược được cải thiện.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_DIVINE_SPARK_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_DIVINE_SPARK_EXPANSION2_DESCRIPTION">
 		    <Text>+1 [ICON_GreatPerson] Nhân vật tuyệt vời Điểm từ Thánh địa (Nhà tiên tri), Khuôn viên có Thư viện (Nhà khoa học) và Quảng trường Nhà hát với Nhà hát vòng tròn (Nhà văn).</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_EARTH_GODDESS_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_EARTH_GODDESS_EXPANSION2_DESCRIPTION">
 		    <Text>+2 Niềm tin [ICON_Faith] từ các ô với Lời kêu gọi ngoạn mục.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_GODDESS_OF_THE_HUNT_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_EXPANSION2_DESCRIPTION">
 		    <Text>+1 [ICON_Food] Thức ăn và +1 [ICON_Production] Sản xuất từ ​​các Trại.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_GODDESS_OF_FESTIVALS_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_EXPANSION2_DESCRIPTION">
 		    <Text>+1 [ICON_Culture] Văn hóa từ đồn điền.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_FERTILITY_RITES_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_FERTILITY_RITES_EXPANSION2_DESCRIPTION">
 		    <Text>Khi được chọn, hãy nhận một Thợ xây bằng vốn của bạn. Tốc độ tăng trưởng của thành phố cao hơn 10%.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_RELIGIOUS_SETTLEMENTS_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_EXPANSION2_DESCRIPTION">
 		    <Text>Khi được chọn, hãy nhận một Người di cư trong vốn của bạn. Tốc độ mở rộng đường viền nhanh hơn 15%.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_RIVER_GODDESS_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_RIVER_GODDESS_EXPANSION2_DESCRIPTION">
 		    <Text>+2 [ICON_Amenities] Tiện nghi và +2 [ICON_Housing] Nhà ở ở các thành phố nếu họ có quận Thánh địa tiếp giáp với Sông.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_INITIATION_RITES_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_INITIATION_RITES_EXPANSION2_DESCRIPTION">
 		    <Text>+50 [ICON_Faith] Đức tin cho mỗi Tiền đồn man rợ bị xóa. Đơn vị đã dọn sạch Tiền đồn man rợ hồi máu +100 HP.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_EXPANSION2_DESCRIPTION">
 		    <Text>+2 [ICON_Production] Sản xuất từ ​​Đồng bằng ngập lụt đầm lầy, ốc đảo và sa mạc.</Text>
 		</Replace>
 		<!-- Follower-->
-		<Replace Language='en_US' Tag = "LOC_BELIEF_HOLY_WATERS_NAME">
+		<Replace Language='en_US' Tag="LOC_BELIEF_HOLY_WATERS_NAME">
 		    <Text>Nước Thánh</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_HOLY_WATERS_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_HOLY_WATERS_DESCRIPTION">
 		    <Text>Tăng khả năng chữa bệnh cho các đơn vị tôn giáo của bạn lên +10 ở các quận của Thánh địa thuộc các thành phố có tôn giáo đa số của bạn hoặc bất kỳ ô lân cận nào.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_FEED_THE_WORLD_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_FEED_THE_WORLD_EXPANSION2_DESCRIPTION">
 		    <Text>Các ngôi đền và đền thờ cung cấp +3 [ICON_FOOD] Thức ăn và +2 [ICON_HOUSING] Nhà ở mỗi thứ.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_RELIGIOUS_COMMUNITY_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_EXPANSION2_DESCRIPTION">
 		    <Text>Các tuyến đường thương mại [ICON_TradeRoute] quốc tế cung cấp +1 [ICON_GOLD] Vàng cho mỗi Đền và Điện thờ ở thành phố gốc.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_WARRIOR_MONKS_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_WARRIOR_MONKS_EXPANSION2_DESCRIPTION">
 		    <Text>Cho phép sử dụng [ICON_FAITH] Đức tin để huấn luyện các nhà sư chiến binh (Một đơn vị chiến đấu trên bộ) và các ô liền kề của Culture Bomb khi hoàn thành một Thánh địa.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_WORK_ETHIC_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_WORK_ETHIC_EXPANSION2_DESCRIPTION">
 		    <Text>Phần thưởng tiếp theo của quận Thánh địa [ICON_Faith] Đức tin cũng cung cấp cho [ICON_Production] Sản xuất.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_SACRED_PLACES_NAME">
+		<Replace Language='en_US' Tag="LOC_BELIEF_SACRED_PLACES_NAME">
 		    <Text>Địa điểm linh thiêng</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_SACRED_PLACES_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_SACRED_PLACES_DESCRIPTION">
 		    <Text>+2 [ICON_SCIENCE] Khoa học, [ICON_CULTURE] Văn hóa, [ICON_GOLD] Vàng và [ICON_FAITH] Đức tin cho mỗi thành phố theo Tôn giáo có Kỳ quan Thế giới này.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_EXPANSION2_DESCRIPTION">
 		    <Text>+1 [ICON_SCIENCE] Khoa học cho mỗi 4 người theo Tôn giáo này.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_LAY_MINISTRY_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_LAY_MINISTRY_EXPANSION2_DESCRIPTION">
 		    <Text>+1 [ICON_FAITH] Đức tin hoặc +1 [ICON_CULTURE] Văn hóa từ mỗi khu Thánh địa hoặc Quảng trường Nhà hát tương ứng cho mỗi thành phố theo Tôn giáo này.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_PILGRIMAGE_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_PILGRIMAGE_EXPANSION2_DESCRIPTION">
 		    <Text>+2 [ICON_FAITH] Đức tin cho mỗi thành phố theo Tôn giáo này.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_STEWARDSHIP_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_STEWARDSHIP_EXPANSION2_DESCRIPTION">
 		    <Text>+1 [ICON_SCIENCE] Khoa học hoặc +1 [ICON_GOLD] Vàng từ từng Khu học xá hoặc Khu trung tâm thương mại tương ứng cho mỗi thành phố theo Tôn giáo này.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_TITHE_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_TITHE_EXPANSION2_DESCRIPTION">
 		    <Text>+3 [ICON_GOLD] Vàng cho mỗi thành phố theo Đạo.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_WORLD_CHURCH_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_WORLD_CHURCH_EXPANSION2_DESCRIPTION">
 		    <Text>+1 [ICON_CULTURE] Văn hóa cho mỗi 4 người theo Tôn giáo này.</Text>
 		</Replace>
 		<!-- Worship-->
-		<Replace Language='en_US' Tag = "LOC_BELIEF_DAR_E_MEHR_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_DAR_E_MEHR_EXPANSION2_DESCRIPTION">
 		    <Text>Cho phép xây dựng Dar-e Mehrs (+3 [ICON_Faith] Đức tin, +1 [ICON_FAITH] Đức tin bổ sung cho mỗi thời đại kể từ khi xây dựng hoặc sửa chữa lần cuối. Không thể bị thiên tai tàn phá.).</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_GURDWARA_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_GURDWARA_EXPANSION2_DESCRIPTION">
 		    <Text>Cho phép xây dựng Gurdwaras (+3 [ICON_Faith] Đức tin, +2 [ICON_Food] Thực phẩm, +1 [ICON_Housing] Nhà ở).</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_BELIEF_PAGODA_EXPANSION2_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BELIEF_PAGODA_EXPANSION2_DESCRIPTION">
 		    <Text>Cho phép xây dựng Chùa (+3 [ICON_Faith] Đức tin, +1 [ICON_Favor] Sự ủng hộ ngoại giao mỗi lượt.).</Text>
 		</Replace>
 	</LocalizedText>

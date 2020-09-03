@@ -2,172 +2,172 @@
 <GameData>
 	<LocalizedText>
 		<!--Moments-->
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER">
 		    <Text>Thành phố gần Sông lũ</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER_DESCRIPTION">
 		    <Text>Một thành phố được đặt trong vòng 2 ô của một con sông có thể ngập lụt.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER_INSTANCE_DESCRIPTION">
 		    <Text>Công dân của {CityName} thích nghi với ngôi nhà mới của họ và để mắt đến con sông gần đó.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO">
 		    <Text>Thành phố gần Núi lửa</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO_DESCRIPTION">
 		    <Text>Một thành phố nằm trong 2 ô của một ngọn núi lửa có thể phun trào.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO_INSTANCE_DESCRIPTION">
 		    <Text>"Chúng tôi sẽ ổn thôi," các công dân của {CityName} nói. "Tất cả các ngọn núi đều có khói một chút, phải không?"</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST">
 		    <Text>Tài nguyên đầu tiên được tiêu thụ cho nguồn điện</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_DESCRIPTION">
 		    <Text>Nền văn minh của bạn sử dụng tài nguyên để tạo ra [ICON_Power] Năng lượng cho các thành phố của nó.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_INSTANCE_DESCRIPTION">
 		    <Text>Máy móc bốc cháy và làn khói cuồn cuộn đánh dấu thời điểm chúng tôi bắt đầu sản xuất điện.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD">
 		    <Text>Tài nguyên đầu tiên được tiêu thụ cho năng lượng trong Thế giới</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD_DESCRIPTION">
 		    <Text>Nền văn minh của bạn là nền văn minh đầu tiên trên thế giới sử dụng tài nguyên để tạo ra năng lượng cho các thành phố của nó.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
 		    <Text> Khói bốc lên! Máy móc ồn ào! Sức mạnh của thiên nhiên đã được khai thác bởi {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} vì sức mạnh và sự tiến bộ!</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CLIMATE_CHANGE_PHASE">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE">
 		    <Text>Giai đoạn Biến đổi Khí hậu</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CLIMATE_CHANGE_PHASE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE_DESCRIPTION">
 		    <Text>Lượng khí thải CO2 đã tăng đủ để thay đổi khí hậu thế giới đến mức nguy hiểm hơn.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CLIMATE_CHANGE_PHASE_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE_INSTANCE_DESCRIPTION">
 		    <Text>Thế giới đạt đến {ClimateChangeName}, gây ra những hậu quả nghiêm trọng cho môi trường toàn cầu.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_DISTRICT_CONTHERED_CANAL">
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONTHERED_CANAL">
 		    <Text>Kênh đã hoàn thành</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_DISTRICT_CONTHERED_CANAL_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONTHERED_CANAL_DESCRIPTION">
 		    <Text>Bạn đã hoàn thành quận Canal đầu tiên của nền văn minh của mình.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_DISTRICT_CONTHERED_CANAL_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONTHERED_CANAL_INSTANCE_DESCRIPTION">
 		    <Text>Việc mở Kênh {CityName} mang lại sự thịnh vượng và thương mại mới.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST">
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST">
 		    <Text>Chính phủ cấp 4 đầu tiên</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_DESCRIPTION">
 		    <Text>Nền văn minh của bạn thông qua Chính phủ Cấp 4 đầu tiên.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_INSTANCE_DESCRIPTION">
 		    <Text>Nhân dân của chúng tôi tiếp tục phát triển hệ thống chính trị của họ và nỗ lực thành lập chính phủ mới mang tính cách mạng của {GovernmentType}.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD">
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD">
 		    <Text>Chính phủ cấp 4 đầu tiên trên thế giới</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD_DESCRIPTION">
 		    <Text>Nền văn minh của bạn là nền văn minh đầu tiên áp dụng Chính phủ Cấp 4 trên thế giới.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
 		    <Text>Những người mạnh dạn của {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} đã phát triển một hệ thống chính trị mới của {GovernmentType}, khởi đầu một kỷ nguyên quản trị mới!</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST">
 		    <Text>Đường hầm trên núi đầu tiên</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST_DESCRIPTION">
 		    <Text>Nền văn minh của bạn xây dựng Đường hầm trên núi đầu tiên.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST_INSTANCE_DESCRIPTION">
 		    <Text>Ngồi xuống và để tôi hát cho bạn nghe bản ballad về cách John Henry đào đường hầm trên núi đầu tiên trong {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD">
 		    <Text>Đường hầm trên núi đầu tiên trên thế giới</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD_DESCRIPTION">
 		    <Text>Nền văn minh của bạn là nền văn minh đầu tiên xây dựng Đường hầm trên núi trên thế giới.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
 		    <Text>Những ngọn núi không phải là trở ngại đối với người dân {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}, vì họ là những người đầu tiên trên thế giới xây dựng một đường hầm xuyên qua chúng.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_ON_DISASTER_YIELD_TILE_FIRST">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_ON_DISASTER_YIELD_TILE_FIRST">
 		    <Text>Cải thiện đầu tiên sau thảm họa thiên nhiên</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_ON_DISASTER_YIELD_TILE_FIRST_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_ON_DISASTER_YIELD_TILE_FIRST_DESCRIPTION">
 		    <Text>Nền văn minh của bạn xây dựng bước cải tiến đầu tiên trên nền tảng đã được bồi đắp bởi một thảm họa thiên nhiên.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_ON_DISASTER_YIELD_TILE_FIRST_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_ON_DISASTER_YIELD_TILE_FIRST_INSTANCE_DESCRIPTION">
 		    <Text>Những người thích nghi của {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} xây dựng sau thảm họa thiên nhiên, tận dụng lợi thế của vùng đất được tái tạo.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST">
 		    <Text>Cải tiến xanh đầu tiên</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST_DESCRIPTION">
 		    <Text>Nền văn minh của bạn xây dựng bước cải tiến đầu tiên dành riêng cho việc cung cấp nguồn [ICON_Power] tái tạo.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST_INSTANCE_DESCRIPTION">
 		    <Text>Bây giờ chúng tôi đã xây dựng {Cải tiếnType} này để sản xuất điện sạch, có lẽ làn khói của {CityName} sẽ bắt đầu tan biến.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST_IN_WORLD">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST_IN_WORLD">
 		    <Text>Cải tiến xanh đầu tiên trên thế giới</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST_IN_WORLD_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST_IN_WORLD_DESCRIPTION">
 		    <Text>Nền văn minh của bạn là nền văn minh đầu tiên xây dựng một cải tiến ô vuông dành riêng cho việc cung cấp nguồn [ICON_Power] tái tạo trên thế giới.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_RENEWABLE_ENERGY_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
 		    <Text>Khi công dân của {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} cổ vũ khai trương {Cải thiệnType} mới của họ ở gần {CityName}, mặt trời không còn mây nữa. Bầu trời dường như sạch hơn!</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_MITIGATED_COASTAL_FLOOD">
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD">
 		    <Text>Giảm nhẹ lũ lụt ven biển</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_MITIGATED_COASTAL_FLOOD_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD_DESCRIPTION">
 		    <Text>Hàng rào chắn lũ của bạn đã ngăn chặn thiệt hại thảm khốc do lũ lụt ven biển.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_MITIGATED_COASTAL_FLOOD_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD_INSTANCE_DESCRIPTION">
 		    <Text>Biển dâng đập mạnh vào Rào cản lũ lụt ở {CityName}, nhưng thành phố vẫn an toàn.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_MITIGATED_RIVER_FLOOD">
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD">
 		    <Text>Giảm nhẹ lũ lụt trên sông</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_MITIGATED_RIVER_FLOOD_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD_DESCRIPTION">
 		    <Text>Cơ sở hạ tầng do bạn xây dựng đã tránh được thiệt hại do lũ lụt trên sông.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_MITIGATED_RIVER_FLOOD_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD_INSTANCE_DESCRIPTION">
 		    <Text>Nước của {RiverName} dâng cao, nhưng tầm nhìn xa của chúng tôi đã ngăn lũ lụt ở vùng đất xung quanh.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT">
 		    <Text>Quyết thắng ngoại giao đã giành được</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT_DESCRIPTION">
 		    <Text>Bạn đã giành được giải thưởng Chiến thắng Ngoại giao và kiếm được Điểm Chiến thắng.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT_INSTANCE_DESCRIPTION">
 		    <Text>Chúng tôi đã giành được sự tôn trọng của các nền văn minh trên thế giới, và ngay cả những kẻ thù của chúng tôi cũng phải thừa nhận sự thật này.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET">
 		    <Text>Ra mắt chuyến thám hiểm ngoài hành tinh</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_DESCRIPTION">
 		    <Text>Bạn đã khởi động cuộc thám hiểm của nền văn minh của mình đến một hành tinh xa xôi.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_INSTANCE_DESCRIPTION">
 		    <Text>Chuyến thám hiểm của chúng tôi đến một hành tinh xa xôi rời khỏi quỹ đạo, khi mọi người của chúng tôi xem với đôi mắt đầy hy vọng và đẫm nước mắt.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD">
 		    <Text>Ra mắt chuyến thám hiểm ngoại hành tinh đầu tiên trên thế giới</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD_DESCRIPTION">
 		    <Text>Bạn là người đầu tiên trên thế giới khởi động một chuyến thám hiểm đến một hành tinh xa xôi.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
 		    <Text>Tàu vũ trụ từ {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} lướt từ trọng lực của trái đất, trên đường đến định cư một thế giới xa xôi, đông đúc người, nguồn cung cấp và hy vọng.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES">
+		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES">
 		    <Text>Kết nối đường sắt đầu tiên</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_DESCRIPTION">
 		    <Text>Nền văn minh của bạn xây dựng Tuyến đường sắt đầu tiên để kết nối hai thành phố của bạn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_INSTANCE_DESCRIPTION">
@@ -176,88 +176,88 @@
 		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD">
 			<Text>Kết nối đường sắt đầu tiên trên thế giới</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD_DESCRIPTION">
 		    <Text>Nền văn minh của bạn là nền văn minh đầu tiên xây dựng Đường sắt để kết nối hai thành phố của nó trên thế giới.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
 		    <Text>Một chiếc búa mang về cho ngôi nhà một chiếc đinh vàng, tiếng reo hò của đám đông, vì người dân của {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} đã hoàn thành tuyến đường sắt đầu tiên trên thế giới giữa {CityName} và {OtherCityName}!</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_UNIT_TOURISM_BOMB">
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB">
 		    <Text>Buổi hòa nhạc đầu tiên của ban nhạc rock</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_UNIT_TOURISM_BOMB_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_DESCRIPTION">
 		    <Text>Nền văn minh của bạn biểu diễn buổi hòa nhạc đầu tiên của Ban nhạc Rock.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_UNIT_TOURISM_BOMB_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_INSTANCE_DESCRIPTION">
 		    <Text>Ban nhạc nổi tiếng thế giới từ {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} ra mắt trước một lượng lớn người hâm mộ vui vẻ.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD">
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD">
 		    <Text>Buổi hòa nhạc ban nhạc rock đầu tiên trên thế giới</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD_DESCRIPTION">
 		    <Text>Nền văn minh của bạn là nơi đầu tiên biểu diễn buổi hòa nhạc của Ban nhạc Rock trên thế giới.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
 		    <Text>Đám đông khổng lồ cổ vũ khi ban nhạc từ {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} bước lên sân khấu trong một buổi hòa nhạc xác định thời đại.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL">
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL">
 		    <Text>Giá thầu Nghị quyết Đại hội Thế giới đã giành được</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL_DESCRIPTION">
 		    <Text>Bạn đã thắng thầu thành công một Nghị quyết và có thể xác định kết quả của nó.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL_INSTANCE_DESCRIPTION">
 		    <Text>Bằng cách đấu thầu thành công một Nghị quyết, chúng tôi thực hiện bước đầu tiên để nắm quyền tại Đại hội Thế giới: Năng lực định hình các ưu tiên của thế giới.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER">
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER">
 		    <Text>Cuộc bỏ phiếu về Nghị quyết của Đại hội Thế giới đã giành được một mình</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER_DESCRIPTION">
 		    <Text>Mặc dù là người duy nhất bỏ phiếu cho nó, nhưng Nghị quyết bạn đã chọn đã được đưa ra Đại hội thế giới để xem xét.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER_INSTANCE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER_INSTANCE_DESCRIPTION">
 		    <Text>Lá phiếu duy nhất của chúng tôi đưa ra Nghị quyết này cho thấy rằng nền văn minh của chúng tôi là một thành viên thực sự không thể thiếu của Đại hội Thế giới.</Text>
 		</Replace>>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_MARS_XP2">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_XP2">
 		    <Text>Thành lập Thuộc địa Sao Hỏa</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_MARS_DESCRIPTION_XP2">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_DESCRIPTION_XP2">
 		    <Text>Bạn đã thành lập một thuộc địa trên sao Hỏa.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_MARS_INSTANCE_DESCRIPTION_XP2">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_INSTANCE_DESCRIPTION_XP2">
 		    <Text>Chắc chắn, bất kỳ ai cũng có thể thiết lập sự hiện diện trên sao Hỏa. Nhưng thuộc địa của chúng tôi là tốt nhất.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_XP2">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_XP2">
 		    <Text>Thành lập thuộc địa trên sao Hỏa đầu tiên trên thế giới</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_DESCRIPTION_XP2">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_DESCRIPTION_XP2">
 		    <Text>Bạn là người đầu tiên trên thế giới thành lập thuộc địa trên sao Hỏa.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION_XP2">
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION_XP2">
 		    <Text>Một kỹ sư chứng kiến ​​một tiếng sét tên lửa từ bệ phóng, đưa những người thuộc địa đến một cuộc sống mới. "Điều này thực sự đang xảy ra," cô nói. "Chúng ta sẽ đến sao Hỏa."</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_IMPROVEMENT_CONTHERED_FIRST_UNIQUE_DESCRIPTION_XP2">
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONTHERED_FIRST_UNIQUE_DESCRIPTION_XP2">
 		    <Text>Lần đầu tiên các nhà xây dựng của bạn đã xây dựng cải tiến ô duy nhất này.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_EXPANSION2_GOLDEN_AGE">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_EXPANSION2_GOLDEN_AGE">
 		    <Text>Bầu trời và những vì sao Thời kì Hoàng kim: [NEWLINE] Mở khóa Eurekas [ICON_TechBoosted] cho Vệ tinh, Hạt nhân và Công nghệ nano nếu ở trong Kỷ nguyên Thông tin. Khi được chọn trong Kỷ nguyên Tương lai, các Eurekas [ICON_TechBoosted] cho Vật liệu Thông minh, Hệ thống Dự đoán và Nhiệm vụ Ngoại giới sẽ được mở khóa. +100% XP kiếm được cho tất cả các Đơn vị Không quân. Các mỏ nhôm tích lũy thêm +2 tài nguyên mỗi lượt.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_ERA_REVIEW_POPUP_ERA_SCORE_NON_BARBARIAN_UNITS_KILLED_BY_GDR">
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_NON_BARBARIAN_UNITS_KILLED_BY_GDR">
 		    <Text>Phần thưởng cống hiến: Các đơn vị không phải man rợ bị giết bởi Robot tử thần khổng lồ (+{1_ScoreIncrement} mỗi đơn vị)</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_GDR_KILL_OPPONENT_NOTIFICATION">
+		<Replace Language='en_US' Tag="LOC_GDR_KILL_OPPONENT_NOTIFICATION">
 		    <Text>Bạn đã tiêu diệt một đơn vị không phải là Man rợ bằng Robot tử thần khổng lồ.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CATEGORY_AUTOMATON">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AUTOMATON">
 		    <Text>Automaton Warfare</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_GOLDEN_AGE">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_GOLDEN_AGE">
 		    <Text>Thời kỳ hoàng kim của Automaton Warfare: [NEWLINE] Nhận được một Robot Tử thần khổng lồ ở thủ đô của bạn. Nhận 3 [ICON_Resource_Uranium] Uranium mỗi lượt. [ICON_Resource_Uranium] Các mỏ uranium tích lũy thêm +1 tài nguyên mỗi lượt.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_NORMAL_AGE">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_NORMAL_AGE">
 		    <Text>Phần thưởng cống hiến cho Automaton Warfare: [NEWLINE] Nhận được Điểm kỷ nguyên +1 mỗi khi bạn tiêu diệt một đơn vị không phải Man rợ bằng Robot tử thần khổng lồ.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag = "LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_DARK_AGE">
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_DARK_AGE">
 		    <Text>Phần thưởng cống hiến cho Automaton Warfare: [NEWLINE] Nhận được Điểm kỷ nguyên +1 mỗi khi bạn tiêu diệt một đơn vị không phải Man rợ bằng Robot tử thần khổng lồ.</Text>
 		</Replace>
 	</LocalizedText>

@@ -197,7 +197,6 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_AGENDA_EXPLANATION">
       		<Text>[NEWLINE](Bạn đã hài lòng chương trình nghị sự của {Name}, {Agenda})</Text>
     	</Replace>
-
 		<!-- AI Warnings-->
 		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_ANY_ANY">
 			<Text/>
@@ -359,7 +358,7 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MED_ATACK_CITY_STATES">
 		  <Text>Hãy xem đây là lời cảnh báo. Tuyệt đối đừng tấn công những thế lực nhỏ yếu nữa.</Text>
 		</Replace>
-    <!--Warnings for future random agendas (not yet implemented)-->
+    	<!--Warnings for future random agendas (not yet implemented)-->
 		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_AIRPOWER">
 			<Text>Chẳng có gì là huy hoàng nếu cứ giữ đôi chân mãi trên mặt đất. Ngài phải thử xây dựng một không lực.</Text>
 		</Replace>
