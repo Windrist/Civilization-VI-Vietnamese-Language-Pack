@@ -47,10 +47,10 @@ CREATE TABLE FontStyleSheets('Language' TEXT NOT NULL,
 							
 -- These views and triggers are temporary and are used to simplify the XML files used to populate the database.
 -- They are dropped in post processing.
-CREATE VIEW LocalizedText AS
+CREATE VIEW EnglishText AS
 	SELECT Tag, Text, Gender, Plurality FROM LocalizedText WHERE Language = 'en_US';
 	
-CREATE TRIGGER AddLocalizedText INSTEAD OF INSERT ON LocalizedText
+CREATE TRIGGER AddEnglishText INSTEAD OF INSERT ON EnglishText
 BEGIN
 	INSERT INTO LocalizedText ('Language', 'Tag', 'Text', 'Gender', 'Plurality') VALUES('en_US', NEW.Tag, NEW.Text, NEW.Gender, NEW.Plurality);
 END;
