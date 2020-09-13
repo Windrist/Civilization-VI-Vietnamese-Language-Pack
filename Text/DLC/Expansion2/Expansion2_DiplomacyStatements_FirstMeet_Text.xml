@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- First AI line -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_DIDO_ANY">
+		    <Text>Tôi, Dido, nữ hoàng và mẹ của Carthage, xin chào bạn thay mặt cho người Phoenicia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_ELEANOR_ENGLAND_ANY">
+		    <Text>Chào mừng đến với tòa án của Eleanor, Nữ công tước xứ Aquitaine, phối ngẫu của Nữ hoàng Pháp và Anh, vị thẩm phán tình yêu. Tin tức nào?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_ELEANOR_FRANCE_ANY">
+		    <Text>Chào mừng đến với tòa án của Eleanor, Nữ công tước xứ Aquitaine, phối ngẫu của Nữ hoàng Pháp và Anh, vị thẩm phán tình yêu. Tin tức nào?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_KRISTINA_ANY">
+		    <Text>Tôi là Kristina, nữ hoàng Thụy Điển, người bảo trợ nghệ thuật và chữ cái. Tôi có chào hỏi một người yêu học hỏi không?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_KUPE_ANY">
+		    <Text>Tôi là Kupe hoa tiêu, và bạn đến gần nơi của người Maori. Bạn sẽ kể cho tôi nghe về bản thân chứ?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_LAURIER_ANY">
+		    <Text>Thay mặt cho người dân Canada, xin chào mừng. Tôi là Thủ tướng Laurier.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_MANSA_MUSA_ANY">
+		    <Text>Tôi là Sultan Musa, chúa tể của Mali, và - tạ ơn Chúa - một người đàn ông rất, rất giàu. Tôi rất vui được gặp bạn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_MATTHIAS_CORVINUS_ANY">
+		    <Text>Tôi là Matthias. Tôi là Vua của Hungary, tai họa của kẻ thù của tôi, và là người bảo vệ trung thành. Xin chào.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_PACHACUTI_ANY">
+		    <Text>Bạn đứng trước Pachacuti Inca Yupanqui. Tôi chấp nhận lời chào của bạn và dịch vụ bạn có thể cung cấp cho Inca.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_SULEIMAN_ANY">
+		    <Text>Từ sự tráng lệ của Topkapi, tôi, Suleiman, Kayser-I Rum, xin gửi đến các bạn sự chào đón của tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_DIDO_ANY">
+		    <Text>Hãy đến và xem các thành phố Phoenicia tuyệt vời. Mang lời của nó trở lại đất của bạn và đến phần còn lại của thế giới.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ELEANOR_ENGLAND_ANY">
+		    <Text>Tôi đã mời những du khách từ vùng đất của bạn đến và tham quan tòa án công bằng của tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ELEANOR_FRANCE_ANY">
+		    <Text>Tôi đã mời những du khách từ vùng đất của bạn đến và tham quan tòa án công bằng của tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KRISTINA_ANY">
+		    <Text>Chúng tôi rất hoan nghênh các đại diện của bạn đến và xem các bộ sưu tập của tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KUPE_ANY">
+		    <Text>Tôi đã đưa người của bạn đến với marae của tôi, điều này khiến họ tôn vinh. Tôi hy vọng bạn cũng sẽ dành sự tôn trọng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LAURIER_ANY">
+		    <Text>Mời bạn đến thăm thủ đô của Canada. Nhân viên của chúng tôi sẽ rất vinh dự khi bạn đến thăm.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MANSA_MUSA_ANY">
+		    <Text>Vui lòng đến thăm thủ đô của Mali! Đó là một nơi học tập tuyệt vời — và cả lợi nhuận nữa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MATTHIAS_CORVINUS_ANY">
+		    <Text>Đích thân tôi sẽ dẫn dắt các đại biểu của bạn tham quan thủ đô của tôi, để họ có thể hiểu đầy đủ hơn về sức mạnh của Hungary.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PACHACUTI_ANY">
+		    <Text>Hãy đến và chứng kiến ​​những gì người Inca đã làm dưới sự hướng dẫn của tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SULEIMAN_ANY">
+		    <Text>Tôi hoan nghênh các vị đại diện của các bạn đến tham quan cung điện và thủ đô của tôi, để họ có thể ngưỡng mộ sự uy nghiêm của nó.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_DIDO_ANY">
+		    <Text>Tốt. Ưu đãi này mang lại lợi ích cho cả nhân viên của chúng tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ELEANOR_ENGLAND_ANY">
+		    <Text>Các điều khoản của bạn tốt. Hãy để những cơ hội may rủi của chúng tôi tìm ra chi tiết.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ELEANOR_FRANCE_ANY">
+		    <Text>Các điều khoản của bạn tốt. Hãy để những cơ hội may rủi của chúng tôi tìm ra chi tiết.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KRISTINA_ANY">
+		    <Text>Thụy Điển cảm ơn bạn, tôi cũng vậy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KUPE_ANY">
+		    <Text>Có. Nhưng chỉ vì tôi là một chàng trai hào phóng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LAURIER_ANY">
+		    <Text>Canada cảm ơn bạn đã trao đổi công bằng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MANSA_MUSA_ANY">
+		    <Text>Sự thịnh vượng chúc phúc cho cả hai chúng tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MATTHIAS_CORVINUS_ANY">
+		    <Text>Có. Tôi đồng ý với các điều khoản của bạn thay mặt cho Hungary.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PACHACUTI_ANY">
+		    <Text>Có, Inca sẽ cấp cho bạn điều này.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SULEIMAN_ANY">
+		    <Text>Tuyệt vời là tổ chức từ thiện của tôi! Nó sẽ được thực hiện.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_DIDO_ANY">
+		    <Text>Hãy cho tôi biết vị trí thủ đô của bạn để bản đồ của chúng tôi có thể hoàn chỉnh. Tôi sẽ chia sẻ vị trí thủ đô của chúng ta để đổi lấy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ELEANOR_ENGLAND_ANY">
+		    <Text>Tôi thích thú khi nghe về những vùng đất xa xôi. Nếu bạn cho tôi biết về vốn của bạn, tôi sẽ chia sẻ vị trí của tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ELEANOR_FRANCE_ANY">
+		    <Text>Tôi thích thú khi nghe về những vùng đất xa xôi. Nếu bạn cho tôi biết về vốn của bạn, tôi sẽ chia sẻ vị trí của tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KRISTINA_ANY">
+		    <Text>Tôi sẽ thông báo cho các đại biểu của bạn về vị trí thủ đô của chúng tôi, nhưng tôi mong rằng bạn sẽ dành cho chúng tôi sự ưu ái tương tự.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KUPE_ANY">
+		    <Text>Tôi sẽ chào đón những vị khách từ bạn đến với mẹ của tôi, nhưng đổi lại, bạn nên cho tôi biết thủ đô của bạn ở đâu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LAURIER_ANY">
+		    <Text>Chúng tôi rất hân hạnh được chào đón các đại diện đến tìm hiểu về thủ đô của chúng tôi. Cho chúng tôi sự lịch sự tương tự, nếu bạn muốn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MANSA_MUSA_ANY">
+		    <Text>Chúng ta có nên lấp đầy những chỗ trống trên bản đồ bằng vị trí của các thủ đô chung của chúng ta không?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MATTHIAS_CORVINUS_ANY">
+		    <Text>Tôi mời mọi người của bạn tìm hiểu về thủ đô của Hungary, nhưng chỉ khi bạn cho tôi quyền tương tự.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PACHACUTI_ANY">
+		    <Text>Nếu người do thám của bạn có thể leo cao đến cung điện của tôi, họ có thể biết được vị trí của nó. Nhưng tôi sẽ hỏi vị trí thủ đô của bạn để đổi lại.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SULEIMAN_ANY">
+		    <Text>Nếu bạn cho tôi biết vị trí thủ đô của bạn, tôi sẽ tặng một món quà về vị trí thủ đô của mình, như một dấu hiệu cho thấy ý định hào phóng của tôi.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

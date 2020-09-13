@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Admirals -->
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_YI_SUN_SIN_EXPANSION2_ACTIVE">
+		    <Text>Tạo ngay đơn vị Ironclad với 1 mức thăng hạng. Cấp 1 [ICON_RESOURCE_Coal] Than đá mỗi lượt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_EXPANSION2_ACTIVE">
+		    <Text>Tạo ngay một đơn vị Chiến hạm với 1 mức thăng cấp. Cấp 1 [ICON_RESOURCE_Coal] Than đá mỗi lượt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_CHESTER_NIMITZ_EXPANSION2_ACTIVE">
+		    <Text>Tạo ngay một đơn vị Tàu ngầm với 1 mức thăng cấp. Cấp 1 [ICON_RESOURCE_Oil] Dầu mỗi lượt. +20% [ICON_Production] Sản xuất đối với các đơn vị thuộc hạng thăng hạng Naval Raider.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_ZHENG_HE_EXPANSION2_ACTIVE">
+		    <Text>Cấp một đơn vị Trader miễn phí ở thành phố này và tăng công suất của [ICON_TradeRoute] Trade Route lên 1. Các tuyến thương mại [ICON_TradeRoute] nước ngoài đến thành phố này cung cấp +2 [ICON_Gold] Vàng cho cả hai thành phố.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_EXPANSION2_ACTIVE">
+		    <Text>+3 [ICON_Strength] Sức mạnh Chiến đấu cho tất cả các đơn vị hải quân.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_LEIF_ERIKSON_EXPANSION2_ACTIVE">
+		    <Text>+1 phạm vi tầm nhìn cho tất cả các đơn vị hải quân. Cho phép tất cả các đơn vị hải quân di chuyển trên các ô biển mà không cần yêu cầu công nghệ thông thường.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_CHING_SHIH_EXPANSION2_ACTIVE">
+		    <Text>Nhận được 500 [ICON_Gold] Vàng (ở tốc độ Chuẩn). Các đơn vị quân đội nhận được +60% phần thưởng cho các tuyến đường thương mại [ICON_TradeRoute] cướp bóc.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_THEMISTOCLES_EXPANSION2_ACTIVE">
+		    <Text>Tạo ngay một đơn vị Quadrireme. +20% [ICON_Production] Sản xuất cho các đơn vị thuộc hạng thăng cấp Biệt kích Hải quân.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_FRANCIS_DRAKE_EXPANSION2_ACTIVE">
+		    <Text>Tạo ngay đơn vị Privateer với 1 mức thăng hạng. Các đơn vị quân đội nhận được +50% phần thưởng khi cướp bóc [ICON_TradeRoute] Đường thương mại.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_HORATIO_NELSON_EXPANSION2_ACTIVE">
+		    <Text>Xây dựng ngay một Ngọn hải đăng và Xưởng đóng tàu ở quận này. +50% tiền thưởng bên sườn cho tất cả các đơn vị hải quân.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_GRACE_HOPPER_EXPANSION2_ACTIVE">
+		    <Text>Nhận 2 công nghệ miễn phí được chọn ngẫu nhiên.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_DOUGLAS_MACARTHUR_EXPANSION2_ACTIVE">
+		    <Text>Tạo ngay một đơn vị Xe tăng với 1 mức thăng cấp. Cấp 1 [ICON_RESOURCE_Oil] Dầu mỗi lượt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_EXPANSION2_ACTIVE">
+		    <Text>Cấp 3 [ICON_RESOURCE_OIL] Dầu mỗi lượt. [ICON_TradeRoute] Trade Routes của bạn nhận được +2 [ICON_Gold] Vàng cho mỗi tài nguyên Chiến lược tại thành phố đích.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

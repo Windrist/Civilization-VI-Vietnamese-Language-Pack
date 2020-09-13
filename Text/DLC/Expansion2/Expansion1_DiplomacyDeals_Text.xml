@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_THIRD_PARTY_WAR_NAME">
+			<Text>Tham chiến</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_THIRD_PARTY_WAR_DESCRIPTION">
+			<Text>Tham chiến cùng người chơi khác chống lại một nền văn minh đang làm bị chọn làm mục tiêu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_NAME">
+			<Text>Tuyên bố Chiến tranh thời kỳ Hoàng kim</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION_NAME">
+			<Text>Tuyên bố Chiến tranh Trả thù</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_DECLARE_IDEOLOGICAL_WAR_NAME">
+			<Text>Tuyên bố Chiến tranh Chủ nghĩa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
+			<Text>Thành lập liên minh với một nền văn minh đã tuyên bố hữu nghị. Đồng minh có thể không tham chiến, tự động mở Biên giới, tự động thành lập Hiệp ước phòng thủ và mỗi nền văn minh được nhận một Casus Belli chống lại nền văn minh xâm lược một trong các thành phố của đồng minh</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME">
+			<Text>Các chế độ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_CONTENT_TITLE">
+			<Text>Tận thế</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_WELCOME_TITLE">
+			<Text>Hoan nghênh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_WELCOME_PARA_1">
+			<Text>Trong quá trình thiết lập trò chơi, người chơi có thể bật chế độ chơi Ngày tận thế, thay đổi mức độ nghiêm trọng của thảm họa, giới thiệu Đơn vị và Cuộc thi tính điểm mới, và cuối cùng nhìn thấy ngày tận thế khi hành tinh và các nền văn minh của nó bị đè bẹp bởi sao chổi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_TITLE">
+			<Text>Nhà Tiên tri</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_PARA_1">
+			<Text>Chế độ chơi TẬN THẾ giới thiệu một đơn vị mới, Nhà Tiên tri. Đơn vị này có khả năng duy nhất để gây ra thảm họa tự nhiên: đưa chúng đến một vị trí thích hợp và sử dụng hành động Nguyên nhân Thảm họa để bắt đầu lũ lụt, bão, hỏa hoạn hoặc phun trào núi lửa trong các ô lân cận.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_PARA_2">
+			<Text>Bạn chỉ có thể mua được Nhà Tiên tri bằng [ICON_Faith] Niềm tin và có thể được hộ tống. Với mỗi lần khuyến mại, họ sẽ bị tính thêm phí gây ra thảm họa. Người đánh răng không kiếm được kinh nghiệm: thay vào đó, họ mở khóa các chương trình khuyến mãi mới thông qua Cuộc thi tính điểm mới.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SCORED_COMPETITION_TITLE">
+			<Text>Xoa dịu các vị thần</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SCORED_COMPETITION_PARA_1">
+			<Text>Để kiếm được khuyến mãi cho Nhà Tiên tri của bạn, bạn sẽ cần phải tham gia Cuộc thi Xoa dịu các vị thần để ghi điểm. Điều này sẽ xuất hiện trong suốt trò chơi, cung cấp cho bạn khả năng sử dụng Nhà Tiên tri của mình để hy sinh các đơn vị chiến đấu của bạn gần núi lửa để ghi điểm. Người chơi có điểm số cao sẽ kiếm được khuyến mãi cho tất cả các Nhà Tiên tri hiện tại và tương lai của họ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_NEW_DISASTERS_TITLE">
+			<Text>Thảm họa mới</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_NEW_DISASTERS_PARA_1">
+			<Text>Hai thảm họa mới chỉ dành riêng cho chế độ chơi TẬN THẾ:[NEWLINE][ICON_BULLET] Tia sáng Mặt trời: Trên khắp thế giới, bức xạ mặt trời bắn phá hành tinh, làm hỏng các tòa nhà và công trình liên quan đến điện, cướp phá một số quận nhất định và làm hư hại các đơn vị cuối game [NEWLINE ] [ICON_BULLET] Sao chổi tấn công: Một sao chổi đâm vào hành tinh, phá hủy mọi thứ trên đường đi của nó, ngay cả các thành phố</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_END_OF_WORLD_TITLE">
+			<Text>Ngày tận thế</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_END_OF_WORLD_PARA_1">
+			<Text>Những thảm họa khủng khiếp, có tính sát thương cao, đặc biệt là các cuộc tấn công của sao chổi, trở nên phổ biến hơn sau khi biến đổi khí hậu đạt mức cực đại. Khi đó, người chơi sẽ phải nhanh chóng giành chiến thắng, nếu không ngày tận thế sẽ quyết định kẻ chiến thắng cho họ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FLARES_TITLE">
+			<Text>Bức xạ mặt trời</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FLARES_PARA_1">
+			<Text>Bức xạ Mặt trời ảnh hưởng đến toàn bộ bản đồ. Lượt mà chúng kích hoạt, chúng phá hủy các tòa nhà của Nhà máy điện [ICON_POWER] và có thể làm hỏng các thiết bị và cải tiến tiên tiến, [ICON_POWER] Các tòa nhà liên quan đến điện, Khu học xá, Khu công nghiệp và Khu cảng vũ trụ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_COMETS_TITLE">
+			<Text>Sao chổi Rơi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_COMETS_PARA_1">
+			<Text>Sao chổi Rơi ảnh hưởng đến bốn ô liền kề hoặc nhắm mục tiêu vào trung tâm thành phố, quét sạch bất cứ thứ gì cản đường chúng và làm cho ô không thể vượt qua.</Text>
+		</Replace>
+
+		<!-- units -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_1">
+			<Text>Trong thời kỳ khủng hoảng, mọi người từ lâu đã hướng tới những thứ hứa hẹn một số hình thức giải cứu. Khi trật tự tự nhiên, chính trị hoặc kinh tế bị phá vỡ, những người khéo léo xuất hiện có thể cung cấp cho mọi người một cách để ngăn chặn thảm họa, để tồn tại hoặc gây ra nó cho kẻ thù của họ. Mặc dù đơn vị Soothsayer ở đây không nhằm phản ánh bất kỳ nền văn hóa hoặc thời điểm lịch sử cụ thể nào, chúng ta có thể tìm thấy những hướng tương tự đối với những nhân vật như vậy trên khắp thế giới và xuyên lịch sử, từ phản ứng của người Mesoamerican đến sự xuất hiện của người Tây Ban Nha, đến các giáo phái thiên niên kỷ ở châu Âu, cho đến nay - Nhóm ngày như Cổng Trời.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_2">
+			<Text>Ví dụ, vào đầu thế kỷ 20, trên khắp các khu vực nói tiếng Lào của Đông Nam Á, các nhà tiên tri mới xuất hiện, những "thánh nhân". Họ hứa với những người Lào - những người đã chứng kiến lãnh thổ của họ bị chia cắt giữa quân Pháp và Xiêm, các hệ thống thuế khóa mới, và sự tàn phá thành phố Viêng Chăn - rằng những điều tồi tệ hơn sẽ xảy ra. Bò và lợn sẽ biến thành quỷ. Tiền sẽ trở nên vô giá trị, trong khi sỏi vô giá trị hiện tại sẽ trở thành vàng. Một cơn gió lớn sẽ thổi qua đất và cuốn theo bất cứ ai không thể cầm trên tay một khóm sả. Nhiều người tin rằng những người khéo léo này, thu thập sỏi và giết động vật của chính họ, tất cả đều đang chờ đợi sự thay đổi lớn sắp xảy ra.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_3">
+			<Text>Nhà Tiên tri hiếm khi kết thúc tốt đẹp. Phong trào của Lào bị quân Xiêm đàn áp, những lời cầu nguyện của người Aztec đã không ngăn được cuộc chinh phục của người Tây Ban Nha, và thời điểm kết thúc dường như không bao giờ đến.</Text>
+		</Replace>
+		<!-- promotions -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_MESSENGER_CHAPTER_HISTORY_PARA_1">
+			<Text>Những Nhà Tiên tri thường trình bày bản thân như đang giao tiếp trực tiếp với thần thánh. Một số được truyền cảm hứng bởi những giấc mơ thiêng liêng, cũng như các "thánh nam" của Lào; một số tuyên bố sở hữu các văn bản thần thánh do các vị thần ban cho họ, cũng như nhà huyền bí học đầu thế kỷ 20 Aleister Crowley; và một số người thậm chí còn nói rằng bản thân họ có liên quan đến các nhân vật thần thánh, cũng như Hong Xiuquan, thủ lĩnh của cuộc nổi dậy Taiping, người tự nhận là anh trai của Chúa Giê-su Christ. Nhưng tất cả đều có một thông điệp từ một nơi nào đó xa hơn mà họ cảm thấy buộc phải gửi đi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_INQUISITOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Người điều tra chỉ đơn giản là người đặt câu hỏi. Nhưng, kể từ Tòa án Dị giáo Tây Ban Nha, thuật ngữ này đã trở nên gắn liền với những người tìm cách khám phá những niềm tin dị giáo và loại bỏ chúng. Nếu một người có một thông điệp thiêng liêng, thì sau đó người ta phải loại bỏ những thông điệp đối nghịch.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_ZEALOT_CHAPTER_HISTORY_PARA_1">
+			<Text>Một điều hợp nhất các phong trào khải huyền khác nhau là lòng nhiệt thành của họ. Để thực hiện các hành động mà các nhóm như vậy yêu cầu và để thực hiện những hy sinh mà những người theo họ làm, những người sùng đạo của các nhóm ngày tận thế phải thống nhất với đức tin của họ. Đây là một phần lý do khiến họ trở nên thuyết phục ... và đáng sợ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_INCANTATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Các nhóm khải huyền thường có một lời cầu nguyện bí mật, và những người bói toán thường hứa rằng việc tụng kinh sẽ giữ cho một người được an toàn. Đó có thể là những cái tên bí mật của Chúa, cách gọi lặp đi lặp lại tới một "vùng đất thuần khiết", hoặc một thứ gì đó bằng ngôn ngữ bí mật đến mức ngay cả người đánh răng cũng không thể hiểu được.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_PLAGUE_BEARER_CHAPTER_HISTORY_PARA_1">
+			<Text>Các nhóm dự đoán thời điểm kết thúc đôi khi thực hiện hành động để mang lại điều đó. Bệnh dịch đã được sử dụng như một vũ khí sinh học vào thời trung cổ, đáng kể nhất là trong cuộc bao vây Caffa, nơi quân đội bao vây đã tung những cơ thể bị nhiễm bệnh vào thành phố, gây ra dịch bệnh. Nhưng chúng ta không cần phải quay ngược lại quá xa - gần đây nhất là năm 1995, giáo phái về ngày tận thế Aum Shinrikyo đã tìm cách mang lại một kỷ nguyên mới khi tấn công tàu điện ngầm Tokyo bằng khí sarin. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_COMET_LAKE_CHAPTER_HISTORY_PARA_1">
+			<Text>Năm 1908, S. Semenov đang ngồi tại Bưu điện Thương mại Vanavara, khi ông nói, “bầu trời chia đôi và lửa xuất hiện cao và rộng khắp khu rừng”. Ngày hè nóng nực không thể chịu nổi, rồi “trời đóng sập lại… sau đó tiếng động như thể đá rơi hay vòi rồng đang bắn… gió nóng chạy ào ào giữa các ngôi nhà, như từ vòi rồng, để lại dấu vết trên mặt đất như những con đường . ” Những gì Semenov đã trải qua là sự kiện Tunguska, một vụ nổ có sức công phá gấp hàng nghìn lần bom nguyên tử, gây ra bởi tác động của một mảnh sao chổi, một quả cầu băng có đường kính khoảng 200ft (65m), vào rừng taiga ở Siberia. Trong khi các cuộc đình công như sự kiện Tunguska có thể là tàn phá như một vũ khí hạt nhân, đình công sao chổi lớn - về trình tự dặm thay vì chân - sẽ có những ảnh hưởng theo cấp số nhân thảm họa, ảnh hưởng không chỉ khu vực, nhưng toàn bộ thế giới. Trong khi những người ở gần va chạm sẽ bốc cháy, sao chổi cũng sẽ phóng bụi vào bầu khí quyển, ngăn chặn ánh sáng mặt trời, làm mát khí hậu và giết chết thảm thực vật (do đó tạo ra các đám cháy rừng lớn) trên toàn thế giới.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

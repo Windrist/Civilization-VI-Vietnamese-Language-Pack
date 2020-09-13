@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+		<!--New for XP2-->
+		<Replace Language="en_US" Tag="LOC_ROUTE_RAILROAD_NAME">
+			<Text>Đường sắt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ROUTE_RAILROAD_DESCRIPTION">
+			<Text>Chỉ có thể được thi công bởi Công binh. Không tính phí nhưng tốn 1 [ICON_RESOURCE_IRON] Sắt và 1 [ICON_RESOURCE_COAL] Than. Cải thiện đáng kể [ICON_Movement] Tốc độ di chuyển của bất kỳ đơn vị nào di chuyển từ ô Đường sắt này sang ô Đường sắt khác. [ICON_TradeRoute] Các tuyến đường thương mại đi qua Đường sắt có thể nhân [ICON_Gold] Vàng mà họ nhận được từ các quận tại điểm đến.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

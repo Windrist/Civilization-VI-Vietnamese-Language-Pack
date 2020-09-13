@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- concepts -->
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME">
+			<Text>Các chế độ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_CONTENT_TITLE">
+			<Text>Hiệp hội bí mật</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_WELCOME_TITLE">
+			<Text>Chào mừng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_WELCOME_PARA_1">
+			<Text>Trong thiết lập trò chơi, người chơi có thể bật chế độ chơi Secret Societies, giới thiệu những thế lực mới mạnh mẽ và bí ẩn đến thế giới.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_TITLE">
+			<Text>Liên hệ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_1">
+			<Text>Có bốn Hiệp hội bí mật hoạt động trong bóng tối trên khắp thế giới. Để liên hệ, hãy tìm kiếm một Hiệp hội mà ở đó ảnh hưởng của nó có thể ẩn náu: Tiền đồn man rợ, Làng bộ lạc, Kỳ quan thiên nhiên hoặc Thành phố ngoại quốc. Khả năng khám phá không được đảm bảo, nhưng bạn có nhiều khả năng tìm thấy một Hội mà những người chơi khác chưa phát hiện ra hoặc trên các lục địa nơi chưa phát hiện ra Hội.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_2">
+			<Text>[ICON_SECRETSOCIETY_OWLS] {LOC_SECRETSOCIETY_OWLS_OF_MINERVA_DESCRIPTION} Cố gắng liên hệ bằng cách gửi [ICON_Envoy] Phái viên đến thành khối.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_3">
+			<Text>[ICON_SECRETSOCIETY_HERMETIC] {LOC_SECRETSOCIETY_HERMETIC_ORDER_DESCRIPTION} Cố gắng liên hệ bằng cách khám phá các Kỳ quan Thiên nhiên.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_4">
+			<Text>[ICON_SECRETSOCIETY_VOIDSINGERS] {LOC_SECRETSOCIETY_VOIDSINGERS_DESCRIPTION} Cố gắng liên hệ bằng cách điều tra các Làng Bộ lạc.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_5">
+			<Text>[ICON_SECRETSOCIETY_SANGUINE] {LOC_SECRETSOCIETY_SANGUINE_PACT_DESCRIPTION} Cố gắng liên lạc bằng cách chiếm các Trại Barbarian.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_6">
+			<Text>Ngoài ra, đạt đến cấp độ bí mật về khả năng ngoại giao [ICON_VisSecret] đối với người chơi khác sẽ tự động liên hệ với Hội của người chơi đó. Sau khi bạn liên hệ với một Hội, bạn sẽ có thể xem những người lãnh đạo khác là thành viên nào bằng cách truy cập màn hình Ngoại giao, ngay cả khi bạn không tham gia Hội đó.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_INITIATION_TITLE">
+			<Text>Bắt đầu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_INITIATION_PARA_1">
+			<Text>Liên hệ với một Hội kín chỉ là bước đầu tiên. Nó mở ra một Thống đốc [ICON_Governor] độc nhất với tiền thưởng mạnh mẽ mà bạn không cần phải chỉ định cho một thành phố. Để trở thành thành viên chính thức của Hội, hãy bổ nhiệm Thống đốc tương ứng. Khi bạn trở thành thành viên của một Hội, bạn sẽ bị khóa vào Hội đó trong phần còn lại của trò chơi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_INITIATION_PARA_2">
+			<Text>Liên minh với những người chơi là thành viên của cùng một Hội tạo ra Điểm Liên minh nhanh hơn và những người chơi đó sẽ có quan điểm tốt hơn về bạn trong vấn đề ngoại giao. Tuy nhiên, những người chơi là thành viên của một Hiệp hội khác sẽ không thích bạn khi họ biết về mối quan hệ của bạn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DEEPER_MYSTERIES_TITLE">
+			<Text>Bí ẩn sâu hơn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DEEPER_MYSTERIES_PARA_1">
+			<Text>Mỗi Thống đốc [ICON_Governor] có bốn lần thăng hạng, được mở khóa tuần tự. Không giống như các chương trình khuyến mãi thông thường của Thống đốc, tác dụng của chương trình khuyến mãi không được tiết lộ cho đến khi nhận được chương trình khuyến mãi trước đó. (Nếu bạn không muốn ngạc nhiên, hãy tiếp tục đọc Civilopedia.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DEEPER_MYSTERIES_PARA_2">
+			<Text>Hiệp hội bí mật cần nhiều thế hệ thời gian để lên kế hoạch của họ, vì vậy không phải tất cả các chương trình khuyến mãi đều có sẵn ngay lập tức. Khuyến mãi thứ hai có sẵn khi trò chơi bước vào Kỷ nguyên Trung cổ. Thứ ba có sẵn trong Kỷ nguyên Công nghiệp. Cái cuối cùng có sẵn trong Kỷ nguyên nguyên tử.</Text>
+		</Replace>
+		<!-- units -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VAMPIRE_CHAPTER_HISTORY_PARA_1">
+			<Text>Huyền thoại về ma cà rồng là một huyền thoại có một tiếng vang đặc biệt trong một thế giới nơi mà tầng lớp quý tộc cha truyền con nối phần lớn đã trở thành dĩ vãng. Những bậc thầy độc ác, bị ám ảnh bởi tuổi trẻ vĩnh cửu, những kẻ săn mồi một dân chúng mà họ tưởng tượng mình là thượng đẳng, đầy rẫy những nét văn hóa suy đồi nhưng đã suy tàn, nắm giữ một sự mê hoặc khi các chế độ quân chủ trên toàn thế giới lần lượt sụp đổ. Họ nổi lên như những nhân vật phản diện hoặc phản anh hùng đôi khi bi thảm, đôi khi khủng khiếp trong một quần thể giới hạn ở mức bình thường. Trong số này, ma cà rồng thực sự tinh túy sẽ là Nữ bá tước Elizabeth Báthory de Ecsed, một nữ quý tộc Hungary, theo truyền thuyết, tin rằng cô có thể bảo tồn tuổi trẻ và vẻ đẹp của mình thông qua máu của các nạn nhân - hơn 600 người trong số họ..</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULTIST_CHAPTER_HISTORY_PARA_1">
+			<Text>Trong tiểu thuyết kỳ quặc, những người nhìn thoáng qua sự thật cuối cùng sẽ phát điên. Nhưng sự điên rồ này thuộc một loại kỳ lạ, một loại không phân mảnh mà tập hợp lại với nhau một cách kỳ lạ. Ở H.P. Lovecraft's "Call of Cthulhu" (1928), một loạt các giấc mơ kinh hoàng liên kết các nghệ sĩ với các dân tộc bộ lạc, những kẻ mơ mộng và sống ngoài vòng pháp luật, tất cả đều mơ cùng một âm tiết từ một ngôn ngữ chết. Ở đây, điên rồ không phải là bệnh thái nhân cách, đúng hơn, nó là mối liên hệ với một thứ gì đó cơ bản hơn bên dưới thế giới, và để trở thành một người sùng bái là sống cuộc đời của mình theo những nguyên tắc này, chứ không phải của xã hội..</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULTIST_CHAPTER_HISTORY_PARA_2">
+			<Text>Đối với các học giả về tôn giáo, “giáo phái” đơn giản có nghĩa là một nhóm tôn giáo tập trung xung quanh một đối tượng thờ cúng. Chúng ta có thể nói về các “tôn giáo” Công giáo dành cho một vị thánh cụ thể, hoặc “tôn giáo” Phật giáo chọn một giáo viên cụ thể, mà không có tất cả các hàm ý tiêu cực mà từ này có ở đây. Các giáo phái thường có thể tuyên bố có một lượng kiến ​​thức dành riêng cho nhóm đó và những khám phá mới thường làm nảy sinh các quan điểm mới: ví dụ như việc xuất bản Sách Biển Chết, đã kích thích sự bùng nổ các nhóm tuyên bố có quyền truy cập đặc quyền vào kiến thức trong các văn bản này. Những người theo dõi Cổng Thiên đường tin rằng họ đang nhận được tin nhắn từ một UFO ẩn mình trong đuôi của một sao chổi đi qua. Giáo phái Aum Shinrikyo, người đã xả khí sarin vào tàu điện ngầm Tokyo, tin rằng bản thân sở hữu chân lý tối cao về bản chất của thế giới. Trong hai ví dụ cuối cùng này, kết quả là bi kịch.</Text>
+		</Replace>
+		<!-- buildings -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ALCHEMICAL_SOCIETY_CHAPTER_HISTORY_PARA_1">
+			<Text>Giả kim thuật và hóa học, ma thuật và khoa học, không quá xa vời như chúng ta tưởng tượng ban đầu. Đối với các nhà nhân chủng học về ma thuật (chẳng hạn như Marcel Mauss), mỗi người đều tìm cách thao túng thế giới để tạo ra hiệu ứng. Với trường hợp của thuật giả kim và hóa học, mỗi loại đều liên quan đến sự biến đổi của một chất này thành một chất khác, một sự biến đổi mà các nhà quan sát thời Trung cổ nhìn như thể người ta đang thay đổi bản chất của nó. Đối với các nhà giả kim thời Trung cổ, tiềm năng mà sự thay đổi này có thể có là rất lớn - người ta có thể đổi chì thành vàng hoặc biến một cơ thể già thành trẻ. Trong khi Hiệp hội giả kim thuật ở đây dựa trên truyền thống châu Âu thời Trung cổ và Phục hưng, thì ở những nơi khác, Trung Quốc, Ấn Độ và các khu vực khác trên thế giới đã phát triển các truyền thống và thực hành giả kim của riêng họ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ALCHEMICAL_SOCIETY_CHAPTER_HISTORY_PARA_2">
+			<Text>Vào thời trung cổ, khoa học Hồi giáo lan rộng khắp châu Âu thời trung cổ, khi các học giả Hồi giáo bảo tồn các văn bản tiếng Latinh, phát triển các trường đại học và cơ sở học tập của riêng họ, đồng thời mang lại những hiểu biết sâu sắc từ châu Á. Đối với người châu Âu, những khối kiến ​​thức mới này đã trình bày một loạt các ngôn ngữ, mệnh đề, ý tưởng và khả năng - khoa học, chính trị, tôn giáo và tất nhiên là phép thuật. Đối với mục tiêu cuối cùng này, người châu Âu đã tập hợp các xã hội lại với nhau để đưa những gì họ đang đọc vào thực tế, và - ít nhất là với hy vọng của họ - mở khóa chìa khóa vào vũ trụ. Thuật giả kim tập trung vào việc tìm hiểu những sự thật cổ xưa được gắn trong các văn bản này. Vì lý do này, khi các trường khoa học thế kỷ 18 và 19 tập trung vào thử nghiệm hơn là dịch thuật, kiến ​​thức mới hơn là cũ, các xã hội giả kim đã đi sâu hơn vào lòng đất và ra khỏi dòng chính của tư tưởng phương Tây..</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GILDED_VAULT_CHAPTER_HISTORY_PARA_1">
+			<Text>Các hội kín của thế kỷ 18 và 19 luôn có một cơ sở bí mật - nơi mà các thành viên có thể tụ tập trong trang phục áo choàng và đeo mặt nạ cho các nghi lễ bí mật (hoặc nhiều khả năng hơn là tụ tập trong những chiếc mũ ngộ nghĩnh để uống bia đổ nước). Tại đây, xung quanh một bàn tiệc thịnh soạn, người ta cho rằng các quyết định được đưa ra về việc các quốc gia thăng trầm và ai sẽ nắm giữ dây cương. Đây là một hình ảnh có nguồn gốc từ văn hóa đại chúng, nhưng một số xã hội nhất định đã làm và vẫn sử dụng những trò đùa như vậy để giải trí hoặc để mở rộng sự huyền bí của riêng họ. Ví dụ, các hội kín của Yale vẫn gặp nhau trong những căn hầm công phu, theo chủ đề Phương Đông, vì những gì người ngoài sẽ cho là bạn tin rằng đó là những cuộc họp mang tầm cỡ thế giới (nhưng nhiều khả năng là đội những chiếc mũ ngộ nghĩnh và uống bia có nước). Trong những "căn hầm mạ vàng" này, tiền bạc và quyền lực, danh hiệu cao quý và quyền hành được mua bán tự do. Hoặc họ nói.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_OLD_GOD_OBELISK_CHAPTER_HISTORY_PARA_1">
+			<Text>Trong "tiểu thuyết kỳ lạ" và được truyền cảm hứng bởi H.P. Lovecraft và những người khác, những vị thần rất may đã bị lãng quên. Những Old Ones của Lovecraft về cơ bản là không quan tâm đến nhân loại và việc tiếp xúc chắc chắn dẫn đến điên loạn hoặc chết. Nhưng không phải ai cũng quên - tiểu thuyết kỳ lạ đầy những ví dụ về các tôn giáo ẩn đã được khám phá lại các dấu tích của các Vị thần Cổ xưa và biến chúng thành đồ vật thờ cúng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_OLD_GOD_OBELISK_CHAPTER_HISTORY_PARA_2">
+			<Text>Chúng tôi luôn tái chế những mảnh vụn tôn giáo của những niềm tin cũ, đặc biệt là những niềm tin mà chúng tôi không hiểu hoàn toàn. Phép thuật châu Âu thời trung cổ và sau này thường dựa trên các biểu tượng Hy Lạp hoặc Ai Cập không phải vì chúng thực sự chứa đựng một số kiến ​​thức bí truyền, mà bởi vì chúng dường như rất khó hiểu về lời hứa về một sức mạnh bổ sung nào đó. Và không chỉ có người châu Âu kêu gọi những điều khó hiểu. Người Miên ở vùng cao Đông Nam Á mang theo những tài liệu công phu viết bằng chữ Hán (mà ít người trong số họ có thể đọc được) của một vị thần linh bảo đảm cho họ quyền sống trên đỉnh núi mà không bị quấy nhiễu. Những người dân làng ở Tanzania đang tìm cách chữa bệnh sẽ thích đến gặp một thầy lang từ một ngôi làng xa hơn là từ một người sống bên cạnh. Và các phù thủy tuổi teen trong những cuốn sách giả tưởng nổi tiếng hiếm khi gọi những câu thần chú kỳ diệu của họ bằng tiếng Anh. Sự hấp dẫn của điều chưa biết là nó có thể chứa một nguồn sức mạnh ngoài tầm hiểu biết của chúng ta. Cũng có thể dựng một tháp pháo.</Text>
+		</Replace>
+		<!-- improvements -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_VAMPIRE_CASTLE_CHAPTER_HISTORY_PARA_1">
+			<Text>Dracula của Stoker sống một mình - bỏ cô dâu xác sống - trong một lâu đài ở vùng núi Carpathian của Transylvania. Khi Jonathan Harker đến để tiến hành công việc kinh doanh của mình với Bá tước, Dracula phải ăn mặc như người đánh xe của riêng mình, nấu các bữa ăn cho Harker và tất nhiên, đảm bảo rằng Harker vẫn bị nhốt trong phòng của mình. Từ ban công nhìn ra khu rừng Transylvanian, Bá tước nghiền ngẫm về những cuộc chinh phục trong quá khứ và tương lai của mình. Nguồn cảm hứng cho lâu đài của Dracula ngày nay phổ biến là do lâu đài Bran ở Romania, mặc dù cả Stoker và người đồng cấp được cho là của Dracula trong thế giới thực là Vlad Tepes đều không liên quan gì đến nơi này, thay vào đó, lâu đài được chính phủ Romania chọn làm nơi gợi nhớ nhất của nhà bá tước. Tuy nhiên, nó vẫn là lâu đài tinh túy của ma cà rồng: một cấu trúc ấp ủ trên một vách đá nhìn ra khu rừng tối nơi những con sói vẫn rình mò. </Text>
+		</Replace>
+		<!-- resources -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_LEY_LINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Đó là một sự thật hình học rằng giữa hai điểm tồn tại một đường thẳng. Điều này, cộng với bản đồ vùng nông thôn nước Anh, đã làm nảy sinh khái niệm về các đường ley cắt ngang nước Anh trong thế kỷ 19 và đầu thế kỷ 20. Một nhà cổ kính người Anh, Alfred Watkins, đã đề xuất rằng những con đường cao tốc cổ thẳng tắp nối các địa điểm linh thiêng ở vùng nông thôn Anh có thể được tìm thấy nếu ai đó đủ chăm chút. Trong khi lý thuyết của ông đã bị các nhà khảo cổ bác bỏ, những người lưu ý rằng những con đường cao tốc cổ thực sự thường rất lan man, nó đã được những người sùng đạo Thời đại Mới tiếp nhận lại vào những năm 1960. Thay vì những đường cao tốc cổ xưa, những “đường ley” nối các địa điểm linh thiêng này lại là những mạch máu trong đó các năng lượng thần bí của Trái đất chảy qua. Nơi các đường cắt ngang sẽ là những địa điểm có sức mạnh tinh thần và tôn giáo to lớn, những nơi mà nếu được khai thác, có thể giải phóng tiềm năng trong cảnh quan và trong cá nhân. Không bao giờ có bất kỳ bằng chứng nào cho thực tế của các đường ley, dù là một đặc điểm khảo cổ học hay một nguồn năng lượng thần bí, và lý thuyết này dần chết đi khi các xu hướng mới trong Thời đại Mới và niềm tin thần bí lên ngôi.</Text>
+		</Replace>
+		<!-- governors -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_OWLS_OF_MINERVA_CHAPTER_HISTORY_PARA_1">
+			<Text>Chính trị thường giống như hỗn loạn. Những nhà lãnh đạo vụng về có thể mắc những sai lầm ngớ ngẩn gây nguy hiểm cho sự an toàn và an ninh của toàn bộ quốc gia, và các lựa chọn dường như thường được đưa ra dựa trên những mục tiêu ngắn hạn nhất. Do đó, có một chút thắc mắc rằng mọi người có thể mơ về một thế giới không phải như vậy. Tin đồn về các tổ chức bóng tối nhằm giật dây quyền lực cho mục đích tốt hoặc (thường xuyên hơn) xấu xa đã tồn tại trong nhiều thế kỷ. Chúng ta bị thu hút bởi những niềm tin như vậy vì chúng cho chúng ta cảm giác rằng có sự hỗn loạn tiềm ẩn (và, đối với nhà lý thuyết âm mưu, cảm giác quan trọng khi được tiết lộ bí mật), ngay cả khi sự thật bí mật đó có vẻ thù địch. Giống như ai đó đang giải một câu đố, có một cảm giác thích thú khi ghép các mảnh có vẻ vừa khít với nhau… ngay cả khi, trong sự thật, các mảnh đó không bao giờ vừa khít theo cách chúng ta muốn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_OWLS_OF_MINERVA_CHAPTER_HISTORY_PARA_2">
+			<Text>Nhiều trong số các thuyết âm mưu và giả thuyết này đã nảy sinh vào khoảng thời gian Khai sáng. Khi những lối suy nghĩ mới tràn qua châu Âu, họ đã đụng độ với chính quyền nhà thờ và hoàng gia. Các nhóm người mới (hầu như luôn luôn) được thành lập với các mục tiêu đã nêu là áp dụng suy nghĩ hợp lý cho những gì đã có trước đây là điều không thể nghi ngờ. Những nhóm này - Freemasons, Illuminati (một nhóm người Bavaria) và những nhóm khác - thường bao gồm những người đàn ông quyền lực nhưng không phải quý tộc: thương gia, chủ đất và những người khác. Họ thường là nạn nhân của sự đàn áp của các lực lượng phản động, vì cả nhà thờ và vương miện đều thấy mình không mấy vui mừng khi bị một đám "nhà tư tưởng tự do" nghi ngờ tính hợp pháp của họ. Sau Cách mạng Pháp - khi một vị vua không chỉ bị phế truất mà còn bị hành quyết, sự hoảng loạn đối với các xã hội chính trị / triết học thế tục đã trở nên sâu sắc, và trong suốt thế kỷ 19, lên đến một cơn sốt, đặc biệt là khi kết hợp với sự trỗi dậy của Cộng sản và Các nhóm xã hội chủ nghĩa. Đó là một căng thẳng kéo dài, với những xã hội này thách thức quyền lực truyền thống và lần lượt phải đối mặt với những cáo buộc phản quốc, gian dối, và những thứ tương tự. Owls of Minerva ở đây - được đặt theo tên của Bavarian Illuminati - tìm cách đại diện không phải các xã hội trí thức lịch sử, mà là đại diện cho văn hóa đại chúng của nó: đội bóng đáng sợ gồm những người đàn ông quyền lực ẩn nấp sau hậu trường của chính trị thời gian.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_HERMETIC_ORDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Đặc biệt trong thời kỳ xã hội có nhiều thay đổi lớn, khi tri thức mới và cách sống mới có tiềm năng lớn để thay đổi cách chúng ta sống, các xã hội thường nảy sinh dựa trên việc nuôi dưỡng và bảo vệ kiến ​​thức bí mật, biến đổi thế giới này. Mặc dù thoạt đầu trông chúng giống như các xã hội khoa học, nhưng những trật tự này khác nhau ở chỗ chúng tập trung vào việc thu thập kiến ​​thức bí mật, chứ không phải ứng dụng của nó. Chúng ta có thể thấy những ví dụ về các xã hội như vậy ở châu Âu thời trung cổ, Đông Nam Á (đặc biệt là mối quan tâm của Phật giáo Mật thừa), và Đông Á; từ xa xưa cho đến ngày nay. Tại đây, Hermetic Order tìm cách mô phỏng một xã hội giả kim cuối thời trung cổ, cũng như các tổ chức thần bí / tôn giáo đã phát triển vào cuối thế kỷ 19.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_HERMETIC_ORDER_CHAPTER_HISTORY_PARA_2">
+			<Text>The Hermetic Order of the Golden Dawn là một nhóm người Anh quan tâm đến việc trau dồi kiến ​​thức bí truyền vào khoảng đầu thế kỷ 20. Để lấy cảm hứng, Order đã dựa trên nhiều nguồn khác nhau: phép thuật (“bí ẩn”) của châu Âu thời trung cổ, Kabbalah (thần bí Do Thái), thần thoại Ai Cập và Hy Lạp, và sự mặc khải cá nhân. Những người sùng đạo - nổi tiếng nhất là nhà huyền bí người Anh Aleister Crowley - tập trung vào việc mở rộng kiến ​​thức huyền bí của họ thông qua du hành vũ trụ, thấu thị và các thực hành phép thuật khác, và phong trào này đã thu hút một nhóm cá nhân tìm kiếm một sự thật lớn hơn mà họ cảm thấy ngày càng thiếu lý trí và thất vọng. xã hội. The Order đã thu hút rất nhiều người có ảnh hưởng, bao gồm Arthur Conan Doyle (tác giả của Sherlock Holmes), tác giả kinh dị người Anh Algernon Blackwood, tác giả người Ireland Bram Stoker (tác giả của Dracula) và những người khác. Các chương của Dòng vẫn tồn tại cho đến ngày nay, và các hoạt động của Dòng đã ảnh hưởng đến sự phát triển của nhiều tôn giáo Thời đại Mới, khi mọi người vẫn tìm kiếm một sự thật lớn hơn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_VOIDSINGERS_CHAPTER_HISTORY_PARA_1">
+			<Text>Vào đầu thế kỷ 20, một thể loại khoa học viễn tưởng và giả tưởng mới bắt đầu thịnh hành, đặc biệt là ở Hoa Kỳ và Anh. Sự khủng khiếp của Chiến tranh thế giới thứ nhất đã chứng minh rằng một thời đại khoa học mới có thể là một thời đại vô nhân đạo, và vũ trụ được khám phá và tìm hiểu khoa học có thể không quan tâm sâu sắc đến nhân loại cũng như những hy vọng và ước mơ của nó. Ngoài ra, đối với công dân ở các nước thuộc địa, nhận thức ngày càng tăng rằng thế giới bị đô hộ trên thực tế có thể quay trở lại ám ảnh những người thực dân đã tự cho mình một loại chủ nghĩa biệt lập - một điều gì đó đã giúp ích cho chủ nghĩa phân biệt chủng tộc thâm độc của thời đại đó. Thế giới đầu cơ xuất hiện trong tiểu thuyết của các tác giả như Arthur Machen, H.P. Lovecraft và những người khác không phải là Gothic nhuốm màu đạo đức hay những câu chuyện anh hùng khám phá thế kỷ 19, mà là một thứ đáng lo ngại hơn, một tiểu thuyết mới, "kỳ lạ".</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_VOIDSINGERS_CHAPTER_HISTORY_PARA_2">
+			<Text>Một thực tế kỳ lạ là nơi mà các quyền lực định hình thế giới về cơ bản là không quan tâm và thậm chí là thù địch với loài người. Mặc dù sự chú ý của chúng cho phép chúng ta tồn tại trên thế giới ngày nay, nhưng dấu vết của chúng có thể tồn tại ở những nơi bị lãng quên, thành phố chết đuối hoặc trong khoảng không giữa các vì sao, và có thể được phát hiện bởi tiến bộ khoa học. Trong tiểu thuyết kỳ lạ, thế giới là nơi chúng ta không thuộc về, và chỉ có kẻ điên mới thực sự tìm kiếm những thứ khiến thế giới hoạt động.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_SANGUINE_PACT_CHAPTER_HISTORY_PARA_1">
+			<Text>Thật khó để tưởng tượng tiểu thuyết kinh dị nếu không gọi Dracula. Bram Stoker, khi viết câu chuyện về Bá tước hút máu cô đơn bị mắc kẹt trong lâu đài Transylvanian của mình, đã dựa trên truyền thuyết cổ tích Ailen, truyện dân gian Rumani, và một loạt lo lắng của Bắc Âu xung quanh Lục địa. Khi viết về ma cà rồng, ông cũng dựa trên nhiều tác phẩm văn học và văn học dân gian gần nhà, theo chân các tác giả Gothic như Le Fanu, Lord Byron và James Rymer, những người có ma cà rồng là những câu chuyện cảnh báo về tình bạn không lành mạnh và nỗi ám ảnh. Trong đó, ma cà rồng là một thể loại đỉnh cao của văn học Gothic, tập hợp sự suy đồi về đạo đức, những lâu đài đen tối, và một tầng lớp thượng lưu suy đồi và hư hỏng. Ở đây, Hiệp ước Sanguine tìm cách đại diện cho loại người anh chị em hắc ám lấy cảm hứng từ Stoker.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_SANGUINE_PACT_CHAPTER_HISTORY_PARA_2">
+			<Text>Thần thoại về ma cà rồng ở Hy Lạp, Thổ Nhĩ Kỳ và Romania bắt nguồn từ việc kể về sự trở lại của một người thân đã chết - đặc biệt là nạn nhân của một vụ tự tử hoặc dịch bệnh - làm phiền các thành viên còn sống trong gia đình. Không giống như ma cà rồng Gothic Lãng mạn (và lãng mạn), ma cà rồng theo phong cách dân gian trông giống một xác chết tươi của người thân hơn là một nhà quý tộc sống về đêm bí ẩn. Nó là một sự phản ánh về đau buồn và thương tiếc, và những cách mà một người thân yêu đã chết vẫn có thể ám ảnh chúng ta, đặc biệt là khi chúng ta bị lấy đi quá nhanh. Tuy nhiên, giống như Bá tước, một người đã thoát khỏi một sinh vật như vậy thông qua phương pháp đặt cược và thập tự giá truyền thống. Trong khi ma cà rồng thời hiện đại của chúng ta đến từ đông nam châu Âu, các khu vực khác có những tín ngưỡng hút máu của riêng họ: jiangshi của Trung Quốc, nhạc Thái phi, người kéo dây Bắc Âu hoặc huyền thoại về Lilith trong văn hóa dân gian Do Thái.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_HERMETIC_ORDER_TAB_NAME">
+			<Text>Hermetic Order Titles</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_OWLS_OF_MINERVA_TAB_NAME">
+			<Text>Owls of Minerva Titles</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_SANGUINE_PACT_TAB_NAME">
+			<Text>Sanguine Pact Titles</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_GOVERNOR_VOIDSINGERS_TAB_NAME">
+			<Text>Voidsingers Titles</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

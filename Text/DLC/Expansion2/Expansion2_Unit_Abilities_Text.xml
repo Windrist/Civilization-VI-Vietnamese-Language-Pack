@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Name-->
+		<Replace Language="en_US" Tag="LOC_ABILITY_GUIDE_MOVEMENT_AOE_RELIGIOUS_NAME">
+		    <Text>Hướng dẫn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SAGE_COMBAT_AOE_RELIGIOUS_NAME">
+		    <Text>Hiền nhân</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GURU_MOVEMENT_NAME">
+		    <Text>Vùng ảnh hưởng của chuyển động của Guru</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GURU_STRENGTH_NAME">
+		    <Text>Vùng ảnh hưởng của hiền triết Guru</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MEDITERRANEAN_COLONIES_NAME">
+		    <Text>Thuộc địa Địa Trung Hải</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BIREME_PROTECT_TRADER_NAME">
+		    <Text>Bảo hộ thương mại Bireme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_TRADER_PROTECTED_BY_BIREME_NAME">
+		    <Text>Bảo vệ Bireme của Trader</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_THE_RAVEN_KING_NAME">
+		    <Text>Vua quạ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HUSZAR_NAME">
+		    <Text>Kuruc</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BLACK_ARMY_NAME">
+		    <Text>Fekete Sereg</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MOUNTIE_NAME">
+		    <Text>Bảo vệ công viên</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MANDEKALU_NAME">
+		    <Text>Người tặng vàng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_TRADER_PROTECTED_BY_MANDEKALU_NAME">
+		    <Text>Trader Mandekalu Protection</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CORBACI_NAME">
+		    <Text>Çorbaci</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GREAT_TURKISH_BOMBARD_NAME">
+		    <Text>Bắn phá lớn của Thổ Nhĩ Kỳ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CAROLEAN_NAME">
+		    <Text>Gå På</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CORSAIR_NAME">
+		    <Text>Corsair</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ROCK_BAND_ENTER_FOREIGN_LANDS_NAME">
+		    <Text>Vào vùng đất nước ngoài</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_FINEST_HOUR_FRIENDLY_TERRITORY_NAME">
+		    <Text>Giờ tốt nhất của họ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CYBER_WARFARE_COMBAT_BONUS_NAME">
+		    <Text>Chiến tranh mạng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CHOLA_NAVAL_COMBAT_NAME">
+		    <Text>Rajendra Chola</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ERIKSON_NAVAL_SIGHT_NAME">
+		    <Text>Leif Erikson</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GUIDE_MOVEMENT_AOE_RELIGIOUS_DESCRIPTION">
+		    <Text>Mang lại phong trào cho các đơn vị tôn giáo lân cận.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SAGE_COMBAT_AOE_RELIGIOUS_DESCRIPTION">
+		    <Text>Cung cấp thêm sức mạnh chiến đấu cho các đơn vị tôn giáo gần đó.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GURU_MOVEMENT_DESCRIPTION">
+		    <Text>+1 Di chuyển</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GURU_STRENGTH_DESCRIPTION">
+		    <Text>+5 Sức mạnh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MEDITERRANEAN_COLONIES_DESCRIPTION">
+		    <Text>+2 [ICON_Movement] Di chuyển và +2 tầm nhìn khi bắt đầu.[NEWLINE][ICON_Bullet] Bỏ qua [ICON_Movement] Chi phí di chuyển bổ sung từ việc bắt đầu và xuống xe.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BIREME_PROTECT_TRADER_DESCRIPTION">
+		    <Text>Bảo vệ các đơn vị Thương mại lân cận khỏi bị cướp bóc trên các Ô nước.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_TRADER_PROTECTED_BY_BIREME_DESCRIPTION">
+		    <Text>Các đơn vị giao dịch gần Bireme của bạn sẽ miễn nhiễm với việc bị cướp trên các Ô nước.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_THE_RAVEN_KING_DESCRIPTION">
+		    <Text>+2 [ICON_Movement] Di chuyển và +5 [ICON_Strength] Sức mạnh chiến đấu cho các đơn vị bị đánh.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BLACK_ARMY_DESCRIPTION">
+		    <Text>+3 [ICON_Strength] Sức mạnh chiến đấu từ mỗi đơn vị Levied liền kề.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HUSZAR_DESCRIPTION">
+		    <Text>+3 [ICON_Strength] Sức mạnh Chiến đấu từ mỗi Liên minh đang hoạt động.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MOUNTIE_DESCRIPTION">
+		    <Text>Có thể tạo Vườn quốc gia.[NEWLINE][ICON_Bullet] +5 [ICON_Strength] Sức chiến đấu khi chiến đấu trong 2 ô của Vườn quốc gia.[NEWLINE][ICON_Bullet] +5 [ICON_Strength] Sức chiến đấu khi chiến đấu trong 2 ô của Vườn quốc gia do bạn sở hữu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MANDEKALU_DESCRIPTION">
+		    <Text>Bảo vệ các đơn vị thương mại trên đất liền gần khỏi bị Cướp bóc.[NEWLINE][ICON_Bullet] Nhận được [ICON_GOLD] Vàng bằng 100% sức mạnh chiến đấu của đơn vị đó.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MANDEKALU_PROTECT_TRADER_DESCRIPTION">
+		    <Text>Kỵ binh Mandekalu này bảo vệ các đơn vị Thương mại gần đó khỏi bị cướp đoạt trên các ô đất.[NEWLINE][ICON_Bullet] Nhận [ICON_GOLD] Vàng bằng 100% sức mạnh chiến đấu [ICON_Strength] của đơn vị đó.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_TRADER_PROTECTED_BY_MANDEKALU_DESCRIPTION">
+		    <Text>Các đơn vị thương mại gần Kỵ binh Mandekalu của bạn sẽ miễn nhiễm với việc bị cướp bóc trên các Ô đất.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CORBACI_DESCRIPTION">
+		    <Text>Bắt đầu với khuyến mại miễn phí.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_EXPERT_MARKSMAN_DESCRIPTION">
+		    <Text>+1 đòn tấn công bổ sung mỗi lượt nếu đơn vị chưa sử dụng hết chuyển động của nó.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GREAT_TURKISH_BOMBARD_DESCRIPTION">
+		    <Text>+5 [ICON_Strength] Sức mạnh chiến đấu so với phòng thủ của quận. (Bắn phá bom lớn của Thổ Nhĩ Kỳ)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CAROLEAN_DESCRIPTION">
+		    <Text>+3 [ICON_Strength] Sức mạnh chiến đấu cho mỗi lần di chuyển [ICON_Movement] không sử dụng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CORSAIR_DESCRIPTION">
+		    <Text>Không tốn [ICON_Movement] Di chuyển để đột kích ven biển.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ROCK_BAND_ENTER_FOREIGN_LANDS_DESCRIPTION">
+		    <Text>Ngay cả khi không có Đường viền mở, đơn vị này vẫn có thể xâm nhập vào lãnh thổ nước ngoài.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_FINEST_HOUR_FRIENDLY_TERRITORY_DESCRIPTION">
+		    <Text>+5 [ICON_Strength] Sức mạnh chiến đấu khi ở trong lãnh thổ của bạn hoặc tiếp giáp với lãnh thổ của bạn từ Giờ tốt nhất</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CYBER_WARFARE_COMBAT_BONUS_DESCRIPTION">
+		    <Text>+10 [ICON_Strength] Chiến đấu chống lại các đơn vị từ Thông tin và Kỷ nguyên tương lai từ Chiến tranh mạng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_TOA_DESCRIPTION">
+		    <Text>Các đơn vị địch gần kề nhận được -5 [ICON_STRENGTH] Sức mạnh Chiến đấu.[NEWLINE][ICON_Bullet] Có thể xây dựng cải tiến Pā duy nhất.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MANA_DESCRIPTION">
+		    <Text>+2 [ICON_Movement] Di chuyển khi bắt đầu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_UNIT_WMD_RESISTANCE_DESCRIPTION">
+		    <Text>Chống vũ khí hủy diệt hàng loạt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_UNIT_FIGHT_WHILE_EMBARKED_DESCRIPTION">
+		    <Text>Có thể di chuyển và chiến đấu trong nước.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_DIGITAL_DEMOCRACY_DEBUFF_DESCRIPTION">
+		    <Text>-3 [ICON_Strength] Sức mạnh chiến đấu từ Nền dân chủ kỹ thuật số.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ENABLE_WALL_PROMOTION_CLASS_ATTACK_DESCRIPTION">
+		    <Text>Khi tiếp giáp với một thành phố của đối phương, các đơn vị cận chiến và chống kỵ binh gây sát thương hoàn toàn cho Tường thành của thành phố. Không ảnh hưởng đến các thành phố có Tường thời Trung cổ hoặc Phục hưng. Không hiệu quả với Phòng thủ Đô thị.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BYPASS_WALLS_PROMOTION_CLASS_DESCRIPTION">
+		    <Text>Khi tiếp giáp với thành phố của đối phương, các đơn vị kỵ binh và cận chiến thiện chiến có thể vượt qua tường thành và tấn công trực tiếp vào thành phố. Không ảnh hưởng đến các thành phố có Tường thời Phục hưng. Không hiệu quả với Phòng thủ Đô thị.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CHOLA_NAVAL_COMBAT_DESCRIPTION">
+		    <Text>+3 [ICON_Strength] Sức mạnh Chiến đấu cho tất cả các đơn vị hải quân. (Rajendra Chola)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ERIKSON_NAVAL_SIGHT_DESCRIPTION">
+		    <Text>+1 phạm vi tầm nhìn cho tất cả các đơn vị hải quân. (Leif Erikson)</Text>
+		</Replace>
+				<!--Combat-->
+		<Replace Language="en_US" Tag="LOC_ABILITY_GURU_STRENGTH_XP2_DESCRIPTION">
+		    <Text>+{Amount} để ở gần Guru</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_RAVEN_LEVY_COMBAT_DESCRIPTION">
+		    <Text>+{Amount} Sức mạnh Chiến đấu từ đặc điểm Vua Quạ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_ADJACENT_LEVIED_BONUS_DESC">
+		    <Text>+{1_Amount} Sức mạnh Chiến đấu từ các đơn vị Levied liền kề</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_NUMBER_ALLIES_BONUS_DESC">
+		    <Text>+{1_Amount} Sức mạnh chiến đấu cho các Liên minh đang hoạt động</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALL_PARK_COMBAT_BONUS_DESCRIPTION">
+		    <Text>+{1_Amount} Sức mạnh chiến đấu khi trong vòng 2 ô của Vườn quốc gia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OWNER_PARK_COMBAT_BONUS_DESCRIPTION">
+		    <Text>+{1_Amount} Sức mạnh chiến đấu khi trong vòng 2 ô của Vườn quốc gia do người chơi này sở hữu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_TURKISH_BOMBARD_COMBAT_BONUS_DESCRIPTION">
+		    <Text>+{1_Amount} Sức mạnh chiến đấu từ đặc điểm Bombard Thổ Nhĩ Kỳ Vĩ đại</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_TOA_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
+		    <Text>{1_Amount} Sức mạnh chiến đấu khi tiếp giáp với Toa của kẻ thù</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_UNUSED_MOVEMENT_COMBAT_BONUS_DESC">
+		    <Text>+{1_Amount} Sức mạnh chiến đấu cho di chuyển [ICON_Movement] không sử dụng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_CITY_FRIENDLY_COMBAT_BONUS">
+		    <Text>+{1_Amount} Sức mạnh chiến đấu từ Head Falconer</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_DIGITAL_DEMOCRACY_COMBAT_DEBUFF">
+		    <Text>{1_Amount} Sức mạnh chiến đấu từ nền dân chủ kỹ thuật số</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_ABILITY_GLOBAL_COALITION_FRIENDLY_TERRITORY_DESCRIPTION">
+		    <Text>+{1_Amount} Sức mạnh Chiến đấu từ Liên minh Toàn cầu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_CYBER_WARFARE_INFO_FUTURE_BUFF">
+		    <Text>+{1_Amount} Sức mạnh Chiến đấu từ Chiến tranh mạng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_ABILITY_MANA_DESCRIPTION">
+		    <Text>+{1_Amount} Sức mạnh chiến đấu khi bắt tay</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CHOLA_NAVAL_UNITS_COMBAT_STRENGTH_DESCRIPTION">
+		    <Text>+{1_Amount} Sức mạnh chiến đấu từ Rajendra Chola</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

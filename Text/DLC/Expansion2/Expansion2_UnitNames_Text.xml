@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_BANDNAME_BASE_TEMPLATE">
+			<Text>{1_Prefix} {2_Suffix}</Text>
+		</Replace>
+		<!-- Prefix -->
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AIR">
+			<Text>Không khí</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ALIEN">
+			<Text>Người ngoài hành tinh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANCIENT">
+			<Text>Cổ đại</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANGRY">
+			<Text>Giận dữ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANIMAL">
+			<Text>Động vật</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_APPEALING">
+			<Text>Hấp dẫn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ARCTIC">
+			<Text>Băng giá</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ASYLUM">
+			<Text>Tị nạn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ATOMIC">
+			<Text>Nguyên tử</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AUDIO">
+			<Text>Âm thanh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BAD">
+			<Text>Xấu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BIG">
+			<Text>Lớn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLACK">
+			<Text>Đen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLIND">
+			<Text>Mù</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLONDE">
+			<Text>Vàng hoe</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLUE">
+			<Text>Xanh lam</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROKEN">
+			<Text>Phá vỡ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROWN">
+			<Text>Nâu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BUFFALO">
+			<Text>Trâu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CHEAP">
+			<Text>Rẻ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CLASSICAL">
+			<Text>Cổ điển</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLD">
+			<Text>Lạnh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLLECTIVE">
+	        <Text>Tập thể</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COOL">
+		    <Text>Tuyệt vời</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DARK">
+		    <Text>Tối</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DAY">
+		    <Text>Ngày</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DEEP">
+		    <Text>Sâu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DIRE">
+		    <Text>Tàn khốc</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ELECTRIC">
+		    <Text>Điện</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ENLIGHTENED">
+		    <Text>Được khai sáng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EPIC">
+		    <Text>Sử thi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EXTREME">
+		    <Text>Cùng cực</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FAKE">
+		    <Text>Giả mạo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLAMING">
+		    <Text>Rực lửa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLYING">
+		    <Text>Bay</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FOREST">
+		    <Text>Rừng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FREE">
+		    <Text>Miễn phí</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIENDLY">
+		    <Text>Thân thiện</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIGHTENED">
+		    <Text>Sợ hãi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURRY">
+		    <Text>Lông</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURY">
+		    <Text>Cuồng nộ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GIANT">
+		    <Text>Khổng lồ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GOLD">
+		    <Text>Vàng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GRATEFUL">
+		    <Text>Biết ơn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GREEN">
+		    <Text>Xanh lá</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HILARIOUS">
+		    <Text>Vui nhộn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOLY">
+		    <Text>Thánh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOT">
+		    <Text>Hấp ​​dẫn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUMAN">
+		    <Text>Con người</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUNGRY">
+		    <Text>Đói</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDIGO">
+		    <Text>Chàm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDUSTRIAL">
+		    <Text>Công nghiệp</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_IRON">
+		    <Text>Sắt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_JOYOUS">
+		    <Text>Vui vẻ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_KIND">
+		    <Text>Loại</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LIGHT">
+		    <Text>Nhẹ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LITTLE">
+		    <Text>Ít</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LONELY">
+		    <Text>Cô đơn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOST">
+		    <Text>Mất tích</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOUD">
+		    <Text>To</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOW">
+		    <Text>Thấp</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOYAL">
+		    <Text>Trung thành</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAGIC">
+		    <Text>Phép thuật</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAJOR">
+		    <Text>Chính</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAXIMUM">
+		    <Text>Tối đa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEDIEVAL">
+		    <Text>Trung cổ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEGA">
+		    <Text>Mega</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MENACING">
+		    <Text>Bắt buộc</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDDLE">
+		    <Text>Giữa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDNIGHT">
+		    <Text>Nửa đêm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIND">
+		    <Text>Tâm trí</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINI">
+		    <Text>Mini</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINOR">
+		    <Text>Nhỏ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODERN">
+		    <Text>Hiện đại</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODEST">
+		    <Text>Khiêm tốn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MOUNTAIN">
+		    <Text>Núi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MUTE">
+		    <Text>Tắt tiếng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MYSTERY">
+		    <Text>Bí ẩn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NATURAL">
+		    <Text>Tự nhiên</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NEW">
+		    <Text>Mới</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NIGHT">
+		    <Text>Đêm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NUCLEAR">
+		    <Text>Hạt nhân</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OLD">
+		    <Text>Cũ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ORANGE">
+		    <Text>Cam</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OVERPOWERED">
+		    <Text>Chinh phục</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PALE">
+		    <Text>Nhạt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_Posystem">
+		    <Text>Mọi người</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFECT">
+		    <Text>Hoàn hảo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFUME">
+		    <Text>Nước hoa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PETIT">
+		    <Text>Petit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PINK">
+		    <Text>Màu hồng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_POLITICAL">
+		    <Text>Chính trị</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PSYCHEDELIC">
+		    <Text>Ảo giác</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PURPLE">
+		    <Text>Tím</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_QUIET">
+		    <Text>Yên lặng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RADICAL">
+		    <Text>Cấp tiến</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RAINBOW">
+		    <Text>Cầu vồng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RANDOM">
+		    <Text>Ngẫu nhiên</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_REAL">
+		    <Text>Thực tế</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RED">
+		    <Text>Đỏ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RELIGIOUS">
+		    <Text>Tôn giáo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RENAISSANCE">
+		    <Text>Phục hưng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RIVAL">
+		    <Text>Đối thủ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SICK">
+		    <Text>Ốm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILENT">
+		    <Text>Im lặng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILVER">
+		    <Text>Bạc</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SMASHING">
+		    <Text>Đập vỡ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SOCIAL">
+		    <Text>Xã hội</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPACE">
+		    <Text>Dấu cách</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPEEDY">
+		    <Text>Nhanh chóng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_STOLEN">
+		    <Text>Bị đánh cắp</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SUPER">
+		    <Text>Siêu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TALKING">
+		    <Text>Nói chuyện</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TAME">
+		    <Text>Thuần hóa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TOXIC">
+		    <Text>Độc hại</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TRADITIONAL">
+		    <Text>Truyền thống</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNIQUE">
+		    <Text>Duy nhất</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNDERGROUND">
+		    <Text>Ngầm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNKNOWN">
+		    <Text>Không xác định</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_VEGAN">
+		    <Text>Ăn chay</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WAR">
+		    <Text>Chiến tranh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WATER">
+		    <Text>Nước</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WHITE">
+		    <Text>Trắng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WILD">
+		    <Text>Hoang dã</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_XERIC">
+		    <Text>Xeric</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YELLOW">
+		    <Text>Vàng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YOUNG">
+		    <Text>Trẻ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ZEALOUS">
+		    <Text>Ghen tị</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_TITANIUM">
+		    <Text>Titan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_DEATH">
+		    <Text>Cái chết</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_HELL">
+		    <Text>Địa ngục</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_DIABOLICAL">
+		    <Text>Dị hóa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_LAND">
+		    <Text>Đất</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_GARGANTUAN">
+		    <Text>Gargantuan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_MAMMOTH">
+		    <Text>Voi ma mút</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_MONSTROUS">
+		    <Text>Quái dị</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_ARMORED">
+		    <Text>Bọc thép</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_CYBERNETIC">
+		    <Text>Điều khiển học</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_TERRIBLE">
+		    <Text>Kinh khủng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_ABOMINABLE">
+		    <Text>Khả ái</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_INFERNAL">
+		    <Text>Địa ngục</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_DREAD">
+		    <Text>Khiếp sợ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANIMALS">
+		    <Text>Động vật</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANT">
+		    <Text>Kiến</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ATLAS">
+		    <Text>Bản đồ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_AUTHORS">
+		    <Text>Tác giả</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BAND">
+		    <Text>Nhóm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BARBARIANS">
+		    <Text>Man rợ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEACH">
+		    <Text>Bãi biển</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEARS">
+		    <Text>Gấu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEATS">
+		    <Text>Nhịp</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BELLS">
+		    <Text>Chuông</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BOOKS">
+		    <Text>Sách</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BREAKFAST">
+		    <Text>Bữa sáng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUCKET">
+		    <Text>Thùng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUFFALO">
+		    <Text>Trâu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUGS">
+		    <Text>Lỗi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUILDERS">
+		    <Text>Người xây dựng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CANAL">
+		    <Text>Kênh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARD">
+		    <Text>Thẻ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARROTS">
+		    <Text>Cà rốt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARS">
+		    <Text>Ô tô</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CASTLES">
+		    <Text>Lâu đài</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CATS">
+		    <Text>Mèo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CAVE">
+		    <Text>Hang động</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CELL">
+		    <Text>Ô</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHAIR">
+		    <Text>Ghế</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHINCHILLA">
+		    <Text>Chinchilla</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CITIES">
+		    <Text>Thành phố</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVICS">
+		    <Text>Công dân</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVILIZATION">
+		    <Text>Văn minh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CLUB">
+		    <Text>Câu lạc bộ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COAST">
+		    <Text>Bờ biển</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COFFEE">
+		    <Text>Cà phê</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CONTINENTS">
+		    <Text>Châu lục</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COOKIES">
+		    <Text>Bánh quy</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COUNTRY">
+		    <Text>Quốc gia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CREW">
+		    <Text>Đoàn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CROWS">
+		    <Text>Quạ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CULTURE">
+		    <Text>Văn hóa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DATES">
+		    <Text>Ngày</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEATH">
+		    <Text>Cái chết</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEITY">
+		    <Text>Thần</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DIAMONDS">
+		    <Text>Kim cương</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DISTRICTS">
+		    <Text>Quận</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DOGS">
+		    <Text>Chó</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DRAGONS">
+		    <Text>Rồng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EAGLE">
+		    <Text>Đại bàng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ECHIDNA">
+		    <Text>Nhím</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EEL">
+		    <Text>Lươn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ELEPHANT">
+		    <Text>Voi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMERGENCIES">
+		    <Text>Khẩn cấp</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPEROR">
+		    <Text>Hoàng đế</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPIRE">
+		    <Text>Đế chế</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPRESS">
+		    <Text>Hoàng hậu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMU">
+		    <Text>Đà điểu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENEMY">
+		    <Text>Kẻ thù</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENVOYS">
+		    <Text>Phái viên</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EVENT">
+		    <Text>Sự kiện</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EXPLOSIONS">
+		    <Text>Vụ nổ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EYES">
+		    <Text>Đôi mắt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FAITH">
+		    <Text>Niềm tin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FARMS">
+		    <Text>Trang trại</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIGHTERS">
+		    <Text>Chiến sĩ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIRE">
+		    <Text>Lửa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FOOD">
+		    <Text>Đồ ăn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GENIUS">
+		    <Text>Thiên tài</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GHOST">
+		    <Text>Ma</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GIANTS">
+		    <Text>Người khổng lồ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOATS">
+		    <Text>Dê</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOLD">
+		    <Text>Vàng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOSSIP">
+		    <Text>Chuyện phiếm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOVERNORS">
+		    <Text>Thống đốc</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GUITARS">
+		    <Text>Ghi ta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HATS">
+		    <Text>Nón</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HEART">
+		    <Text>Trái tim</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIGH">
+		    <Text>Cao</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIPPOS">
+		    <Text>Hà mã</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HISTORY">
+		    <Text>Lịch sử</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HORSES">
+		    <Text>Ngựa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HOUSE">
+		    <Text>Nhà</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HUNTED">
+		    <Text>Săn bắt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_IMPROVEMENT">
+		    <Text>Cải tiến</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ISLANDS">
+		    <Text>Quần đảo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JACKET">
+		    <Text>Áo khoác</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JETS">
+		    <Text>Đen nhánh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KALE">
+		    <Text>Canh cải</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KING">
+		    <Text>Vua</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KITTEN">
+		    <Text>Mèo con</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LASER">
+		    <Text>Laser</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LEAGUE">
+		    <Text>Giải đấu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LETTERS">
+		    <Text>Chữ cái</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LIZARD">
+		    <Text>Thằn lằn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOW">
+		    <Text>Thấp</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOYALISTS">
+		    <Text>Người trung thành</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MACHINE">
+		    <Text>Máy</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MANIACS">
+		    <Text>Điên cuồng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MAP">
+		    <Text>Bản đồ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_METAL">
+		    <Text>Kim loại</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINDS">
+		    <Text>Suy nghĩ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINES">
+		    <Text>Mỏ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NATION">
+		    <Text>Quốc gia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NOISE">
+		    <Text>Nhiễu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_OBSERVATIONS">
+		    <Text>Quan sát</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORCHESTRA">
+		    <Text>Dàn nhạc</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORDER">
+		    <Text>Đặt hàng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PANTHEON">
+		    <Text>Bách thần</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PARTY">
+		    <Text>Đội</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEACOCK">
+		    <Text>Con công</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PENGUIN">
+		    <Text>Chim cánh cụt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_Posystem">
+		    <Text>Mọi người</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEPPERS">
+		    <Text>Ớt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POETS">
+		    <Text>Nhà thơ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POND">
+		    <Text>Ao</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POWER">
+		    <Text>Năng lượng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCE">
+		    <Text>Hoàng tử</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCESS">
+		    <Text>Công chúa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRODUCTION">
+		    <Text>Sản xuất</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PROPHETS">
+		    <Text>Tiên tri</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUNK">
+		    <Text>Yêu tinh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUPPIES">
+		    <Text>Chó con</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUEEN">
+		    <Text>Nữ hoàng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUESTIONS">
+		    <Text>Câu hỏi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RABBIT">
+		    <Text>Con thỏ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RANGER">
+		    <Text>Kiểm lâm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REJECTS">
+		    <Text>Từ chối</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REVOLUTION">
+		    <Text>Cách mạng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RHINO">
+		    <Text>Tê giác</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIOT">
+		    <Text>Bạo loạn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIVERS">
+		    <Text>Sông</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ROBOTS">
+		    <Text>Rô bốt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SABOTAGE">
+		    <Text>Phá hoại</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SCIENCE">
+		    <Text>Khoa học</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SETTLERS">
+		    <Text>Người định cư</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLANG">
+		    <Text>Tiếng lóng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLOTH">
+		    <Text>Con lười</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SNAKE">
+		    <Text>Con rắn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SOUL">
+		    <Text>Linh hồn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPADES">
+		    <Text>Mỡ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIDERS">
+		    <Text>Nhện</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIES">
+		    <Text>Gián điệp</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SQUIRRELS">
+		    <Text>Sóc</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STAR">
+		    <Text>Sao</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STONES">
+		    <Text>Đá</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STOPLIGHT">
+		    <Text>Đèn dừng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SURPRISE">
+		    <Text>Ngạc nhiên</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUSHI">
+		    <Text>Sushi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUZERAINS">
+		    <Text>Độc tài</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TECHNOLOGIES">
+		    <Text>Công nghệ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TILES">
+		    <Text>Đề mục</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TIGERS">
+		    <Text>Hổ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TOMATOES">
+		    <Text>Cà chua</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRADERS">
+		    <Text>Nhà giao dịch</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRICK">
+		    <Text>Thủ thuật</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURNS">
+		    <Text>Lượt đi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURTLE">
+		    <Text>Rùa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_VULTURES">
+		    <Text>Kền kền</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WALLS">
+		    <Text>Tường</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOLF">
+		    <Text>Sói</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOMBATS">
+		    <Text>Gấu túi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WONDERS">
+		    <Text>Kỳ quan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_XYLOPHONES">
+		    <Text>Mộc cầm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_YAKS">
+		    <Text>Vò Tây Tạng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ZOMBIES">
+		    <Text>Xác sống</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_MACHINE">
+		    <Text>Máy</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_MECH">
+		    <Text>Công nghệ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_GOLEM">
+		    <Text>Tượng đá</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_BEHEMOTH">
+		    <Text>Sinh vật khổng lồ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_COLOSSUS">
+		    <Text>Tượng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_HULK">
+		    <Text>Hulk</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_BEAST">
+		    <Text>Quái thú</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_OGRE">
+		    <Text>Yêu tinh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_MONSTROSITY">
+		    <Text>Sự hào phóng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_ROBOT">
+		    <Text>Robot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_AUTOMATON">
+		    <Text>Tự động</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_CYCLOPS">
+		    <Text>Cyclop</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_GIANT">
+		    <Text>Khổng lồ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_TITAN">
+		    <Text>Titan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_WALKER">
+		    <Text>Người vi hành</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_DEVASTATOR">
+		    <Text>Kẻ tàn phá</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

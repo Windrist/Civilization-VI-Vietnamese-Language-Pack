@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY">
+			<Text>Rough Rider Teddy cầm một cây gậy lớn trên lục địa của mình, nhưng nếu bạn để anh ta một mình, anh ta sẽ sống yên bình.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY">
+			<Text>Rough Rider Teddy Roosevelt được hưởng +5 Sức mạnh Chiến đấu trên lục địa quê hương của mình và khả năng đưa các thành phố nằm dưới quyền của họ thông qua thương mại. Anh ấy muốn mở rộng nhanh chóng trên khắp lục địa của mình trong khi nhận được sự ủng hộ của tất cả các thành phố lân cận. Khả năng khai hóa nền văn minh của những người cha sáng lập khiến việc lựa chọn chính phủ của ông trở nên quan trọng và có thể giúp ông đạt được bất kỳ chiến thắng nào. Hai đơn vị độc nhất sau Công nghiệp của anh ấy, bao gồm cả Rough Riders ưa thích của anh ấy, khiến anh ấy có thể đánh đặc biệt mạnh từ Thế kỷ 20 trở đi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY">
+			<Text>Bull Moose Teddy biết rằng không thể có vấn đề gì lớn hơn việc bảo tồn những cảnh đẹp ngoạn mục, vì Mỹ đã tiến bộ nhanh chóng khi đặt Công viên Quốc gia ngay bên ngoài các thành phố lớn của nó.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY">
+			<Text>Bull Moose Teddy ủng hộ các lựa chọn chính phủ của Cộng hòa Cổ điển, Cộng hòa Thương gia và sau đó là Dân chủ vì họ cho anh ta các vị trí chính sách Kinh tế và Wildcard mà anh ta cần khi hướng tới Chiến thắng Văn hóa. Với Xưởng phim, tiền thưởng Công viên Quốc gia và khả năng kiếm được Khoa học và Văn hóa từ những viên gạch ngoạn mục, Teddy là một người có khả năng sáng tạo văn hóa, đặc biệt khi sở hữu những vùng đất có vẻ đẹp tự nhiên tuyệt vời.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE">
+			<Text>Điều quan trọng là để lại một vùng đất tốt hơn cho con cháu của chúng ta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE">
+			<Text>Teddy Roosevelt (Bull Moose)</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

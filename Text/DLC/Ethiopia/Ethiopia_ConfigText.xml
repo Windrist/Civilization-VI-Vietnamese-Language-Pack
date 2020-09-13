@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Secret Societies Mode -->
+		<Replace Language="en_US" Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME">
+			<Text>Chế độ hội kín</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION">
+			<Text>Chế độ chơi này bổ sung tối đa bốn Hội bí mật quyền lực, bí ẩn và thường bất chính trên thế giới, mỗi Hội dựa trên các tổ chức hư cấu hoặc thần thoại trong quá khứ. Dấu vết của họ có thể được tìm thấy trong Trại Barbarian, Làng bộ lạc, hoặc bằng cách gửi Đặc sứ đến Thành phố-Bang và tìm Kỳ quan Tự nhiên. Ngoài ra, nếu các nhà lãnh đạo khác đã phát hiện ra một Hội, bạn có thể tìm hiểu về họ bằng cách tăng mức độ hiển thị ngoại giao của bạn với họ. [NEWLINE] [NEWLINE] Khám phá một Hội không có nghĩa là tự động gia nhập Hội, nhưng nó mở ra một Thống đốc mới không cần được giao cho một thành phố. Dành Chức danh Thống đốc cho thống đốc này có nghĩa là tham gia vào xã hội, mang lại cho bạn những khoản tiền thưởng mạnh mẽ. Nhưng hãy lựa chọn một cách khôn ngoan - một khi bạn bổ nhiệm Thống đốc đó, bạn cam kết trở thành thành viên trong phần còn lại của trò chơi và các nhà lãnh đạo khác sẽ phản ứng với quyết định của bạn. Dành thêm các Chức danh Thống đốc để chứng minh cam kết của bạn với Hội và mở khóa những bí ẩn sâu hơn của Hội.</Text>
+		</Replace>
+		<!-- Ethiopia: Civ Info -->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ETHIOPIA_NAME">
+			<Text>Ethiopia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION">
+			<Text>Đế chế Ethiopian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE">
+			<Text>Ethiopian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME">
+			<Text>Aksumite Legacy</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION">
+			<Text>Cấp cho các tuyến thương mại quốc tế của Ethiopia +0,5 [ICON_Faith] Đức tin cho mỗi tài nguyên tại nguồn gốc. Các tài nguyên được cải thiện cung cấp +1 [ICON_Faith] Đức tin cho mỗi bản sao thành phố sở hữu. Có thể mua Bảo tàng Khảo cổ học và Nhà khảo cổ bằng [ICON_Faith] Đức tin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP">
+			<Text>{Value : number +#.#;-#.#} từ Tài nguyên</Text>
+		</Replace>
+		<!-- Ethiopia: Improvement Info -->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME">
+			<Text>Nhà thờ Rock-Hewn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION">
+			<Text>Mở khóa khả năng Người xây dựng để xây dựng Nhà thờ Rock-Hewn, duy nhất ở Ethiopia. [NEWLINE] [NEWLINE] +1 [ICON_Faith] Đức tin. +1 [ICON_Faith] Đức tin cho mọi ô Núi và Đồi liền kề. Cung cấp [ICON_TOURISM] Du lịch sau khi nghiên cứu Chuyến bay từ [ICON_FAITH] Đức tin. Kháng nghị +1. Chỉ có thể được xây dựng trên Đồi không liền kề với Nhà thờ Rock-Hewn khác.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION">
+			<Text>Mở khóa khả năng Người xây dựng để xây dựng Nhà thờ Rock-Hewn, duy nhất ở Ethiopia. [NEWLINE] [NEWLINE] +1 [ICON_Faith] Đức tin. +1 [ICON_Faith] Niềm tin cho mọi ô Núi và Đồi liền kề. Cung cấp [ICON_TOURISM] Du lịch sau khi nghiên cứu Chuyến bay từ [ICON_FAITH] Đức tin. Kháng nghị +1. Chỉ có thể bị cướp bóc (không bao giờ bị phá hủy) bởi thiên tai. Chỉ có thể được xây dựng trên Đồi hoặc Đất núi lửa không tiếp giáp với Nhà thờ Rock-Hewn khác.</Text>
+		</Replace>
+		<!-- Ethiopia: Leader Info -->
+		<Replace Language="en_US" Tag="LOC_LEADER_MENELIK_NAME">
+			<Text>Menelik II</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MENELIK_NAME">
+			<Text>Hội đồng bộ trưởng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION">
+			<Text>Nhận [ICON_SCIENCE] Khoa học và [ICON_CULTURE] Văn hóa tương đương 15% trong số [ICON_FAITH] của bạn tạo ra niềm tin ở các thành phố được thành lập trên Hills. Các đơn vị nhận được +4 [ICON_STRENGTH] Sức mạnh Chiến đấu trên Đồi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME">
+			<Text>Cao nguyên Ethiopia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Sức mạnh chiến đấu trên đồi (Hội đồng bộ trưởng)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Sức mạnh chiến đấu (Hội đồng Bộ trưởng)</Text>
+		</Replace>
+		<!-- Ethiopia: Unit Info -->
+		<Replace Language="en_US" Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME">
+			<Text>Oromo Cavalry</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION">
+			<Text>Đơn vị kỵ binh hạng nhẹ thời Trung cổ độc đáo của Ethiopia. Có thêm tầm nhìn và không bị phạt [ICON_Movement] Di chuyển khi di chuyển trên ngọn đồi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION">
+			<Text>Đơn vị kỵ binh hạng nhẹ thời Trung cổ độc đáo của Ethiopia. Mạnh mẽ hơn và tầm nhìn tuyệt vời hơn Courser mà nó thay thế. Không nhận được [ICON_Movement] Hình phạt di chuyển khi di chuyển trên ngọn đồi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME">
+			<Text>Oromo Cavalry</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION">
+			<Text>Không bị phạt di chuyển khi di chuyển trên ngọn đồi.</Text>
+		</Replace>
+		<!-- Ethiopia: Agenda Info -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS">
+			<Text>Menelik muốn bạn định cư các thành phố của mình cách xa mọi ngọn đồi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE">
+			<Text>Menelik rất vui vì bạn để lại vùng cao nguyên cho anh ấy</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE">
+			<Text>Menelik khó chịu vì bạn cạnh tranh với anh ta để giành được những ngọn đồi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS">
+			<Text>Thích những người định cư xa những ngọn đồi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME">
+			<Text>Cao nguyên Ethiopia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION">
+			<Text>Thích xây dựng trên và xung quanh Hills nếu có thể, và thích các nền văn minh khác để lại các khu vực gần Hills cho anh ta. Không thích những người cũng định cư và xây dựng trên và xung quanh đồi.</Text>
+		</Replace>
+		<!-- Ethiopia: Fawn of Man -->
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_MENELIK">
+			<Text>Menelik II, Vua và Hoàng đế vĩ đại, bạn có tầm nhìn xa đối với dân tộc của mình. Bạn sẽ xây dựng cả tình bạn và nhà máy, liên minh và đường sắt, sử dụng trí thông minh và trí tuệ của bạn để đưa Ethiopia vào một tương lai tươi sáng và tự do.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

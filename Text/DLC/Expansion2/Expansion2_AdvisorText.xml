@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_INTRO_TO_WORLD_CONGRESS">
+            <Text>Chúng tôi đã được mời tham gia Đại hội Thế giới. Trên sân khấu quốc tế này, chúng tôi sẽ quyết định các chủ đề quan trọng mà toàn thế giới phải giải quyết, biểu quyết về các nghị quyết và thỏa thuận giữa các nhà lãnh đạo thế giới.[NEWLINE][NEWLINE]Đại hội thế giới họp 30 lượt một lần (Tốc độ chuẩn). Trong suốt Đại hội, người chơi bỏ phiếu về các Nghị quyết và Cuộc thảo luận bằng cách sử dụng Ưu đãi ngoại giao [ICON_Favor] tích lũy của họ để tác động đến cách luật chơi sẽ thay đổi cho đến lần họp tiếp theo của Quốc hội.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_WORLD_CONGRESS_STAGE_2">
+            <Text>Chúng tôi đã được triệu tập tới Phiên họp Đặc biệt này của Đại hội Thế giới. Tình huống khẩn cấp đòi hỏi sự chú ý của Thế giới.[NEWLINE][NEWLINE]Phiên đặc biệt có thể được gọi sau mỗi 15 lượt (Tốc độ tiêu chuẩn) bởi những người chơi đã bị ảnh hưởng tiêu cực bởi các điều kiện dẫn đến tình trạng Khẩn cấp. Đây có thể là một người chơi khác (chẳng hạn như trong Trường hợp khẩn cấp quân sự) hoặc môi trường (chẳng hạn như trong Yêu cầu hỗ trợ). Trong giai đoạn này, những người chơi có thể tham gia vào Tình huống khẩn cấp phải bỏ phiếu cho Thảo luận liên quan. Nếu cuộc Thảo luận được thông qua, những người chơi đã bỏ phiếu cho nó sẽ tham gia Khẩn cấp.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_WORLD_CONGRESS_STAGE_OVER">
+            <Text>Đại hội thế giới kết thúc. Nó sẽ sớm gặp lại nhau, nhưng trong thời gian chờ đợi, hãy tận dụng các quy tắc trò chơi mới có hiệu lực! Bạn có thể xem chúng bằng cách vào Ngoại giao và nhấp vào biểu tượng trên cùng bên trái.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_FLOODPLAIN_REVEAL">
+            <Text>Con sông này có bãi bồi, có nghĩa là nó đã bị ngập trước đó và có thể vỡ bờ một lần nữa. Lũ lụt dọc theo con sông này có thể xảy ra bất kỳ lúc nào trong tương lai. Điều này mang lại cho chúng ta những rủi ro nhưng cũng tiềm ẩn những lợi ích.[NEWLINE][NEWLINE]Lũ lụt có thể ảnh hưởng đến bất kỳ ô lát nào dọc theo Sông. Một ô bị ngập nước sẽ chiếm đoạt hoặc phá hủy các Cải tiến và chiếm đoạt các Quận trên ô, nhưng do đó, nó cũng có thể làm tăng sản lượng cho ô.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_VOLCANO_REVEAL">
+            <Text>Núi lửa này hiện đã yên tĩnh, nhưng nó có thể phun trào lại vào một thời điểm nào đó trong tương lai. Nó có thể là mối nguy hiểm cho người dân của chúng ta — hoặc một điều may mắn bất ngờ.[NEWLINE][NEWLINE]Một vụ phun trào có thể ảnh hưởng đến bất kỳ ô nào tiếp giáp với Núi lửa. Sự phun trào sẽ cướp phá hoặc phá hủy các điểm cải tiến và cướp bóc trên ô, nhưng kết quả là nó cũng có thể làm tăng sản lượng trên ô.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_GEOTHERMAL_REVEAL">
+            <Text>Hơi nước bốc lên từ mặt đất ở đây, bốc lên thành những đám mây xoáy. Đây là Khe nứt địa nhiệt — nơi nhiệt của hành tinh thoát ra ngoài qua các lỗ thông hơi tự nhiên.[NEWLINE][NEWLINE]Theo thời gian, bạn có thể nghiên cứu các công nghệ cho phép bạn tận dụng những đặc điểm tự nhiên này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_FIRST_CLIMATE_CHANGE">
+            <Text>Thế giới đang ấm lên và có thể có những hậu quả nghiêm trọng sắp xảy ra. Một số băng ở vùng cực đã tan chảy và các khu định cư ở vùng thấp có thể gặp rủi ro trong tương lai. Nếu nhiệt độ tăng hơn nữa, các vùng đất thấp ven biển bổ sung có thể bị ngập lụt, cuối cùng sẽ chìm dưới những con sóng. Chúng tôi có thể muốn xây dựng một Rào cản lũ lụt ở các thành phố đang gặp rủi ro. Biến đổi khí hậu cũng sẽ dẫn đến những cơn bão và hạn hán ngày càng tồi tệ hơn và thường xuyên hơn, thậm chí có thể tước đi những vùng đất đã từng tăng độ phì nhiêu. Bạn có thể xem thông tin về khí hậu thế giới trên Màn hình Khí hậu bất kỳ lúc nào.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_CONSUME_POWER_RESOURCE">
+            <Text>Nhân dân ta đã tạo ra một nguồn sức mạnh mới. Ngay cả khi họ vui mừng, những chùm khói bốc lên bầu trời. Bằng cách đốt cháy nhiên liệu, chúng ta đang thêm CO2 vào bầu khí quyển. Tiếp tục làm như vậy cuối cùng sẽ làm hành tinh ấm lên.[NEWLINE][NEWLINE]Hành tinh ấm hơn sẽ khiến mực nước biển dâng cao và các khu vực ven biển ngập lụt. Mặc dù mối đe dọa này có thể xảy ra trong tương lai, bạn có thể muốn xem xét lũ lụt ven biển sẽ ảnh hưởng như thế nào đến các thành phố và nền văn minh của bạn.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_STORM_REVEAL">
+            <Text>Gió hú và mưa rơi mạnh — Cơn bão mạnh hoành hành khắp vùng đất! Ở đây có nguy hiểm nhưng cũng có cơ hội.[NEWLINE][NEWLINE]Bão sẽ đi qua một số ô trước khi tan. Nó sẽ cướp bóc hoặc phá hủy các Cải tiến và cướp phá các Quận trên bất kỳ ô nào nó đi qua, nhưng do đó, nó cũng có thể làm tăng sản lượng trên ô đó.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_DAM_TECHNOLOGY_UNLOCK">
+            <Text>Khám phá của nhân dân chúng tôi có nghĩa là chúng tôi có thể điều tiết dòng chảy của các con sông và ngăn chặn ngay cả khi lũ lụt nghiêm trọng. Giờ đây, bạn có khả năng xây dựng huyện Đập.[NEWLINE][NEWLINE]Bạn có thể xây một Đập trên mỗi sông để ngăn lũ dọc theo Sông này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_CANAL_TECHNOLOGY_UNLOCK">
+            <Text>Người dân của chúng tôi tưởng tượng ra một con đường thủy chưa từng tồn tại và khám phá mới này có thể cho phép họ xây dựng nó. Giờ đây, bạn có khả năng xây dựng các kênh đào.[NEWLINE][NEWLINE]Các kênh này cho phép các đơn vị hải quân và đoàn lữ hành đi qua đất liền. Kênh đào sẽ cải thiện lợi nhuận từ bất kỳ Con đường thương mại nào đi qua nó.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_WORLD_CONGRESS_CONVENE">
+            <Text>Những bộ óc thông thái ở nhiều vùng đất đề xuất giải quyết tranh chấp giữa các nền văn minh thông qua luật sư hòa bình. Chúng ta có nên tham gia kêu gọi tổ chức Đại hội Thế giới không?[NEWLINE][NEWLINE]Đại hội Thế giới là một tổ chức của tất cả các nền văn minh trên thế giới. Sử dụng thành công tổ chức này là một phần thiết yếu của Chiến thắng Ngoại giao.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_PLAYER_DISCUSSION_ACCEPT">
+            <Text>Những lập luận hùng hồn của chúng tôi đã thuyết phục các nền văn minh khác trên thế giới và Cuộc thảo luận của chúng tôi được chấp nhận!</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_PLAYER_DISCUSSION_FAIL">
+            <Text>Bất chấp những lời cầu xin của chúng tôi, chúng tôi không thể thuyết phục các nền văn minh khác trên thế giới về nguyên nhân của chúng tôi. Thảo luận của chúng tôi đã bị từ chối.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_INTERVENTION_AVAILABLE">
+            <Text>Chúng tôi có cơ hội yêu cầu những người chơi kết hợp với nhau để giải quyết tình huống khẩn cấp. Chúng tôi có đề xuất điều này với Đại hội Thế giới không?[NEWLINE][NEWLINE]Khi các điều kiện được đáp ứng để kích hoạt Tình huống khẩn cấp, những người chơi bị ảnh hưởng có thể dành [ICON_Favor] Ưu đãi Ngoại giao để yêu cầu Phiên họp đặc biệt của Đại hội Thế giới, nơi người chơi sẽ bỏ phiếu nếu được Điểm Cạnh tranh nên bắt đầu để chống lại tình hình.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_INTERVENTION_PROPOSED_AND_WE_CAN_ADD">
+            <Text>Một nền văn minh khác đã yêu cầu một Phiên họp Đặc biệt của Đại hội Thế giới để giải quyết Tình trạng khẩn cấp. Chúng ta có một Tình huống khẩn cấp của riêng mình để thảo luận: chúng ta sẽ thêm nó vào chương trình nghị sự chứ?[NEWLINE][NEWLINE]Trong một Phiên họp Đặc biệt, nhiều Trường hợp khẩn cấp có thể được thảo luận cùng một lúc. Khi một Phiên đặc biệt đã kết thúc, không thể gọi một Phiên khác cho đến khi một số lượt nhất định trôi qua: nếu bạn muốn đề xuất một cuộc thảo luận, bây giờ là lúc để thực hiện.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_INTERVENTION_PASS">
+            <Text>Đại hội thế giới đã đồng ý rằng các nền văn minh nên kết hợp với nhau vì một mục tiêu chung. Chúng ta có thể làm việc với các nền văn minh khác để được họ chấp thuận hoặc chúng ta có thể chọn không tham gia vào Sự can thiệp này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_EMERGENCY_1_XP2">
+            <Text>Chúng ta đã cùng với các nền văn minh khác tham gia chống lại một mối đe dọa lớn hơn. Nếu chúng tôi thành công, chúng tôi sẽ được thưởng. Nhưng nếu chúng ta thất bại trong nhiệm vụ của mình, kẻ thù sẽ trở nên mạnh mẽ hơn.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_SCORED_COMPETITION_BEGUN">
+            <Text>Bây giờ chúng ta đang đối mặt với các nền văn minh khác trong một cuộc cạnh tranh hòa bình. Ai sẽ là người có khả năng nhất trong hoạt động này? Nếu chúng tôi hoạt động tốt, chúng tôi sẽ nhận được phần thưởng mạnh mẽ.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_PLAYER_DENOUNCED">
+            <Text>Cho dù vì thất vọng hay ác ý, một nền văn minh khác trên thế giới đang tức giận với hành động của chúng ta. Họ đã tố cáo chúng tôi trước thế giới để thể hiện sự bất bình của họ. Họ có thể đang biện minh cho một cuộc chiến trong tương lai với chúng ta. Chúng ta phải cẩn thận.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_PLAYER_GENERATES_GRIEVANCE">
+            <Text>Chúng tôi đã phản đối ý chí của một nền văn minh khác, và đã khiến họ tức giận. Họ có Khiếu nại chống lại chúng tôi, điều này có thể gây khó khăn hơn khi làm việc với họ trong tương lai.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_AI_GENERATES_GRIEVANCE">
+            <Text>Hành động của một nền văn minh khác là sự xúc phạm đến phẩm giá của chúng ta. Chúng tôi có Khiếu nại chống lại họ, điều này có thể biện minh cho các hành động của chúng tôi chống lại họ đối với các nền văn minh khác.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_PLAYER_GAINS_FAVOR">
+            <Text>Đại hội thế giới chấp thuận các hành động của chúng tôi liên quan đến Nghị quyết này. Chúng tôi đã giành được Sự ủng hộ về ngoại giao với các nền văn minh khác.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_PLAYER_CB_REVOKED">
+            <Text>Đại hội thế giới đã xác định rằng Casus Belli của chúng tôi cho cuộc chiến hiện tại của chúng tôi là không chính đáng. Chúng tôi không còn yêu cầu lợi ích ngoại giao từ nó. Chúng ta phải thận trọng, kẻo bị cô lập về mặt ngoại giao.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_CIV_MAKES_REQUEST">
+            <Text>Một nền văn minh khác trên thế giới đã đưa ra một Yêu cầu chính thức cho bạn. Phản ứng của bạn đối với cử chỉ ngoại giao trong thời điểm quan trọng này sẽ quyết định tương lai mối quan hệ của bạn với Nền văn minh này.[NEWLINE][NEWLINE]Tùy thuộc vào cách bạn phản hồi Yêu cầu và cư xử sau đó, các tùy chọn khác có thể khả dụng cho Nền văn minh này — bao gồm cả Casus Belli đang có sẵn.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_PLAYER_ABLE_REQUEST">
+            <Text>Một tình huống chính trị quan trọng đã nảy sinh liên quan đến một nền Văn minh khác trên thế giới. Bạn có thể yêu cầu một nền văn minh khác. Những Yêu cầu này đại diện cho những thời điểm quan trọng trong mối quan hệ của bạn với các nền Văn minh khác.[NEWLINE][NEWLINE]Tùy thuộc vào cách các nền Văn minh khác phản ứng, các lựa chọn ngoại giao khác có thể khả dụng cho bạn — bao gồm cả Casus Belli để biện minh cho một cuộc chiến với Nền văn minh đó.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_STRATEGIC_RESOURCE_AVAILABLE">
+            <Text>Chúng tôi đã bắt đầu tích lũy Tài nguyên Chiến lược! Người dân của chúng tôi biết rằng Tài nguyên mới này có thể cần thiết cho việc xây dựng các đơn vị quân đội nhất định và họ sẽ dự trữ nó để sử dụng trong tương lai. Chúng ta nên quản lý việc sử dụng Tài nguyên này để tận dụng tối đa.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_UNIT_REQUIRES_FUEL_BUILT">
+            <Text>Giờ đây, chúng tôi có thể đào tạo một đơn vị quân đội yêu cầu nguồn lực chiến lược. Nếu chúng ta không cung cấp đầy đủ tài nguyên trong kho dự trữ của mình, nó sẽ kém hiệu quả hơn nhiều trong trận chiến.[NEWLINE][NEWLINE]Những đơn vị này sẽ yêu cầu cung cấp tài nguyên liên tục. Chúng ta nên đảm bảo rằng chúng ta có sẵn nguồn cung cấp những tài nguyên đó.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_POWER_REQUIRED_BUILDABLE">
+            <Text>Những bộ óc khôn ngoan nhất của chúng tôi đã lên kế hoạch chế tạo một thiết bị mới, nhưng nó sẽ đòi hỏi một nguồn Năng lượng thường xuyên lớn hơn nỗ lực của con người. Chúng ta phải phát triển một cách để cung cấp Điện cho các thành phố của mình nếu chúng ta muốn sử dụng nó.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_DIRTY_POWER_AVAILABLE">
+            <Text>Chúng tôi đã biết về một phương pháp cung cấp năng lượng cho thành phố của chúng tôi, nhưng nó sẽ yêu cầu chúng tôi đốt cháy Nhiên liệu. Nguồn này sẽ tạo ra khói và ô nhiễm, vì vậy chúng ta phải cân nhắc kỹ giữa chi phí và lợi ích.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_CLEAN_POWER_AVAILABLE">
+            <Text>Tin tuyệt vời! Chúng tôi có một phương pháp mới để sản xuất Điện - một phương pháp sẽ không gây ô nhiễm thế giới bằng cách đốt cháy Nhiên liệu. Điều này sẽ cho phép chúng tôi cung cấp Điện cho các thành phố của mình mà không gây nguy hại đến môi trường.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_CITY_POWER_SHORTAGE">
+            <Text>Công việc ở thành phố này được tiến hành vừa phải, vì thành phố đang thiếu điện. Nếu chúng ta không dự trữ đủ tài nguyên, các đơn vị, thành phố và nền văn minh của chúng ta sẽ không đạt được tiềm năng lớn nhất của chúng.[NEWLINE][NEWLINE]Chúng ta nên xây một tòa nhà cung cấp năng lượng cho thành phố này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_NEGATIVE_RESOURCE_RATE">
+            <Text>Hiện nay, nhu cầu về Tài nguyên của chúng tôi ngày càng lớn và kho dự trữ của chúng tôi có nguy cơ cạn kiệt. Nếu điều này xảy ra, các đơn vị của chúng tôi sẽ trở nên kém hiệu quả hơn nhiều.[NEWLINE][NEWLINE]Nếu chúng tôi hết Tài nguyên, bất kỳ đơn vị nào yêu cầu các Tài nguyên này sẽ kém hiệu quả hơn trong chiến đấu. Chúng tôi có thể muốn xem xét xây dựng ít đơn vị hơn hoặc tìm cách sử dụng tốt hơn các Tài nguyên chúng tôi có.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_EXOPLANET_PROJECT_AVAILABLE">
+            <Text>Các nhà khoa học và kỹ sư của chúng tôi tin rằng họ có thể chế tạo một con tàu có khả năng chở những người thuộc địa đến một ngôi nhà mới trên một thế giới xa xôi. Để đạt được kỳ tích này sẽ là thành tựu công nghệ vĩ đại nhất của lịch sử nhân loại và sẽ đảm bảo vị trí của nền văn minh của chúng ta trong lịch sử.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_EXOPLANET_SUPPORT_PROJECT_AVAILABLE">
+            <Text>Con tàu vũ trụ của chúng tôi để giải quyết một thế giới xa xôi đã khởi hành trên hành trình của nó, nhưng vẫn còn nhiều cơ hội hơn để giúp nó trên đường đi. Chúng tôi có thể xây dựng các dự án bổ sung để tăng tốc hành trình.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_FUTURE_ERA_IMMINENT">
+            <Text>Những bí ẩn của khoa học và những câu hỏi của văn hóa vẫn còn mở cho chúng ta, nhưng giờ đây mối liên hệ giữa những khám phá đang mờ nhạt đến mức khó tin. Khi cuộc điều tra của chúng tôi tiếp tục, mối quan hệ giữa công nghệ và dân sự sẽ tự bộc lộ trong thời gian.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_BUILD_ROUTE_MOUNTAIN_AVAILABLE">
+            <Text>Những ngọn núi sừng sững trên trời có thể khiến người khác nản lòng, nhưng dân tộc chúng ta có kiến ​​thức về cách vượt qua chúng. Vượt núi sẽ giúp việc đi lại dễ dàng hơn cho các đơn vị của chúng ta — cũng như của kẻ thù của chúng ta.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_BUILD_RAILROAD_AVAILABLE">
+            <Text>Đường sắt là một công việc tốn kém, nhưng nó sẽ thúc đẩy sức mạnh thương mại của chúng ta và tốc độ của các đơn vị của chúng ta dọc theo tuyến của nó. Chúng ta nên xem xét nơi để xây dựng chúng. Các kỹ sư quân sự sẽ được yêu cầu cho nhiệm vụ.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_BUILD_ROCKBAND_AVAILABLE">
+            <Text>Nền văn minh của chúng ta có khả năng chiêu mộ các ban nhạc Rock! Những người biểu diễn đẳng cấp thế giới này có thể được mua bằng Đức tin trong một thành phố. Gửi họ đi lưu diễn đến những vùng đất xa xôi để biểu diễn các buổi hòa nhạc và tạo ra Du lịch cho nền văn minh của chúng ta.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_BUILD_COASTAL_LOWLANDS">
+            <Text>Người dân của chúng tôi đã chọn để tạo ra một thành phố dọc theo bờ biển thấp, trong tiếng sóng biển. Nhưng đây là vùng đất thấp và sẽ ngập lụt nếu mực nước biển dâng cao.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_WELCOME">
+            <Text>Chào mừng bạn đến với Civilization VI: Cơn bão ập đến! Hướng dẫn này sẽ giới thiệu cho bạn các tính năng mới trong bản mở rộng này. Thông tin bổ sung có thể được tìm thấy trong các mẹo của Civilopedia và Advisor.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS">
+            <Text>World Congress là nơi bạn thể hiện tiếng nói của mình giữa các nền văn minh khác trên thế giới. Nó cũng là một phần quan trọng của Chiến thắng Ngoại giao mới. Đề xuất được gửi trước Đại hội Thế giới để biểu quyết và có hai loại: Nghị quyết và Thảo luận.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS">
+            <Text>{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_3}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_1">
+            <Text>Các quyết sách ảnh hưởng đến tất cả các nền văn minh, chẳng hạn như cấm Tài nguyên xa xỉ hoặc nhận thêm các tiện nghi [ICON_Amenities] từ mỗi bản sao của tài nguyên.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_2">
+            <Text>Các cuộc thảo luận là các Cuộc thi được tính điểm hoặc Trường hợp khẩn cấp tiềm năng mà các thành viên của Đại hội thế giới có thể tham gia, như Thế vận hội Thế giới hoặc Tình huống khẩn cấp về tôn giáo.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_3">
+            <Text>Các thành viên có thể triệu tập Phiên họp đặc biệt nếu họ gặp tình huống khẩn cấp cần giải quyết, chẳng hạn như yêu cầu cứu trợ sau thảm họa thiên nhiên.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR">
+            <Text>[ICON_Favor] Ủng hộ ngoại giao là một dạng tiền tệ mới trong trò chơi. Các hành động ngoại giao của bạn sẽ giúp bạn nhận được [ICON_Favor] Ưu đãi ngoại giao có thể được sử dụng trong Đại hội thế giới để giúp bạn hoặc cản trở người khác.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS">
+            <Text>{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_3}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_1">
+            <Text>[ICON_Favor] Có thể kiếm được sự ủng hộ ngoại giao thông qua các Liên minh, Thành phố mà bạn là Suzerain, thành công trong các Cuộc thi được tính điểm và hơn thế nữa.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_2">
+            <Text>Có những cách chính và nhỏ để giành được [ICON_Favor] Sự ủng hộ ngoại giao thông qua một trò chơi. Một số hành động sẽ cấp cùng một lúc một khoản tiền ủng hộ lớn và một số hành động sẽ cấp dần theo thời gian. Hãy thử đổi lấy Sự ủng hộ của người chơi khác để củng cố vị thế của bạn trong World Congress.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_3">
+            <Text>Bạn có thể sử dụng Ưu đãi ngoại giao [ICON_Favor] của mình để trích xuất lời hứa từ những người chơi khác, gọi Phiên đặc biệt của Quốc hội và mua phiếu bầu trong Đại hội thế giới. Hoặc tiết kiệm Ưu đãi Ngoại giao trong suốt trò chơi để theo đuổi Điểm Chiến thắng Ngoại giao trong các thời đại sau này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY">
+            <Text>Thu thập các Điểm Chiến thắng Ngoại giao để theo đuổi Chiến thắng Ngoại giao mới.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS">
+            <Text>{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_3}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_1">
+            <Text>Khi Quốc hội Thế giới nhóm họp, sẽ có một số Nghị quyết để xác định. Khi cuộc bỏ phiếu được giải quyết, tất cả người chơi sẽ nhận được Điểm Chiến thắng Ngoại giao cho mỗi Nghị quyết mà họ đã chọn mục tiêu và tùy chọn chiến thắng.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_2">
+            <Text>Bắt đầu từ Kỷ nguyên Hiện đại, người chơi sẽ có thể sử dụng Ưu đãi Ngoại giao [ICON_Favor] của họ trong Đại hội Thế giới để cạnh tranh Điểm Chiến thắng Ngoại giao. Chiến thắng Giải quyết để đưa bạn đến gần hơn với chiến thắng hoặc ngăn cản những người chơi khác đạt được thành tích của họ.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_3">
+            <Text>Các trường hợp khẩn cấp như Yêu cầu viện trợ và Thế vận hội sẽ cung cấp Điểm chiến thắng ngoại giao cho những người chơi đạt điểm cao nhất.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES">
+            <Text>Hệ thống Warmongering trước đây đã được thay thế bằng một mô tả mới về cách những người chơi khác nhìn nhận các hành động hiếu chiến của bạn: [ICON_STAT_GRIEVANCE] Than phiền.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS">
+            <Text>{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_3}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_1">
+            <Text>Giờ đây, khi những người chơi khác sai bạn bằng cách Tố cáo, Tuyên bố Chiến tranh, hoặc chiếm được hoặc tấn công một trong các thành phố của bạn, bạn sẽ bị [ICON_STAT_GRIEVANCE] bất bình với họ và có thể trả đũa bằng hiện vật với sự chấp thuận của thế giới. Bạn sẽ không còn bị tố cáo về việc chiếm thành phố công bằng, trừng phạt sau một cuộc chiến tranh phi nghĩa.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_2">
+            <Text>Bạn cũng có thể sử dụng [ICON_STAT_GRIEVANCE] Khiếu nại để yêu cầu Lời hứa từ những người chơi khác. Nếu người chơi khác tiếp tục đi ngược lại mong muốn của bạn mà bạn chỉ ra theo cách này, họ sẽ liên tục tạo ra [ICON_STAT_GRIEVANCE] Những lời than phiền mà bạn có thể sử dụng để biện minh cho một cuộc chiến chống lại họ.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_3">
+            <Text>Nhưng thế giới nói chung vẫn chú ý đến [ICON_STAT_GRIEVANCE] tổng thể những lời than phiền mà những người chơi khác có đối với bạn. Nếu bạn làm người khác đau buồn hơn họ đã làm bạn đau buồn, các bên thứ ba sẽ nhận thấy và điều đó sẽ ảnh hưởng đến quan điểm của họ về bạn.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT">
+            <Text>Trong Civilization VI: Gathering Storm, môi trường xung quanh bạn trở nên sống động hơn bao giờ hết. Các thảm họa tự nhiên như lũ lụt, bão và núi lửa có thể cướp phá hoặc phá hủy các Cải tiến và Quận của bạn — nhưng chúng có thể làm mới và làm giàu thêm các vùng đất sau khi chúng đi qua.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAILS">
+            <Text>{LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_2}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_1">
+            <Text>Từ Bão tuyết đến Bão bụi, từ Lốc xoáy đến Bão tố, bão là những thách thức khác cần vượt qua.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_2">
+            <Text>Các con sông bị ngập lụt có thể làm hỏng những cải tiến của bạn, nhưng chúng cũng có thể cải thiện năng suất lương thực của [ICON_Food] trên một ô.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_VOLCANOES">
+            <Text>Núi lửa có rủi ro cao, nhưng phần thưởng cao, địa điểm định cư. Các vụ phun trào núi lửa có thể cướp phá hoặc phá hủy các công trình cải tiến, quận và các tòa nhà, thậm chí giết chết hoặc làm hỏng các đơn vị. Nhưng đất núi lửa có giá trị cao và rất màu mỡ.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_GEOTHERMAL">
+            <Text>Khe nứt địa nhiệt là các tính năng mới mang lại lợi ích cho các tòa nhà hoặc quận lân cận như các tiện nghi bổ sung của [ICON_Amenities] hoặc Du lịch [ICON_Tourism].</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES">
+            <Text>Các nguồn lực chiến lược được chia thành hai loại: Nhiên liệu và Vật liệu. Tài nguyên nhiên liệu được sử dụng để đáp ứng nhu cầu điện [ICON_Power] của các thành phố của bạn, trong khi nguồn nguyên liệu là cần thiết để sản xuất các đơn vị phụ thuộc vào tài nguyên.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAILS">
+            <Text>{LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_2}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_1">
+            <Text>Quản lý [ICON_Power] Power trong thành phố của bạn để làm cho các tòa nhà vào cuối trận đấu hiệu quả hơn.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_2">
+            <Text>Trao đổi tài nguyên và nhiên liệu vật chất với các nền văn minh khác.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES">
+            <Text>Lựa chọn của bạn về việc sử dụng tài nguyên sẽ ảnh hưởng trực tiếp đến nhiệt độ thế giới và có thể khiến mực nước biển dâng cao. Một số gạch lát ven biển sẽ có nguy cơ bị ngập hoặc ngập hoàn toàn. Khi định cư các thành phố, hãy xem xét rủi ro của những loại gạch lát vùng đất thấp ven biển này, nhưng hãy nhớ rằng trong thời Nguyên tử, có thể sử dụng Rào cản lũ lụt để bảo vệ những viên gạch này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAILS">
+            <Text>{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_3}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_1">
+            <Text>Đốt cháy nhiên liệu làm nóng bầu khí quyển, dẫn đến các tảng băng tan chảy và mực nước biển dâng cao.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_2">
+            <Text>Trình định cư của bạn bây giờ sẽ cho bạn biết nếu bạn đang xây dựng một thành phố ở khu vực thấp gần bờ biển.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_3">
+            <Text>Rào cản lũ lụt sẽ giúp bảo vệ thành phố của bạn khỏi nước biển dâng.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_MORE">
+            <Text>Còn rất nhiều điều để khám phá trong Civilization VI: Cơn bão ập đến bao gồm các kỷ nguyên mới trong Cây Công nghệ và Công nghệ, Khoảnh khắc lịch sử mới, các đơn vị toàn cầu mới bao gồm Robot Tử thần khổng lồ, các nhà lãnh đạo và nền văn minh hợp lực với các hệ thống mới, v.v.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_END">
+            <Text>Liệu nền văn minh của bạn có vượt qua được cơn bão tập hợp không? Bạn sẽ cai trị như thế nào trong Sid Meier's Civilization VI?</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TUTORIAL_XP2_INTRO_END_DETAILS_1">
+            <Text>Bạn luôn có thể xem lại thông tin này bằng cách tham khảo ý kiến ​​của cố vấn, kiểm tra Civilopedia hoặc mở lại hướng dẫn này trong menu Tạm dừng.</Text>
+        </Replace>
+        <!--City Panel Advisor-->
+        <Replace Language="en_US" Tag="LOC_ADVISOR_CITYPANEL_POWER_INTRO">
+            <Text>ĐỂ TẠO ĐIỆN:</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_ADVISOR_CITYPANEL_POWER_PLANTS">
+            <Text>[NEWLINE][NEWLINE]Xây dựng một Nhà máy điện ở thành phố này hoặc một thành phố lân cận và đảm bảo bạn có một kho dự trữ tài nguyên mà nó sử dụng ([ICON_RESOURCE_COAL] Than, [ICON_RESOURCE_OIL] Dầu hoặc [ICON_RESOURCE_URANIUM] Uranium)</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_ADVISOR_CITYPANEL_HYDROELECTRIC_DAM">
+            <Text>[NEWLINE][NEWLINE]Xây dựng huyện Đập và xây dựng Đập thủy điện</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_ADVISOR_CITYPANEL_RENEWABLE_ENERGY">
+            <Text>[NEWLINE][NEWLINE]Nghiên cứu các công nghệ tiên tiến và xây dựng các cải tiến về ô vuông như Trang trại năng lượng mặt trời, Trang trại gió, Trang trại gió ngoài khơi hoặc Nhà máy địa nhiệt</Text>
+        </Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY">
+			<Text>Sự lộng lẫy của Catherine làm tăng thêm kỳ quan thường thấy của cô ấy và chương trình xây dựng Lâu đài bằng các Lễ hội Tòa án xa hoa, nhanh chóng thúc đẩy nước Pháp tiến tới Chiến thắng Văn hóa, đặc biệt là khi cô ấy có thể tích trữ một bộ sưu tập đồ xa xỉ khổng lồ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY">
+			<Text>Magnificence Catherine là một nhà lãnh đạo muốn tích lũy một bộ sưu tập lớn các nguồn tài nguyên xa xỉ với đủ loại và số lượng. Sở hữu một bộ sưu tập xa hoa hàng hiệu khiến Lễ hội Tòa án của cô ấy trở thành sự kiện văn hóa mà tất cả các nhà lãnh đạo đều muốn đến xem và được nhìn thấy. Với đủ các lễ hội như vậy và một bộ sưu tập lớn của Châteaux và các kỳ quan giữa trò chơi, Pháp nên là ứng cử viên hàng đầu cho Chiến thắng Văn hóa bất cứ khi nào phiên bản nhân từ của Catherine này xuất hiện. Cô ấy chỉ đủ nguy hiểm trong trò chơi này đến mức bạn có thể phải chiến đấu chống lại Garde Impériale của Pháp để giữ cô ấy không lăn để giành chiến thắng nhanh chóng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE">
+			<Text>Catherine de Medici (Black Queen)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE">
+			<Text>Có một niềm vui cuộc sống nhất định đối với nền văn hóa của chúng ta. Thật vô ích khi cưỡng lại sự quyến rũ của nó.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

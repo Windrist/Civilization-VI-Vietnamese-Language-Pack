@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Improvements-->
+		<Replace Language="en_US" Tag="LOC_FIRE_STARTED">
+			<Text>Đám cháy bắt đầu</Text>
+		</Replace>
+        <Replace Language="en_US" Tag="LOC_FIRE_STARTED_DESC">
+            <Text>{FertilityAdded} {FertilityAdded : plural 1?fire has; other?fires have;} đã bắt đầu. {UnitsLost} {UnitsLost : plural 1?unit was; other?units were;} hư hỏng.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_FIRE_CONTINUED">
+            <Text>Đám cháy kết thúc</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_FIRE_CONTINUED_DESC">
+            <Text>{FertilityAdded} {FertilityAdded : plural 1?fire has; other?fires have;} đã kết thúc. Các ô hiện đã an toàn khi đi ngang qua, nhưng cây sẽ mất thời gian để mọc lại.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_FIRE_JUNGLE_OVER">
+            <Text>Rừng nhiệt đới mọc lại</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_FIRE_JUNGLE_OVER_DESC">
+            <Text>Sau khi bị hỏa hoạn thiêu rụi, {FertilityAdded} {FertilityAdded : plural 1?rainforest has; other?rainforests have;} mọc lại.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_FIRE_FOREST_OVER">
+            <Text>Rừng mọc lại</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_FIRE_FOREST_OVER_DESC">
+            <Text>Sau khi bị hỏa hoạn thiêu rụi, {FertilityAdded} {FertilityAdded : plural 1?forest has; other?forests have;} mọc lại.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_METEOR_HAPPENED">
+            <Text>Mưa sao băng</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_METEOR_HAPPENED_DESC">
+            <Text>Mưa sao băng {FertilityAdded} {FertilityAdded : plural 1?tile; other?tiles;}, để lại tài nguyên. Thu thập chúng sẽ nâng cấp vũ khí tiên tiến.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_COMET_HAPPENED">
+            <Text>Sao chổi Rơi</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_COMET_HAPPENED_DESC">
+            <Text>Một sao chổi lao xuống từ bầu trời, tàn phá {FertilityAdded} {FertilityAdded : plural 1?tile; other?tiles;} trên quỹ đạo của nó.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_SOLAR_FLARE_HAPPENED">
+            <Text>Bức xạ mặt trời</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_SOLAR_FLARE_HAPPENED_DESC">
+            <Text>Trên khắp thế giới, các công nghệ tiên tiến ngừng hoạt động khi bức xạ vũ trụ tàn phá. {UnitsLost} {UnitsLost : plural 1?unit was; other?units were;} bị phá hủy.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_METEOR_GRABBED">
+            <Text>Khu vực tàn tích Sao băng</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_METEOR_GRABBED_DESC">
+            <Text>Bạn đã thu hoạch được tàn tích Sao băng rơi, trích xuất các vật liệu quý hiếm nâng cấp cho bạn một đơn vị tiên tiến.</Text>
+        </Replace>
+  </LocalizedText>
+</GameData>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_RANDOM_EVENT_METEOR_SHOWER_NAME">
+			<Text>Mưa sao băng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RANDOM_EVENT_METEOR_SHOWER_DESCRIPTION">
+			<Text>Mưa vụn từ trên trời rơi xuống. Đi thu thập những gì còn lại để kiếm một đơn vị mạnh mẽ.</Text>
+		</Replace>
+        <Replace Language="en_US" Tag="LOC_RANDOM_EVENT_COMET_STRIKE_NAME">
+            <Text>Sao chổi Rơi</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_RANDOM_EVENT_COMET_STRIKE_DESCRIPTION">
+            <Text>Tiểu hành tinh đâm vào hành tinh.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_RANDOM_EVENT_FOREST_FIRE_NAME">
+            <Text>Cháy rừng</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_RANDOM_EVENT_FOREST_FIRE_DESCRIPTION">
+            <Text>Những cái cây bắt đầu đổ xuống, tạo ra ngọn lửa không thể ngăn cản sẽ bùng lên khắp cảnh quan. Chỉ bạn mới có thể ngăn chặn điều này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_RANDOM_EVENT_SOLAR_FLARE_NAME">
+            <Text>Bức xạ mặt trời</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_RANDOM_EVENT_SOLAR_FLARE_DESCRIPTION">
+            <Text>Một đợt bức xạ mặt trời chiếu sáng bầu khí quyển, vô hiệu hóa công nghệ tiên tiến.</Text>
+        </Replace>
+    <!--Random Event Effect Strings-->
+		<Replace Language="en_US" Tag="LOC_RANDOM_EVENT_COMET_STRIKE_EFFECT_DESCRIPTION">
+			<Text>- Sẽ để lại phía sau một vùng tác động, phá hủy bất cứ thứ gì nó tiếp đất, bao gồm cả trung tâm thành phố</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RANDOM_EVENT_SOLAR_FLARE_EFFECT_DESCRIPTION">
+			<Text>- Có thể làm hỏng các thiết bị nâng cao và cải tiến, [ICON_POWER] Các tòa nhà liên quan đến điện, Khu học xá, Khu công nghiệp và Khu cảng vũ trụ.</Text>
+		</Replace>
+        <Replace Language="en_US" Tag="LOC_RANDOM_EVENT_FIRE_EFFECT_DESCRIPTION">
+            <Text>+ Làm cho rừng mọc lại với năng suất được cải thiện[NEWLINE]- Các đơn vị thiệt hại và cải tiến</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_RANDOM_EVENT_METEOR_SHOWER_EFFECT_DESCRIPTION">
+            <Text>+ Đặt một cải tiến mà người chơi có thể thu thập bằng cách đưa bất kỳ đơn vị nào vào ô. Làm như vậy cấp một đơn vị nâng cao</Text>
+        </Replace>
+	</LocalizedText>
+</GameData>

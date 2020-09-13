@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+			<Text>Khi bạn gửi [ICON_ENVOY] Đặc phái viên đến một Thành phố-Bang, điều đó sẽ tạo thêm 200 áp lực Tôn giáo cho Bang-Thành phố đó.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+			<Text>1 [ICON_Food] Thực phẩm từ [ICON_RESOURCE_WINE] Rượu, [ICON_RESOURCE_INCENSE] Hương, [ICON_RESOURCE_COCOA] Cocoa, [ICON_RESOURCE_TOBACCO] Thuốc lá, [ICON_RESOURCE_OLIVES] Quả ô liu, [ICON_RESOURCE_COFFEE] Cà phê, và [ICON_RESOURCE_TEA] Đồn điền chè.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

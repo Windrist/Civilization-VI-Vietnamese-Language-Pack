@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_INTRO_CHAPTER_CONTENT_PARA_1">
+			<Text>Tín Ngưỡng bạn chọn sẽ có một ảnh hưởng lớn đến nền văn minh của bạn. Với sự giới thiệu của hệ thống Chiến Thắng Tín Ngưỡng và Chiến Tranh Thần Học, bạn có những công cụ mới và thú vị khi lan truyền Tín Ngưỡng của bạn đến các thành phố và nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_BUDDHISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Và bánh xe quay, đó là bánh xe pháp, Phật dạy về con đường dẫn đến Niết bàn, rẽ. Được theo dõi bởi hơn 350 triệu người trên khắp thế giới ngày nay, Phật giáo dựa trên những lời dạy của nhà lãnh đạo tinh thần được tôn kính Siddhartha Gautama, được gọi là Đức Phật tối cao, Đấng giác ngộ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_BUDDHISM_CHAPTER_HISTORY_PARA_2">
+			<Text>Là nhân vật trung tâm của Phật giáo, Đức Phật không được công nhận là một vị thần, ông cũng không cho rằng mình có mối liên hệ với Thượng đế. Thay vào đó, Đức Phật đã dạy cho những người theo ông một con đường dẫn đến giác ngộ dựa trên kinh nghiệm sống của chính ông, một sự khác biệt phân biệt Phật giáo với nhiều tôn giáo khác trên thế giới.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_BUDDHISM_CHAPTER_HISTORY_PARA_3">
+			<Text>Một hoàng tử một thời ở một vương quốc Ấn Độ nhỏ bé cho đến năm 29 tuổi, Siddhartha chuyển sang cuộc sống khổ hạnh sau khi mạo hiểm bên ngoài cung điện (có một đạo đức ở đâu đó). Anh ta uốn khúc quanh Ấn Độ trong vài năm, cuối cùng ngồi dưới gốc cây vả để thiền; Ở đó, sau nhiều ngày, anh ta đã tìm thấy sự giác ngộ của người Hồi giáo, và sau đó giải thoát bản thân khỏi vòng khổ đau trần tục và trỗi dậy Đức Phật.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_BUDDHISM_CHAPTER_HISTORY_PARA_4">
+			<Text>Các giáo lý chính yếu của Phật giáo, Tứ diệu đế và Bát chánh đạo, đưa ra các phương tiện để người ta có thể đạt được Niết bàn, hoặc bình an khỏi đau khổ không hồi kết. Ở dạng đơn giản nhất, Tứ diệu đế cho chúng ta biết rằng cuộc sống là đau khổ, đau khổ phát sinh từ chấp trước của chúng ta đối với dục vọng, đau khổ đó chấm dứt khi chấp trước đó chấm dứt và tự do khỏi đau khổ chỉ có thể bằng cách thực hành Bát chánh đạo. Vì vậy, để đạt được giác ngộ, người ta phải từ bỏ mọi thứ mình thích.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CATHOLICISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Công giáo La Mã đề cập đến thần học và giáo lý của nhà thờ Thiên chúa giáo dưới sự bảo trợ của Tòa thánh, giáo hoàng có trụ sở tại Rome. Theo các học giả giáo hội, Công giáo được phân biệt với các nhánh khác của Kitô giáo bởi cam kết của nó đối với các truyền thống nhà thờ, cho các bí tích, và chức tư tế của nó như là thông dịch viên của Kinh thánh.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CATHOLICISM_CHAPTER_HISTORY_PARA_2">
+			<Text>Việc sử dụng sớm nhất của thuật ngữ Nhà thờ Công giáo Hồi giáo là của Ignatius of Antioch vào khoảng năm 107 sau Công nguyên. Nhà thờ ban đầu được tổ chức dựa trên sự cai trị của ba tộc trưởng, những người ở Rome, Alexandria và Antioch - sau đó được thêm vào các tộc trưởng Constantinople và Jerusalem. Nhưng quá nhiều tộc trưởng có xu hướng làm vẩn đục nước thánh.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CATHOLICISM_CHAPTER_HISTORY_PARA_3">
+			<Text>Chẳng mấy chốc, tộc trưởng Rome đã tuyên bố quyền lực đặc biệt dựa trên mối liên hệ giữa St. Peter và thành phố đó. Trong 1000 năm, Công giáo La Mã thống trị châu Âu, cho đến khi Đại giáo phái năm 1054 sau Công nguyên phát sinh chính thống Đông phương. Khoảng 500 năm sau, một bộ phận lớn khác trong Kitô giáo đã xảy ra với cuộc Cải cách Tin lành, khiến nhiều người ở Châu Âu bác bỏ những giáo lý và thực hành của Công giáo để ủng hộ những biểu hiện niềm tin cá nhân hơn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CATHOLICISM_CHAPTER_HISTORY_PARA_4">
+			<Text>Hiện nay, Giáo hội Công giáo La Mã coi những người không hiệp thông với Vatican là người không theo đạo Công giáo, nhưng chấp nhận những cách giải thích khác nhau về Kinh thánh. Một chút thay đổi so với những ngày khi nó đốt những kẻ dị giáo và hầu hết những người khác khác với giáo điều Công giáo.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CONFUCIANISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Nho giáo là một đức tin dựa trên những lời dạy của triết gia Trung Quốc Khổng Tử (551-479 trước Công nguyên). Ban đầu được giới thiệu như một triết lý đạo đức và xã hội dành cho giới thượng lưu đặc quyền, Nho giáo đã phát triển lên đến vài triệu người trong thời đại ngày nay, chủ yếu tập trung ở các khu vực Đông Á.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CONFUCIANISM_CHAPTER_HISTORY_PARA_2">
+			<Text>Trong suốt cuộc đời của mình, Khổng Tử đã tìm cách thấm nhuần niềm tin mãnh liệt vào đạo đức cá nhân, trách nhiệm xã hội và lòng trung thành của gia đình, khi mỗi người phục vụ vai trò phù hợp của họ trong xã hội. Anh đặt suy nghĩ của mình xuống trong cái gọi là Năm kinh điển. Là một triết lý nhân văn, Nho giáo tập trung vào khả năng của mỗi con người để học hỏi, phát triển và cải thiện thông qua hành vi và đạo đức của Đạo đức đối với người khác.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CONFUCIANISM_CHAPTER_HISTORY_PARA_3">
+			<Văn bản> Sau cái chết của Khổng Tử, những lời dạy của ông đã lan truyền gần 200 năm cho đến khi những nỗ lực đàn áp triết lý được thực hiện một cách nghiêm túc bởi nhà Tần. Các nhà cai trị Tần tin rằng Khổng giáo là mối đe dọa trực tiếp đến uy quyền của họ, và do đó, họ đã đốt hầu hết các sách Khổng giáo, bao gồm nhiều tác phẩm gốc của Khổng Tử. Các ngôi đền đã bị phá hủy trên khắp đất nước và một vài tín đồ ngoan cố của Nho giáo bị chôn sống. </ Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CONFUCIANISM_CHAPTER_HISTORY_PARA_4">
+			<Text>Bất chấp những nỗ lực này để quét sạch hệ thống tín ngưỡng Nho giáo, một kho lưu trữ các bản thảo Nho giáo sau đó đã được phát hiện trong các bức tường của một nhà học giả, và tôn giáo đã tìm thấy sự sống mới sau khi Tần sụp đổ. Ngày nay, các tác phẩm của Nho giáo được nghiên cứu bởi dân gian trên khắp thế giới. Mặc dù họ tiếp cận Nho giáo như một triết lý hơn là một tôn giáo.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_HINDUISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Được coi rộng rãi là tôn giáo lâu đời nhất còn tồn tại trong thực tế ngày nay, Ấn Độ giáo - hay Phật pháp Sanatana (luật vĩnh cửu của Hồi giáo) - dựa trên một loạt các bản thảo cổ được gọi là Vedas. Bộ sưu tập các văn bản tiếng Phạn này, bao gồm bốn tác phẩm kinh điển chính, được cho là đã được viết hơn 3500 năm trước. Với một tỷ tín đồ (và không ngừng phát triển) trên toàn thế giới ngày nay (tập trung nhiều nhất ở Ấn Độ và Đông Nam Á), Ấn Độ giáo là sự hợp nhất của các nền văn hóa và truyền thống khác nhau, không có người sáng lập hay tín ngưỡng, và nhiều cách sống như một tôn giáo.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_HINDUISM_CHAPTER_HISTORY_PARA_2">
+			<Text>Vedas tập trung vào một lực lượng thống nhất, duy nhất chi phối tất cả các khía cạnh của sự tồn tại của chúng ta. Mặc dù có một số vị thần có thể nhận ra trong Ấn Độ giáo, đáng chú ý là Shiva, Vishnu và Brahma, những vị thần này chỉ là một phần nhỏ của Thiên Chúa vĩ đại. Pháp, hay Hiện thực tối thượng của Tử, Hồi là sức mạnh hay luật pháp phổ quát mà tất cả mọi thứ tồn tại đều bị ràng buộc. Phương tiện duy nhất để thoát khỏi tái sinh không có hồi kết là thông qua thiền định và nhận ra rằng một Thiên Chúa là trong tất cả mọi thứ. Người Ấn giáo cũng tin tưởng vững chắc vào Karma, theo đó, việc làm của chúng ta, cả tốt và xấu, có mối quan hệ nhân quả về cách cuộc sống của chúng ta tiến triển.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_HINDUISM_CHAPTER_HISTORY_PARA_3">
+			<Text>Mặc dù có một số giáo phái cạnh tranh trong Ấn Độ giáo và các trường phái Vệ Đà có thể khác nhau trong cách giải thích các bản thảo cổ, họ không xem nhau là đối thủ, và thực tế chia sẻ ý kiến ​​và ý kiến ​​cởi mở với nhau.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ISLAM_CHAPTER_HISTORY_PARA_1">
+			<Text>Tôn giáo lớn thứ hai trên thế giới, Hồi giáo dựa trên niềm tin rằng chỉ có một Thiên Chúa thực sự, Allah và ông đã thể hiện ý chí của mình thông qua một số nhà tiên tri trên Trái đất. Điều quan trọng nhất trong số các tiên tri này, Muhammad (570-632 sau Công nguyên), đã ghi lại những lời của Thần Hồi trong sách thánh Hồi giáo, Qurastan, sau khi chịu đựng một vòng khải tượng. Từ thời điểm này trở đi, Muhammad đã giảng rằng con đường duy nhất để được cứu rỗi là hiến dâng hoàn toàn cho Chúa qua lời cầu nguyện hàng ngày và tuân thủ nghiêm ngặt các luật lệ do Ngài đặt ra.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ISLAM_CHAPTER_HISTORY_PARA_2">
+			<Text>Năm trụ cột của đạo Hồi, khuôn khổ mà qua đó có thể đạt được sự cứu rỗi, nói ở dạng cơ bản nhất của họ rằng không có thần nào ngoài Thiên Chúa, và Muhammad là nhà tiên tri của ông; người ta phải cầu nguyện hàng ngày với Chúa vào năm lần thành lập; người ta phải trao cho người cần giúp đỡ họ; người ta phải nhịn ăn từ sáng đến tối trong tháng Ramadan; và người ta phải hành hương đến Mecca, ít nhất một lần trong đời, trong tháng linh thiêng của Dhu al-Hijjah.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ISLAM_CHAPTER_HISTORY_PARA_3">
+			<Text>Như trường hợp thành lập của hầu hết các tôn giáo, Muhammad và những người theo ông đã gặp phải sự kháng cự kiên quyết từ các tín ngưỡng khác. Mặc dù vậy, thông điệp lan khắp Trung Đông sau cái chết của anh. Kể từ đó, Hồi giáo đã lách vào một số chi nhánh cạnh tranh, lớn nhất là các giáo phái Sunni và Shia. Mặc dù bị ràng buộc bởi niềm tin bao trùm của họ, hai giáo phái này đã ngụy biện cho việc giải thích ai sẽ lãnh đạo đạo Hồi Hồi giáo.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_JUDAISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Theo đạo Do Thái Rabbinic, một vị thần gia trưởng đã tiết lộ luật lệ và điều răn của mình cho Moses trên núi Sinai trong khi người dân Chosen người Hồi đang đi lang thang trên sa mạc sau khi thoát khỏi tù túng. Và tất cả đã được viết ra trong Torah (với một số phần được đưa vào Cựu Ước Kitô giáo), tạo thành nền tảng của Tanakh. Về mặt thực tế, các học giả thường tin rằng Do Thái giáo xuất hiện lần đầu tiên cách đây khoảng 3500 năm, một trong những tôn giáo độc thần sớm nhất, như một sự tiến hóa của một số tôn giáo Babylon vào thế kỷ thứ 6 trước Công nguyên.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_JUDAISM_CHAPTER_HISTORY_PARA_2">
+			<Text>Mặc dù các học thuyết cốt lõi của Do Thái giáo đã được các giáo sĩ Do Thái tranh luận trong nhiều thế kỷ, nhưng người Do Thái tin rằng họ là Dân tộc được chọn, được Thiên Chúa chọn để giao ước với ông, và Thiên Chúa sẽ gửi một đấng cứu thế để đưa tất cả những người được chọn trở về Israel. Anh ấy vừa mới đến đây. Mặc dù người Do Thái đã bị đàn áp trong suốt lịch sử và phân tán trên khắp thế giới, Do Thái giáo như một tôn giáo đã tồn tại và thậm chí thịnh vượng. Dân số Do Thái giáo chiếm khoảng 14 triệu, tương đương 0,2% dân số thế giới.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_JUDAISM_CHAPTER_HISTORY_PARA_3">
+			<Text>Bất chấp sự khác biệt vốn có của họ, nhiều khía cạnh của Do Thái giáo gắn chặt với cả Kitô giáo và Hồi giáo, vì tất cả đều được coi là tôn giáo của Áp-ra-ham, tất cả đều có nguồn gốc từ Áp-ra-ham, cha của cả Isaac (tổ tiên của người Do Thái) và Ishmael (tổ tiên của Muhammed ).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ORTHODOXY_CHAPTER_HISTORY_PARA_1">
+			<Text>Mục tiêu của 300 triệu Kitô hữu Chính thống ước tính là đến gần Chúa trong suốt cuộc đời của họ thông qua sự ám ảnh, một cuộc hành hương tâm linh để trở nên giống như Chúa Kitô (mặc dù nó hơi mơ hồ về chính xác những gì đòi hỏi). Việc sử dụng được ghi nhận sớm nhất của thuật ngữ Chính thống giáo có liên quan đến Cơ đốc giáo là trong Codex Justinianus (khoảng năm 530 sau Công nguyên), trong đó nó có nghĩa là Tuân theo tín ngưỡng của Giáo hội sơ khai.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ORTHODOXY_CHAPTER_HISTORY_PARA_2">
+			<Text>Giáo hội Chính thống truy nguyên nguồn gốc của Đại giáo phái. Trong thế kỷ 9 và 10 sau Công nguyên, nhà thờ Thiên chúa giáo dưới thời Tổ phụ Constantinople đã thực hiện những chuyển đổi đáng kể giữa các dân tộc ở Đông Âu, bao gồm cả Kievan Nga và Balkan. Các vấn đề giáo lý như sự chia rẽ hiếu thảo và quyền lực của Giáo hoàng đối với Tổ phụ trong các vấn đề tôn giáo, bị làm trầm trọng thêm bởi sự cạnh tranh chính trị và kinh tế của Rome và Constantinople, dẫn đến sự sụp đổ. Giáo hội Chính thống cho rằng chỉ có nó mới thực hành đức tin nguyên thủy và chân chính như được thiết lập bởi Chúa Kitô và được các Tông đồ truyền lại.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ORTHODOXY_CHAPTER_HISTORY_PARA_3">
+			<Text>Hơn nữa, sau khi Constantinople sụp đổ với Ottoman năm 1453, Giáo hội phương Đông trở nên cô lập hơn bao giờ hết với Rome dưới sự cai trị tương đối khoan dung của người Thổ Nhĩ Kỳ. Trong khi đó, Giáo hội Chính thống phát triển mạnh mẽ dưới thời Nga hoàng, với rất nhiều người cải đạo giữa các Slav. Mặc dù phần nào bị giảm bớt bởi sự cai trị của Cộng sản và tất cả những gì chủ nghĩa thế tục tràn lan, Đông Chính thống vẫn giữ vững niềm tin Kitô giáo cũ về tội lỗi, sự cứu rỗi và sự hiện thân của tinh thần.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_PROTESTANTISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Cuộc Cải cách Tin lành, như một phong trào cuối cùng sẽ chia rẽ Kitô giáo Châu Âu, bắt đầu như một cuộc biểu tình ở Đức chống lại giáo lý và thực hành Công giáo, đặc biệt là liên quan đến sự cứu rỗi, biện minh và giải thích Kinh thánh. Mặc dù với một số khác biệt, tất cả các phong trào Tin lành đều duy trì hai nguyên lý: rằng Sách Tốt, hay chứ không phải là sự giải thích của giáo hoàng, là nguồn quyền lực duy nhất cho các Kitô hữu; và sự cứu rỗi đó chỉ đến qua một mối liên hệ cá nhân với Chúa Giêsu với tư cách là Chúa Kitô chứ không phải qua những việc làm tốt hay những ân xá.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_PROTESTANTISM_CHAPTER_HISTORY_PARA_2">
+			<Text>Dựa trên các bài đọc của ông về các học giả nhân văn, năm 1517 sau công nguyên, Martin Luther, một linh mục người Đức ở thị trấn đại học Wittenberg, đã xuất bản 95 luận văn phê phán một số thực hành của Giáo hội Công giáo. Ví dụ của ông đã thấy các nhà tư tưởng tôn giáo tự do khác nâng cao các phê bình của riêng họ về nhà thờ; Sớm giáo phái Tin Lành giáo phái Lutheran xuất hiện trên khắp nước Đức và Scandinavia cùng với tín ngưỡng cải cách Hồi giáo ở Thụy Sĩ dưới thời John Calvin. Trong khi đó, tôn giáo trở nên lẫn lộn với chính trị ở Anh và các nơi khác, đưa thêm nhiều nhà thờ Tin lành vào tồn tại (mặc dù ham muốn của Henry Martin đối với Anne Boleyn có nhiều thứ hơn là niềm tin).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_PROTESTANTISM_CHAPTER_HISTORY_PARA_3">
+			<Text>Sự chia rẽ trong đức tin Công giáo sẽ châm ngòi cho một loạt các cuộc chiến tôn giáo, các Kitô hữu tàn sát các Kitô hữu (thay vì Hồi giáo, Do Thái và những người ngoài Kitô giáo khác) vang vọng vẫn vang vọng. Mặc dù có nhiều phong trào và sự chia rẽ trong đạo Tin lành kể từ đó, rất nhiều, rất nhiều (quá nhiều để theo dõi) các mệnh giá cùng với số lượng khoảng 670 triệu thành viên.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_SHINTO_CHAPTER_HISTORY_PARA_1">
+			<Text>Không có nhân vật sáng lập và không có học thuyết trung tâm, Thần đạo là niềm tin tâm linh khá vô định của người dân Nhật Bản dựa trên mối liên hệ cá nhân với thế giới vật lý và với chính Nhật Bản. Lịch sử ghi lại của Thần đạo bắt nguồn từ hai tác phẩm vĩ đại được viết bởi O no Yasumaro theo lệnh của Hoàng hậu Gemmei: Kojiki (khoảng năm 712 sau Công nguyên) và Nihon Shoki (khoảng năm 720 sau Công nguyên). Dựa trên truyền thống truyền miệng, người đầu tiên thiết lập gia đình đế quốc là linh hồn của văn hóa Nhật Bản, trong khi người thứ hai tập trung vào sự đúng đắn của người Hồi giáo của hệ thống phân cấp xã hội và sống có trật tự.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_SHINTO_CHAPTER_HISTORY_PARA_2">
+			<Text>Một trong những khía cạnh trung tâm của Thần đạo là việc thờ cúng các linh hồn, được gọi là Kami, người được thừa nhận thông qua việc viếng thăm các đền thờ. Mặc dù Kami không được coi là các vị thần, chúng là những linh hồn hoặc thực thể có mối quan hệ chặt chẽ với con người, và chúng có thể có tác động có lợi trong quá trình tồn tại của một người. Tuy nhiên, Shinto không tập trung vào niềm tin vào Kami, mà tập trung vào nghi thức sùng đạo. Bằng cách tôn trọng Kami tại các đền thờ, người ta đang thể hiện sự quan tâm và như vậy Kami có thể mang lại lợi ích tích cực.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_SHINTO_CHAPTER_HISTORY_PARA_3">
+			<Text>Mặc dù Shinto là trung tâm của cuộc sống Nhật Bản trong nhiều thế kỷ, với hơn 100 triệu tín đồ được tìm thấy ở Nhật Bản ngày nay, Thần đạo không phải là một tôn giáo theo nghĩa truyền thống, mà là một đức tin ăn sâu duy nhất đối với người dân Nhật Bản.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_SIKHISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Được thành lập vào thế kỷ 15 sau Công nguyên bởi Đạo sư Nanak Dev, đạo Sikh đã phát triển thông qua những nỗ lực của các bậc thầy đạo Sikh kế tiếp, những người tán thành các đức tính của hòa bình, bình đẳng và phục vụ vô ngã. Đạo Sikh hiện có hơn 20 triệu tín đồ, chủ yếu ở khu vực Punjab của Ấn Độ. Người Sikh chỉ tin vào một vị thần, người không có hình dạng vật lý, nhưng mọi người Sikh đều có khả năng nói chuyện với Chúa, và tất cả đều bình đẳng trong đôi mắt của Thần - một đức tin rất bình đẳng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_SIKHISM_CHAPTER_HISTORY_PARA_2">
+			<Text>Người Sikh được biết đến vì sự hào phóng đối với người khác, vì một trong những nguyên lý chính của tôn giáo của họ là ý tưởng rằng tất cả mọi người được tạo ra như nhau, bất kể tôn giáo, chủng tộc hay giới tính. Khác với các tôn giáo lớn khác, đạo Sikh ủng hộ niềm tin rằng các hành động tốt để phục vụ người khác là quan trọng hơn bất kỳ hình thức nghi lễ nào.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_SIKHISM_CHAPTER_HISTORY_PARA_3">
+			<Text>Người Sikh cũng nhất định bảo vệ chống lại sự bất công, ủng hộ tất cả những người bị áp bức, vì sự thật và hòa bình sẽ chiếm ưu thế hơn tất cả. Người Sikh tin rằng để đạt được sự cứu rỗi, mỗi người Sikh phải thực hành thiền định kỷ luật, vì chỉ nhờ sự tuân thủ cá nhân và tập trung vào Chúa mới có thể đạt được sự cứu rỗi. Do đó, có một số hạn chế được đặt ra đối với những người theo tín ngưỡng đạo Sikh, bao gồm yêu cầu họ không được cắt tóc, không tiêu thụ bất kỳ chất gây say nào, và đáng chú ý, không thực hiện bất kỳ nghi thức, mê tín hay hành hương nào.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_TAOISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Đạo giáo là một tôn giáo độc đáo, được thành lập trên cơ sở tín ngưỡng và triết lý cổ xưa của các vương quốc Trung Quốc trong Thế kỷ thứ 2 sau Công nguyên. Mặc dù không được gán trực tiếp cho một nhân vật sáng lập như hầu hết các tín ngưỡng, Đạo giáo đã phát triển dựa trên các tác phẩm của triết gia Lao-Tsu, người đã viết Đạo Đức Kinh vào thế kỷ thứ 4 trước Công nguyên. Zhang Daoling, Master Celestial Master đầu tiên, đã thành lập trường phái Tao đầu tiên dựa trên các tác phẩm của Lao-Tsu. Những người khác theo sau.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_TAOISM_CHAPTER_HISTORY_PARA_2">
+			<Text>Không giống như hầu hết các tôn giáo hiện đại, Đạo giáo không phụ thuộc vào sự tồn tại của một vị thần huyền thoại, toàn năng, nhân chủng học. Thay vào đó, nó là một cách tiếp cận triết học với cuộc sống. Một trong những tôn giáo mà giới luật nổi tiếng nhất, Âm và Dương, đại diện cho thế giới chứa đầy các lực lượng miễn phí trong sự hài hòa và cân bằng, một ví dụ phổ biến là ánh sáng và bóng tối. Những người theo Đạo giáo được khuyến khích rèn luyện sự khiêm nhường, lòng tốt và lòng trắc ẩn trong cuộc sống hàng ngày để duy trì sự cân bằng này trên thế giới.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_TAOISM_CHAPTER_HISTORY_PARA_3">
+			<Text>Trong suốt lịch sử của mình, Đạo giáo đã có nhiều giáo phái và các nhánh tách ra từ trường ban đầu, khi các yếu tố khác của truyền thống Trung Quốc len lỏi vào triết học. Ma thuật, giả kim thuật và các lực lượng thần bí khác đều đã được đưa vào một số hình thức tư tưởng Đạo giáo kể từ những ngày đầu. Mặc dù ước tính về tổng số người theo dõi rất khác nhau, nhưng người ta vẫn tin rằng vẫn còn vài triệu tín đồ Hồi giáo đúng nghĩa ở Trung Quốc và các vùng lân cận ngày nay.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ZOROASTRIANISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Zoroastrianism, một tín ngưỡng cổ xưa dựa trên những lời dạy của nhà tiên tri Zoroaster, được cho là đã được thành lập khoảng 3500 năm trước tại khu vực xung quanh Ba Tư. Từng là một trong những tôn giáo lớn nhất trên thế giới, Zoroastrian chỉ được theo dõi ngày hôm nay bởi khoảng 200 nghìn tín đồ, sống chủ yếu ở Ấn Độ, Pakistan và Iran. Nhìn chung, nó đã bị gạt ra ngoài lề và bị lu mờ bởi Hồi giáo kể từ sự suy tàn của Đế chế Sassanid sau Thế kỷ thứ 7 sau Công nguyên.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ZOROASTRIANISM_CHAPTER_HISTORY_PARA_2">
+			<Text>Zoroastrianism được một số người coi là tôn giáo độc thần lâu đời nhất trên thế giới, mặc dù đây là một điểm gây tranh cãi giữa các học giả. Tín ngưỡng của Zoroastrian tập trung vào vị thần sáng tạo Ahura Mazda, người là tâm điểm của tất cả truyền thống và tôn thờ Zoroastrian. Người ta nói rằng Ahura Mazda đã tiết lộ sự khôn ngoan của mình cho Zoroaster, người sau đó đi lang thang để truyền bá giáo lý trong khu vực. Các văn bản thiêng liêng của chủ nghĩa Zoroastrian, được gọi chung là Avesta, chứa các bài thánh ca được cho là do chính Zoroaster viết.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ZOROASTRIANISM_CHAPTER_HISTORY_PARA_3">
+			<Text>Như với hầu hết các tôn giáo, chủ nghĩa Zoroastrian vạch ra những cách mà con người được cho là sống hòa thuận, trong trường hợp này thông qua những suy nghĩ tốt và hành động tốt. Zoroastrians thường bị nhầm lẫn là những người thờ lửa, một phần vì sự phổ biến của lửa là một biểu tượng trong các nghi lễ của Zoroastrian. Trong Zoroastrianism, lửa đại diện cho ánh sáng của Ahura Mazda và các tín đồ sẽ cầu nguyện theo hướng ánh sáng, chứ không phải là chính ngọn lửa.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

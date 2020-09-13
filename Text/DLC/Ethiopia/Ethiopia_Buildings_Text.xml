@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_BUILDING_CONSULATE_NAME">
+			<Text>Lãnh sự quán</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_CHANCERY_NAME">
+			<Text>Thủ quỹ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_CONSULATE_DESCRIPTION">
+			<Text>+2 Điểm ảnh hưởng mỗi lượt. Cấp độ của Enemy Spy bị giảm đi 1 khi nhắm mục tiêu vào thành phố này hoặc các thành phố có Điểm ảnh hưởng mỗi lượt. Cấp độ của Enemy Spy bị giảm đi 1 khi nhắm mục tiêu vào thành phố này hoặc các thành phố có Trại giam.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_CHANCERY_DESCRIPTION">
+			<Text>+3 Điểm ảnh hưởng mỗi lượt. Khi nền văn minh này bắt hoặc giết một Gián điệp của đối phương, nhận 50 [ICON_Science] Khoa học cho mọi cấp độ của Gián điệp của đối phương.</Text>
+		</Replace>
+		<!--City-States changed by these buildings-->
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Science] Khoa học ở Thủ đô [ICON_Capital] và trong các tòa nhà Thư viện.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Khoa học trong mọi trường Đại học và tòa nhà Lãnh sự quán.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Science] Khoa học trong mọi Phòng thí nghiệm nghiên cứu và tòa nhà kinh tế.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Faith] Đức tin ở [ICON_Capital] Thủ đô và trong mọi công trình Đền thờ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Đức tin cho mọi ngôi đền và tòa nhà Lãnh sự quán.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Faith] Đức tin vào mọi sự thờ phượng và tòa nhà Kinh Tế.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Gold] Vàng ở [ICON_Capital] Thủ Đô và trong mọi tòa nhà Chợ hoặc Ngọn Hải Đăng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Gold] Vàng trong mọi tòa nhà Ngân hàng, Xưởng đóng tàu và Lãnh sự quán.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON Gold] Vàng trong mọi tòa nhà Sở giao dịch chứng khoán, Cảng biển và Tòa nhà Kinh Tế.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Culture] Văn hóa ở Thủ đô [ICON_Capital] và trong mọi tòa nhà Nhà hát vòng tròn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Văn hóa trong mọi Bảo tàng Nghệ thuật, Bảo tàng Khảo cổ học và Tòa nhà Lãnh sự quán.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Culture] Văn hóa trong mọi Trung tâm Phát thanh Truyền hình và Tòa nhà kinh tế.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Production] Sản xuất ở Thủ đô [ICON_Capital] và ở mọi thành phố có Doanh trại hoặc Ổn định khi sản xuất các đơn vị.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Sản xuất ở mọi thành phố có Tòa nhà vũ trang hoặc Lãnh sự quán khi sản xuất các đơn vị. Nhận +4 [ICON_Production] Sản xuất nếu nó có cả hai tòa nhà này.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Production] Sản xuất ở mọi thành phố có Học viện Quân sự hoặc Tòa nhà Thủ tướng khi sản xuất các đơn vị. Nhận +6 [ICON_Production] Sản xuất nếu nó có cả hai tòa nhà này.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Production] Sản xuất ở Thủ đô [ICON_Capital] và ở mọi thành phố có tòa nhà Xưởng khi sản xuất các kỳ quan, tòa nhà và quận.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Sản xuất ở mọi thành phố có Nhà máy hoặc tòa nhà Lãnh sự khi sản xuất các kỳ quan, tòa nhà và quận. Nhận +4 [ICON_Production] Sản xuất nếu nó có cả hai tòa nhà này.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Production] Sản xuất ở mọi thành phố có tòa nhà Chancery hoặc Power Plant khi sản xuất các kỳ quan, tòa nhà và quận. Nhận +6 [ICON_Production] Sản xuất nếu nó có cả Thủ quỹ và một tòa nhà Nhà máy điện.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

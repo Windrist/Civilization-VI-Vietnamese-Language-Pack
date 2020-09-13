@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_TREE_RANDOMIZER_MOD_TITLE">
+			<Text>DLC: Chế độ xáo trộn Công Nghệ và Hành Chính</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TREE_RANDOMIZER_MOD_TEASER">
+			<Text>Chế độ đặc biệt mà các Công Nghệ và Hành Chính bị xáo trộn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION">
+			<Text>Chứa Chế độ xáo trộn Công Nghệ và Hành Chính.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

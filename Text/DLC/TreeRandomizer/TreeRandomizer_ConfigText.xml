@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Tree Randomizer -->
+		<Replace Language="en_US" Tag="LOC_GAMEMODE_TREE_RANDOMIZER_NAME">
+			<Text>Chế độ xáo trộn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAMEMODE_TREE_RANDOMIZER_DESCRIPTION">
+			<Text>Chế độ chơi này xáo trộn Công nghệ và Hành chính trong các thời đại lịch sử, khiến cho chi phí và điều kiện đẩy nhanh tiến độ khác biệt so với bình thường. Cây Công nghệ hay Hành chính của mọi người chơi đều giống nhau. Các Công nghệ hay Hành chính đều bị ẩn cho đến khi người chơi hoàn thành được các hạng mục trước đó, tăng tính bí ẩn và bắt buộc người chơi phải khám phá tất cả phương án phát triển cho đến khi trò chơi kết thúc.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

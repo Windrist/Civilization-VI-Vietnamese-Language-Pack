@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Diplomatic rationales for denouncement -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_WARMONGER">
+		    <Text>(Bạn đã khiến họ bất bình.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_THIRD_PARTY_WARMONGER">
+		    <Text>(Bạn đã gây bất bình cho người khác.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ANGEVIN_EMPIRE">
+		    <Text>(Các thành phố lân cận của bạn có dân số thấp.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_CANADIAN_EXPEDITIONARY">
+		    <Text>(Bạn chưa tham gia Các trường hợp khẩn cấp.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_KAITIAKITANGA">
+		    <Text>(Bạn đang xử lý môi trường không tốt.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LAWGIVER">
+		    <Text>(Mọi người của bạn không hài lòng và không trung thành.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LORD_OF_MINES">
+		    <Text>(Các thành phố và tuyến đường thương mại của bạn không mang lại nhiều lợi nhuận.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_RAVEN_BANNER">
+		    <Text>(Bạn chưa đánh nhiều quân của thành bang.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_PATRON_OF_ARTS">
+		    <Text>(Bạn có quá nhiều Tác phẩm tuyệt vời.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAPA_INCA_HIGH_MOUNTAIN_CITIES">
+		    <Text>(Bạn đang chiếm được quá nhiều thành phố gần Núi.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SICILIAN_WARS_HIGH_COASTAL_CITIES">
+		    <Text>(Bạn đang chiếm được quá nhiều thành phố ven biển.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HIGH_DIPLOVP">
+		    <Text>(Bạn có quá nhiều VP ngoại giao.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HIGH_FAVOR">
+		    <Text>(Bạn đã kiếm được quá nhiều Ưu đãi.).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HIGH_TOURISM">
+		    <Text>(Du lịch của bạn quá cao.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_PILLAGE">
+		    <Text>(Bạn chưa sắp xếp đủ ô.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
+		    <Text>(Bạn đã đi vòng quanh hoặc làm việc để vào không gian.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
+		    <Text>(Bạn đang truyền bá tôn giáo của mình vào đế chế của họ.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_TURTLER">
+		    <Text>(Bạn đã chinh phục được các thủ đô khác.)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ZEALOT">
+		    <Text>(Bạn không cho phép tôn giáo của họ vào phần lớn các thành phố của bạn)</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

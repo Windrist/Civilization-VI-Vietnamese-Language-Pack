@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+    <!--Historic Agendas-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_LADY_SIX_SKY_NAME">
+			<Text>Đơn độc</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_LADY_SIX_SKY_DESCRIPTION">
+			<Text>Định cư gần thủ đô của cô ấy. Thích những nền văn minh định cư ở khoảng cách xa. Không thích bất kỳ nền văn minh nào xâm phạm lãnh thổ của người Maya.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SIMON_BOLIVAR_NAME">
+			<Text>Carabobo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SIMON_BOLIVAR_DESCRIPTION">
+			<Text>Thích những nền văn minh có đơn vị thăng tiến cao. Không thích những nền văn minh có ít đơn vị được thăng cấp cao.</Text>
+		</Replace>
+		<!--City-States-->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CAGUANA_NAME">
+			<Text>Caguana</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CAGUANA_DESCRIPTION">
+			<Text>Thành phố Caguana</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CAGUANA_ADJECTIVE">
+			<Text>Caguana</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CAGUANA_NAME">
+			<Text>Tiền thưởng Caguana Suzerain</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CAGUANA_DESCRIPTION">
+			<Text>Người xây dựng của bạn hiện có thể cải tiến Batey.[NEWLINE][NEWLINE]+1 [ICON_Culture] Văn hóa. +1 [ICON_Culture] Văn hóa cho mọi tài nguyên Phần thưởng liền kề và Khu phức hợp Giải trí (tăng lên +2 [Icon_Culture] Văn hóa khi Khám phá được phát hiện). Cung cấp [Icon_Tourism] Du lịch sau khi nghiên cứu Chuyến bay. Không thể xây dựng liền kề với Batey khác. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HUNZA_NAME">
+			<Text>Hunza</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HUNZA_DESCRIPTION">
+			<Text>Thành phố Hunza</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HUNZA_ADJECTIVE">
+			<Text>Hunza</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HUNZA_NAME">
+			<Text>Tiền thưởng Hunza Suzerain</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HUNZA_DESCRIPTION">
+			<Text>Lộ trình giao dịch [ICON_TradeRoute] của bạn tạo ra +1 [ICON_Gold] Vàng cho mỗi 5 ô mà chúng di chuyển.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LAHORE_NAME">
+			<Text>Lahore</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LAHORE_DESCRIPTION">
+			<Text>Thành phố-bang Lahore</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LAHORE_ADJECTIVE">
+			<Text>Lahori</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LAHORE_NAME">
+			<Text>Tiền thưởng Lahore Suzerain</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LAHORE_DESCRIPTION">
+			<Text>Các thành phố của bạn hiện có thể huấn luyện các đơn vị Nihang.[NEWLINE][NEWLINE]Một đơn vị có cây Khuyến mãi duy nhất có thể được mua bằng [ICON_Faith] Niềm tin. [ICON_Strength] Sức mạnh Chiến đấu được tăng lên khi các tòa nhà Doanh trại, Kho vũ khí và Học viện Quân sự được xây dựng lần đầu tiên.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SINGAPORE_NAME">
+			<Text>Singapore</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SINGAPORE_DESCRIPTION">
+			<Text>Thành phố Singapore</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SINGAPORE_ADJECTIVE">
+			<Text>người Singapore</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_SINGAPORE_NAME">
+			<Text>Tiền thưởng Suzerain Singapore</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_SINGAPORE_DESCRIPTION">
+			<Text>Các thành phố của bạn nhận được +2 [ICON_Production] Sản xuất cho mỗi nền văn minh nước ngoài mà họ có Tuyến giao thương [ICON_TradeRoute] tới.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_TARUGA_NAME">
+			<Text>Taruga</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_TARUGA_DESCRIPTION">
+			<Text>Thành phố-bang Taruga</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_TARUGA_ADJECTIVE">
+			<Text>Taruga</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_TARUGA_NAME">
+			<Text>Tiền thưởng Taruga Suzerain</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_TARUGA_DESCRIPTION">
+			<Text>+5% [ICON_SCIENCE] Khoa học ở tất cả các thành phố cho mỗi tài nguyên Chiến lược được cải thiện khác nhau mà họ có.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VATICAN_CITY_NAME">
+			<Text>Thành phố Vatican</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VATICAN_CITY_DESCRIPTION">
+			<Text>Thành phố-Bang Vatican</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VATICAN_CITY_ADJECTIVE">
+			<Text>Vatican</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_VATICAN_CITY_NAME">
+			<Text>Tiền thưởng Suzerain của Thành phố Vatican</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_VATICAN_CITY_DESCRIPTION">
+			<Text>Khi bạn kích hoạt [ICON_GreatPerson] Người vĩ đại, họ đã truyền 400 áp lực tôn giáo của tôn giáo do bạn sáng lập (hoặc đa số) đến các thành phố trong vòng 10 ô.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_SIMON_BOLIVAR">
+			<Text>Giống như những nền văn minh có nhiều đơn vị được thăng cấp hơn anh ta</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

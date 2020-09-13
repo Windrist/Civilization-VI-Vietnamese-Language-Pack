@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Tree Randomizer -->
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME">
+			<Text>Chế độ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE">
+			<Text>Chế độ xáo trộn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE">
+			<Text>Chào mừng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1">
+			<Text>Chế độ chơi này xáo trộn Công nghệ và Hành chính trong các thời đại lịch sử, khiến cho chi phí và điều kiện đẩy nhanh tiến độ khác biệt so với bình thường. Cây Công nghệ hay Hành chính của mọi người chơi đều giống nhau. Các Công nghệ hay Hành chính đều bị ẩn cho đến khi người chơi hoàn thành được các hạng mục trước đó, tăng tính bí ẩn và bắt buộc người chơi phải khám phá tất cả phương án phát triển cho đến khi trò chơi kết thúc.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

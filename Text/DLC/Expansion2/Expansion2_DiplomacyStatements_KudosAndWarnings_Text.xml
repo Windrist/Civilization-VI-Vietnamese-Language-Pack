@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Leader Text-->
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_DIDO_ANY">
+		    <Text>Chúc thịnh vượng đến với các thành phố của bạn — những thành phố xa bờ biển.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_DIDO_ANY">
+		    <Text>Chúng tôi không quan tâm đến vùng đất mà bạn yêu cầu - nhưng biển và bờ biển là của Phoenicia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELEANOR_ENGLAND_ANY">
+		    <Text>Tôi được biết là bạn đã đặt những thành phố tuyệt vời gần biên giới chung của chúng ta, giống như một khu vườn hoa hồng lộng lẫy. Thật tuyệt!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELEANOR_ENGLAND_ANY">
+		    <Text>Nếu bạn đang gặp rắc rối với chính mình khi tạo ra những thành phố gần biên giới của chúng ta, ít nhất hãy biến chúng thành những thành phố xinh đẹp và thịnh vượng, để tôi có thể tận hưởng khung cảnh này.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELEANOR_FRANCE_ANY">
+		    <Text>Tôi được biết là bạn đã đặt những thành phố tuyệt vời gần biên giới chung của chúng ta, giống như một khu vườn hoa hồng lộng lẫy. Thật tuyệt!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELEANOR_FRANCE_ANY">
+		    <Text>Nếu bạn đang gặp rắc rối với chính mình khi tạo ra những thành phố gần biên giới của chúng ta, ít nhất hãy biến chúng thành những thành phố xinh đẹp và thịnh vượng để tôi có thể tận hưởng khung cảnh này.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KRISTINA_ANY">
+		    <Text>Tôi vừa mua được một tác phẩm mới và sẽ sớm tổ chức buổi xem. Các sứ giả của bạn được mời tham dự.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KRISTINA_ANY">
+		    <Text>Tôi cho rằng bạn nghĩ nghệ thuật thật tuyệt khi nó gắn kết cả một căn phòng lại với nhau, bạn là người không thích.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KUPE_ANY">
+		    <Text>Đất của bạn luôn xanh và nước của bạn sạch và trong. Lựa chọn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KUPE_ANY">
+		    <Text>Bạn chất đống rác rưởi trên đất và đổ xuống biển! Bạn lãng phí và làm hỏng thế giới!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LAURIER_ANY">
+		    <Text>Bạn đã chứng tỏ là một đối tác đáng tin cậy trong việc giải quyết xung đột quốc tế, Canada khen ngợi bạn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LAURIER_ANY">
+		    <Text>Tại sao bạn không giúp giải quyết các cuộc khủng hoảng ảnh hưởng đến thế giới? Bạn có xúc động trước hoàn cảnh của người khác không?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MANSA_MUSA_ANY">
+		    <Text>Hãy vui mừng với tôi, bạn ơi, vì chúng ta không có bất cứ mong muốn nào và có thể dành thời gian của mình cho ý muốn của Chúa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MANSA_MUSA_ANY">
+		    <Text>Bạn đã làm gì mà Chúa đã rút tiền thưởng của mình khỏi bạn? Thấy rằng bạn trở lại chính nghĩa!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MATTHIAS_CORVINUS_ANY">
+		    <Text>Cách nhanh nhất để thành công là tận dụng điểm mạnh của các đồng minh nhỏ của bạn, bạn có đồng ý không?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MATTHIAS_CORVINUS_ANY">
+		    <Text>Họ nói rằng bạn trả tiền cho những người hỗ trợ của bạn vì lòng yêu nước. Số tiền đó và hai xu sẽ mua cho họ một cốc bia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PACHACUTI_ANY">
+		    <Text>Bạn nhận ra rằng người Inca là bậc thầy của những đỉnh cao. Điều này thể hiện sự khôn ngoan từ phía bạn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PACHACUTI_ANY">
+		    <Text>Người Inca là bậc thầy của những ngọn núi. Đừng thách thức tôi trên mặt đất này. Bằng lòng với vùng đất thấp.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SULEIMAN_ANY">
+		    <Text>Bạn cũng phải sở hữu sự khôn ngoan của Sa-lô-môn, vì quốc gia của bạn được tạo nên bởi nhiều người sống hòa thuận.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SULEIMAN_ANY">
+		    <Text>Nếu bạn muốn làm chủ thế giới, trước tiên bạn phải làm chủ mọi người của mình — và bạn không có dấu hiệu làm chủ trong vấn đề này.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_EXPANSIONIST">
+		    <Text>Tốt hơn hết là bạn nên thiếu tham vọng đòi đất đai, bởi vì tôi tin rằng bạn thiếu sự nhạy bén để thống trị những gì bạn sẽ làm.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_EXPANSIONIST">
+		    <Text>Làm thế nào bạn có thể dám đòi những vùng đất như vậy cho chính mình, khi dân tộc của bạn yếu kém và bị dẫn dắt quá tồi tệ?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_EXPANSIONIST">
+		    <Text>Tôi rất vui vì bạn đã chọn vẫn là một dân tộc man rợ, mà vương quốc của họ chỉ nhấn mạnh vinh quang của tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_QIN_REASON_EXPANSIONIST">
+		    <Text>Tôi là Hoàng đế của tất cả dưới thiên đường. Điều đó có nghĩa là tất cả các vùng đất, kể cả những vùng đất mà bạn muốn chiếm hữu cho riêng mình, đều là của tôi. Đừng cố gắng để bằng được tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
+		    <Text>Tôi đồng ý với bạn — Có quá nhiều vấn đề cấp bách trên trái đất khiến chúng ta không ngừng hy vọng vào không gian.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
+		    <Text>Làm thế nào bạn có thể nghĩ về một tương lai trong không gian, khi tình hình hiện tại trên trái đất sẽ khiến bạn phải chú ý hoàn toàn!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_FLAT_EARTHER">
+		    <Text>Phước cho người để lại thiên đường cho các vị thần, và không khao khát bước đi giữa chúng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_CLEOPATRA_REASON_AGENDA_FLAT_EARTHER">
+		    <Text>Không được đến gần thần mặt trời Amun-Ra, cũng như nữ thần bầu trời Nut! Sự vô liêm sỉ của bạn xúc phạm họ! Bạn sẽ mang đến sự hủy diệt của thế giới!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_GREAT_WHITE_FLEET">
+		    <Text>Những người trong chúng ta với lực lượng hải quân tuyệt vời có thể thực hiện ý chí của chúng ta trên toàn thế giới và chúng ta là những người chủ thực sự của biển cả.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_GREAT_WHITE_FLEET">
+		    <Text>Bạn phải nỗ lực đóng tàu và thể hiện sức mạnh của mình trên khắp các vùng biển, nếu không sẽ không có quốc gia nào tôn trọng bạn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_GREAT_WHITE_FLEET">
+		    <Text>Vì vậy, bạn muốn thách thức quyền tối cao của chúng tôi trên biển? Đầu gấu! Tôi thích sự cạnh tranh!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_AGENDA_GREAT_WHITE_FLEET">
+		    <Text>Bạn có dễ dàng thừa nhận sự cạnh tranh trong đấu trường của biển không? Tại sao cố tình hạn chế chủ quyền của bạn? Bạn có sợ không?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_FAVOR">
+		    <Text>Tôi rất vui vì bạn đã sẵn sàng chấp nhận tôi làm thủ lĩnh tối cao của hành tinh này. Những người khác thì thầm rằng thời gian của tôi đã đến.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_FAVOR">
+		    <Text>Tôi nhìn thấy những lời mật ngọt của bạn và sự ủng hộ của bạn. Bạn tìm kiếm quyền lực tối thượng cho mình, và bạn sẽ được các quốc gia trao nó cho bạn theo ý muốn của riêng họ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_AGENDA_LOW_FAVOR">
+		    <Text>Bạn sẽ không bao giờ biết được niềm vui của một đám đông hưởng ứng với một bài phát biểu hay, bởi vì bạn không bao giờ thực hành nghệ thuật chính trị.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_PERICLES_REASON_AGENDA_HIGH_FAVOR">
+		    <Text>Tôi sẽ tẩy chay bạn vì những gì bạn đang làm! Chơi theo cảm xúc của đám đông là con đường dẫn đến sức mạnh của tôi!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_TOURISM">
+		    <Text>Chúng tôi đã bắt đầu gói tour du lịch dành cho những công dân của bạn, những người muốn có kỳ nghỉ đẳng cấp thế giới. Rõ ràng, không có gì như thế này tồn tại trong nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_TOURISM">
+		    <Text>Tôi biết thế giới đang chặn đường dẫn đến các địa điểm du lịch của bạn, nhưng hãy cảnh báo! Người dân của chúng tôi sở hữu quần jean xanh và nhạc rock và không ngại sử dụng chúng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_LOW_TOURISM">
+		    <Text>Người dân của bạn có một nền văn hóa đơn giản. Nó gây cười và hơi bi thảm. Bạn có thể học hỏi từ phần còn lại của thế giới.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_MVEMBA_REASON_AGENDA_HIGH_TOURISM">
+		    <Text>Nền văn hóa sôi động và độc đáo đang bị đe dọa bởi làn sóng văn hóa đại chúng của bạn đang lên.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_INTOLERANT_SAME_RELIGION">
+		    <Text>Hạnh phúc biết bao khi vùng đất có người cai trị theo tôn giáo chân chính duy nhất và bảo vệ linh hồn của dân tộc mình!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
+		    <Text>Sự báng bổ và dị giáo tràn ra từ môi các thần dân của bạn! Bạn phải khôi phục linh hồn của con người mình bằng cách khôi phục tôn giáo chân chính!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_AGENDA_INTOLERANT_SAME_RELIGION">
+		    <Text>Bạn biết rằng một người cai trị tốt sẽ dẫn dắt linh hồn của dân tộc mình đi đúng hướng, và làm như vậy sẽ mang lại phước lành từ thiên đàng cho họ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_PEDRO_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
+		    <Text>Tôi e rằng bạn đã nhầm lẫn việc truyền bá sự không trung thành tôn giáo với một lễ hội hóa trang sôi động của các ý tưởng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_DIPLOVP">
+		    <Text>Tự do tối đa chỉ có thể đến từ các nền văn minh theo đuổi lợi ích riêng của họ, bạn có nói vậy không?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_DIPLOVP">
+		    <Text>Bạn áp đặt chương trình chính trị của mình lên nền văn minh có chủ quyền của tôi theo quyền nào? Tôi không đồng ý bị phán quyết trái với ý muốn của mình.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_BARBAROSSA_REASON_AGENDA_LOW_DIPLOVP">
+		    <Text>Tôi rất vui vì bạn nhận ra những cử chỉ chính trị này chỉ là trò chơi, không có quyền lực thực sự và không tôn trọng quyền cai trị.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_BARBAROSSA_REASON_AGENDA_HIGH_DIPLOVP">
+		    <Text>Những nỗ lực của bạn trong việc tạo ra liên minh chính trị lớn hơn này gần như ăn cắp quyền lực của vương miện của tôi. Tôi không tử tế với những người không tôn trọng vương miện này.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_PILLAGE">
+		    <Text>Kẻ thù của bạn biết bạn bằng ngọn lửa và sự sợ hãi. Họ cầu nguyện để được giải thoát khỏi cơn thịnh nộ của bạn, nhưng các tầng trời im lặng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_PILLAGE">
+		    <Text>Kẻ thù của bạn gây chiến với bạn, nhưng bạn không cướp đoạt đất đai của họ để bị trả thù. Có phải vì hèn nhát không? Hay một sự lịch sự thái quá?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_HARDRADA_REASON_AGENDA_HIGH_PILLAGE">
+		    <Text>Tốt! Bạn trừng phạt kẻ thù của mình bằng lửa và kiếm cho đến khi chúng run sợ trước âm thanh của tên bạn. Thật tiếc vì bạn sinh ra không phải là người Viking.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_HARDRADA_REASON_AGENDA_LOW_PILLAGE">
+		    <Text>Bạn thiếu can đảm để trừng phạt kẻ thù của mình, và bạn thiếu bản lĩnh để biến vùng đất của họ trở thành một vùng đất hoang tàn. Thảm hại.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_TURTLER">
+		    <Text>Hàng rào tốt tạo nên những người hàng xóm tốt, và phòng thủ tốt sẽ trở thành một vương quốc hòa bình. Tôi rất vui vì bạn hài lòng với việc bảo vệ vùng đất của mình.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_TURTLER">
+		    <Text>Trong lúc lao vào chiến tranh và chinh phục, bạn sắp đặt các sự kiện thành chuyển động mà bạn không thể lường trước được. Tốt hơn là ở nhà và bảo vệ, còn hơn ra nước ngoài và chinh phục.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_HOJO_REASON_AGENDA_TURTLER">
+		    <Text>Tham vọng giành lãnh thổ là mầm mống hủy hoại các triều đại. Tôi rất vui vì bạn chỉ tìm cách bảo vệ vùng đất của mình.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_HOJO_REASON_AGENDA_TURTLER">
+		    <Text>Tôi nhìn nhận các cuộc chinh phục của bạn với sự quan tâm, nhưng không sợ hãi. Biết rằng nếu bạn xâm lược Nhật Bản, gió và biển sẽ hỗ trợ chúng tôi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_ZEALOT">
+		    <Text>Ngay cả sau khi tất cả những gì chúng tôi đã làm, tôi vẫn lo lắng rằng có một số linh hồn không muốn được cứu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ZEALOT">
+		    <Text>Tôi có ý định nhìn thấy sự cứu rỗi linh hồn của bạn, cho dù bạn có muốn hay không!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_MONTEZUMA_REASON_AGENDA_ZEALOT">
+		    <Text>Thật tốt là bạn đã chọn đúng niềm tin. Bạn có thể đã làm như vậy từ sự ngưỡng mộ của tôi. Điều đó có thể hiểu được.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_AGENDA_ZEALOT">
+		    <Text>Tôi đang làm một món quà tôn giáo của tôi cho bạn! Tại sao bạn không chấp nhận? Bạn sẽ tự xấu hổ và đối mặt với sự hủy diệt ở thế giới bên kia!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MONEY_GRUBBER">
+		    <Text>Kho bạc của bạn đang đầy lên khá tốt. Thật tuyệt khi có thu nhập cao như vậy, phải không?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MONEY_GRUBBER">
+		    <Text>Đế chế của bạn sắp phá sản. Làm thế nào bạn có thể tồn tại với nợ nần chồng chất?</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

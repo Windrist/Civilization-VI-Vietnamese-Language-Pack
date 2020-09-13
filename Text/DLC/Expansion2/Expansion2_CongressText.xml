@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+    <LocalizedText>
+        <Replace Language="en_US" Tag="LOC_WC_RES_MERCENARY_COMPANIES_NAME">
+            <Text>Các công ty đánh thuê</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_RESOLUTION_DIPLOVICTORY_NAME">
+            <Text>Chiến thắng ngoại giao</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_LUXURY_NAME">
+            <Text>Chính sách sang trọng</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_TRADE_TREATY_NAME">
+            <Text>Chính sách thương mại</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_WORLD_RELIGION_NAME">
+            <Text>Tôn giáo thế giới</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_POWER_RESOURCE_NAME">
+            <Text>Chính sách nguồn</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_FAVORED_UNITS_NAME">
+            <Text>Quân đội được Thế giới chấp thuận</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_GOVERNANCE_DOCTRINE_NAME">
+            <Text>Học thuyết quản trị</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_ARMS_CONTROL_NAME">
+            <Text>Kiểm soát vũ khí</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_LOYAL_CITIZENS_NAME">
+            <Text>Nền văn minh được ưa chuộng</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_HERITAGE_ORG_NAME">
+            <Text>Tổ chức Di sản</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_POLICY_TREATY_NAME">
+            <Text>Hiệp ước chính sách</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_WORLD_IDEOLOGY_NAME">
+            <Text>Ý tưởng thế giới</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_URBAN_DEVELOPMENT_NAME">
+            <Text>Hiệp ước Phát triển Đô thị</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_BORDER_CONTROL_NAME">
+            <Text>Hiệp ước kiểm soát biên giới</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_PUBLIC_WORKS_NAME">
+            <Text>Chương trình công trình công cộng</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_PATRONAGE_NAME">
+            <Text>Bảo trợ</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_TREATY_ORGANIZATION_NAME">
+            <Text>Tổ chức Hiệp ước</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_GLOBAL_ENERGY_TREATY_NAME">
+            <Text>Hiệp ước Năng lượng Toàn cầu</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_SOVEREIGNTY_NAME">
+            <Text>Chủ quyền</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_MIGRATION_TREATY_NAME">
+            <Text>Hiệp ước di chuyển</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_DEFORESTATION_TREATY_NAME">
+            <Text>Hiệp ước phá rừng</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_PUBLIC_RELATIONS_NAME">
+            <Text>Quan hệ công chúng</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_ESPIONAGE_PACT_NAME">
+            <Text>Hiệp ước gián điệp</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_RES_MILITARY_ADVISORY_NAME">
+            <Text>Cố vấn quân sự</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_ADD_DIPLOVICTORY_DESC">
+            <Text>Người chơi được chọn nhận được 2 điểm Chiến thắng Ngoại giao.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_IMPROVE_LUXURY_DESC">
+            <Text>Bản sao của các tiện nghi [ICON_Amenities] Tài nguyên sang trọng đã chọn.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_IMPROVE_TRADE_WTH_PLAYER_DESC">
+            <Text>[ICON_TradeRoute] Các tuyến giao dịch được gửi đến người chơi đã chọn cung cấp +4 [ICON_Gold] Vàng cho người gửi. Người chơi được chọn sẽ nhận được +1 [ICON_TradeRoute] khả năng của Tuyến giao dịch.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_EMPOWER_RELIGION_DESC">
+            <Text>+10 Sức mạnh (Chiến đấu và Tôn giáo) cho tất cả các đơn vị của [ICON_Religion] Tôn giáo này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_RELIGION_COMBAT_PREVIEW_DESCRIPTION">
+            <Text>+{1_Amount} từ Thế giới Tôn giáo</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_IMPROVE_POWER_CONVERSION_RESOURCE_DESC">
+            <Text>[WIP] Việc chuyển đổi tài nguyên Năng lượng đã chọn có hiệu quả gấp đôi.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BAN_PRODUCTION_YIELD_DESC">
+            <Text>Sản xuất hoặc mua các đơn vị quân đội sử dụng loại đơn vị tiền tệ đã chọn sẽ được +100% chi phí cho đến khi diễn ra Đại hội thế giới tiếp theo.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BUFF_PRODUCTION_YIELD_DESC">
+            <Text>Sản xuất hoặc mua các đơn vị quân đội sử dụng loại đơn vị tiền tệ đã chọn, là -50% chi phí cho đến Đại hội Thế giới tiếp theo.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_SUBTRACT_DIPLOVICTORY_DESC">
+            <Text>Người chơi được chọn mất 2 điểm Chiến thắng Ngoại giao.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BAN_LUXURY_DESC">
+            <Text>Tài nguyên sang trọng đã chọn không cấp cho [ICON_Amenities] Tiện nghi.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BAN_TRADE_WITH_PLAYER_DESC">
+                <Text>Hủy mọi tuyến giao dịch [ICON_TradeRoute] quốc tế giữa các nền văn minh khác và người chơi đã chọn, đồng thời cấm mọi tuyến mới bắt đầu.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BAN_RELIGION_DESC">
+            <Text>Tất cả người chơi có thể lên án các đơn vị của Tôn giáo đã chọn và làm như vậy sẽ được 25 [ICON_Favor] Ưu đãi ngoại giao.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BAN_POWER_CONVERSION_RESOURCE_DESC">
+            <Text>[WIP] Việc chuyển đổi tài nguyên Power đã chọn hiệu quả bằng một nửa.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_NERF_UNITPROMOTIONCLASS_DESC">
+            <Text>[WIP] Lớp thăng hạng đã chọn có -5 [ICON_Strength] Sức mạnh Chiến đấu.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BUFF_ARMS_CONTROL_DESC">
+            <Text>Tất cả người chơi đều có bộ Vũ khí hủy diệt hàng loạt ngang với người chơi mục tiêu.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_NERF_ARMS_CONTROL_DESC">
+            <Text>Người chơi mục tiêu mất tất cả Vũ khí hủy diệt hàng loạt.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BUFF_PLAYER_LOYALTY_DESC">
+            <Text>[WIP] Các thành phố của người chơi mục tiêu là 100% Trung thành.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_NERF_PLAYER_LOYALTY_DESC">
+            <Text>[WIP] Người chơi mục tiêu không thể gây áp lực về mức độ trung thành lên các thành phố của người khác.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BUFF_WORK_TOURISM_DESC">
+            <Text>[ICON_Tourism] Du lịch từ những Công trình vĩ đại thuộc loại này tăng gấp đôi.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_NO_WORK_TOURISM_DESC">
+            <Text>Không [ICON_Tourism] Du lịch từ những Công trình vĩ đại thuộc loại này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_POLICY_FAVOR_DESC">
+            <Text>Đạt được [ICON_Favor] Ưu đãi ngoại giao mỗi lượt Chính sách này có hiệu lực trong Chính phủ của bạn.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BAN_POLICY_DESC">
+            <Text>Cấm sử dụng Chính sách này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_GAIN_WILDCARD_DESC">
+            <Text>Loại Chính phủ này nhận được vùng chính sách Ký tự đại diện.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_LOSE_WILDCARD_DESC">
+            <Text>Loại Chính phủ này mất vùng chính sách Ký tự đại diện.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_DISTRICT_BUILDING_PRODUCTION_DESC">
+            <Text>+100% [ICON_Production] Sản xuất hướng tới các tòa nhà ở quận này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_NO_DISTRICT_BUILDING_DESC">
+            <Text>Không thể tạo tòa nhà nào trong quận này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_NO_CULTURE_BORDER_GROWTH_DESC">
+            <Text>Biên giới của người chơi này sẽ không phát triển qua [ICON_Culture] Culture.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_DISTRICTS_CULTURE_BOMB_DESC">
+            <Text>Các quận mới do người chơi này xây dựng đóng vai trò như những quả bom văn hóa [ICON_Culture].</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BUFF_PROJECT_PRODUCTION_DESC">
+            <Text>+100% [ICON_Production] Sản xuất cho Dự án này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BAN_PROJECT_DESC">
+            <Text>-50% [ICON_Production] Sản xuất cho Dự án này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BUFF_GP_POINTS_DESC">
+            <Text>Kiếm gấp đôi điểm cho [ICON_GreatPerson] Những người vĩ đại của lớp này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_NO_GP_POINTS_DESC">
+            <Text>Không kiếm được điểm nào đối với [ICON_GreatPerson] Những người vĩ đại của lớp này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_DOUBLE_SUZERAIN_FAVOR_DESC">
+            <Text>Nhân đôi [ICON_Favor] Ưu đãi ngoại giao kiếm được khi trở thành Suzerain của một Thành phố thuộc Tiểu bang thuộc loại này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BAN_BUILDING_DESC">
+            <Text>Cấm sản xuất các tòa nhà kiểu này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_BUILDING_DISCOUNT_DESC">
+            <Text>Giảm giá 50% khi sản xuất các tòa nhà loại này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_NO_SUZERAIN_FAVOR_DESC">
+            <Text>Không [ICON_Favor] Ưu đãi ngoại giao kiếm được khi trở thành Suzerain của một Tiểu bang thuộc loại này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_FAVOR_FROM_TRADE_AND_ENVOYS_WITH_MINORS_DESC">
+            <Text>+100% loại lợi nhuận của Thành phố-Bang khi gửi [ICON_TradeRoute] Tuyến đường thương mại đến Thành phố-Bang thuộc loại này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_NO_SUZERAIN_BONUS_DESC">
+            <Text>Các thành phố thuộc loại này không cung cấp phần thưởng Suzerain duy nhất của họ.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_FAVOR_FROM_GOVERNOR_DESC">
+            <Text>Bổ nhiệm và thăng chức loại Thống đốc [ICON_Governor] được chỉ định sẽ mang lại 15 [ICON_Favor] Ưu đãi ngoại giao.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_NEUTRALIZE_GOVERNOR_TYPE_DESC">
+            <Text>Tất cả các Thống đốc [ICON_Governor] đang hoạt động thuộc loại được chỉ định sẽ bị vô hiệu hóa trong 6 Lượt.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_MORE_GROWTH_LESS_LOYALTY_DESC">
+            <Text>nhanh hơn +20% [ICON_Citizen] Tăng dân số nhưng -5 mức độ trung thành mỗi lượt tại các thành phố của người chơi này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_LESS_GROWTH_MORE_LOYALTY_DESC">
+            <Text>+5 Mức độ trung thành mỗi lượt nhưng -20% [ICON_Citizen] Gia tăng dân số tại các thành phố của người chơi này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_DEFORESTATION_BAN_DESC">
+            <Text>Cấm chặt hoặc dọn Các tính năng của loại đã chọn.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_DEFORESTATION_GOLD_DESC">
+            <Text>Tính năng bù trừ của loại đã chọn mang lại [ICON_Gold] Vàng bằng với Sản xuất [ICON_Production] và [ICON_Food] Lương thực.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PUBLIC_RELATIONS_MORE_GRIEVANCES_DESC">
+            <Text>Người chơi được chọn tạo ra thêm 100% [ICON_STAT_GRIEVANCE] khiếu nại và những người chơi khác tạo ra 100% [ICON_STAT_GRIEVANCE] khiếu nại đối với người chơi này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PUBLIC_RELATIONS_FEWER_GRIEVANCES_DESC">
+            <Text>Người chơi được chọn tạo ra ít hơn 50% [ICON_STAT_GRIEVANCE] Khiếu nại và những người chơi khác tạo ra ít hơn 50% [ICON_STAT_GRIEVANCE] đối với người chơi này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PUBLIC_ESPIONAGE_PACT_BUFF_DESC">
+            <Text>Các gián điệp thực thi chức năng Hoạt động đã chọn cao hơn 2 cấp.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PUBLIC_ESPIONAGE_PACT_DISABLE_DESC">
+            <Text>Thao tác đã chọn không khả dụng.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_MILITARY_ADVISORY_BUFF_DESC">
+            <Text>Các đơn vị của hạng thăng cấp đã chọn nhận được +5 Sức mạnh Chiến đấu.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_MILITARY_ADVISORY_NERF_DESC">
+            <Text>Các đơn vị thuộc loại thăng hạng đã chọn mất 5 Sức mạnh Chiến đấu.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_MILITARY_ADVISORY_MILITARY_BUFF">
+            <Text>{1_Value: number +#; - #} từ Nghị quyết Cố vấn Quân sự</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_MILITARY_ADVISORY_MILITARY_DEBUFF">
+            <Text>[COLOR_RED] {1_Value: number +#; - #} [ENDCOLOR] từ Nghị quyết cố vấn quân sự</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_SELECT_AN_OUTCOME">
+            <Text>Chọn một kết quả cho Giải pháp này:</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_PRODUCTION">
+            <Text>Việc sản xuất các đơn vị đã bị cấm theo lệnh của Đại hội thế giới.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_GOLD">
+            <Text>Việc mua các đơn vị bằng [ICON_Gold] Vàng đã bị cấm theo ủy quyền của Đại hội thế giới.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_FAITH">
+            <Text>Việc mua các đơn vị có [ICON_Faith] Đức tin đã bị cấm theo ủy quyền của Đại hội thế giới.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_PROPOSAL_TYPE_AID_REQUEST_NAME">
+            <Text>Yêu cầu viện trợ</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_PROPOSAL_TYPE_EMERGENCY_NAME">
+            <Text>Trường hợp khẩn cấp</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_PROPOSAL_TYPE_COMPETITION_NAME">
+            <Text>Cuộc thi</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_VOTING_BLOCKER_NOT_BLOCKING_DESC">
+            <Text>Bạn có thể bỏ phiếu cho hoặc chống lại Thảo luận này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_VOTING_BLOCKER_AM_TARGET_OF_HOSTILE_DESC">
+            <Text>Bạn không được bỏ phiếu ủng hộ Thảo luận này. Bạn là người chơi mục tiêu.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_VOTING_BLOCKER_AM_TARGET_OF_FRIENDLY_DESC">
+            <Text>Bạn không được bỏ phiếu chống lại Thảo luận này. Bạn là người chơi mục tiêu.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_VOTING_BLOCKER_HAVENT_MET_TARGET_DESC">
+            <Text>Bạn không được bỏ phiếu cho Thảo luận này. Bạn chưa gặp được người chơi mục tiêu.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_VOTING_BLOCKER_NOT_INVITED_TO_EMERGENCY_DESC">
+            <Text>Bạn không được bỏ phiếu cho Thảo luận này. Bạn không tham gia vào Tình trạng khẩn cấp.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_PROPOSAL_BLOCKER_ALREADY_PROPOSED_DESC">
+            <Text>Bạn đã đề xuất Thảo luận này cho Đại hội Thế giới lần này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WC_PROPOSAL_BLOCKER_CONGRESS_LOCKOUT_DESC">
+            <Text>Không thể triệu tập phiên họp đặc biệt của Đại hội thế giới ngay sau khi phiên họp vừa kết thúc.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_OPERATION_REMOVE_FEATURE_BANNED">
+            <Text>[COLOR_RED] Việc xóa tính năng này đã bị Đại hội thế giới cấm. [ENDCOLOR]</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_A_WON">
+            <Text>Lần cuối cùng Quốc hội Thế giới xem xét Nghị quyết này, tùy chọn được chọn là A nhắm mục tiêu {1_Target}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_B_WON">
+            <Text>Lần cuối cùng Quốc hội Thế giới xem xét Nghị quyết này, tùy chọn được chọn là nhắm mục tiêu B {1_Target}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_WAS_TIE">
+            <Text>[ICON_BOLT] Điều này đã được quyết định bởi một tiebreaker</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_A_SOLE_VOTE">
+            <Text>[ICON_BOLT] {1_PlayerName} là người bỏ phiếu duy nhất cho phương án A</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_B_SOLE_VOTE">
+            <Text>[ICON_BOLT] {1_PlayerName} là người bỏ phiếu duy nhất cho phương án B</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_TARGET_SOLE_VOTE">
+            <Text>[ICON_BOLT] {1_PlayerName} là người bỏ phiếu duy nhất cho {2_Target}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_A">
+            <Text>[ICON_BOLT] Tùy chọn A hầu như không đánh bại được Tùy chọn B</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_B">
+            <Text>[ICON_BOLT] Tùy chọn B hầu như không đánh bại được Tùy chọn A</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_TARGET">
+            <Text>[ICON_BOLT] {1_Target} hầu như không được chọn làm mục tiêu trên {2_SecondPlaceTarget}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_A">
+            <Text>[ICON_BOLT] Tùy chọn A đã được chọn nhất trí</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_B">
+            <Text>[ICON_BOLT] Tùy chọn B đã được chọn nhất trí</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_TARGET">
+            <Text>[ICON_BOLT] {1_Target} đã được nhất trí chọn làm mục tiêu</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_A">
+            <Text>[ICON_BOLT] {1_Player} đã dẫn đường cho Tùy chọn A</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_B">
+            <Text>[ICON_BOLT] {1_Player} đã dẫn đường cho Tùy chọn B</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_TARGET">
+            <Text>[ICON_BOLT] {1_Player} đã đặt nhiều phiếu bầu nhất cho {2_Target}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DVP_TOOLTIP_AGREEING_RESOLUTIONS">
+            <Text>[ICON_BOLT] {1_Amount} từ Sự tham gia của Quốc hội</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DVP_TOOLTIP_DVP_RESOLUTION">
+            <Text>[ICON_BOLT] {1_Amount} từ Nghị quyết Chiến thắng Ngoại giao</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DVP_TOOLTIP_SCORED_COMPETITIONS">
+            <Text>[ICON_BOLT] {1_Amount} từ Các cuộc thi được chấm điểm</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DVP_TOOLTIP_OTHER_SOURCES">
+            <Text>[ICON_BOLT] {1_Amount} từ Kỳ quan, Công nghệ và Công nghệ</Text>
+        </Replace>
+    </LocalizedText>
+</GameData>

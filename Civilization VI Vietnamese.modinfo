@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="85E4EEAC-95AA-3E32-1068-91E207B1427F" version="1">
+	<!-- Mod Infomation -->
+	<Properties>
+		<Name>LOC_MOD_TITLE</Name>
+		<Teaser>LOC_MOD_TEASER</Teaser>
+		<Description>LOC_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+		<AffectsSavedGames>0</AffectsSavedGames>
+		<CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<!-- Sẽ được tải trước khi hiển thị menu chính, nhưng không phải trước "Loading game, please wait" -->
+	<FrontEndActions>
+		<!-- Đang thử nghiệm thêm ngôn ngữ vào setting -->
+		<!-- <UpdateDatabase id="Add_Vietnamese">
+			<File priority="1">Text/VietnameseSettings.sql</File>
+		</UpdateDatabase> -->
+		<!-- Vanilla -->
+		<UpdateText id="FrontEnd_Base_Core">
+			<!-- 118 files -->
+			<File>Text/Base/vi-VN/AdvisorText.xml</File>
+			<File>Text/Base/vi-VN/AncientRivalsScenario_Text.xml</File>
+			<File>Text/Base/vi-VN/Australia_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Automation_Narration_Text.xml</File>
+			<File>Text/Base/vi-VN/Aztec_Montezuma_ConfigText.xml</File>
+			<File>Text/Base/vi-VN/Aztec_Montezuma_GameplayText.xml</File>
+			<File>Text/Base/vi-VN/Aztec_Montezuma_PackageText.xml</File>
+			<File>Text/Base/vi-VN/BalanceMaps_ConfigText.xml</File>
+			<File>Text/Base/vi-VN/BenchmarkText.xml</File>
+			<File>Text/Base/vi-VN/Buildings_Text.xml</File>
+			<File>Text/Base/vi-VN/Building_Huey_Teocalli_Text.xml</File>
+			<File>Text/Base/vi-VN/CitizenNames_Text.xml</File>
+			<File>Text/Base/vi-VN/CityNames_Text.xml</File>
+			<File>Text/Base/vi-VN/Civics_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilizations_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Buildings_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_CityStates_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Civics_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Civilizations_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Concepts_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Districts_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Features_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Governments_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_GreatPeople_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Improvements_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Leaders_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Promotions_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Religions_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Resources_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Search_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Technologies_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Units_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Wonders_Text.xml</File>
+			<File>Text/Base/vi-VN/CivRoyaleScenario_FrontEndText.xml</File>
+			<File>Text/Base/vi-VN/CivRoyaleScenario_InGameText.xml</File>
+			<File>Text/Base/vi-VN/CivRoyaleScenario_PackageText.xml</File>
+			<File>Text/Base/vi-VN/ColdWarScenario_Text.xml</File>
+			<File>Text/Base/vi-VN/Combat_Text.xml</File>
+			<File>Text/Base/vi-VN/Credits.xml</File>
+			<File>Text/Base/vi-VN/CrossPlay_Text.xml</File>
+			<File>Text/Base/vi-VN/Difficulties_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyDeals_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyModifiers_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyNotifications_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyPanel_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Common_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_DeclareFriendship_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_DeclareWar_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Defeat_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Delegation_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Denounce_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Embassy_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_FirstMeet_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Greeting_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_KudosAndWarnings_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_MakeAlliance_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_MakeDeal_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_MakeDemand_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_MakePeace_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_OpenBorders_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Warning_Text.xml</File>
+			<File>Text/Base/vi-VN/Districts_Text.xml</File>
+			<File>Text/Base/vi-VN/EarthMaps_ConfigText.xml</File>
+			<File>Text/Base/vi-VN/EarthMaps_Epic_Text.xml</File>
+			<File>Text/Base/vi-VN/Espionage_Text.xml</File>
+			<File>Text/Base/vi-VN/Expansion1_Credits.xml</File>
+			<File>Text/Base/vi-VN/Expansion1_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Expansion2_Credits.xml</File>
+			<File>Text/Base/vi-VN/Expansion2_PackageText.xml</File>
+			<File>Text/Base/vi-VN/FeaturesAndTerrains_Text.xml</File>
+			<File>Text/Base/vi-VN/FrontEnd_PlayByCloud.xml</File>
+			<File>Text/Base/vi-VN/FrontEndText.xml</File>
+			<File>Text/Base/vi-VN/GameSummaries_Text.xml</File>
+			<File>Text/Base/vi-VN/Gossip_Text.xml</File>
+			<File>Text/Base/vi-VN/Grammar_Text.xml</File>
+			<File>Text/Base/vi-VN/GreatPeople_Text.xml</File>
+			<File>Text/Base/vi-VN/GreatWorks_Text.xml</File>
+			<File>Text/Base/vi-VN/Improvements_Text.xml</File>
+			<File>Text/Base/vi-VN/Indonesia_Khmer_PackageText.xml</File>
+			<File>Text/Base/vi-VN/InGame_PlayByCloud.xml</File>
+			<File>Text/Base/vi-VN/InGameText.xml</File>
+			<File>Text/Base/vi-VN/Leaders_Text.xml</File>
+			<File>Text/Base/vi-VN/Macedonia_Persia_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Modifiers_Text.xml</File>
+			<File>Text/Base/vi-VN/MultiplayerFrontEndText.xml</File>
+			<File>Text/Base/vi-VN/My2KText.xml</File>
+			<File>Text/Base/vi-VN/NapoleonScenario_Text.xml</File>
+			<File>Text/Base/vi-VN/Notifications_Text.xml</File>
+			<File>Text/Base/vi-VN/Nubia_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Poland_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Projects_Text.xml</File>
+			<File>Text/Base/vi-VN/Promotions_Text.xml</File>
+			<File>Text/Base/vi-VN/Quests_Text.xml</File>
+			<File>Text/Base/vi-VN/Quotes_Text.xml</File>
+			<File>Text/Base/vi-VN/Religion_Text.xml</File>
+			<File>Text/Base/vi-VN/ReligiousCombatScenario_Text.xml</File>
+			<File>Text/Base/vi-VN/Routes_Text.xml</File>
+			<File>Text/Base/vi-VN/Technologies_Text.xml</File>
+			<File>Text/Base/vi-VN/Types_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_Civilopedia_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_EndGame_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_GameSummaries_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_Mods_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_Options_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_Technology_Text.xml</File>
+			<File>Text/Base/vi-VN/UnitNames_Text.xml</File>
+			<File>Text/Base/vi-VN/Units_Text.xml</File>
+			<File>Text/Base/vi-VN/Unit_Abilities_Text.xml</File>
+			<File>Text/Base/vi-VN/UserSetupWarning_Text.xml</File>
+			<File>Text/Base/vi-VN/Vikings_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Wars_Text.xml</File>
+			<File>Text/Base/vi-VN/WorldBuilder_Text.xml</File>
+		</UpdateText>
+		<!-- Expansion1: Rise & Fall -->
+		<UpdateText id="FrontEnd_Expansion1_Settings">
+			<File>Text/DLC/Expansion1/Expansion1_ConfigText.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_HallofFame_Text.xml</File>
+		</UpdateText>
+		<!-- Expansion2: Gathering Storm -->
+		<UpdateText id="FrontEnd_Expansion2_Settings">
+			<File>Text/DLC/Expansion2/Expansion1_HallofFame_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_ConfigText.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_HallofFame_Text.xml</File>
+		</UpdateText>
+		<!-- DLC1: VIKINGS SCENARIO PACK -->
+		<UpdateText id="FrontEnd_VikingsScenario_Settings">
+			<File>Text/DLC/VikingsScenario/VikingsScenario_ConfigText.xml</File>
+		</UpdateText>
+		<!-- DLC2: POLAND CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="FrontEnd_PolandScenario_Settings">
+			<File>Text/DLC/PolandScenario/PolandScenario_ConfigText.xml</File>
+		</UpdateText>	
+		<UpdateText id="FrontEnd_PolandJadwiga_Settings">	
+			<File>Text/DLC/Poland_Jadwiga/Poland_Jadwiga_ConfigText.xml</File>
+		</UpdateText>		
+		<!-- DLC3: AUSTRALIA CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="FrontEnd_Australia_Settings">
+			<File>Text/DLC/Australia/Australia_ConfigText.xml</File>
+		</UpdateText>
+		<UpdateText id="FrontEnd_AustraliaScenario_Settings">
+			<File>Text/DLC/AustraliaScenario/AustraliaScenario_ConfigText.xml</File>
+		</UpdateText>
+		<!-- DLC4: PERSIA AND MACEDON CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="FrontEnd_Macedonia_Settings">
+			<File>Text/DLC/Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+		</UpdateText>
+		<UpdateText id="FrontEnd_AlexanderScenario_Setting">
+			<File>Text/DLC/AlexanderScenario/AlexanderScenario_ConfigText.xml</File>
+		</UpdateText>
+		<!-- DLC5: NUBIA CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="FrontEnd_Nubia_Settings">
+			<File>Text/DLC/Nubia_Amanitore/Nubia_ConfigText.xml</File>
+		</UpdateText>
+		<UpdateText id="FrontEnd_NubiaScenario_Settings">
+			<File>Text/DLC/NubiaScenario/NubiaScenario_ConfigText.xml</File>
+		</UpdateText>
+		<!-- DLC6: KHMER AND INDONESIA CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="FrontEnd_IndonesiaKhmer_Settings">
+			<File>Text/DLC/Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
+		</UpdateText>
+		<UpdateText id="FrontEnd_Indonesia_KhmerScenario_Settings">
+			<File>Text/DLC/Indonesia_KhmerScenario/Indonesia_KhmerScenario_ConfigText.xml</File>
+		</UpdateText>
+		<!-- Addon -->
+		<UpdateText id="FrontEnd_BlackDeathScenario_Settings">
+			<File>Text/DLC/BlackDeathScenario/BlackDeathScenario_ConfigText.xml</File>
+		</UpdateText>
+		<UpdateText id="FrontEnd_CivRoyaleScenario_Settings">
+			<File>Text/DLC/CivRoyaleScenario/CivRoyaleScenario_ConfigText.xml</File>
+		</UpdateText>
+		<UpdateText id="FrontEnd_WarMachineScenario_Settings">
+			<File>Text/DLC/WarMachineScenario/WarMachineScenario_ConfigText.xml</File>
+		</UpdateText>
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
+		<!-- New Frontier Pack 1: MAYA & GRAN COLOMBIA PACK -->
+		<UpdateText id="FrontEnd_GranColombia_Settings">
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_ConfigText.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
+		</UpdateText>
+		<!-- New Frontier Pack 2: ETHIOPIA PACK -->
+		<UpdateText id="FrontEnd_Ethiopia_Settings">
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_ConfigText.xml</File>
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_PackageText.xml</File>
+		</UpdateText>
+		<!-- New Frontier Pack 3 -->
+		<!-- New Frontier Pack 4 -->
+		<!-- New Frontier Pack 5 -->
+		<!-- New Frontier Pack 6 -->
+		<!-- Bonus -->
+		<!-- Catherine De Medici DLC -->
+		<UpdateText id="FrontEnd_CatherineDeMedici_Settings">
+			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_ConfigText.xml</File>
+			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_PackageText.xml</File>
+		</UpdateText>
+		<!-- Teddy Roosevelt DLC -->
+		<UpdateText id="FrontEnd_TeddyRoosevelt_Settings">
+			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_ConfigText.xml</File>
+			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_PackageText.xml</File>
+		</UpdateText>
+		<!-- Tree Randomizer Mode DLC -->
+		<UpdateText id="FrontEnd_TreeRandomizer_Settings">
+			<File>Text/DLC/TreeRandomizer/TreeRandomizer_ConfigText.xml</File>
+			<File>Text/DLC/TreeRandomizer/TreeRandomizer_PackageText.xml</File>
+		</UpdateText>
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->				
+	</FrontEndActions>
+	<!-- Sẽ được tải khi starting to play a game -->
+	<InGameActions>
+		<!-- Vanilla -->
+		<UpdateText id="InGame_Base_Core">
+			<File>Text/Base/vi-VN/AdvisorText.xml</File>
+			<File>Text/Base/vi-VN/AncientRivalsScenario_Text.xml</File>
+			<File>Text/Base/vi-VN/Australia_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Automation_Narration_Text.xml</File>
+			<File>Text/Base/vi-VN/Aztec_Montezuma_ConfigText.xml</File>
+			<File>Text/Base/vi-VN/Aztec_Montezuma_GameplayText.xml</File>
+			<File>Text/Base/vi-VN/Aztec_Montezuma_PackageText.xml</File>
+			<File>Text/Base/vi-VN/BalanceMaps_ConfigText.xml</File>
+			<File>Text/Base/vi-VN/BenchmarkText.xml</File>
+			<File>Text/Base/vi-VN/Buildings_Text.xml</File>
+			<File>Text/Base/vi-VN/Building_Huey_Teocalli_Text.xml</File>
+			<File>Text/Base/vi-VN/CitizenNames_Text.xml</File>
+			<File>Text/Base/vi-VN/CityNames_Text.xml</File>
+			<File>Text/Base/vi-VN/Civics_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilizations_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Buildings_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_CityStates_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Civics_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Civilizations_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Concepts_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Districts_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Features_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Governments_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_GreatPeople_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Improvements_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Leaders_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Promotions_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Religions_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Resources_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Search_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Technologies_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Units_Text.xml</File>
+			<File>Text/Base/vi-VN/Civilopedia_Wonders_Text.xml</File>
+			<File>Text/Base/vi-VN/CivRoyaleScenario_FrontEndText.xml</File>
+			<File>Text/Base/vi-VN/CivRoyaleScenario_InGameText.xml</File>
+			<File>Text/Base/vi-VN/CivRoyaleScenario_PackageText.xml</File>
+			<File>Text/Base/vi-VN/ColdWarScenario_Text.xml</File>
+			<File>Text/Base/vi-VN/Combat_Text.xml</File>
+			<File>Text/Base/vi-VN/Credits.xml</File>
+			<File>Text/Base/vi-VN/CrossPlay_Text.xml</File>
+			<File>Text/Base/vi-VN/Difficulties_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyDeals_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyModifiers_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyNotifications_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyPanel_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Common_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_DeclareFriendship_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_DeclareWar_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Defeat_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Delegation_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Denounce_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Embassy_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_FirstMeet_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Greeting_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_KudosAndWarnings_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_MakeAlliance_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_MakeDeal_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_MakeDemand_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_MakePeace_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_OpenBorders_Text.xml</File>
+			<File>Text/Base/vi-VN/DiplomacyStatements_Warning_Text.xml</File>
+			<File>Text/Base/vi-VN/Districts_Text.xml</File>
+			<File>Text/Base/vi-VN/EarthMaps_ConfigText.xml</File>
+			<File>Text/Base/vi-VN/EarthMaps_Epic_Text.xml</File>
+			<File>Text/Base/vi-VN/Espionage_Text.xml</File>
+			<File>Text/Base/vi-VN/Expansion1_Credits.xml</File>
+			<File>Text/Base/vi-VN/Expansion1_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Expansion2_Credits.xml</File>
+			<File>Text/Base/vi-VN/Expansion2_PackageText.xml</File>
+			<File>Text/Base/vi-VN/FeaturesAndTerrains_Text.xml</File>
+			<File>Text/Base/vi-VN/FrontEnd_PlayByCloud.xml</File>
+			<File>Text/Base/vi-VN/FrontEndText.xml</File>
+			<File>Text/Base/vi-VN/GameSummaries_Text.xml</File>
+			<File>Text/Base/vi-VN/Gossip_Text.xml</File>
+			<File>Text/Base/vi-VN/Grammar_Text.xml</File>
+			<File>Text/Base/vi-VN/GreatPeople_Text.xml</File>
+			<File>Text/Base/vi-VN/GreatWorks_Text.xml</File>
+			<File>Text/Base/vi-VN/Improvements_Text.xml</File>
+			<File>Text/Base/vi-VN/Indonesia_Khmer_PackageText.xml</File>
+			<File>Text/Base/vi-VN/InGame_PlayByCloud.xml</File>
+			<File>Text/Base/vi-VN/InGameText.xml</File>
+			<File>Text/Base/vi-VN/Leaders_Text.xml</File>
+			<File>Text/Base/vi-VN/Macedonia_Persia_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Modifiers_Text.xml</File>
+			<File>Text/Base/vi-VN/MultiplayerFrontEndText.xml</File>
+			<File>Text/Base/vi-VN/My2KText.xml</File>
+			<File>Text/Base/vi-VN/NapoleonScenario_Text.xml</File>
+			<File>Text/Base/vi-VN/Notifications_Text.xml</File>
+			<File>Text/Base/vi-VN/Nubia_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Poland_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Projects_Text.xml</File>
+			<File>Text/Base/vi-VN/Promotions_Text.xml</File>
+			<File>Text/Base/vi-VN/Quests_Text.xml</File>
+			<File>Text/Base/vi-VN/Quotes_Text.xml</File>
+			<File>Text/Base/vi-VN/Religion_Text.xml</File>
+			<File>Text/Base/vi-VN/ReligiousCombatScenario_Text.xml</File>
+			<File>Text/Base/vi-VN/Routes_Text.xml</File>
+			<File>Text/Base/vi-VN/Technologies_Text.xml</File>
+			<File>Text/Base/vi-VN/Types_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_Civilopedia_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_EndGame_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_GameSummaries_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_Mods_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_Options_Text.xml</File>
+			<File>Text/Base/vi-VN/UI_Technology_Text.xml</File>
+			<File>Text/Base/vi-VN/UnitNames_Text.xml</File>
+			<File>Text/Base/vi-VN/Units_Text.xml</File>
+			<File>Text/Base/vi-VN/Unit_Abilities_Text.xml</File>
+			<File>Text/Base/vi-VN/UserSetupWarning_Text.xml</File>
+			<File>Text/Base/vi-VN/Vikings_PackageText.xml</File>
+			<File>Text/Base/vi-VN/Wars_Text.xml</File>
+			<File>Text/Base/vi-VN/WorldBuilder_Text.xml</File>
+		</UpdateText>
+		<!-- Expansion1: Rise & Fall -->
+		<UpdateText id="InGame_Expansion1_Core" criteria="Expansion1">
+			<File>Text/DLC/Expansion1/Expansion1_AdvisorText.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Agendas_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Buildings_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_CityBanner_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_CityNames_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Civics_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Civilopedia_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_DiplomacyDeals_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_DiplomacyModifiers_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_DiplomacyStatements_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Diplomacy_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Districts_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Eras_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Gossip_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_GreatPeople_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_InGameText.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Leaders_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Modifiers_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Moments_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Notifications_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Religion_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Technologies_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Units_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Wars_Text.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_Expansion1_Major" criteria="Expansion1AndBeyond">
+			<File>Text/DLC/Expansion1/Expansion1_Agendas_Major_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_CitizenNames_Major_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_CityNames_Major_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_Civilopedia_Major_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_ConfigText.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_DiplomacyModifiers_Major_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_DiplomacyStatements_Major_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_HallofFame_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_LoadingInfo_Major_Text.xml</File>
+			<File>Text/DLC/Expansion1/Expansion1_NaturalWonders_Major_Text.xml</File>
+		</UpdateText>
+		<!-- Expansion2: Gathering Storm -->
+		<UpdateText id="InGame_Expansion2_Core" criteria="Expansion2">
+			<File>Text/DLC/Expansion2/Expansion1_AdvisorText.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Agendas_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Buildings_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_CityBanner_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_CityNames_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Civics_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Civilopedia_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_DiplomacyDeals_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_DiplomacyModifiers_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_DiplomacyStatements_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Diplomacy_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Districts_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Eras_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Gossip_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_GreatPeople_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_InGameText.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Leaders_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Modifiers_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Moments_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Notifications_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Religion_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Technologies_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Units_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion1_Wars_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_AdvisorText.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Buildings_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_CitizenNames_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_CityNames_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Civics_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Civilopedia_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_CongressText.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_DiplomacyDeals_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_DiplomacyModifiers_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_DiplomacyStatements_DeclareWar_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_DiplomacyStatements_Denounce_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_DiplomacyStatements_FirstMeet_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_DiplomacyStatements_KudosAndWarnings_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_DiplomacyStatements_Misc.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Districts_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_FeaturesAndTerrains_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Gossip_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_GreatPeople_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Improvements_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_InGameText.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Leaders_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_LoadingInfo_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Moments_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_NamedPlaces_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Notifications_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Promotions_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Quotes_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_RandomEvents_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Religion_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Routes_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Technologies_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_UnitNames_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Units_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_Unit_Abilities_Text.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_Expansion2_Major" criteria="Expansion2AndBeyond">
+			<File>Text/DLC/Expansion2/Expansion1_HallofFame_Text.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_ConfigText.xml</File>
+			<File>Text/DLC/Expansion2/Expansion2_HallofFame_Text.xml</File>
+		</UpdateText>
+		<!-- DLC1: VIKINGS SCENARIO PACK -->
+		<UpdateText id="InGame_VikingLandmarks" criteria="VikingLandmarks_Scenario">
+			<File>Text/DLC/VikingsLandmarks/VikingsLandmarks_CivilopediaText.xml</File>
+			<File>Text/DLC/VikingsLandmarks/VikingsLandmarks_Text.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_VikingsScenario" criteria="VikingsScenario">
+			<File>Text/DLC/VikingsScenario/VikingsScenario_CivilopediaText.xml</File>
+			<File>Text/DLC/VikingsScenario/VikingsScenario_ConfigText.xml</File>
+			<File>Text/DLC/VikingsScenario/VikingsScenario_Text.xml</File>
+		</UpdateText>		
+		<!-- DLC2: POLAND CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="InGame_PolandJadwiga" criteria="PolandJadwiga">
+			<File>Text/DLC/Poland_Jadwiga/Poland_Jadwiga_ConfigText.xml</File>
+			<File>Text/DLC/Poland_Jadwiga/Poland_Jadwiga_GameplayText.xml</File>
+		</UpdateText>		
+		<UpdateText id="InGame_PolandScenario" criteria="PolandScenario">
+			<Include mod_id="85E4EEAC-95AA-3E32-1068-91E207B1427F" action_id="InGame_PolandJadwiga" required="1" />
+			<File>Text/DLC/PolandScenario/PolandScenario_CivilopediaText.xml</File>
+			<File>Text/DLC/PolandScenario/PolandScenario_ConfigText.xml</File>
+			<File>Text/DLC/PolandScenario/PolandScenario_Text.xml</File>
+		</UpdateText>
+		<!-- DLC3: AUSTRALIA CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="InGame_Australia" criteria="Australia">
+			<File>Text/DLC/Australia/Australia_CivilopediaText.xml</File>
+			<File>Text/DLC/Australia/Australia_ConfigText.xml</File>
+			<File>Text/DLC/Australia/Australia_Text.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_AustraliaScenario" criteria="AustraliaScenario">
+			<Include mod_id="85E4EEAC-95AA-3E32-1068-91E207B1427F" action_id="InGame_Australia" required="1" />
+			<File>Text/DLC/AustraliaScenario/AustraliaScenario_CivilopediaText.xml</File>
+			<File>Text/DLC/AustraliaScenario/AustraliaScenario_ConfigText.xml</File>
+			<File>Text/DLC/AustraliaScenario/AustraliaScenario_EventText.xml</File>
+			<File>Text/DLC/AustraliaScenario/AustraliaScenario_Text.xml</File>
+		</UpdateText>	
+		<!-- DLC4: PERSIA AND MACEDON CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="InGame_Macedonia" criteria="MacedoniaPersia">
+			<File>Text/DLC/Macedonia_Persia/Macedonia_Persia_CivilopediaText.xml</File>
+			<File>Text/DLC/Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+			<File>Text/DLC/Macedonia_Persia/Macedonia_Persia_GameplayText.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_AlexanderScenario" criteria="AlexanderScenarioRequirements">
+			<Include mod_id="85E4EEAC-95AA-3E32-1068-91E207B1427F" action_id="InGame_Macedonia" required="1" />
+			<File>Text/DLC/AlexanderScenario/AlexanderScenario_CivilopediaText.xml</File>
+			<File>Text/DLC/AlexanderScenario/AlexanderScenario_ConfigText.xml</File>
+			<File>Text/DLC/AlexanderScenario/AlexanderScenario_Text.xml</File>
+		</UpdateText>
+		<!-- DLC5: NUBIA CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="InGame_Nubia" criteria="Nubia">
+			<File>Text/DLC/Nubia_Amanitore/Nubia_CivilopediaText.xml</File>
+			<File>Text/DLC/Nubia_Amanitore/Nubia_ConfigText.xml</File>
+			<File>Text/DLC/Nubia_Amanitore/Nubia_Text.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_NubiaScenario" criteria="NubiaScenario">
+			<File>Text/DLC/NubiaScenario/NubiaScenario_CivilopediaText.xml</File>
+			<File>Text/DLC/NubiaScenario/NubiaScenario_ConfigText.xml</File>
+			<File>Text/DLC/NubiaScenario/NubiaScenario_Text.xml</File>
+		</UpdateText>
+		<!-- DLC6: KHMER AND INDONESIA CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="InGame_IndonesiaKhmer" criteria="IndonesiaKhmer">
+			<File>Text/DLC/Indonesia_Khmer/Indonesia_Khmer_CivilopediaText.xml</File>
+			<File>Text/DLC/Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
+			<File>Text/DLC/Indonesia_Khmer/Indonesia_Khmer_Text.xml</File>
+		</UpdateText>
+		<UpdateText id="Indonesia_KhmerScenarioText" criteria="Indonesia_KhmerScenario">
+			<File>Text/DLC/Indonesia_KhmerScenario/Indonesia_KhmerScenario_Civilopedia.xml</File>
+			<File>Text/DLC/Indonesia_KhmerScenario/Indonesia_KhmerScenario_ConfigText.xml</File>
+			<File>Text/DLC/Indonesia_KhmerScenario/Indonesia_KhmerScenario_Text.xml</File>
+		</UpdateText>
+		<!-- Addon -->
+		<UpdateText id="InGame_BlackDeathScenario" criteria="BlackDeathScenario">
+			<File>Text/DLC/BlackDeathScenario/BlackDeathScenario_ConfigText.xml</File>
+			<File>Text/DLC/BlackDeathScenario/BlackDeathScenario_GameplayText.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_CivRoyaleScenario" criteria="CivRoyaleScenario">
+			<File>Text/DLC/CivRoyaleScenario/CivRoyaleScenario_ConfigText.xml</File>
+			<File>Text/DLC/CivRoyaleScenario/CivRoyaleScenario_Text.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_WarMachineScenario" criteria="WarMachineScenario">
+			<File>Text/DLC/WarMachineScenario/WarMachineScenario_ConfigText.xml</File>
+			<File>Text/DLC/WarMachineScenario/WarMachineScenario_GameplayText.xml</File>
+		</UpdateText>
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
+		<!-- New Frontier Pack 1: MAYA & GRAN COLOMBIA PACK -->
+		<UpdateText id="InGame_GranColombiaMaya" criteria="GranColombiaMaya">
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_CitizenNames_Text.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_CityNames_Text.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Civilopedia_Text.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_ConfigText.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Diplomacy_Text.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_FeaturesResourcesTerrains_Text.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Improvements_Text.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Leaders_Text.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_NamedPlaces_Text.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Notifications_Text.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_RandomEvents_Text.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Units_Text.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_InGameText_MODE.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Civilopedia_Text_MODE.xml</File>
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_AdvisorText_MODE.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_GranColombiaMaya_MODE" criteria="GranColombiaMaya_Mode_Expansion2">
+			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Units_Text_MODE.xml</File>
+		</UpdateText>
+		<!-- New Frontier Pack 2: ETHIOPIA PACK -->
+		<UpdateText id="InGame_Ethiopia" criteria="Ethiopia">
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_Buildings_Text.xml</File>
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_CitizenNames_Text.xml</File>
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_CityNames_Text.xml</File>
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_Civilopedia_Text.xml</File>
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_ConfigText.xml</File>
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_Diplomacy_Text.xml</File>
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_Districts_Text.xml</File>
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_InGameText.xml</File>
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_NamedPlaces_Text.xml</File>
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_PackageText.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_Ethiopia_MODE" criteria="Ethiopia_Mode">
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_Civilopedia_Text_MODE.xml</File>
+			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_SecretSocieties_Text_MODE.xml</File>
+		</UpdateText>
+		<!-- New Frontier Pack 3 -->
+		<!-- New Frontier Pack 4 -->
+		<!-- New Frontier Pack 5 -->
+		<!-- New Frontier Pack 6 -->
+		<!-- Bonus -->
+		<!-- Catherine De Medici DLC -->
+		<UpdateText id="InGame_CatherineDeMedici" criteria="CatherineDeMedici">
+			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_CivilopediaText.xml</File>
+			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_ConfigText.xml</File>
+			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_Text.xml</File>
+			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_PackageText.xml</File>
+		</UpdateText>
+		<!-- Teddy Roosevelt DLC -->
+		<UpdateText id="InGame_TeddyRoosevelt" criteria="TeddyRoosevelt">
+			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_CivilopediaText.xml</File>
+			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_ConfigText.xml</File>
+			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_Text.xml</File>
+			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_PackageText.xml</File>
+		</UpdateText>
+		<!-- Tree Randomizer Mode DLC -->
+		<UpdateText id="InGame_TreeRandomizer" criteria="TreeRandomizer_Mode">
+			<File>Text/DLC/TreeRandomizer/TreeRandomizer_ConfigText.xml</File>
+			<File>Text/DLC/TreeRandomizer/TreeRandomizer_InGameText_MODE.xml</File>
+			<File>Text/DLC/TreeRandomizer/TreeRandomizer_PackageText.xml</File>
+		</UpdateText>
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->			
+	</InGameActions>
+	<!-- Mod Infomation Text -->
+	<LocalizedText>
+		<Text id="LOC_MOD_TITLE">
+			<en_US>Vietnamese Language Pack</en_US>
+		</Text>
+		<Text id="LOC_MOD_TEASER">
+			<en_US>Vietnamese Language Pack</en_US>
+		</Text>
+		<Text id="LOC_MOD_DESCRIPTION">
+			<en_US>[ICON_GreatWriter][COLOR_RED] Việt hóa bởi:[ENDCOLOR][NEWLINE][NEWLINE][ICON_Bullet][ICON_Capital] King CTer[NEWLINE][ICON_Bullet][ICON_Amenities] Xuân Khánh - XKVNN[NEWLINE][NEWLINE][ICON_GreatWriter][COLOR_GREEN] Bổ sung:[ENDCOLOR][NEWLINE][NEWLINE][ICON_Bullet][ICON_Tourism] Windrist[NEWLINE][ICON_Bullet][ICON_Production] Nguyễn Trọng Minh</en_US>
+		</Text>
+		<Text id="LOC_MOD_AUTHORS">
+			<en_US>King CTer</en_US>
+		</Text>
+		<File Priority="1">Text/DLC/GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
+		<File Priority="1">Text/DLC/Ethiopia/Ethiopia_PackageText.xml</File>
+		<File Priority="1">Text/DLC/CatherineDeMedici/CatherineDeMedici_PackageText.xml</File>
+		<File Priority="1">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_Text.xml</File>
+		<File Priority="1">Text/DLC/TreeRandomizer/TreeRandomizer_PackageText.xml</File>
+	</LocalizedText>
+	<!-- Config File -->
+	<Files>
+		<File>LocalizationDatabase_Data.sql</File>
+		<!-- Vanilla -->
+		<File>Text/Base/vi-VN/AdvisorText.xml</File>
+		<File>Text/Base/vi-VN/AncientRivalsScenario_Text.xml</File>
+		<File>Text/Base/vi-VN/Australia_PackageText.xml</File>
+		<File>Text/Base/vi-VN/Automation_Narration_Text.xml</File>
+		<File>Text/Base/vi-VN/Aztec_Montezuma_ConfigText.xml</File>
+		<File>Text/Base/vi-VN/Aztec_Montezuma_GameplayText.xml</File>
+		<File>Text/Base/vi-VN/Aztec_Montezuma_PackageText.xml</File>
+		<File>Text/Base/vi-VN/BalanceMaps_ConfigText.xml</File>
+		<File>Text/Base/vi-VN/BenchmarkText.xml</File>
+		<File>Text/Base/vi-VN/Buildings_Text.xml</File>
+		<File>Text/Base/vi-VN/Building_Huey_Teocalli_Text.xml</File>
+		<File>Text/Base/vi-VN/CitizenNames_Text.xml</File>
+		<File>Text/Base/vi-VN/CityNames_Text.xml</File>
+		<File>Text/Base/vi-VN/Civics_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilizations_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Buildings_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_CityStates_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Civics_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Civilizations_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Concepts_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Districts_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Features_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Governments_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_GreatPeople_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Improvements_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Leaders_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Promotions_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Religions_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Resources_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Search_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Technologies_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Units_Text.xml</File>
+		<File>Text/Base/vi-VN/Civilopedia_Wonders_Text.xml</File>
+		<File>Text/Base/vi-VN/CivRoyaleScenario_FrontEndText.xml</File>
+		<File>Text/Base/vi-VN/CivRoyaleScenario_InGameText.xml</File>
+		<File>Text/Base/vi-VN/CivRoyaleScenario_PackageText.xml</File>
+		<File>Text/Base/vi-VN/ColdWarScenario_Text.xml</File>
+		<File>Text/Base/vi-VN/Combat_Text.xml</File>
+		<File>Text/Base/vi-VN/Credits.xml</File>
+		<File>Text/Base/vi-VN/CrossPlay_Text.xml</File>
+		<File>Text/Base/vi-VN/Difficulties_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyDeals_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyModifiers_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyNotifications_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyPanel_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_Common_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_DeclareFriendship_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_DeclareWar_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_Defeat_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_Delegation_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_Denounce_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_Embassy_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_FirstMeet_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_Greeting_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_KudosAndWarnings_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_MakeAlliance_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_MakeDeal_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_MakeDemand_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_MakePeace_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_OpenBorders_Text.xml</File>
+		<File>Text/Base/vi-VN/DiplomacyStatements_Warning_Text.xml</File>
+		<File>Text/Base/vi-VN/Districts_Text.xml</File>
+		<File>Text/Base/vi-VN/EarthMaps_ConfigText.xml</File>
+		<File>Text/Base/vi-VN/EarthMaps_Epic_Text.xml</File>
+		<File>Text/Base/vi-VN/Espionage_Text.xml</File>
+		<File>Text/Base/vi-VN/Expansion1_Credits.xml</File>
+		<File>Text/Base/vi-VN/Expansion1_PackageText.xml</File>
+		<File>Text/Base/vi-VN/Expansion2_Credits.xml</File>
+		<File>Text/Base/vi-VN/Expansion2_PackageText.xml</File>
+		<File>Text/Base/vi-VN/FeaturesAndTerrains_Text.xml</File>
+		<File>Text/Base/vi-VN/FrontEnd_PlayByCloud.xml</File>
+		<File>Text/Base/vi-VN/FrontEndText.xml</File>
+		<File>Text/Base/vi-VN/GameSummaries_Text.xml</File>
+		<File>Text/Base/vi-VN/Gossip_Text.xml</File>
+		<File>Text/Base/vi-VN/Grammar_Text.xml</File>
+		<File>Text/Base/vi-VN/GreatPeople_Text.xml</File>
+		<File>Text/Base/vi-VN/GreatWorks_Text.xml</File>
+		<File>Text/Base/vi-VN/Improvements_Text.xml</File>
+		<File>Text/Base/vi-VN/Indonesia_Khmer_PackageText.xml</File>
+		<File>Text/Base/vi-VN/InGame_PlayByCloud.xml</File>
+		<File>Text/Base/vi-VN/InGameText.xml</File>
+		<File>Text/Base/vi-VN/Leaders_Text.xml</File>
+		<File>Text/Base/vi-VN/Macedonia_Persia_PackageText.xml</File>
+		<File>Text/Base/vi-VN/Modifiers_Text.xml</File>
+		<File>Text/Base/vi-VN/MultiplayerFrontEndText.xml</File>
+		<File>Text/Base/vi-VN/My2KText.xml</File>
+		<File>Text/Base/vi-VN/NapoleonScenario_Text.xml</File>
+		<File>Text/Base/vi-VN/Notifications_Text.xml</File>
+		<File>Text/Base/vi-VN/Nubia_PackageText.xml</File>
+		<File>Text/Base/vi-VN/Poland_PackageText.xml</File>
+		<File>Text/Base/vi-VN/Projects_Text.xml</File>
+		<File>Text/Base/vi-VN/Promotions_Text.xml</File>
+		<File>Text/Base/vi-VN/Quests_Text.xml</File>
+		<File>Text/Base/vi-VN/Quotes_Text.xml</File>
+		<File>Text/Base/vi-VN/Religion_Text.xml</File>
+		<File>Text/Base/vi-VN/ReligiousCombatScenario_Text.xml</File>
+		<File>Text/Base/vi-VN/Routes_Text.xml</File>
+		<File>Text/Base/vi-VN/Technologies_Text.xml</File>
+		<File>Text/Base/vi-VN/Types_Text.xml</File>
+		<File>Text/Base/vi-VN/UI_Civilopedia_Text.xml</File>
+		<File>Text/Base/vi-VN/UI_EndGame_Text.xml</File>
+		<File>Text/Base/vi-VN/UI_GameSummaries_Text.xml</File>
+		<File>Text/Base/vi-VN/UI_Mods_Text.xml</File>
+		<File>Text/Base/vi-VN/UI_Options_Text.xml</File>
+		<File>Text/Base/vi-VN/UI_Technology_Text.xml</File>
+		<File>Text/Base/vi-VN/UnitNames_Text.xml</File>
+		<File>Text/Base/vi-VN/Units_Text.xml</File>
+		<File>Text/Base/vi-VN/Unit_Abilities_Text.xml</File>
+		<File>Text/Base/vi-VN/UserSetupWarning_Text.xml</File>
+		<File>Text/Base/vi-VN/Vikings_PackageText.xml</File>
+		<File>Text/Base/vi-VN/Wars_Text.xml</File>
+		<File>Text/Base/vi-VN/WorldBuilder_Text.xml</File>
+		<!-- Expansion1: Rise & Fall -->
+		<File>Text/DLC/Expansion1/Expansion1_AdvisorText.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Agendas_Major_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Agendas_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Buildings_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_CitizenNames_Major_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_CityBanner_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_CityNames_Major_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_CityNames_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Civics_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Civilopedia_Major_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Civilopedia_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_ConfigText.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_DiplomacyDeals_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_DiplomacyModifiers_Major_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_DiplomacyModifiers_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_DiplomacyStatements_Major_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_DiplomacyStatements_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Diplomacy_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Districts_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Eras_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Gossip_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_GreatPeople_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_HallofFame_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_InGameText.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Leaders_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_LoadingInfo_Major_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Modifiers_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Moments_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_NaturalWonders_Major_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Notifications_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Religion_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Technologies_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Units_Text.xml</File>
+		<File>Text/DLC/Expansion1/Expansion1_Wars_Text.xml</File>
+		<!-- Expansion2: Gathering Storm -->
+		<File>Text/DLC/Expansion2/Expansion1_AdvisorText.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Agendas_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Buildings_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_CityBanner_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_CityNames_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Civics_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Civilopedia_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_DiplomacyDeals_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_DiplomacyModifiers_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_DiplomacyStatements_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Diplomacy_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Districts_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Eras_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Gossip_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_GreatPeople_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_HallofFame_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_InGameText.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Leaders_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Modifiers_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Moments_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Notifications_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Religion_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Technologies_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Units_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion1_Wars_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_AdvisorText.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Buildings_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_CitizenNames_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_CityNames_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Civics_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Civilopedia_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_ConfigText.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_CongressText.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_DiplomacyDeals_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_DiplomacyModifiers_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_DiplomacyStatements_DeclareWar_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_DiplomacyStatements_Denounce_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_DiplomacyStatements_FirstMeet_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_DiplomacyStatements_KudosAndWarnings_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_DiplomacyStatements_Misc.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Districts_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_FeaturesAndTerrains_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Gossip_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_GreatPeople_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_HallofFame_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Improvements_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_InGameText.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Leaders_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_LoadingInfo_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Moments_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_NamedPlaces_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Notifications_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Promotions_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Quotes_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_RandomEvents_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Religion_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Routes_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Technologies_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_UnitNames_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Units_Text.xml</File>
+		<File>Text/DLC/Expansion2/Expansion2_Unit_Abilities_Text.xml</File>
+		<!-- DLC -->
+		<!-- DLC1: VIKINGS SCENARIO PACK -->
+		<File>Text/DLC/VikingsScenario/VikingsScenario_CivilopediaText.xml</File>
+		<File>Text/DLC/VikingsScenario/VikingsScenario_ConfigText.xml</File>
+		<File>Text/DLC/VikingsScenario/VikingsScenario_Text.xml</File>
+		<File>Text/DLC/VikingsLandmarks/VikingsLandmarks_CivilopediaText.xml</File>
+		<File>Text/DLC/VikingsLandmarks/VikingsLandmarks_Text.xml</File>
+		<!-- DLC2: POLAND CIVILIZATION & SCENARIO PACK -->
+		<File>Text/DLC/PolandScenario/PolandScenario_CivilopediaText.xml</File>
+		<File>Text/DLC/PolandScenario/PolandScenario_ConfigText.xml</File>
+		<File>Text/DLC/PolandScenario/PolandScenario_Text.xml</File>
+		<File>Text/DLC/Poland_Jadwiga/Poland_Jadwiga_ConfigText.xml</File>
+		<File>Text/DLC/Poland_Jadwiga/Poland_Jadwiga_GameplayText.xml</File>
+		<!-- DLC3: AUSTRALIA CIVILIZATION & SCENARIO PACK -->
+		<File>Text/DLC/Australia/Australia_CivilopediaText.xml</File>
+		<File>Text/DLC/Australia/Australia_ConfigText.xml</File>
+		<File>Text/DLC/Australia/Australia_Text.xml</File>
+		<File>Text/DLC/AustraliaScenario/AustraliaScenario_CivilopediaText.xml</File>
+		<File>Text/DLC/AustraliaScenario/AustraliaScenario_ConfigText.xml</File>
+		<File>Text/DLC/AustraliaScenario/AustraliaScenario_EventText.xml</File>
+		<File>Text/DLC/AustraliaScenario/AustraliaScenario_Text.xml</File>		
+		<!-- DLC4: PERSIA AND MACEDON CIVILIZATION & SCENARIO PACK -->
+		<File>Text/DLC/Macedonia_Persia/Macedonia_Persia_CivilopediaText.xml</File>
+		<File>Text/DLC/Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+		<File>Text/DLC/Macedonia_Persia/Macedonia_Persia_GameplayText.xml</File>
+		<File>Text/DLC/AlexanderScenario/AlexanderScenario_CivilopediaText.xml</File>
+		<File>Text/DLC/AlexanderScenario/AlexanderScenario_ConfigText.xml</File>
+		<File>Text/DLC/AlexanderScenario/AlexanderScenario_Text.xml</File>
+		<!-- DLC5: NUBIA CIVILIZATION & SCENARIO PACK -->
+		<File>Text/DLC/Nubia_Amanitore/Nubia_CivilopediaText.xml</File>
+		<File>Text/DLC/Nubia_Amanitore/Nubia_ConfigText.xml</File>
+		<File>Text/DLC/Nubia_Amanitore/Nubia_Text.xml</File>
+		<File>Text/DLC/NubiaScenario/NubiaScenario_CivilopediaText.xml</File>
+		<File>Text/DLC/NubiaScenario/NubiaScenario_ConfigText.xml</File>
+		<File>Text/DLC/NubiaScenario/NubiaScenario_Text.xml</File>
+		<!-- DLC6: KHMER AND INDONESIA CIVILIZATION & SCENARIO PACK -->
+		<File>Text/DLC/Indonesia_Khmer/Indonesia_Khmer_CivilopediaText.xml</File>
+		<File>Text/DLC/Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
+		<File>Text/DLC/Indonesia_Khmer/Indonesia_Khmer_Text.xml</File>
+		<File>Text/DLC/Indonesia_KhmerScenario/Indonesia_KhmerScenario_Civilopedia.xml</File>
+		<File>Text/DLC/Indonesia_KhmerScenario/Indonesia_KhmerScenario_ConfigText.xml</File>
+		<File>Text/DLC/Indonesia_KhmerScenario/Indonesia_KhmerScenario_Text.xml</File>
+		<!-- Addon -->
+		<File>Text/DLC/BlackDeathScenario/BlackDeathScenario_ConfigText.xml</File>
+		<File>Text/DLC/BlackDeathScenario/BlackDeathScenario_GameplayText.xml</File>
+		<File>Text/DLC/CivRoyaleScenario/CivRoyaleScenario_ConfigText.xml</File>
+		<File>Text/DLC/CivRoyaleScenario/CivRoyaleScenario_Text.xml</File>
+		<File>Text/DLC/WarMachineScenario/WarMachineScenario_ConfigText.xml</File>
+		<File>Text/DLC/WarMachineScenario/WarMachineScenario_GameplayText.xml</File>
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
+		<!-- New Frontier Pack 1: MAYA & GRAN COLOMBIA PACK -->
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_AdvisorText_MODE.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_CitizenNames_Text.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_CityNames_Text.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Civilopedia_Text.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Civilopedia_Text_MODE.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_ConfigText.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Diplomacy_Text.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_FeaturesResourcesTerrains_Text.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Improvements_Text.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_InGameText_MODE.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Leaders_Text.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_NamedPlaces_Text.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Notifications_Text.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_RandomEvents_Text.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Units_Text.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Units_Text_MODE.xml</File>
+		<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
+		<!-- New Frontier Pack 2: ETHIOPIA PACK -->
+		<File>Text/DLC/Ethiopia/Ethiopia_Buildings_Text.xml</File>
+		<File>Text/DLC/Ethiopia/Ethiopia_CitizenNames_Text.xml</File>
+		<File>Text/DLC/Ethiopia/Ethiopia_CityNames_Text.xml</File>
+		<File>Text/DLC/Ethiopia/Ethiopia_Civilopedia_Text.xml</File>
+		<File>Text/DLC/Ethiopia/Ethiopia_Civilopedia_Text_MODE.xml</File>
+		<File>Text/DLC/Ethiopia/Ethiopia_ConfigText.xml</File>
+		<File>Text/DLC/Ethiopia/Ethiopia_Diplomacy_Text.xml</File>
+		<File>Text/DLC/Ethiopia/Ethiopia_Districts_Text.xml</File>
+		<File>Text/DLC/Ethiopia/Ethiopia_InGameText_MODE.xml</File>
+		<File>Text/DLC/Ethiopia/Ethiopia_NamedPlaces_Text.xml</File>
+		<File>Text/DLC/Ethiopia/Ethiopia_SecretSocieties_Text_MODE.xml</File>
+		<File>Text/DLC/Ethiopia/Ethiopia_PackageText.xml</File>
+		<!-- New Frontier Pack 3 -->
+		<!-- New Frontier Pack 4 -->
+		<!-- New Frontier Pack 5 -->
+		<!-- New Frontier Pack 6 -->
+		<!-- Bonus -->
+		<!-- Catherine De Medici DLC -->
+		<File>Text/DLC/CatherineDeMedici/CatherineDeMedici_CivilopediaText.xml</File>
+		<File>Text/DLC/CatherineDeMedici/CatherineDeMedici_ConfigText.xml</File>
+		<File>Text/DLC/CatherineDeMedici/CatherineDeMedici_Text.xml</File>
+		<File>Text/DLC/CatherineDeMedici/CatherineDeMedici_PackageText.xml</File>
+		<!-- Teddy Roosevelt DLC -->
+		<File>Text/DLC/TeddyRoosevelt/TeddyRoosevelt_CivilopediaText.xml</File>
+		<File>Text/DLC/TeddyRoosevelt/TeddyRoosevelt_ConfigText.xml</File>
+		<File>Text/DLC/TeddyRoosevelt/TeddyRoosevelt_Text.xml</File>
+		<File>Text/DLC/TeddyRoosevelt/TeddyRoosevelt_PackageText.xml</File>
+		<!-- Tree Randomizer Mode DLC -->
+		<File>Text/DLC/TreeRandomizer/TreeRandomizer_ConfigText.xml</File>
+		<File>Text/DLC/TreeRandomizer/TreeRandomizer_InGameText_MODE.xml</File>
+		<File>Text/DLC/TreeRandomizer/TreeRandomizer_PackageText.xml</File>
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
+	</Files>
+</Mod>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_DELEGATIONS">
+			<Text>{Value : number +#.#;-#.#} từ Phái đoàn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_EMBASSIES">
+			<Text>{Value : number +#.#;-#.#} từ các Đại sứ quán</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_LEY_LINE_RESOURCE">
+			<Text>Tài nguyên dòng Ley</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

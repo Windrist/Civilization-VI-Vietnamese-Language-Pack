@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Agenda Names-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_BILLIONAIRE_NAME">
+			<Text>Billionaire</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CHEOMSEONGDAE_NAME">
+			<Text>Cheomseongdae</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_NAME">
+			<Text>Flower of Scotland</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_HORSE_LORD_NAME">
+			<Text>Horse Lord</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_HORN_CHEST_LOINS_NAME">
+			<Text>Horn, Chest, Loins</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IRON_CONFEDERACY_NAME">
+			<Text>Iron Confederacy</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_MAURYA_EMPIRE_NAME">
+			<Text>Maurya Empire</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NARIKALA_FORTRESS_NAME">
+			<Text>Narikala Fortress</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_NAME">
+			<Text>Spirit of Tucapel</Text>
+		</Replace>
+		<!--Agenda Description-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_BILLIONAIRE_DESCRIPTION">
+			<Text>Cố gắng tối đa hóa [ICON_TradeRoute] Các tuyến giao dịch. Thích những nền văn minh buôn bán với cô ấy, không thích những người không thích.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CHEOMSEONGDAE_DESCRIPTION">
+			<Text>Cố gắng xây dựng Khoa học [ICON_Science] và thích các nền văn minh cũng tập trung vào Khoa học [ICON_Science]. Không thích những người có Khoa học [ICON_SCIENCE] thấp.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_DESCRIPTION">
+			<Text>Sẽ không tấn công hàng xóm trừ khi họ thất hứa với anh ta. Thích những người không gây chiến với hàng xóm, không thích những người làm.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_HORSE_LORD_DESCRIPTION">
+			<Text>Muốn xây dựng lực lượng kỵ binh thống trị nhất thế giới. Thích những người không cạnh tranh trong kỵ binh. Không thích những người cạnh tranh với anh ta trong sức mạnh của kỵ binh.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_HORN_CHEST_LOINS_DESCRIPTION">
+			<Text>Cố gắng sử dụng càng nhiều quân đoàn và quân đội càng tốt và tôn trọng các nền văn minh đi theo sự lãnh đạo của ông. Không thích những nền văn minh không thể tạo ra quân đoàn hoặc không sử dụng chúng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IRON_CONFEDERACY_DESCRIPTION">
+			<Text>Cố gắng hình thành nhiều liên minh và tôn trọng những người làm tương tự. Không thích những người có ít liên minh.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_MAURYA_EMPIRE_DESCRIPTION">
+			<Text>Cố gắng chinh phục các nền văn minh lân cận, và thích các nền văn minh không phải là hàng xóm của mình (chưa). Không thích hàng xóm của mình.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NARIKALA_FORTRESS_DESCRIPTION">
+			<Text>Cố gắng đặt những bức tường cao cấp xung quanh các thành phố của cô và tôn trọng các nền văn minh đi theo cô. Không thích các nền văn minh không củng cố thành phố của họ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_DESCRIPTION">
+			<Text>Cố gắng để tạo và duy trì một mức độ trung thành văn hóa cao. Không thích các nền văn minh mất thành phố bằng cách không duy trì lòng trung thành của người dân, thích những người có được thành phố thông qua lòng trung thành.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

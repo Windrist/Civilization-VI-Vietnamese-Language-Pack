@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GOSSIP_POSITIVE">
+			<Text>Họ rất thích cách bạn chia sẻ thông tin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GOSSIP_NEGATIVE">
+			<Text>Họ không vui khi phải nghe những lời đàm tiếu từ bạn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYCOPHANT_GOLDEN_AGE">
+			<Text>Họ không vui khi phải nghe những lời đàm tiếu từ bạn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYCOPHANT_DARK_AGE">
+			<Text>Họ thất vọng vì bạn đang phải trải qua thời kỳ Đen tối</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYMPATHIZER_DARK_AGE">
+			<Text>Họ chúc phúc khi bạn vượt qua được thời kỳ Đen tối</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYMPATHIZER_GOLDEN_AGE">
+			<Text>Họ ghen tị nền văn minh đang trải qua thời Hoàng kim của bạn</Text>
+		</Replace>
+		<!-- Troops on border pledge modifiers -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_BROKEN_PLEDGE">
+			<Text>Chúng tôi quyết định phá vỡ thỏa thuận mở Biên giới</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_KEPT_PLEDGE">
+			<Text>Chúng tôi vẫn giữ thỏa thuận mở cửa Biên giới</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_NO_PLEDGE">
+			<Text>Chúng tôi không muốn mở cửa Biên giới</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_SHARED_EMERGENCY">
+			<Text>Chúng tôi quyết định tham chiến theo lời kêu gọi khẩn cấp</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

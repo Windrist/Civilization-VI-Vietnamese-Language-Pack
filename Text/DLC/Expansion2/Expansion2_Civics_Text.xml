@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Civics-->
+		<Replace Language="en_US" Tag="LOC_CIVIC_ENVIRONMENTALISM_NAME">
+		    <Text>Chủ nghĩa môi trường</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_ENVIRONMENTALISM_DESCRIPTION">
+		    <Text>+25% [ICON_Tourism] Du lịch khắp đế chế của bạn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_CORPORATE_LIBERTARIANISM_NAME">
+		    <Text>Chính trị mạo hiểm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_DIGITAL_DEMOCRACY_NAME">
+		    <Text>Chủ quyền phân tán</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_SYNTHETIC_TECHNOCRACY_NAME">
+		    <Text>Bắt buộc tối ưu hóa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_NEAR_FUTURE_GOVERNANCE_NAME">
+		    <Text>Quản trị trong tương lai gần</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_GLOBAL_WARMING_MITIGATION_NAME">
+		    <Text>Giảm thiểu sự nóng lên toàn cầu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_SMART_POWER_DOCTRINE_NAME">
+		    <Text>Học thuyết điện thông minh</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_INFORMATION_WARFARE_NAME">
+		    <Text>Chiến tranh thông tin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_EXODUS_IMPERATIVE_NAME">
+		    <Text>Mệnh lệnh Exodus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_CULTURAL_HEGEMONY_NAME">
+		    <Text>Bá chủ văn hóa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_GLOBAL_WARMING_MITIGATION_DESCRIPTION">
+		    <Text>Giải thưởng 1 điểm Chiến thắng Ngoại giao.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_FUTURE_CIVIC_XP2_DESCRIPTION">
+		    <Text>Có thể được hoàn thành nhiều lần, tăng điểm của bạn đối với Điểm Chiến thắng. Đồng thời trao 1 danh hiệu Thống đốc [ICON_Governor] và 50 [ICON_Favor] Ưu đãi ngoại giao mỗi khi hoàn thành.</Text>
+		</Replace>
+		<!--Civic Boosts-->
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ENVIRONMENTALISM">
+		    <Text>Xây dựng 2 trang trại năng lượng mặt trời.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENVIRONMENTALISM">
+		    <Text>Người của bạn chứng minh rằng năng lượng mặt trời không chỉ là một ý tưởng — nó có khả năng là tương lai của sản xuất điện.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CORPORATE_LIBERTARIANISM">
+		    <Text>Xây dựng mỏ Uranium.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CORPORATE_LIBERTARIANISM">
+		    <Text>Việc phát triển một nguồn lực quốc phòng quan trọng dẫn đến mối quan hệ mới giữa doanh nghiệp và chính phủ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_DIGITAL_DEMOCRACY">
+		    <Text>Sở hữu một ban nhạc Rock.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIGITAL_DEMOCRACY">
+		    <Text>Bạn hoàn thành việc ký hợp đồng với ban nhạc rock. “Sao cũng được,” họ nói, nhưng bạn sẽ thấy họ hào hứng như thế nào khi bắt đầu chuyến tham quan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SYNTHETIC_TECHNOCRACY">
+		    <Text>Nghiên cứu công nghệ người máy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_TECHNOCRACY">
+		    <Text>Điệu nhảy uyển chuyển của các tay chân robot dưới sự điều khiển của máy tính truyền cảm hứng cho các kỹ sư và nhà khoa học của bạn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NEAR_FUTURE_GOVERNANCE">
+		    <Text>Thông qua chính phủ với 10 vùng chính sách vốn có.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NEAR_FUTURE_GOVERNANCE">
+		    <Text>Sau khi áp dụng một hình thức chính phủ tiên tiến, người dân của bạn nghĩ đến những tiến bộ hơn nữa đối với đời sống công dân.</Text>
+		</Replace>
+		<!--Governments-->
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP2">
+		    <Text>Lộ trình giao dịch [ICON_TradeRoute] của bạn đến thành phố của Đồng minh cung cấp +4 [ICON_Food] Thực phẩm và +4 [ICON_Production] Sản xuất cho cả hai thành phố. Điểm Liên minh với tất cả các đồng minh tăng thêm 0,25 mỗi lượt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM_XP2">
+		    <Text>+10% [ICON_Science] Khoa học.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNMENT_CORPORATE_LIBERTARIANISM_NAME">
+		    <Text>Chủ nghĩa tự do doanh nghiệp</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_CORPORATE_LIBERTARIANISM">
+		    <Text>Các trung tâm thương mại và khu thực nghiệm cung cấp cho các thành phố sản lượng [ICON_Production] +10% và tích lũy tài nguyên với các cải tiến sẽ cung cấp +1 mỗi lượt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CORPORATE_LIBERTARIANISM">
+		    <Text>-10% [ICON_Science] Khoa học.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNMENT_DIGITAL_DEMOCRACY_NAME">
+		    <Text>Dân chủ Kỹ thuật số</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_DIGITAL_DEMOCRACY">
+		    <Text>+2 [ICON_Amenities] Tiện ích ở tất cả các thành phố và +2 [ICON_Culture] Văn hóa cho mỗi quận chuyên môn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DIGITAL_DEMOCRACY">
+		    <Text>-3 [ICON_Strength] Sức mạnh chiến đấu cho tất cả các đơn vị.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNMENT_SYNTHETIC_TECHNOCRACY_NAME">
+		    <Text>Công nghệ tổng hợp</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_SYNTHETIC_TECHNOCRACY">
+		    <Text>+3 [ICON_Power] Năng lượng ở tất cả các thành phố và +30% [ICON_Production] Sản xuất cho tất cả các dự án thành phố.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_SYNTHETIC_TECHNOCRACY">
+		    <Text>Du lịch -10% [ICON_Tourism].</Text>
+		</Replace>
+		<!--Policies-->
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_VICTORY_SCIENCE_NAME">
+		    <Text>Nhà thầu hàng không vũ trụ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_VICTORY_SCIENCE_DESCRIPTION">
+		    <Text>Các thành phố có mức tăng của Spaceport +3 [ICON_RESOURCE_ALUMINUM] Nhôm mỗi lượt và +3 [ICON_Power] Power.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_COUNTER_CULTURE_NAME">
+		    <Text>Du lịch không gian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_COUNTER_CULTURE_DESCRIPTION">
+		    <Text>[ICON_Tourism] Du lịch từ những người chơi khác giảm 20% so với nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_VICTORY_CULTURE_NAME">
+		    <Text>Hallyu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_VICTORY_CULTURE_DESCRIPTION">
+		    <Text>Đơn vị ban nhạc Rock của bạn có thể chọn từ bất kỳ chương trình khuyến mại nào có thể có.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_COUNTER_SCIENCE_NAME">
+		    <Text>Tác nhân không phải trạng thái</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_COUNTER_SCIENCE_DESCRIPTION">
+		    <Text>Đơn vị gián điệp của bạn có thể chọn từ bất kỳ chương trình khuyến mãi nào có thể.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_VICTORY_DOMINATION_NAME">
+		    <Text>Hậu cần tấn công tích hợp</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_VICTORY_DOMINATION_DESCRIPTION">
+		    <Text>+1 Di chuyển nếu bắt đầu lượt trong lãnh thổ của đối phương. +50% [ICON_Production] Sản xuất Robot Tử thần khổng lồ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_COUNTER_DIPLOMATIC_NAME">
+		    <Text>Rắc rối</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_COUNTER_DIPLOMATIC_DESCRIPTION">
+		    <Text>Khi bạn giảm điểm Chiến thắng Ngoại giao của một người chơi trong Đại hội Thế giới, nhận lại 50% số tiền ủng hộ Ngoại giao [ICON_Favor] của bạn. +1 [ICON_Favor] Ưu đãi ngoại giao mỗi lượt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_VICTORY_DIPLOMATIC_NAME">
+		    <Text>Thủ đô ngoại giao</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_VICTORY_DIPLOMATIC_DESCRIPTION">
+		    <Text>+4 [ICON_Favor] Ưu đãi ngoại giao mỗi lượt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_COUNTER_DOMINATION_NAME">
+		    <Text>Liên minh toàn cầu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FUTURE_COUNTER_DOMINATION_DESCRIPTION">
+		    <Text>+7 [ICON_Strength] Sức mạnh Chiến đấu cho các đơn vị trong lãnh thổ thân thiện.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_EQUESTRIAN_ORDERS_NAME">
+		    <Text>Lệnh cưỡi ngựa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_EQUESTRIAN_ORDERS_DESCRIPTION">
+		    <Text>Tất cả [ICON_RESOURCE_HORSES] Ngựa được cải tiến và [ICON_RESOURCE_IRON] Tài nguyên sắt mang lại thêm 1 tài nguyên mỗi lượt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DRILL_MANUALS_NAME">
+		    <Text>Hướng dẫn khoan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DRILL_MANUALS_DESCRIPTION">
+		    <Text>Tất cả [ICON_RESOURCE_NITER] Niter và [ICON_RESOURCE_COAL] Tài nguyên than được cải thiện mang lại thêm 1 tài nguyên mỗi lượt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RETINUES_NAME">
+		    <Text>Bản tin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RETINUES_DESCRIPTION">
+		    <Text>Giảm giá tài nguyên 50% cho tất cả các lần nâng cấp đơn vị.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FORCE_MODERNIZATION_NAME">
+		    <Text>Buộc hiện đại hóa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FORCE_MODERNIZATION_DESCRIPTION">
+		    <Text>Giảm giá 50% [ICON_Gold] Vàng và tài nguyên khi nâng cấp đơn vị.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MUSIC_CENSORSHIP_NAME">
+		    <Text>Kiểm duyệt âm nhạc</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MUSIC_CENSORSHIP_DESCRIPTION">
+		    <Text>Ban nhạc Rock từ những người chơi khác không được vào lãnh thổ của bạn. -1 [ICON_Amenities] Tiện ích ở tất cả các thành phố của bạn với 10 [ICON_Citizen] Dân số trở lên.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FLOWER_POWER_NAME">
+		    <Text>Điện hoa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FLOWER_POWER_DESCRIPTION">
+		    <Text>Tất cả các nền văn minh hiện không có chiến tranh đều nhận được +100% [ICON_TOURISM] Du lịch từ Buổi hòa nhạc của bạn.[NEWLINE]NHƯNG: Chi phí sản xuất giảm 100% và mua +100% đối với các đơn vị không phải là Ban nhạc Rock. .</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CYBER_WARFARE_NAME">
+		    <Text>Chiến tranh mạng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CYBER_WARFARE_DESCRIPTION">
+		    <Text>+10 [ICON_Strength] Sức mạnh chiến đấu chống lại các đơn vị từ Thông tin và Kỷ nguyên trong tương lai.[NEWLINE]NHƯNG: [ICON_STAT_GRIEVANCE] Những lời than phiền đối với bạn không có ý nghĩa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_AUTOMATED_WORKFORCE_NAME">
+		    <Text>Lực lượng lao động tự động</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_AUTOMATED_WORKFORCE_DESCRIPTION">
+		    <Text>Các thành phố của bạn nhận được +20% [ICON_Production] Sản xuất cho các dự án thành phố.[NEWLINE]NHƯNG: -1 [ICON_Amenities] Tiện ích và -5 Mức độ trung thành mỗi lượt ở các thành phố của bạn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DISINFORMATION_CAMPAIGN_NAME">
+		    <Text>Chiến dịch thông tin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DISINFORMATION_CAMPAIGN_DESCRIPTION">
+		    <Text>+3 [ICON_Favor] Ưu đãi ngoại giao mỗi lượt cho mỗi Trung tâm phát sóng.[NEWLINE]NHƯNG: -10% [ICON_SCIENCE] Khoa học và [ICON_Culture] Văn hóa ở tất cả các thành phố.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SCIENCE_FOUNDATIONS_NAME">
+		    <Text>Cơ sở Khoa học</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION_XP2">
+		    <Text>Giảm giá 50% [ICON_Gold] Vàng cho tất cả các lần nâng cấp đơn vị.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION_XP2">
+		    <Text>Tất cả các tài nguyên [ICON_RESOURCE_ALUMINUM] Nhôm và [ICON_RESOURCE_OIL] được cải tiến mang lại thêm 1 tài nguyên mỗi lượt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION_XP2">
+		    <Text>Tất cả các đơn vị +5 [ICON_Strength] Sức mạnh Chiến đấu khi chiến đấu trong hoặc tiếp giáp với lãnh thổ nhà của họ.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION_XP2">
+		    <Text>+4 [ICON_Housing] Nhà ở và +2 [ICON_Amenities] Tiện nghi ở tất cả các thành phố có ít nhất 3 quận đặc biệt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION_XP2">
+		    <Text>+2 [ICON_Culture] Văn hóa và +4 [ICON_Gold] Vàng từ mỗi Phòng thí nghiệm Nghiên cứu, Học viện Quân sự, Nhà máy Điện than, Nhà máy Điện Dầu và Nhà máy Điện hạt nhân.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION_XP2">
+		    <Text>Tích lũy chiến tranh ít hơn 25% so với bình thường. Các thành phố có đơn vị đồn trú nhận được +4 Mức độ trung thành mỗi lượt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION_XP2">
+		    <Text>+2 [ICON_Production] Sản xuất và +4 [ICON_Food] Thực phẩm từ các tuyến thương mại [ICON_TradeRoute] nội địa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION_XP2">
+		    <Text>Không có chiến tranh mệt mỏi khi chiến đấu trong lãnh thổ của bạn. +100% [ICON_Production] Sản xuất cho các đơn vị hỗ trợ Thời đại Thông tin, Nguyên tử và Hiện đại.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
+		    <Text>Cải tiến trại nhận được +1 [ICON_Production] Sản xuất và +1 [ICON_Food] Thực phẩm. Lumber Mills có thể được xây dựng trên Rừng nhiệt đới.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
+		    <Text>Cải tiến trang trại hiện nhận được +1 [ICON_Food] Thức ăn từ mỗi 2 lần cải tiến trang trại liền kề. Cải tạo đồn điền nhận được +1 [ICON_Food] Thức ăn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
+		    <Text>Cải tiến Thuyền đánh cá nhận được +1 [ICON_Production] Sản xuất.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_VETERANCY_DESCRIPTION_XP2">
+		    <Text>+30% [ICON_Production] Sản xuất đối với các quận Encampment, Harbour District và các tòa nhà cho các quận này.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Shared Districts-->
+        <Replace Language="en_US" Tag="LOC_DISTRICT_AQUEDUCT_DESCRIPTION">
+            <Text>Một quận cung cấp cho thành phố này nguồn nước ngọt từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước ngọt hiện có nhận được tối đa 6 [ICON_Housing] Nhà ở. Thay vào đó, các thành phố đã có sẵn nước ngọt sẽ nhận được +2 [ICON_Housing] Nhà ở. Nếu được xây dựng liền kề với Khe nứt địa nhiệt thì +1 [ICON_Amenities] Tiện ích. Ngăn chặn [ICON_Food] Thực phẩm bị thất thoát khi Hạn hán. Phải được xây dựng liền kề với Trung tâm Thành phố.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_AQUEDUCT_ALT_DESCRIPTION">
+            <Text>Một quận cung cấp cho thành phố này nguồn nước ngọt từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước ngọt hiện có nhận được tối đa 6 [ICON_Housing] Nhà ở. Thay vào đó, các thành phố đã có sẵn nước ngọt sẽ nhận được +2 [ICON_Housing] Nhà ở. Nếu được xây dựng liền kề với Khe nứt địa nhiệt thì +1 [ICON_Amenities] Tiện ích. Ngăn chặn [ICON_Food] Thực phẩm bị thất thoát khi Hạn hán. Phải xây dựng liền kề với Trung tâm Thành phố. Các kỹ sư quân sự có thể bỏ ra một khoản phí để hoàn thành 20% sản lượng của Aqueduct.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_CANAL_NAME">
+            <Text>Kênh</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_CANAL_DESCRIPTION">
+            <Text>Một quận được xây dựng trên khu đất bằng phẳng để nối hai vùng nước hoặc một vùng nước với Trung tâm Thành phố. [ICON_TradeRoute] Các tuyến đường thương mại di chuyển qua đó có thể nhân lên [ICON_Gold] Vàng mà họ nhận được từ các quận tại điểm đến. Các kênh đào có thể đi thẳng qua hình lục giác hoặc uốn cong 60 độ. Tuy nhiên, không được phép sử dụng các đường đâm xuyên qua Kênh ba chiều và Kênh phải có toàn bộ ô đất ở mỗi bên của đường dẫn nước mà chúng tạo ra. Các kỹ sư quân sự có thể tốn một khoản phí để hoàn thành 20% sản lượng của Kênh.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_DAM_NAME">
+            <Text>Đập</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_DAM_DESCRIPTION">
+            <Text>Một quận được xây dựng trên ô Floodplains để cải thiện cuộc sống thoải mái dọc theo con sông này. Ngăn chặn thiệt hại do lũ lụt của con sông này (mặc dù sản lượng từ lũ lụt giảm 50%). Ngăn chặn [ICON_Food] Thực phẩm bị thất thoát khi Hạn hán. Chỉ được xây một cái dọc theo từng bãi ngập của sông (tùy người chơi nào hoàn thành trước) và sông phải đi qua ít nhất hai mặt của Đầm. Các kỹ sư quân sự có thể chi một khoản phí để hoàn thành 20% sản lượng của đập.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_SPACEPORT_DESCRIPTION_XP2">
+            <Text>Một quận được yêu cầu để xây dựng các dự án Science Victory. Điều này bao gồm {LOC_PROJECT_LAUNCH_EARTH_SATELLITE_NAME}, {LOC_PROJECT_LAUNCH_MOON_LANDING_NAME}, {LOC_PROJECT_LAUNCH_MARS_BASE_NAME} và {LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_NAME}. Không thể xây dựng trên Hills.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_DESERT_HILLS_FAITH">
+            <Text>+{1_num} [ICON_Faith] Niềm tin từ Đồi sa mạc liền kề {1_Num: plural 1?tile; other?tiles;}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_DESERT_FOOD">
+            <Text>+{1_num} [ICON_FOOD] Thức ăn từ Sa mạc liền kề {1_Num: plural 1?tile; other?tiles;}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_DESERT_HILLS_FOOD">
+            <Text>+{1_num} [ICON_FOOD] Thức ăn từ Đồi sa mạc liền kề {1_Num: plural 1?tile; other?tiles;}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_BUILDING_MACHU_PICCHU_GOLD">
+            <Text>+{1_num} [ICON_GOLD] Vàng từ Núi liền kề {1_Num: plural 1?tile; other?tiles;}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_BUILDING_MACHU_PICCHU_PRODUCTION">
+            <Text>+{1_num} [ICON_PRODUCTION] Sản xuất từ ​​Núi liền kề {1_Num: plural 1?tile; other?tiles;}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_BUILDING_MACHU_PICCHU_CULTURE">
+            <Text>+{1_num} [ICON_CULTURE] Văn hóa từ Núi liền kề {1_Num: plural 1?tile; other?tiles;}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_GEOTHERMAL_SCIENCE">
+            <Text>+{1_num} [ICON_SCIENCE] Khoa học từ từng Khe địa nhiệt lân cận.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_REEF_SCIENCE">
+            <Text>+{1_num} [ICON_SCIENCE] Khoa học từ mỗi Rạn san hô liền kề.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_COTHON_GOLD">
+            <Text>+{1_num} [ICON_Gold] Vàng từ quận Cothon liền kề.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_COTHON_DESCRIPTION_ADJACENCY">
+            <Text>Gần kề: Phần thưởng vàng [ICON_Gold] Chính cho mỗi Trung tâm Thành phố liền kề. Thưởng [ICON_Gold] Vàng tiêu chuẩn cho mỗi tài nguyên ven biển liền kề. Phần thưởng nhỏ [ICON_Gold] Vàng cho các ô khu vực lân cận.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_HOLY_SITE_GOLD">
+            <Text>+{1_num} [ICON_Gold] Vàng từ khu Thánh địa lân cận.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_LAVRA_GOLD">
+            <Text>+{1_num} [ICON_Gold] Vàng từ quận Lavra liền kề.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_SUGUBA_DESCRIPTION_ADJACENCY">
+            <Text>Gần kề: Tiền thưởng vàng [ICON_Gold] Chính cho mỗi Thánh địa liền kề. Phần thưởng chính [ICON_Gold] Vàng từ một ô chứa Cạnh sông. Phần thưởng nhỏ [ICON_Gold] Vàng cho các ô khu vực lân cận.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_MINES_HALF_PRODUCTION">
+            <Text>+{1_num} [ICON_Production] Sản xuất từ ​​các Mỏ lân cận.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_LUMBER_MILL_PRODUCTION">
+            <Text>+{1_num} [ICON_Production] Sản xuất từ ​​các Nhà máy gỗ lân cận.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_AQUEDUCT_PRODUCTION">
+            <Text>+{1_num} [ICON_PRODUCTION] Sản xuất từ ​​Aqueduct liền kề {1_Num: plural 2?district; other?districts;}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_BATH_PRODUCTION">
+            <Text>+{1_num} [ICON_PRODUCTION] Sản xuất từ ​​Bath liền kề {1_Num: plural 2?district; other?districts;}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_CANAL_PRODUCTION">
+            <Text>+{1_num} [ICON_PRODUCTION] Sản xuất từ ​​Kênh liền kề {1_Num: plural 2?district; other?districts;}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_DAM_PRODUCTION">
+            <Text>+{1_num} [ICON_PRODUCTION] Sản xuất từ ​​đập liền kề {1_Num: plural 2?district; other?districts;}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_STRATEGIC_PRODUCTION">
+            <Text>+{1_num} [ICON_PRODUCTION] Sản xuất từ ​​tài nguyên Chiến lược {1_Num: plural 1?resource; other?resources;}.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY">
+            <Text>Gần kề: Phần thưởng sản xuất [ICON_Production] Chính nếu tiếp giáp với các quận Thương mại, Cầu cạn, Canal và Dam. Tiêu chuẩn [ICON_Production] Phần thưởng sản xuất cho mỗi tài nguyên liền kề. Phần thưởng nhỏ [ICON_Production] Sản lượng cho các ô của quận liền kề.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_COTHON_CAPITAL_MOVE_NAME">
+            <Text>Di chuyển vốn</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_COTHON_CAPITAL_MOVE_SHORT_NAME">
+            <Text>Di chuyển vốn</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_COTHON_CAPITAL_MOVE_DESCRIPTION">
+            <Text>Dự án độc đáo của Phoenician có sẵn cho bất kỳ thành phố nào có Cothon. Khi hoàn tất, Thủ đô [ICON_Capital] của Phoenicia sẽ chuyển đến thành phố này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CARBON_RECAPTURE_NAME">
+            <Text>Thu hồi carbon</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CARBON_RECAPTURE_SHORT_NAME">
+            <Text>Thu hồi carbon</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CARBON_RECAPTURE_DESCRIPTION">
+            <Text>Có thể chạy ở bất kỳ thành phố nào có Khu công nghiệp. Khi hoàn thành, lượng khí thải carbon trong suốt thời gian tồn tại của nền văn minh này giảm đi 50 và nhận được 30 [ICON_FAVOR] Ưu đãi Ngoại giao. Dự án này thậm chí có thể giảm nợ các-bon của bạn xuống 0 và cho phép bạn tích lũy mức giảm so với lượng khí thải CO2 toàn cầu.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CONVERT_REACTOR_TO_COAL">
+            <Text>Chuyển đổi sang điện than</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CONVERT_REACTOR_TO_COAL_SHORT_NAME">
+            <Text>Chuyển đổi sang điện than</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CONVERT_REACTOR_TO_COAL_DESCRIPTION">
+            <Text>Khai thác Nhà máy điện hiện tại ở thành phố này và thay thế nó bằng {LOC_BUILDING_COAL_POWER_PLANT_NAME}.[NEWLINE][NEWLINE]{LOC_BUILDING_COAL_POWER_PLANT_NAME}:[NEWLINE]{LOC_BUILDING_COAL_POWER_PLANT_DESCRIPTION}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CONVERT_REACTOR_TO_OIL">
+            <Text>Chuyển đổi sang năng lượng dầu</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CONVERT_REACTOR_TO_OIL_SHORT_NAME">
+            <Text>Chuyển đổi sang năng lượng dầu</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CONVERT_REACTOR_TO_OIL_DESCRIPTION">
+            <Text>Khai thác nhà máy điện hiện tại ở thành phố này và thay thế nó bằng {LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_NAME}.[NEWLINE][NEWLINE]{LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_NAME}:[NEWLINE]{LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_DESCRIPTION}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CONVERT_REACTOR_TO_URANIUM">
+            <Text>Chuyển đổi sang năng lượng hạt nhân</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CONVERT_REACTOR_TO_URANIUM_SHORT_NAME">
+            <Text>Chuyển đổi sang năng lượng hạt nhân</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_CONVERT_REACTOR_TO_URANIUM_DESCRIPTION">
+            <Text>Khai tử Nhà máy điện hiện tại ở thành phố này và thay thế nó bằng {LOC_BUILDING_POWER_PLANT_EXPANSION2_NAME}.[NEWLINE][NEWLINE]{LOC_BUILDING_POWER_PLANT_EXPANSION2_NAME}:[NEWLINE]{LOC_BUILDING_POWER_PLANT_EXPANSION2_DESCRIPTION}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_BASE_NAME">
+            <Text>Khởi chạy Thuộc địa Sao Hỏa</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_BASE_SHORT_NAME">
+            <Text>Khởi chạy Thuộc địa Sao Hỏa</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_BASE_DESCRIPTION">
+            <Text>Dự án Cuộc đua Không gian thiết lập một căn cứ nhỏ của con người trên bề mặt sao Hỏa. Đánh dấu bước thứ ba hướng tới Chiến thắng Khoa học.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_BASE_POPUP">
+            <Text>Bạn thiết lập thành công một thuộc địa trên sao Hỏa! Đánh dấu bước thứ ba hướng tới Chiến thắng Khoa học.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_NAME">
+            <Text>Khởi chạy Thám hiểm Ngoại hành tinh</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_SHORT_NAME">
+            <Text>Thám hiểm ngoại hành tinh</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_DESCRIPTION">
+            <Text>Dự án Cuộc đua Không gian du hành xuyên không gian sâu với tốc độ 1 Năm Ánh sáng mỗi lượt để truyền bá loài người sang một hệ sao khác. Giành Chiến thắng Khoa học khi nó đến. Có thể được tăng tốc bởi các dự án khác.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_POPUP">
+            <Text>Con tàu hạt giống của bạn đang trên đường đến một hệ sao khác! Giành Chiến thắng Khoa học khi nó đến. Đi 1 năm nhẹ mỗi lượt và có thể được đẩy nhanh bằng các dự án khác.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_ORBITAL_LASER_NAME">
+            <Text>Khởi động Trạm Laser Lagrange</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_ORBITAL_LASER_SHORT_NAME">
+            <Text>Trạm Laser Lagrange</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_ORBITAL_LASER_DESCRIPTION">
+            <Text>Cần 30 [ICON_RESOURCE_ALUMINUM] nhôm để bắt đầu xây dựng. Dự án Cuộc đua Không gian giúp tăng tốc Chuyến thám hiểm Ngoại hành tinh của bạn lên +1 Năm ánh sáng mỗi lượt, đẩy nhanh tiến độ của bạn để đạt được Chiến thắng Khoa học.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_ORBITAL_LASER_POPUP">
+            <Text>Bạn thiết lập Trạm Laser Lagrange trên quỹ đạo, tăng tốc tàu Thám hiểm Ngoại hành tinh của bạn lên 1 Năm ánh sáng mỗi lượt và đưa bạn đến gần Chiến thắng Khoa học hơn!</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TERRESTRIAL_LASER_NAME">
+            <Text>Xây dựng trạm laser trên mặt đất</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TERRESTRIAL_LASER_SHORT_NAME">
+            <Text>Trạm laser trên mặt đất</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TERRESTRIAL_LASER_DESCRIPTION">
+            <Text>Sau khi hoàn thành, yêu cầu về nguồn điện [ICON_Power] của thành phố này tăng thêm 5. Dự án Cuộc đua Không gian giúp tăng tốc Chuyến thám hiểm Ngoại hành tinh của bạn lên +1 Năm ánh sáng mỗi lượt miễn là thành phố được cung cấp năng lượng [ICON_Power], đẩy nhanh tiến độ của bạn đối với Khoa học Chiến thắng.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TERRESTRIAL_LASER_POPUP">
+            <Text>Bạn thiết lập một Trạm Laser trên Mặt đất trong Cảng vũ trụ, tăng tốc tàu Thám hiểm Ngoại hành tinh của bạn lên 1 Năm ánh sáng mỗi lượt và đưa bạn đến gần Chiến thắng Khoa học hơn!</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_SEND_AID_NAME">
+            <Text>Gửi viện trợ</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_SEND_AID_SHORT_NAME">
+            <Text>Gửi viện trợ</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_SEND_AID_DESCRIPTION">
+            <Text>Dự án để kiếm điểm cho các cuộc thi Yêu cầu viện trợ của bạn.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_SEND_AID_POPUP">
+            <Text>Gói viện trợ của bạn đã được chuyển đến, làm tăng điểm của bạn trong cuộc thi Yêu cầu viện trợ.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TRAIN_ATHLETES_NAME">
+            <Text>Huấn luyện vận động viên</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TRAIN_ATHLETES_SHORT_NAME">
+            <Text>Huấn luyện vận động viên</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TRAIN_ATHLETES_DESCRIPTION">
+            <Text>Dự án giành điểm cho cuộc thi Thế vận hội.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TRAIN_ATHLETES_POPUP">
+            <Text>Các vận động viên của bạn hiện đã sẵn sàng cho các trò chơi, giúp bạn tăng điểm trong cuộc thi Trò chơi Thế giới.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_NAME">
+            <Text>Huấn luyện phi hành gia</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_SHORT_NAME">
+            <Text>Huấn luyện phi hành gia</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_DESCRIPTION">
+            <Text>Dự án giành điểm cho cuộc thi Trạm vũ trụ quốc tế.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_POPUP">
+            <Text>Các phi hành gia của bạn đã sẵn sàng làm việc trong Trạm vũ trụ quốc tế, nâng cao điểm số của bạn trong cuộc thi Trạm vũ trụ quốc tế.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_EXPANSION2_DESCRIPTION">
+            <Text>Dự án dựa trên quận cung cấp [ICON_Faith] Niềm tin và +100% Áp lực tôn giáo mỗi lượt. Phần thưởng [ICON_GreatProphet] Điểm nhà tiên tri vĩ đại sau khi hoàn thành.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_EXPANSION2_DESCRIPTION">
+            <Text>Dự án dựa trên quận cung cấp cho thành phố này nguồn [ICON_Power] đầy đủ khi đang hoạt động. Nó cũng cung cấp [ICON_GreatEngineer] điểm Kỹ sư vĩ đại sau khi hoàn thành.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_RECOMMISSION_REACTOR_NAME">
+            <Text>Lò phản ứng hạt nhân Recommission</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_RECOMMISSION_REACTOR_SHORT_NAME">
+            <Text>Lò phản ứng hạt nhân Recommission</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_RECOMMISSION_REACTOR_DESCRIPTION">
+            <Text>Cho phép vận hành lại lò phản ứng hạt nhân để tăng cường các biện pháp an toàn và giảm nguy cơ xảy ra tai nạn hạt nhân.[NEWLINE][NEWLINE]Việc vận hành lại sẽ đặt lại tuổi của lò phản ứng thành 0. Lò phản ứng càng cũ, cơ hội Tai nạn hạt nhân có thể xảy ra.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_DECOMMISSION_COAL_POWER_PLANT_NAME">
+            <Text>Nhà máy điện than giảm tốc</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_DECOMMISSION_COAL_POWER_PLANT_SHORT_NAME">
+            <Text>Nhà máy điện than giảm tốc</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_DECOMMISSION_COAL_POWER_PLANT_DESCRIPTION">
+            <Text>Dự án để giành điểm cho cuộc thi Hiệp định Khí hậu. Loại bỏ Nhà máy Điện than và tất cả các ảnh hưởng của nó khỏi thành phố này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_DECOMMISSION_OIL_POWER_PLANT_NAME">
+            <Text>Nhà máy điện dầu phân hủy</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_DECOMMISSION_OIL_POWER_PLANT_SHORT_NAME">
+            <Text>Nhà máy điện dầu phân hủy</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_DECOMMISSION_OIL_POWER_PLANT_DESCRIPTION">
+            <Text>Dự án để giành điểm cho cuộc thi Hiệp định Khí hậu. Di dời Nhà máy Điện Dầu và tất cả các ảnh hưởng của nó khỏi thành phố này.</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_DECOMMISSION_NUCLEAR_POWER_PLANT_NAME">
+            <Text>Nhà máy điện hạt nhân giảm tốc</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_DECOMMISSION_NUCLEAR_POWER_PLANT_SHORT_NAME">
+            <Text>Nhà máy điện hạt nhân giảm tốc</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_PROJECT_DECOMMISSION_NUCLEAR_POWER_PLANT_DESCRIPTION">
+            <Text>Dự án để giành điểm cho cuộc thi Hiệp định Khí hậu. Di dời Nhà máy điện hạt nhân và tất cả các ảnh hưởng của nó khỏi thành phố này.</Text>
+        </Replace>
+	</LocalizedText>
+</GameData>
