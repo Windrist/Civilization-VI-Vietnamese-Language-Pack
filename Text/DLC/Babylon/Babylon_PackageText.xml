@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_TITLE">
+			<Text>Babylon Pack</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_TEASER">
+			<Text>Nền văn minh và thủ lĩnh mới - Hammurabi từ nền văn minh Babylon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_DESCRIPTION">
+			<Text>Bao gồm một nền văn minh và thủ lĩnh mới, 6 thành phố mới, 25 danh nhân mới, chế độ chơi Anh Hùng và Huyền Thoại.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

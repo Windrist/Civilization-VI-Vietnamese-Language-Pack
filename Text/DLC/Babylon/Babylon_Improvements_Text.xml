@@ -1,0 +1,17 @@
+<GameData>
+	<LocalizedText>
+		<!--Improvements-->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MAHAVIHARA_NAME">
+			<Text>Mahavihara</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MAHAVIHARA_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Mahavihara.[NEWLINE][NEWLINE]+2 [ICON_SCIENCE] Science and +1 [Icon_Housing] Housing. +1 [ICON_Faith] Faith for every adjacent Holy Site district and +1 [ICON_Science] Science for every adjacent Campus district. After researching Scientific Theory receive an additional +1 [Icon_Science] Science for every adjacent Campus. When a player constructs their first Mahavihara receive a random technology. Must be built on flat terrain not adjacent to another Mahavihara.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_TRADING_DOME_NAME">
+			<Text>Trading Dome</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_TRADING_DOME_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Trading Dome.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold. +1 [ICON_Gold] Gold for every adjacent Luxury resource. Your outgoing international [ICON_TradeRoute] Trade Routes grant +1 [ICON_GOLD] Gold per Trading Dome at the origin. Cannot be built next to another Trading Dome.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

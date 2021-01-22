@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_TITLE">
+			<Text>Babylon Pack</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_TEASER">
+			<Text>New Civilization and Leader - Hammurabi of Babylon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_DESCRIPTION">
+			<Text>Contains a new civilization and leader, 6 new city-states, 25 new great people, and the Heroes and Legends game mode.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,1061 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_ABILITY_HIMERIOS_BONUS_EXPERIENCE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_HIMERIOS_BONUS_EXPERIENCE_DESCRIPTION]+25% Earned experience from combat. (Himerios)</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WOLIN_LAND_UNITS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_WOLIN_LAND_UNITS_DESCRIPTION]Receive [ICON_GreatGeneral] Great General points when a land unit defeats a major or minor civilization's unit equal to 25% of the opposing unit's strength (Standard Speed). (Wolin City-State)</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WOLIN_LAND_UNITS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_WOLIN_LAND_UNITS_NAME]Great General Points</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WOLIN_NAVAL_UNITS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_WOLIN_NAVAL_UNITS_DESCRIPTION]Receive [ICON_GreatAdmiral] Great Admiral points when a naval unit defeats a major or minor civilization's unit equal to 25% of the opposing unit's strength (Standard Speed). (Wolin City-State)</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WOLIN_NAVAL_UNITS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_WOLIN_NAVAL_UNITS_NAME]Great Admiral Points</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_HAMMURABI_DISTRICTS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_AGENDA_HAMMURABI_DISTRICTS_DESCRIPTION]Hammurabi prefers to build each different kind of district, and likes other Civilizations who do the same. He dislikes those who focus heavily on one district type or who do not build all types available</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_HAMMURABI_DISTRICTS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_AGENDA_HAMMURABI_DISTRICTS_NAME]Cradle of Civilization</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_FEMALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_FEMALE_1]Baunu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_FEMALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_FEMALE_10]Arwia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_FEMALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_FEMALE_2]Munawwirtum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_FEMALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_FEMALE_3]Nidintu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_FEMALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_FEMALE_4]Ahati-waqrat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_FEMALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_FEMALE_5]Gemeti</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_FEMALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_FEMALE_6]Ia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_FEMALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_FEMALE_7]Iltani</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_FEMALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_FEMALE_8]Ettu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_FEMALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_FEMALE_9]Erishti-Aya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MALE_1]Dadanum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MALE_10]Zuuthusu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MALE_2]Enusat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MALE_3]Ea-nasir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MALE_4]Demeetheresu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MALE_5]Baassiia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MALE_6]Naram-Sin</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MALE_7]Sargon</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MALE_8]Rihat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MALE_9]Ubar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_FEMALE_1]Afra</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_FEMALE_10]Bushra</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_FEMALE_2]Janay</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_FEMALE_3]Jesenia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_FEMALE_4]Maysun</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_FEMALE_5]Maja</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_FEMALE_6]Salama</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_FEMALE_7]Sadia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_FEMALE_8]Tahira</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_FEMALE_9]Faizah</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_MALE_1]Abbas</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_MALE_10]Imran</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_MALE_2]Adil</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_MALE_3]Adnan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_MALE_4]Ferran</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_MALE_5]Faris</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_MALE_6]Dabir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_MALE_7]Daoud</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_MALE_8]Dekel</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BABYLON_MODERN_MALE_9]Hud</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ANA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ANA]Ana</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_AYUTTHAYA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_AYUTTHAYA]Ayutthaya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BABYLON_STK" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_BABYLON_STK]Babylon</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BORSIPPA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_BORSIPPA]Borsippa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CHINGUETTI" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_CHINGUETTI]Chinguetti</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DER" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_DER]Der</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DINIKTUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_DINIKTUM]Diniktum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DUR_KURIGALZU" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_DUR_KURIGALZU]Dur-Kurigalzu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DURMUTI" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_DURMUTI]Durmuti</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ELIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ELIP]Elip</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ESHNUNNA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ESHNUNNA]Eshnunna</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_HARADUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_HARADUM]Haradum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_HARBU" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_HARBU]Harbu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_HIRITUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_HIRITUM]Hiritum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_HIT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_HIT]Hit</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_JOHANNESBURG" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_JOHANNESBURG]Johannesburg</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_KAKKULATUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_KAKKULATUM]Kakkulatum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_KAR_SHAMASH" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_KAR_SHAMASH]Kar-Shamash</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_KARKAR" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_KARKAR]Karkar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_KAZALLU" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_KAZALLU]Kazallu</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_MALGIUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_MALGIUM]Malgium</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_MARI" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_MARI]Mari</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_MASHKAN_SHAPIR" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_MASHKAN_SHAPIR]Mashkan-shapir</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NALANDA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_NALANDA]Nalanda</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NAMSUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_NAMSUM]Namsum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NERIBTUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_NERIBTUM]Neribtum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_OPIS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_OPIS]Opis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_RAPIQUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_RAPIQUM]Rapiqum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SAMARKAND" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_SAMARKAND]Samarkand</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SHADUPPUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_SHADUPPUM]Shaduppum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TELL_WILAYA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_TELL_WILAYA]Tell Wilaya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TERQA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_TERQA]Terqa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TUTTUL" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_TUTTUL]Tuttul</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TUTUB" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_TUTUB]Tutub</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_WOLIN" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_WOLIN]Wolin</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_YABLIYA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_YABLIYA]Yabliya</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AYUTTHAYA_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_AYUTTHAYA_ADJECTIVE]Ayutthaya</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AYUTTHAYA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_AYUTTHAYA_DESCRIPTION]Ayutthaya city-state</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AYUTTHAYA_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_AYUTTHAYA_NAME]Ayutthaya</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CHINGUETTI_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_CHINGUETTI_ADJECTIVE]Chinguetti</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CHINGUETTI_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_CHINGUETTI_DESCRIPTION]Chinguetti city-state</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CHINGUETTI_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_CHINGUETTI_NAME]Chinguetti</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_JOHANNESBURG_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_JOHANNESBURG_ADJECTIVE]Johannesburg</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_JOHANNESBURG_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_JOHANNESBURG_DESCRIPTION]Johannesburg city-state</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_JOHANNESBURG_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_JOHANNESBURG_NAME]Johannesburg</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NALANDA_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_NALANDA_ADJECTIVE]Nalanda</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NALANDA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_NALANDA_DESCRIPTION]Nalanda city-state</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NALANDA_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_NALANDA_NAME]Nalanda</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SAMARKAND_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_SAMARKAND_ADJECTIVE]Samarkand</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SAMARKAND_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_SAMARKAND_DESCRIPTION]Samarkand city-state</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SAMARKAND_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_SAMARKAND_NAME]Samarkand</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WOLIN_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_WOLIN_ADJECTIVE]Wolin</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WOLIN_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_WOLIN_DESCRIPTION]Wolin city-state</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WOLIN_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_WOLIN_NAME]Wolin</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_BABYLON_STK_CAPITAL" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_BABYLON_STK_CAPITAL]Babylon</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_BABYLON_STK_LOCATION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_BABYLON_STK_LOCATION]Mesopotamia, modern-day Iraq</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_BABYLON_STK_POPULATION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_BABYLON_STK_POPULATION]Babylon itself held around 200,000 people, and was likely the most populous city in the world at its time. The empire’s population fluctuated wildly, depending on what cities were incorporated into the polity and which ones were left out.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_BABYLON_STK_SIZE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_BABYLON_STK_SIZE]Roughly 30,000 square miles (50,000 square km)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HAMMURABI_ANY]Friendship is a sacred pact. Let us enter into it.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HAMMURABI_ANY]Like two horses pulling a common chariot, so shall our friendship pull us forward!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HAMMURABI_ANY]Your envoys climbed the great zuggurat with me, and gazed upon the gardens and rooftops of Babylon.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_HAMMURABI_ANY]A deal well struck gives me the greatest pleasure. </Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HAMMURABI_ANY]I have issued a permit for your troops to pass through Babylon.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HAMMURABI_ANY]I have drafted a contract of friendship. Will you make your mark upon it?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HAMMURABI_ANY]I have broken the walls of Adab and Nippur in war. Thus I shall break your cities.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HAMMURABI_ANY]Who are you to oppose Hammurabi? You are dust, mere dirt I shake from my sandals.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HAMMURABI_ANY]Anu! Answer your servant! Why have you allowed my defeat? </Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HAMMURABI_ANY]We invite you to taste the riches of Babylon. This dish is called 'the unwinding'.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HAMMURABI_ANY]Your words are perjury. Your oaths are a field in time of famine. Great Anu, forgive me for speaking with this one! (Denounces You).</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HAMMURABI_ANY]Lawless vulture, profaner of shrines, one who is hated by many gods! It is only by my great mercy that I still speak with you.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_LEADER_HAMMURABI_ANY]I fill my storehouses with grain and my wells with water. The gods bless my name: Hammurabi.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HAMMURABI_ANY]Yes.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HAMMURABI_ANY]Show me your capital, and I will tell you of Babylon. It is only fair.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HAMMURABI_ANY]Come and see the glories of Babylon and see our gardens - the desert blooms with life!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_GREETING_LEADER_HAMMURABI_ANY]What do you want?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_KUDO_EXIT_LEADER_HAMMURABI_ANY]To copy Hammurabi is the best course. You do this, which is good.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HAMMURABI_ANY]I have sent to you a tablet with our names united. Will you make your mark on it?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HAMMURABI_ANY]By pressing my seal into this tablet, I hereby agree to peace.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HAMMURABI_ANY]We are not yet in accord. War continues.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HAMMURABI_ANY]I send to you a request for peace. Please fill it out and send me a receipt.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HAMMURABI_ANY]This tablet asks for safe passage for my troops. Will you put your mark on it?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HAMMURABI_ANY]Friendship is a sacred pact. I cannot agree at this time</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HAMMURABI_ANY]I have sent your offer back. It is stamped 'rejected.'</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HAMMURABI_ANY]Your delegation does not have the correct permits to come. The permit office is closed right now.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_HAMMURABI_ANY]The scales do not balance.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HAMMURABI_ANY]The walls of Babylon are closed to you. </Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_EXIT_LEADER_HAMMURABI_ANY]You must do what I tell you, or I may destroy you.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_HAMMURABI_ANY]My troops are mine; they go where I order them to go.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_HAMMURABI_ANY]I have put my seal upon it. My troops will withdraw  from your borders.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HAMMURABI_ANY]In the footsteps of your troops I hear the drumbeat of war. Move them back.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_GRANT_LOTSO_SCIENCE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_GRANT_LOTSO_SCIENCE]Grants 1000 [ICON_SCIENCE] Science and [ICON_CULTURE] Culture (on Standard speed).</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_BEATRIX_POTTER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_BEATRIX_POTTER_NAME]Beatrix Potter</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_BOOST_OR_GRANT_MATHEMATICS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_BOOST_OR_GRANT_MATHEMATICS]Triggers [ICON_TechBoosted] Eureka for Celestial Navigation, Mathematics, and Engineering. If they are already triggered, instead completes the tech.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_DANDARA_ACTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_DANDARA_ACTIVE]Grants a Warrior Monk with 1 promotion.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_DANDARA_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_DANDARA_NAME]Dandara</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_DIMITRIE_CANTEMIR_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_DIMITRIE_CANTEMIR_NAME]Dimitrie Cantemir</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_GABRIELA_MISTRAL_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_GABRIELA_MISTRAL_NAME]Gabriela Mistral</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_FREE_UNIT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_FREE_UNIT]Creates a naval melee unit with +2 [ICON_Movement] Movement.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_NAME]Hanno the Navigator</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_HASEGAWA_TOHAKU_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_HASEGAWA_TOHAKU_NAME]Hasegawa Tōhaku</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIMERIOS_ACTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_HIMERIOS_ACTIVE]Grants 1 promotion level and +25% combat experience to a military naval unit.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIMERIOS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_HIMERIOS_NAME]Himerios</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_NAME]Ibn Fadlan</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_CAMPUS_HOUSING" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_CAMPUS_HOUSING]Chosen Campus gains 2 [ICON_Housing] Housing and 1 [ICON_AMENITIES] Amenities. Increases non-[ICON_Food]Food yield benefits of Happiness in your empire by 40%.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_NAME]Ibn Khaldun</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_IMHOTEP_PRODUCTION_ANCIENT_CLASSICAL" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_IMHOTEP_PRODUCTION_ANCIENT_CLASSICAL]Grants 175 [ICON_Production] Production towards wonder construction, doubled if the wonder is from the Ancient or Classical Era.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_IMHOTEPI_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_IMHOTEPI_NAME]Imhotep</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAMAL_UD_DIN_BEHZAD_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_KAMAL_UD_DIN_BEHZAD_NAME]Kamāl ud-Dīn Behzād</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_KENZO_TANGE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_KENZO_TANGE_NAME]Kenzo Tange</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARGARET_MEAD_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_MARGARET_MEAD_NAME]Margaret Mead</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_NAME]Matthew Perry</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_RUMI_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_RUMI_NAME]Rumi</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCOTT_JOPLIN_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_SCOTT_JOPLIN_NAME]Scott Joplin</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SHAH_JAHAN_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_SHAH_JAHAN_NAME]Shah Jahān</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_NAME]Stamford Raffles</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_NAME]Trung Trac</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_PERMANENT_ACTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_PERMANENT_ACTIVE]Permanently reduces your empire's War Weariness by 25%.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_ACTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_ACTIVE]Grants a Musketman in each of the target city's indefensible and undefended Districts.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_NAME]Tupac Amaru</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_VALMIKIY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_VALMIKIY_NAME]Valmiki</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_WASSILY_KANDINSKY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_WASSILY_KANDINSKY_NAME]Wassily Kandinsky</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHANG_HENG_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_ZHANG_HENG_NAME]Zhang Heng</Text>
+    </Replace>
+    <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_NAME]Zhou Daguan</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATPERSON_CITY_STATE_ABSORB_BASE_GAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATPERSON_CITY_STATE_ABSORB_BASE_GAME]Absorbs this city-state into your empire.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATPERSON_CITY_STATE_ABSORB_EXPANSIONS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATPERSON_CITY_STATE_ABSORB_EXPANSIONS]Absorbs this city-state into your empire. Grants you +10 Loyalty per turn in the city.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATPERSON_CITY_STATE_STEAL_ENVOYS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATPERSON_CITY_STATE_STEAL_ENVOYS]Grants enough [ICON_ENVOY] Envoys to become Suzerain at this city-state. Then removes all other players' [ICON_ENVOY] Envoys.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATPERSON_DISTRICT_SCIENCE_ADJACENCY_AS_TOURISM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATPERSON_DISTRICT_SCIENCE_ADJACENCY_AS_TOURISM]Grants [ICON_Tourism] Tourism in each of this city's Districts equal to its adjacency bonus (halved for [ICON_Gold] Gold).</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATPERSON_GAIN_THREE_ENVOYS_HERE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATPERSON_GAIN_THREE_ENVOYS_HERE]Grants 3 [ICON_ENVOY] Envoys at this city-state.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATPERSON_HAVE_A_FREE_TRADE_ROUTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATPERSON_HAVE_A_FREE_TRADE_ROUTE]Increases [ICON_TradeRoute] Trade Route capacity by 1. Your [ICON_TradeRoute] Trade Routes to city-states now grant you +2 [ICON_Faith] Faith.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATPERSON_WONDER_PURCHASE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATPERSON_WONDER_PURCHASE]Grants [ICON_Production] Production towards wonder construction, capped at half of your current treasury. Then reduces your [ICON_Gold] Gold twice the amount of purchased [ICON_Production] Production.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_BARTOK_1_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_BARTOK_1_NAME]String Quartet No. 2</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_BARTOK_2_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_BARTOK_2_NAME]Dance Suite</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_BARTOK_3_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_BARTOK_3_NAME]String Quartet No. 1</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_BEATRIX_POTTER_1_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_BEATRIX_POTTER_1_NAME]The Tale of Peter Rabbit</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_BEATRIX_POTTER_1_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_BEATRIX_POTTER_1_QUOTE]"Now, my dears," said old Mrs. Rabbit one morning, "you may go into the fields or down the lane, but don't go into Mr. McGregor's garden: your Father had an accident there; he was put in a pie by Mrs. McGregor."</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_BEATRIX_POTTER_2_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_BEATRIX_POTTER_2_NAME]The Tailor of Gloucester</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_BEATRIX_POTTER_2_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_BEATRIX_POTTER_2_QUOTE]No more twist!</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_BEHZAD_1_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_BEHZAD_1_NAME]Battleground of Tumir and Egyptian King</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_BEHZAD_2_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_BEHZAD_2_NAME]Yusef and Zuleykha</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_BEHZAD_3_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_BEHZAD_3_NAME]Timur Granting Audience On The Occasion Of His Accession</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_CANTEMIR_1_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_CANTEMIR_1_NAME]Peşrev Adjem Yegiahi</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_CANTEMIR_2_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_CANTEMIR_2_NAME]Prince Of Moldavia</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_CANTEMIR_3_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_CANTEMIR_3_NAME]Uzzusule Beresvan</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_GABRIELA_MISTRAL_1_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_GABRIELA_MISTRAL_1_NAME]Lecturas para mujeres (Books for Women)</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_GABRIELA_MISTRAL_1_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_GABRIELA_MISTRAL_1_QUOTE]The true master will always be somewhat of an artist; we cannot accept any kind of "work boss" or "farm foreman" into which some would wish to see the spiritual leader converted.</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_GABRIELA_MISTRAL_2_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_GABRIELA_MISTRAL_2_NAME]Sonetos de la Muerte (Sonnets of Death)</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_GABRIELA_MISTRAL_2_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_GABRIELA_MISTRAL_2_QUOTE]I will walk away singing my beautiful revenge, because in those secluded depths no hand will reach down to steal your handful of bones from me!</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_JOPLIN_1_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_JOPLIN_1_NAME]The Entertainer</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_JOPLIN_2_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_JOPLIN_2_NAME]Maple Leaf Rag</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_JOPLIN_3_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_JOPLIN_3_NAME]The Easy Winners</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_KADINSKY_1_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_KADINSKY_1_NAME]Composition 8</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_KADINSKY_2_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_KADINSKY_2_NAME]Blue Rider</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_KADINSKY_3_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_KADINSKY_3_NAME]Red Square</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_RUMI_1_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_RUMI_1_NAME]Divani Shamsi Tabriz</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_RUMI_1_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_RUMI_1_QUOTE]Plant, like brave men, thy banner in the midst of the desert</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_RUMI_2_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_RUMI_2_NAME]Masnavi</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_RUMI_2_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_RUMI_2_QUOTE]Till bread is broken, how can it serve as food?[NEWLINE]Till the grapes are crushed, how can they yield wine?</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_TOHAKU_1_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_TOHAKU_1_NAME]Pine Trees</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_TOHAKU_2_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_TOHAKU_2_NAME]Maple Tree</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_TOHAKU_3_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_TOHAKU_3_NAME]Birds and Flowers</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_VALMIKI_1_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_VALMIKI_1_NAME]The Ramayana</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_VALMIKI_1_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_VALMIKI_1_QUOTE]Upon his string the hero laid[NEWLINE]An arrow, like a snake that hissed.[NEWLINE]‘Twas feathered with the rushing wind;</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_VALMIKI_2_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_VALMIKI_2_NAME]Yoga Vasistha</Text>
+    </Replace>
+    <Replace Tag="LOC_GREATWORK_VALMIKI_2_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GREATWORK_VALMIKI_2_QUOTE]It is astonishing that every soul should forget its own nature, and think itself as a living soul residing in the body… as if confined in a pot</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_MAHAVIHARA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_IMPROVEMENT_MAHAVIHARA_DESCRIPTION]Unlocks the Builder ability to construct a Mahavihara.[NEWLINE][NEWLINE]+2 [ICON_SCIENCE] Science and +1 [Icon_Housing] Housing. +1 [ICON_Faith] Faith for every adjacent Holy Site district and +1 [ICON_Science] Science for every adjacent Campus district. After researching Scientific Theory receive an additional +1 [Icon_Science] Science for every adjacent Campus. When a player constructs their first Mahavihara receive a random technology. Must be built on flat terrain not adjacent to another Mahavihara.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_MAHAVIHARA_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_IMPROVEMENT_MAHAVIHARA_NAME]Mahavihara</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_TRADING_DOME_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_IMPROVEMENT_TRADING_DOME_DESCRIPTION]Unlocks the Builder ability to construct a Trading Dome.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold. +1 [ICON_Gold] Gold for every adjacent Luxury resource. Your outgoing international [ICON_TradeRoute] Trade Routes grant +1 [ICON_GOLD] Gold per Trading Dome at the origin. Cannot be built next to another Trading Dome.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_TRADING_DOME_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_IMPROVEMENT_TRADING_DOME_NAME]Trading Dome</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_AYUTTHAYA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_AYUTTHAYA_DESCRIPTION]Gain [ICON_CULTURE] Culture equal to 10% of the construction cost when finishing buildings.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_AYUTTHAYA_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_AYUTTHAYA_NAME]Ayutthaya Suzerain Bonus</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_CHINGUETTI_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_CHINGUETTI_DESCRIPTION]International and domestic [ICON_TradeRoute] Trade Routes receive +1 [ICON_FAITH] Faith for every follower in this city, of your founded or majority religion.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_CHINGUETTI_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_CHINGUETTI_NAME]Chinguetti Suzerain Bonus</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_JOHANNESBURG_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_JOHANNESBURG_DESCRIPTION]Cities receive +1 [ICON_Production] Production for every improved resource type. After researching Industrialization it becomes +2 [ICON_PRODUCTION] Production.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_JOHANNESBURG_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_JOHANNESBURG_NAME]Johannesburg Suzerain Bonus</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_NALANDA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_NALANDA_DESCRIPTION]Your Builders can now make Mahavihara improvements.[NEWLINE][NEWLINE]+2 [ICON_SCIENCE] Science and +1 [Icon_Housing] Housing. +1 [ICON_Faith] Faith for every adjacent Holy Site district and +1 [ICON_Science] Science for every adjacent Campus district. After researching Scientific Theory receive an additional +1 [Icon_Science] Science for every adjacent Campus. When a player constructs their first Mahavihara receive a random technology. Must be built on flat terrain not adjacent to another Mahavihara.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_NALANDA_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_NALANDA_NAME]Nalanda Suzerain Bonus</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_SAMARKAND_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_SAMARKAND_DESCRIPTION]Your Builders can now make Trading Dome improvements.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold. +1 [ICON_Gold] Gold for every adjacent Luxury resource. Your outgoing international [ICON_TradeRoute] Trade Routes grant +1 [ICON_GOLD] Gold per Trading Dome at the origin. Cannot be built next to another Trading Dome.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_SAMARKAND_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_SAMARKAND_NAME]Samarkand Suzerain Bonus</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_WOLIN_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_WOLIN_DESCRIPTION]Receive [ICON_GreatGeneral] Great General points when a land unit defeats a major or minor civilization's unit and receive [ICON_GreatAdmiral] Great Admiral points when a naval unit defeats a major or minor civilization's unit equal to 25% of the opposing unit's strength (Standard Speed).</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_TRAIT_WOLIN_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_TRAIT_WOLIN_NAME]Wolin Suzerain Bonus</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_HAMMURABI" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LOADING_INFO_LEADER_HAMMURABI]Great Hammurabi, your word is your law.  You live and lead by your code, and will make sure that your empire does too.  You see the world as a complex web of alliances, possibilities, and risks.  Weigh the odds carefully, as you build your empire to unite Mesopotamia.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_PALGUM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_BUILDINGS_PAGE_BUILDING_PALGUM_CHAPTER_HISTORY_PARA_1]Mesopotamia is a land with a complicated relationship with water. Between the dry desert and the flood-prone Tigris and Euphrates, the Babylonians had to learn how to control their rivers. And control them they did, even channeling the flow through palgum – small-scale canals – to feed elaborate gardens. While the Hanging Gardens of Babylon have not been as well documented as historians may have hoped, at Nineveh, the Assyrian king Sennacherib built a luxurious garden fed by aqueducts and elaborate canals – often the same waterway at different points, cutting through mountains and rising over canyons - that allowed for exotic trees such as ebony and rosewood to grow within the palace. These canals were reinforced by great limestone blocks and controlled by specialized sluice gates. The King was proud of these – he inscribed, “over deep-cut ravines, I spanned a bridge of white stone blocks. Those waters I caused to pass over upon it.” The Yazidi ethnic group in Iraq kept up this tradition of building elaborate aqueducts and canals well into the 20th century.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AYUTTHAYA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AYUTTHAYA_CHAPTER_HISTORY_PARA_1]As the Khmer Empire declined in the 14th century, the lands that it dominated started to assert themselves. In the Chao Phraya valley, in modern-day Thailand, a series of Theravada Buddhist city-states called “mueang,” populated by Thai-speaking and Lao-speaking peoples, began to split off from the Khmer, asserting their own linguistic and cultural independence while retaining the religion, royal traditions, and many other cultural and legal features of the Khmer. Mueang were “mandala states,” kingdoms without defined borders but centered on a city that stressed beauty, artistic achievements, and cosmopolitan outlook – think of countries in that time not as the bounded puzzle pieces we see on a map today (or the bordered civilizations in your current game), but as magnets, drawing in people and power from the landscape. Power and profits came via royal monopolies on certain goods – especially porcelain or incense (the name of Vientiane, a Lao “mueang” from the same time, means “city of sandalwood”).</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AYUTTHAYA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AYUTTHAYA_CHAPTER_HISTORY_PARA_2]Once the mueang were free of the Khmer, they made war on each other. And, through the course of the 14th and 15th centuries, one became dominant. Ayutthaya, named after the city in the Hindu epic Ramayana [Ramakien, in Thai], became first the center of the Chao Phraya river plain, and, later, a significant power in mainland Southeast Asia, one that European travelers compared with India and China. In the course of its rise, Ayutthaya struggled diplomatically and militarily with its neighbors, especially the Burmese, who conquered Ayutthaya in the 1500s, but were rebuffed by the ambitious warrior-king Naresuan. Ayutthaya could also be the aggressor: at its height, Cambodia, parts of Malaysia, and Laos were controlled by the kings of Ayutthaya.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AYUTTHAYA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AYUTTHAYA_CHAPTER_HISTORY_PARA_3]The city flourished in the 1600s, and the kingdom was called by some travelers a name we might find more familiar – Siam (itself derived from a Khmer word, or possibly a Chinese term). The kings of Ayutthaya were curious about the world and open to it, and employed Japanese, Arab, and European councilors to help them navigate the tricky realm of international diplomacy. The city itself, situated on an island in the middle of the Chao Phraya river, was large for the time, with about a quarter million residents, and had a cosmopolitan, polyglot nature – communities of Japanese, Chinese, and Europeans were established in the city and mingled with the locals. Gender roles, too, were relatively progressive in comparison with East Asia, South Asia, or Europe. One Chinese traveler remarked that “it is [Siamese] custom that all affairs are managed by their wives,” and Alexander Hamilton noted that the “Women in Siam are the only Merchants in buying Goods.”</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AYUTTHAYA_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AYUTTHAYA_CHAPTER_HISTORY_PARA_4]Ayutthaya did not decline; it crashed. Specifically, it crashed against the Burmese army, yet again. In 1767, the Burmese sacked Ayutthaya and destroyed it, carrying off the gold of its temples, many of its skilled artisans, and putting most of the city to the torch. Siam reformed some years later further south, in a city called (in part) Krung Thep, a city known to foreigners as Bangkok. Today, Siam – Thailand - remains the only country in the region not to be formally colonized by a European power.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CHINGUETTI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CHINGUETTI_CHAPTER_HISTORY_PARA_1]Chinguetti is a city on the edge of the desert. It has not always been this way. Prehistoric rock paintings show just how much the climate has shifted in human history, showing giraffes and other savannah creatures in a lush landscape. Now, the city is being swallowed by the Sahara.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CHINGUETTI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CHINGUETTI_CHAPTER_HISTORY_PARA_2]But the Sahara is not entirely a wasteland – not for the Berbers, the nomadic people of North Africa. Rather, Chinguetti was a jumping-off point for routes across the great desert. As such, it was a place for Muslims to congregate before setting off on the pilgrimage to Mecca. And when pilgrims returned, they brought back wonders. Chinguetti was a repository for learning during the height of the Almoravid empire in the 11th and 12th centuries with a significance that lasted well into the 16th. Relatedly, and like its larger relative, Timbuktu, Chinguetti was home to a number of famous libraries, places where pilgrims could share all that they had found on their travels. This went well beyond religion to include mathematics, science, astronomy, and especially Islamic law. These centers of scholarship – ksour – were bastions of Islamic life and commerce and would have been oases of learning in the desert.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CHINGUETTI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CHINGUETTI_CHAPTER_HISTORY_PARA_3]The city fell into relative disuse after sea voyages made the trans-Sahara routes obsolete: why take a risky camel train across the world’s largest desert when you could take a slightly less risky and a lot faster sea voyage? Today, Chinguetti is a UNESCO World Heritage site in the nation of Mauritania, known especially for the 13th-century Friday Mosque.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JOHANNESBURG_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JOHANNESBURG_CHAPTER_HISTORY_PARA_1]The story of Johannesburg is one of wealth and conflict. The land on which Johannesburg sits is one where humanity has existed for millions of years, and, quite a bit more recently than all that, was occupied by San, Sotho-Tsawana, and other African peoples. But successive waves of European empires were forever to alter South Africa, as first the Dutch, and then the English established a presence in the area. As the latter replaced the former, Dutch settlers moved north into the interior of South Africa and settled far inland. And, in the 1880s in what was to become Johannesburg, one settler discovered the Witwatersrand gold deposit.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JOHANNESBURG_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JOHANNESBURG_CHAPTER_HISTORY_PARA_2]The city grew quickly after this, as prospectors flocked to the region sought gold, land barons sought to control territory, and laborers from all over Southern Africa sought jobs in the mines. It would have been a wild place, with miners, gangsters, and other individuals from all over the region, including – perhaps surprisingly – a laundry industry dominated by Zulu men. While the Dutch Afrikaners and English settlers gave their names to the growing city (“Johannes” being the most popular Dutch name at the time), much of the population were African.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JOHANNESBURG_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JOHANNESBURG_CHAPTER_HISTORY_PARA_3]The region was at the time controlled by the Zuid-Afrikaansche Republiek – the Boer (Dutch) South African Republic, a state that had resisted British expansion in the First Boer War and existed briefly as an independent republic. The state was not to resist the Empire in the Second Boer War, which saw Johannesburg depopulated (and saw the establishment of its Chinese community).</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JOHANNESBURG_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JOHANNESBURG_CHAPTER_HISTORY_PARA_4]This focus on mines was to define Johannesburg. Soweto – the settlement for black African mine workers – grew to a size that rivalled or exceeded that of the central city itself, and under the racist apartheid system, fully implemented in 1948, these workers found their movement restricted and rights curtailed. These tensions erupted in the Soweto uprising in 1976, when black students marched against apartheid. The police, in response, shot them. As a result, Soweto, and the African National Congress gained a leading role in the resistance to apartheid, and the ANC came to power – and marked the end of apartheid – in 1994.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JOHANNESBURG_CHAPTER_HISTORY_PARA_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JOHANNESBURG_CHAPTER_HISTORY_PARA_5]Today, Johannesburg is South Africa’s largest city. Mining has waned in importance, although there are still conflicts between miners and police, but the city remains an industrial town.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NALANDA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NALANDA_CHAPTER_HISTORY_PARA_1]Nalanda – literally “the gift of the lotus” - was a city in eastern India that achieved fame during the late first millennium AD for being a center for Buddhist learning. Scholars came from all around India, as well as China and Tibet, to learn from Buddhist scholars such as Nagarjuna, Dignaga, and Santaraksita. Buddhism today is broadly split into three main schools of thought: one common in Nepal and Tibet (Vajrayana), one common in Sri Lanka and Southeast Asia (Theravada), and another spread across East Asia (Mahayana). In Nalanda, scholars debated all of these schools of thought, and Buddhist schools named for the great city now exist in places as far-flung as Bhutan, Sri Lanka, and Indonesia.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NALANDA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NALANDA_CHAPTER_HISTORY_PARA_2]The city was a part of the Magadha kingdom, a place mentioned in the Indian epics Ramayana and Mahabharata and in histories dating back to 7th century BC. Alexander the Great, approaching the kingdom, reportedly saw the walls and decided that he’d had enough movement eastward, and turned away. Nearly a thousand years later, in 629 AD, the Chinese monk Xuanzang visited Nalanda and brought Buddhist knowledge back to China. His travels were given a fanciful gloss in the famous Chinese epic “The Journey to the West,” one of the most beloved Chinese epics. Xuanzang described Nalanda thusly: "an azure pool winds around the monasteries, adorned with the full-blown cups of the blue lotus; the dazzling red flowers of the lovely kanaka hang here and there, and outside groves of mango trees offer the inhabitants their dense and protective shade.”</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NALANDA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NALANDA_CHAPTER_HISTORY_PARA_3]Not all visitors were as gentle. In 1193, the army of Bhaktiyar Khijili, a Turkic military general in the service of the Delhi Sultanate, conquered eastern India and Nalanda with it. The city and the monastery were sacked, and Buddhism waned – though is still present – in India (although it continues to flourish elsewhere in Asia). Nalanda lay in ruins and has only centuries later become reborn as a center for learning.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SAMARKAND_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SAMARKAND_CHAPTER_HISTORY_PARA_1]The Silk Road refers to those trade routes that extended across the Central Asian steppe from ancient times until the 15th century. It was a route not only of silk, but also jade and other goods, not to mention art, literature, and religion. Central to the Silk Road were the powers of the steppes – those Turkic and Mongolian groups that, when strong, permitted the road to operate. War and conflict, naturally, disrupted trade, and it was the collapse of the Mongol Empire – and the rise of European ship-based trade - that led to the Silk Road’s decline.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SAMARKAND_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SAMARKAND_CHAPTER_HISTORY_PARA_2]Samarkand was at the Silk Road’s heart, called by the writer Ibn Battuta “one of the greatest and finest of cities, and the most perfect of them in beauty.” Its history is long - Alexander the Great conquered the city in 329 BC, and the city then passed through Persian, Mongol, and Turkic hands over the centuries. While Genghis Khan destroyed the city in 1220 AD, it was to revive in the 14th century under Timur the Lame – Tamerlane, the Khan’s descendant and warrior that, in all his conquests, never faced defeat. Timur founded the Timurid Empire, a Turkic empire based in Samarkand. The Timurids in turn became the ancestors of the Mughal Empire, which dominated India before the arrival of the British.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SAMARKAND_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SAMARKAND_CHAPTER_HISTORY_PARA_3]At its height, Samarkand was a place of diverse peoples and ideas. While Islam was the religion of the Timurids, and the mosques of the city are famous worldwide, Zoroastrianism, Christianity, Buddhism, Hinduism, and Manichaeism all were present in the city. Samarkand was conquered by the Russians in the 19th century and remained a part of the Russian (and, later, Soviet) empires until Uzbekistan became independent after the fall of the Soviet Union. In addition to its heritage, the city remains today as a transportation hub and a center for silk weaving.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOLIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOLIN_CHAPTER_HISTORY_PARA_1]The Slavs were one of a number of European groups – what the Romans, Greeks, and Byzantines called “barbarians” that appeared on the European scene towards the end of the Roman Empire. Appearing to the east of the Germans, the Slavs settled across Eastern Europe and became the majority in multiple states: Russia, Poland, Czechia, among others. Wolin was one of their earliest settlements, situated on an island just off the Polish coast.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOLIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOLIN_CHAPTER_HISTORY_PARA_2]On the Baltic Sea, Wolin was an early Slav settlement that formed a key trading point during the 10th and 11th centuries and a military outpost for a number of different groups. As Viking ships began to plow the Baltic, settlements such as Wolin grew increasingly important for commerce (Vikings weren’t just about plunder!) as well as a base for military excursions. With Christianization, the town waned in power and influence – repeat plundering by Danish forces didn’t help, but in the later Middle Ages, the city became one of the city-states of the Holy Roman Empire. It constituted a part of the important region of Pomerania, a medieval state that incorporated Germans as well as Slavs.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOLIN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOLIN_CHAPTER_HISTORY_PARA_3]The city changed hands through conquest and succession, being occupied by Sweden, the Teutonic Knights and, eventually, Prussia – that state which is the predecessor for modern-day Germany. When the Soviets defeated Germany in World War II, Wolin transferred hands yet again, this time to modern-day Poland.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOLIN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOLIN_CHAPTER_HISTORY_PARA_4]Today, Wolin is famous for its wildlife preserve, where some of the last European bison can be found, as well as a yearly Viking festival, celebrating the town’s martial history.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_1]Babylon rose from Mesopotamia: the land between the Euphrates and Tigris rivers, just southwest of modern-day Baghdad, around 2000 BC. At the time, the people weren’t known as Babylonians, but Amorites. A chieftain named Sumu-abum declared him and his people independent from the neighboring city-state, Kazallu, and founded the first Babylonian dynasty. But Babylon was a minor city-state until the rule of its most famous ruler, Hammurabi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_10]Despite the cycles of conquest, destruction, and later rebuilding, Babylon remained firmly rooted within our historical memory thanks to its periods of academic and architectural prominence. Regardless of whether the Hanging Gardens once resided in Babylon, the city still boasts other architectural marvels. Despite periods of conquest, Babylon was never wholly razed or sowed with salt. Instead, the conquerors, to a degree, allowed some aspects to remain. Pieces of the Ishtar gate, tablets, and even floor are still found at the ancient site, in present-day Iraq, waiting to be unearthed and, perhaps, built again.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_2]Hammurabi improved the infrastructure of Babylon and expanded its borders through a series of alliances, betrayals, and conquests. He ruled his empire with a set of laws collected in the Code of Hammurabi, laws that detailed how crime and punishment should be handled. They were incredibly specific and rational: most of us are familiar with the expression “an eye for an eye, a tooth for a tooth” from the code, but they also detail prices for theft (stealing an ox is punishable by paying thirty times the original price), medical malpractice, and other offenses. Significantly, the Code contains within it the assumption of innocence until proven guilty, an innovation at that time.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_3]Even though Hammurabi was often away on military campaigns, he continued to rule from a distance, allowing him to maintain a personal touch with his rapidly expanding empire. By the end of his forty-two-year reign, he controlled all of southern Mesopotamia. The city of Babylon was established as the capital of this empire, and it became the heart of wealth and power in Mesopotamia.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_4]Babylon declined after Hammurabi’s passing in 1750 BC. None of his successors had the same vision, alliances, or military prowess to hold together the massive empire (at least none of them were deified during their lifetimes like Hammurabi was—it was a lot to live up to). Hammurabi’s immediate successor, Samsu-iluna, saw the empire Hammurabi built begin to collapse. The Assyrians pushed back against Hammurabi’s expansions, and his successors failed to hold the borders, reducing Babylon to a smaller city-state once again.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_5]For the next few hundred years, Babylon was overthrown, sacked, and conquered multiple times. Crop failures, a lack of a strong ruler, and outside conflicts hampered the city’s ability to regain a steady foothold even within their borders. The Hittites, Kassites, Chaldeans, Aramaeans, and finally, the Assyrians all claimed the land for a time. Under the Kassites, Babylon was able to find some prosperity again (under the name “Karanduniash”), particularly in the areas of math, medicine, and astrology. They held the city for over four hundred years, until it was taken over by yet another conqueror.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_6]During the later part of Assyrian-ruled Babylon, amid Assyrian king Sennacherib’s reign, Babylonia was in perpetual state of unrest and rebellion, which Sennacherib reasoned could only be stopped by razing the city. The city burned. Sennacherib broke down the walls and ruined the city, destroying its religious temples and palaces. Sennacherib’s own sons were shocked by what he’d done and murdered their father in penance before helping to rebuild the city.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_7]King Nabopolassar of Chaldea began building up the city once again in 612 BC. He started by making alliances, and then his son, King Nebuchadnezzar II, built Babylon to become one of the most beautiful wonders of the ancient world. In a flurry of architectural artistry, Nebuchadnezzar built the Etemenanki ziggurat and the Ishtar Gate. It’s said he also commissioned the Hanging Gardens of Babylon for his wife, although the location has never been confirmed.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_8]Like many other regions around 500 BC, Babylon fell to Cyrus the Great of Persia. Under King Cyrus II and eventually King Darius I, Babylon was made the capital city of the 9th Satrapy, or province, as well as the administrative capital of the Persian Empire. It once again became a city that catered to scholars and artists alike. For two hundred years, the city prospered. However, over time, the city revolted, particularly after taxes were increased without significant structural improvements to show for the money.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BABYLON_STK_CHAPTER_HISTORY_PARA_9]Babylon saw the conquest of Alexander the Great, who once again brought wealth and knowledge to the city. For twelve years, the echo of past golden ages rippled through the region. Following Alexander’s passing and ill-advised division of his empire to multiple generals, combined with the “transfer” of part of the population, the city-state once more fell into commercial insignificance.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BEATRIX_POTTER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BEATRIX_POTTER_CHAPTER_HISTORY_PARA_1]One of the most beloved children’s authors, Beatrix Potter did not begin as an author. Instead, she was an illustrator, building upon the love she developed upon holidays in England’s Lake District for collecting fossils, archaeological remains, insects and plants. She even made an attempt at scientific mycological work, submitting a thesis despite the patriarchal orientation of the scientific community at the time.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BEATRIX_POTTER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BEATRIX_POTTER_CHAPTER_HISTORY_PARA_2]But this love of nature, combined with a love of mythology and folklore, led to a love of stories about nature, and it is these stories for which Potter is best known, especially her Peter Rabbit. In her stories, Potter combines a love for and sensitivity to the landscape and all the lives lived within it – farmer and rabbit, mushroom and root. They are tales that English children (and many others) grew up with and loved.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BEATRIX_POTTER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BEATRIX_POTTER_CHAPTER_HISTORY_PARA_3]The Tale of Peter Rabbit was written in 1902. Its plot is simple – a rabbit overly proud of his blue jacket – is repeatedly warned not to enter Farmer McGregor’s garden, but of course does so. He is chased about the garden before losing his jacket (and escaping), and runs back home where his mother comforts him with a cup of tea.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_DANDARA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_DANDARA_CHAPTER_HISTORY_PARA_1]Colonies in the Americas – with a few exceptions – were built upon the labor of enslaved peoples. In large stretches of the Caribbean, Brazil, and the southern part of what was to become the United States, these enslaved people were African. But not all slaves went peacefully. So-called maroon communities, made up of enslaved people who rebelled or escaped, often finding refuge with indigenous peoples, were common in the dense forests of South America.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_DANDARA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_DANDARA_CHAPTER_HISTORY_PARA_2]Palmares, named for its palm trees, was a quilombo, one of these maroon settlements in northeastern Brazil. Made up of former enslaved workers from Brazil’s sugar plantations originally from Kongo and Angola, Palmares was ruled by a king. Palmares was free for nearly all of the 1600s, and in 1678 the settlement signed a treaty with the Portuguese assuring its freedom, but with a catch – residents of Palmares were themselves free but were required to return any escaped enslaved person that they found. Dandara and her husband Zubmi rejected this and led a rebellion against the Portuguese.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_DANDARA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_DANDARA_CHAPTER_HISTORY_PARA_3]Dandara was a master of capoeira, a form of martial arts that became famous amongst formerly enslaved people of Brazil. It combines fluid motion, evasion, and the use of an attacker’s own momentum in a motion that is not quite combat and not quite dance. Most importantly, it allowed enslaved people to fight back using nothing more than their own bodies – exactly the element that the colonial powers sought to take from them. Dandara was arrested in 1694 but, rather than fall back into slavery, she committed suicide.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_DIMITRIE_CANTEMIR_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_DIMITRIE_CANTEMIR_CHAPTER_HISTORY_PARA_1]Dimitrie Cantemir was nearly everything: writer, ruler, soldier, and, of course, composer. In the early 18th century, Cantemir was the voivode – the vassal governor of Moldavia, a state of the Ottoman Empire in the lands now divided between Romania and Moldova. While Cantemir was well-loved in Istanbul, he saw the Ottoman Empire as a state in decline, and Cantemir decided to ally Moldavia with Peter the Great of Russia against the ruling Ottomans. When this gamble ended in defeat, Cantemir gave up politics and went into a comfortable exile, being granted the status of prince by both the Russians and the Holy Roman Empire.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_DIMITRIE_CANTEMIR_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_DIMITRIE_CANTEMIR_CHAPTER_HISTORY_PARA_2]Without a domain to rule, Dimitrie turned to writing, including histories of the Ottoman Empire, Romania, and Moldavia. In addition, Dimitrie composed music and – before his betrayal – transcribed for the Sultan a collection of hundreds of traditional Ottoman musical works, especially those using the saz (bağlama), a seven-stringed instrument. In addition, he combined Ottoman music with Western styles, creating a new fusion that later musicians would work hard to rediscover. He died in 1723 and is remembered across the former Moldavia, in Turkey, Moldova, Romania, and beyond.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GABRIELA_MISTRAL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GABRIELA_MISTRAL_CHAPTER_HISTORY_PARA_1]Gabriela Mistral – really Lucila Godoy y Alcayaga – won the Nobel Prize for literature in 1945, the first Latin American to do so. She was born in Chile in 1889 and was a village schoolteacher, but began writing poetry following the death of her lover. Her Sonetos de la muerte [Sonnets of Death], Desolación [Despair], and Ternura [Tenderness] eventually led to her fame. She was appointed to cultural committees for the League of Nations (the precursor to the UN), and served the Chilean government as a consul in various countries. She died in 1957.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GABRIELA_MISTRAL_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GABRIELA_MISTRAL_CHAPTER_HISTORY_PARA_2]Mistral’s work was heavily influenced by the tragedies in her own life, reflected in her musings on the premature loss of life and love, but also in the hope that she saw in her students and in children, joy made more precious owing to how easily it can be swept away.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_CHAPTER_HISTORY_PARA_1]Hanno’s story is known from a single Greek text, a translation of an earlier Carthaginian one. It describes the voyage of a Carthaginian explorer, Hanno, in the 5th century BCE, westward out of the Mediterranean and down the western coast of Africa. While the account was widely cited both amongst ancient historians (most notably Herodotus), the extent of Hanno’s voyages is debated amongst modern-day historians, with some speculating that he reached Mount Cameroon (owing to his evocative description of a volcanic eruption), and others marking the extent of his voyage only to southern Morocco. Hanno claims to have settled a number of Carthaginian towns along the African coast and traded both with Berbers along the Sahara coast and sub-Saharan African peoples further south.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_CHAPTER_HISTORY_PARA_2]Perhaps most interesting in Hanno’s account is his encounter with gorillas. Hanno’s crew sees the apes as strangely uncommunicative and hostile people who fling stones at them and, when captured, “bite and mangle” the Carthaginians. He names them gorillas, although they may well have been chimpanzees. Hanno’s fleet kills three of these, and preserves their “shaggy” skins, although the hides were lost in the Roman destruction of Carthage some centuries later.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HASEGAWA_TOHAKU_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HASEGAWA_TOHAKU_CHAPTER_HISTORY_PARA_1]Especially in temples and castles, Japanese sliding screens are one of the main attractions, bringing art and color to what might at first glance seem spare quarters. Born at the end of the warring Sengoku period, at the end of the 1500s, Hasegawa Tohaku rose quickly in the ranks of temple painters, especially of the Kano school. But Kano screen paintings were bright, almost garish, using gold and floral designs. Tohaku, though he produced a few pieces in the Kano style, branched out into his own, more minimalist style. His Pine Trees, a National Treasure of Japan, conveys a feeling of a cool breeze running through a pine grove with only rough brushstrokes, depicting only four trees. In this way, Tohaku drew upon earlier traditions in Chinese art, showing how, in simplicity, one can still convey the majesty of a landscape.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HASEGAWA_TOHAKU_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HASEGAWA_TOHAKU_CHAPTER_HISTORY_PARA_2]Tohaku produced a wide array of art. In addition to his minimalist Pine Trees, Tohaku painted Buddhist scenes, portraits, animals and landscapes. He vied with his old master Kano for the favor of Toyotomi Hideyoshi, one of the great kings of the war-torn Sengoku era in Japan.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HIMERIOS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HIMERIOS_CHAPTER_HISTORY_PARA_1]Byzantium was a maritime empire. Despite the Empire’s rich holdings in Anatolia (at least for a time), the Byzantines relied upon a strong navy for security. This became doubly important when the Byzantines began to compete with an ascendant Arab presence in the Mediterranean. While the land-based battles and sieges of the Crusades loom large in the Western European imagination, battles between the Byzantines and a growing Muslim Caliphate were common throughout the medieval period. These battles were often played out on water. As a result, admirals rose to prominence on both sides.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HIMERIOS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HIMERIOS_CHAPTER_HISTORY_PARA_2]Himerios was a Byzantine admiral appointed to command the Empire’s fleet in 904. At this point, the Abbasid Caliphate was expanding into the Mediterranean with the help of Leo of Tripoli, a Greek renegade and the commander of the Abbasid navy. Leo and Himerios sought to outmaneuver each other, and, as Himerios headed off Leo’s fleet as it sailed towards  Constantinople, Leo turned and sacked the Empire’s second-largest city, Thessalonica, instead. Two years later, Himerios would have his revenge, as a victory on St. Thomas’s Day in 906 sparked a string of Byzantine wins across the Mediterranean coast, in Syria and Cyprus.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HIMERIOS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HIMERIOS_CHAPTER_HISTORY_PARA_3]In the end, though, Leo proved too canny for Himerios. Rushing back to the capital following the illness of the Emperor, Himerios fell into a trap laid by Leo and the Abbasid fleet. While Himerios escaped, his fleet was destroyed, and the new Emperor promptly dismissed him. He fled to a monastery and died six months later.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_CHAPTER_HISTORY_PARA_1]In the 10th century, the Abbasid Caliph – the ruler of what was arguably the greatest empire of its time sent an emissary to the Volga Bulgars – not to be confused with the Christianized Bulgars who would form Bulgaria, further to the West. These were a people who were important at the time as they controlled trade routes between Asia and Europe, and also, being Muslim, were potential economic and political allies for the Arabs against the still-mighty Byzantine Empire. Ahmad ibn Fadlan was that emissary.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_CHAPTER_HISTORY_PARA_2]He was tasked with making sure that the newly converted Bulgars were properly instructed in the religion, and also with making sure that they remained allies to the Caliph. For their part, the Bulgars sought Arab help against the Khazars, another group of horse-bound Turkic people from Central Asia.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_CHAPTER_HISTORY_PARA_3]Ibn Fadlan’s account is most notable, though, for its descriptions of the Rus – Viking raiders who, rather than sailing west across the North Sea to England, went south and east along the Volga. They were also of concern to the Caliph, as the Vikings both posed a risk in their raiding activities as well as potential trading partners and mercenaries. The descendants of the Rus were to become assimilated into local Slavic traditions and become a part of the present-day Russian, Belorussian, and Ukrainian peoples.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_CHAPTER_HISTORY_PARA_4]Most striking is Ibn Fadlan’s account of a Viking ship burial. Here, a great man was put on board a ship, along with his prized belongings and a human sacrifice, his concubine. This sacrifice in turn was said to be able to see into heaven before she was killed, allowing a glimpse of the dead man waiting for her in fields of green. Before meeting him there, though, she was brutally strangled and stabbed, and the ship set afire.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_CHAPTER_HISTORY_PARA_5]Ibn Fadlan’s account serves not only as a portrait of Viking society on the cusp of the Viking Age, but also as a way to look at the tense political and economic negotiations surrounding the Arab place in the world. As Rome – Byzantium, at this point – declines and power shifts eastward, Ibn Fadlan points out how trade routes east-west and north-south become drawn away from Constantinople and towards Baghdad.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_CHAPTER_HISTORY_PARA_1]Abdurahman bin Muhammad bin Muhammad bin Muhammad bin Al-Hasan bin Jabir bin Muhammad bin Ibrahim bin Abdurahman bin Ibn Khaldun al-Hadrami – Ibn Khaldun for short -  is one of the most significant thinkers of the Middle Ages. Born in Tunisia in 1332 to a family from Andalusia – the parts of Spain that were, in the early Middle Ages Muslim, Ibn Khaldun was a writer, scholar, military leader and politician. In war, he led campaigns against the Turkic raider Timur (Tamerlane), and played a role in the machinations between Christian Castile, Tunisia, Egypt, and the Berber tribes of the Maghreb (North Africa).</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_CHAPTER_HISTORY_PARA_2]But what Ibn Khaldun is best known for is his writing. His Muqaddimah is a provocative work that introduces several concepts that would only much later make their way into European thought. For instance, Ibn Khaldun introduces a cyclical notion of history. Whereas previous thinkers saw a gradual rise towards sedentary, agricultural life, Ibn Khaldun noted how periods of nomadic (Berber) rule came on the heels of settled life, and presented the tension between two ways of living – settled societies eventually decay, and more dynamic, adaptable nomads conquer them, only to find themselves growing accustomed to the comfort of their former foes. Such an idea was not to enter European thought until the work of Karl Marx, who also presented a notion of a productive clash between different economic modes as the driver of history.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_CHAPTER_HISTORY_PARA_3]Ibn Khaldun’s legacy is received with near-universal praise. European historians from Machiavelli to Gellner cite Ibn Khaldun as one of the most influential thinkers in history, and governments in Tunisia and Turkey place the scholar’s name on prizes, monuments and bank notes.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IMHOTEP_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IMHOTEP_CHAPTER_HISTORY_PARA_1]Imhotep, “he who comes in peace,” was an architect and priest during Egypt’s Old Kingdom, in the 27th century BCE. The building attributed to Imhotep, the Pyramid of Djoser, is the earliest large-scale stone building in Egypt and the first pyramid to be used as a tomb. Whereas earlier pharaohs were interred in a rectangular mastaba, a rectangular tomb made of mud-brick, Imhotep’s pyramid was stone and on a colossal scale. The materials used were not simply piled atop each other, rather, the different qualities of building materials caused the four sides to lean into each other, further supporting the structure. Of course, pyramids were not only tombs – they contained within them shrines to the fallen pharaoh, including various parts of his divided soul, so in addition to the structure itself, there existed a whole complex both around and underneath the pyramid.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IMHOTEP_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_IMHOTEP_CHAPTER_HISTORY_PARA_2]The pyramid was to become the most enduring symbol of Egyptian architecture for millennia to come, and it is largely owing to Imhotep’s engineering that this is the case. For his contributions, Imhotep was deified in Egypt as a god of knowledge and medicine, and further incorporated into Greek and Roman lists of gods and heroes. Less auspiciously, Imhotep’s name was also used as the name of the malevolent mummy in Universal’s 1932 and 1999 films.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KAMAL_UD_DIN_BEHZAD_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KAMAL_UD_DIN_BEHZAD_CHAPTER_HISTORY_PARA_1]Late Medieval Persia – Iran – was a time when the arts and culture of Shia Islam and Iran began to fall into patterns recognizable today. The Safavid Empire was the first of these, and Kamal ud-Din Behzad – or, perhaps more accurately, the school of art centered on the painter – was its most prominent artist (though his career began during the Timurid Empire, some years before the Safavid’s founding). Behzad specialized in what came to be known as Persian (or Iranian) miniatures, illustrations for stories that were more elaborate versions of the illustrated manuscripts of Europe.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KAMAL_UD_DIN_BEHZAD_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KAMAL_UD_DIN_BEHZAD_CHAPTER_HISTORY_PARA_2]Behzad lived his life primarily in the city of Herat, in what is today Afghanistan. His miniatures were exceptional in the way that human figures and architecture were arranged on the page, creating a sense of flow that draws viewers’ eyes around the page. These miniatures were testaments to the cosmopolitanism of the time – they drew inspiration from Chinese art, portrayed individuals of all of the different peoples that lived their lives in the globally-connected empire, and focused as much on everyday moments of humanity as well as those of conquering kings. While Persian art did not forbid showing human figures (as much Muslim art did), Behzad also excelled in incorporating Persian love for architecture and geometry, creating dizzying patterns with tiles, roof gables, staircases, etc (as in the miniature Yusef and Zuleykha).</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KAMAL_UD_DIN_BEHZAD_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KAMAL_UD_DIN_BEHZAD_CHAPTER_HISTORY_PARA_3]Behzad remains thought of as one of the most notable Muslim artists of the medieval period.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KENZO_TANGE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KENZO_TANGE_CHAPTER_HISTORY_PARA_1]In the early 20th century, the architectural style known as high modernism appealed to all powers – democratic, fascist, and Communist. Modernism, especially in the imagination of architects like the Swiss Le Corbusier, promised to re-focus buildings away from tradition and towards a functionality that would also, owing to its very aesthetic and form, create new kinds of citizens. Le Corbusier’s buildings were often criticized, though, for their numbing quality and inorganic lines. Kenzo Tange, a student of Le Corbusier, sought to change this. Combining Le Corbusier’s sweeping concrete vision, Tange’s “metabolism” combined modern forms with organic ones and became influential in 1960s-era Japan and beyond. Rather than the modernist notion that modern architecture would make modern subjects, Tange envisioned a mutual becoming, one that also fused elements from Japanese traditional architecture, the natural world, and the imaginary of modernism.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KENZO_TANGE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KENZO_TANGE_CHAPTER_HISTORY_PARA_2]Before his death in 2005, Tange was responsible for building the Peace Center in Hiroshima, the Tokyo Olympic arenas, the Supreme Court of Pakistan, and others. He won the prestigious Pritzker Prize in architecture in 1987.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARGARET_MEAD_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARGARET_MEAD_CHAPTER_HISTORY_PARA_1]Famously, the cultural anthropologist Margaret Mead was asked what she thought was the quintessential sign of civilization. In response, she said, “a healed femur.” By this, Mead was indicating the urge to help defenseless or weakened others in our society, and civilization as the system through which we bind ourselves together in mutual support. Mead’s anthropology involved in-depth ethnography, meaning a method of gathering data gained by living with people from very different backgrounds and seeking to understand them through shared personal experience. For anthropologists, seeing through very different eyes allows us to question what we might take for granted in our own society. Mead’s study of adolescence and sexuality in Samoa challenged conservative American cultural norms and became pivotal to the sexual revolution in the 1960s. Instead of a period where sexuality was held back from adolescents, and a natural conflict between parents and children, Mead found a more open acceptance of sexuality, and a lack of conflict. This, and Mead’s more interpretive approach (i.e. seeing anthropology as something more akin to history or literature than a “hard” science) led to a backlash from some circles, one that had more to do with present-day American politics than the quality of her work.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARGARET_MEAD_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARGARET_MEAD_CHAPTER_HISTORY_PARA_2]Mead laid the foundation for present-day anthropology, at least for the most part. While her work is not as widely read as it was, her attention to how other societies make meaning, live their lives, love, and feel is shared by other cultural anthropologists today, and she was recognized with the Presidential Medal of Freedom in 1979. Mead died a year prior, in 1978.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_CHAPTER_HISTORY_PARA_1]During the Togukawa Shogunate (1633-1853), Japan operated under the policy of sakoku, having a “closed country.” During this time, nearly all foreigners were banned from the island, Japanese people were restricted from leaving, and trade and relations between Japan and the outside were curtailed. But the mid-19th century was the high era of European and American colonialism, when Western powers sought to open markets to their goods… by force, if necessary. And it was Commodore Matthew Perry who brought this force to Japan.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_CHAPTER_HISTORY_PARA_2]Perry was an old hand at such tactics, spearheading the use of overwhelming military presence for American expansion as well as the modernization of the American navy. He had previously commanded a ship that physically laid claim to the island of Key West (also claimed for Spain) by force and owing to that and subsequent service in the Mexican-American War, he rose rapidly in the ranks.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_CHAPTER_HISTORY_PARA_3]When Perry reached Japan, his actions were both blunt as well as informed by a partial understanding of Japanese society. He ignored Japanese borders and sailed into Edo Bay, near present-day Tokyo, firing blank shots from their massive new, state-of-the-art cannons. The Japanese, having been insulated from such heavy artillery during the sakoku period, were shocked, and rumors about “the black ship,” as Perry’s flagship was called, left an indelible mark on Japanese imaginations of the time. When Perry returned for a second visit, the Japanese signed whatever the Americans handed to them.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_CHAPTER_HISTORY_PARA_4]Japan could not hold out under such a threat, and Perry’s invasion of Edo Harbor, as well as the death of the shogun, marked an end to sakoku and the beginning of the outward-looking Meiji period.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_RUMI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_RUMI_CHAPTER_HISTORY_PARA_1]Often mis-quoted and mis-translated, the medieval Persian poet Jalal ad-Din Muhammad Rumi is one of the world’s best-loved writers. Born into the Khwarazemian Empire in modern-day Afghanistan (or Tajikistan), Rumi later settled in the Sultanate of Rum, what was to become Turkey. He was also deeply religious, an Islamic scholar and Sufi mystic, something which often goes unsaid or under-played in English translations of his work. Indeed, Sufism – a branch of Islam focusing on song and poetry as a means towards oneness with God – runs throughout Rumi’s work.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_RUMI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_RUMI_CHAPTER_HISTORY_PARA_2]Rumi’s most famous text is the Masnavi, a collection of poetry considered to be the finest composed in Persian. It focuses on love, which Rumi sees as a path towards the divine, reflected in everyday moments. Rumi’s notion of love is inclusive, bringing in the reader and calling them towards greater and more pure ways of being. Love here extinguishes the self and opens a path towards a wider world – towards God, and thus it is little surprise that Rumi’s descendants began the order of the Mevlevi, a group of mystics likewise interested in a loving fusion with the world via dance.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_RUMI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_RUMI_CHAPTER_HISTORY_PARA_3]Rumi’s work forms the backbone of classical music, poetry, and arts in Iran and Afghanistan, as well as to the Sufi tradition. He died in 1273, and his tomb is in Konya, in present-day Turkey.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SCOTT_JOPLIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SCOTT_JOPLIN_CHAPTER_HISTORY_PARA_1]Ragtime was a piano style that came out of the African American community around the turn of the 20th century, and Scott Joplin was ragtime’s king. Combining Western piano music, especially marches, with African melodies, ragtime was characterized by the presence of a syncopated melody between the meter, giving the piece a “ragged” flavor or, to use Joplin’s word, a “swing.” Ragtime was popular in the 1890s – 1910s, before recorded music was widely available, and as such, it spread via sheet music or simply learned in performance. Ragtime, a largely African American musical style, broke the color barrier in music, a feat that was to be repeated with blues, jazz, rock, hip-hop, and other African American styles that defined larger American culture. Even overseas, European composers saw in ragtime their own growing interest in folk music reflected back with a distinctively American feel, and Dvorak, Stravinsky, and Debussy each were inspired to compose their own rags.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SCOTT_JOPLIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SCOTT_JOPLIN_CHAPTER_HISTORY_PARA_2]Scott Joplin, the son of an ex-slave, was born in the 1860s, just after the end of the Civil War, around the border between Texas and Arkansas. His family all were talented musicians, and in his teens, Joplin traveled, learning and experimenting with ragtime as he went. Eventually, he studied music at George R. Smith College and continued to compose. His “Maple Leaf Rag” achieved international success, earning him enough to keep him composing, and Joplin moved on to experiment with opera and stage performance. Joplin died in 1917, and his music faded in fame over time, being “rediscovered” in the 1940s and again in the 1970s. Its influence, however, remained, hiding between the notes like any good rag.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SHAH_JAHAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SHAH_JAHAN_CHAPTER_HISTORY_PARA_1]Shahab-ud-din Muhammad Khurram - Shah Jahān - was not himself an engineer, but rather the Mughal Emperor of India whose reign saw the greatest extent of Mughal architecture and some of the most defining structures of Mughal India, including the Red Fort of Delhi and the Taj Mahal. He was also a skilled schemer, having put his rivals to death in order to ensure his place on the throne, and pushed the Mughal military to greater and greater heights against his neighbors.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SHAH_JAHAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SHAH_JAHAN_CHAPTER_HISTORY_PARA_2]But Shah Jahān is here because of his ability to pull together a team of the finest architects – chief amongst them Ustad Ahmad Lahori - of his day to create true wonders. The Red Fort, built between 1639 and 1648 and named for its distinctive red sandstone, is one of these. The Lāl Qila [Red Fort] stood at the center of Shahjahanabad, which (unsurprisingly, given the name) was Shah Jahān’s capital. As with Shah Jahān’s state, the Red Fort combines Timurid, Persian, and Hindu elements into a syncretic fusion that was later to inspire architecture across northern India and (what is today) Pakistan.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SHAH_JAHAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SHAH_JAHAN_CHAPTER_HISTORY_PARA_3]But Shah Jahān’s most famous building is undoubtedly the Taj Mahal. Built as a mausoleum for the Shah’s wife, the building combines the domes, minarets, and artistry that showcases the best of Mughal architecture. It is described elsewhere in this Civilopedia, and, if you are lucky enough, you can construct it yourself.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_1]There are former colonies that despise their colonial past and erase the names of former occupiers. Singapore, while proudly independent, is not one of them. The island city-state is still replete with references to the British East India company Governor-General, Sir Stamford Raffles, credited with founding the city.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_2]Colonial rule at the time wasn’t the more clear-cut military domination that it came to be in the later part of the 19th century. Instead, it involved a great deal of semi-colonial statuses – sultans might be paid off (more or less voluntarily) into becoming quiet puppet states, might be tempted to join a colony voluntarily, or might be the victim of a coup d’etat or military takeover. The British especially often tempted local lords with luxury goods or infrastructure projects, then claimed land when sultans spent more than they could pay.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_3]Raffles was a classic colonial figure – the term “adventurer” comes to mind: both spy and military leader, diplomat and merchant. He began his life aboard ship off of the British colony of Jamaica in 1781. He started his professional career as a clerk for the British East India company, and was posted at a young age to Malaya – a series of sultanates on the peninsula between independent Siam (Thailand) and the islands of Dutch-controlled Indonesia. The British were eager to chip away at Dutch profits in the spice trade, and to secure passage for ships moving from India to China but were wary of provoking a war that might have repercussions back in Europe.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_4]But Napoleon went ahead and did that. When the French occupied Holland, suddenly Dutch holdings in Southeast Asia became fair game, and Raffles seized Java from the Dutch and was named the Lieutenant-Governor of the Dutch East Indies… until Napoleon was defeated and a new Dutch regime returned.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_5]What Raffles is most famous for, though, is Singapore. The island was perfectly situated – just on the Straits of Malacca, but just out of Dutch control. At the time, the island was not the major city that it is today, but rather a small fishing village, nominally part of the Johor Sultanate. But who really ruled it was in question, especially when the younger son of the sultan seized power when his older brother was away. Raffles arranged for a coup in Johor, and, safely installed on the throne, the new sultan granted the British control over the island in 1819.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_CHAPTER_HISTORY_PARA_6]The island boomed, bringing in labor from across the British Empire, labor that led to Singapore’s ethnic makeup today (descendants of Chinese merchants, Chinese and South Indian laborers, indigenous Malays). While the Dutch remained a major player in Southeast Asia, Singapore marked the establishment of British power in the region and a vital link in keeping trade between Hong Kong and India under British control. Today, Singapore remains in a sense similar to Raffles’s vision – a multi-ethnic port situated at one of the busiest and most important straits in the world.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_CHAPTER_HISTORY_PARA_1]Vietnam, for much of its history a prosperous kingdom just beyond the southern edge of Chinese powers, always had to struggle for its independence – first from China, then later from France. In the third century BC, a Chinese warlord from the fallen Qin Dynasty captured the Vietnamese capital and created the state of Nanyue (Nam Việt), declaring himself the equal of the Han Emperor in China. This rankled the Chinese, and the new Han dynasty seized Nanyue and incorporated the rebellious province into the Chinese empire. But this – what the Vietnamese call the First Chinese Domination of Vietnam – was an unquiet occupation. It exploded when the husband of Trưng Trắc, the daughter of a regional general, was killed for opposing Han efforts to assimilate and integrate the [as the Han saw them] “barbarian” Vietnamese. Trưng Trắc and her sister rose up and toppled Chinese rule in the region, as Lê Văn Hưu puts it, “as easily as turning over their hands”.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_CHAPTER_HISTORY_PARA_2]Their rule was only to last three years, though, after which the Han sent a massive retaliatory force to take back the region. They did so, and the Trưng sisters were, depending on the story, either killed, committed suicide, or vanished into the sky. But they outlived the occupation, in another sense. They, along with Bà [Lady] Triệu, are revered as heroes in Vietnam, with temples, a city district, and even a public holiday named after them.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_CHAPTER_HISTORY_PARA_1]In popular imagination, Inca history ends with Francisco Pizarro’s execution of the last Sapa Inca (emperor) Atahualpa in 1533, and the subsequent history of South America after that is one of European-descended states. But the descendants of the Inca have had a long and complicated history in the centuries since Pizarro, and may have kept their independence if Tupac Amaru II had been successful.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_CHAPTER_HISTORY_PARA_2]Born José Gabriel Condorcanqui Noguera in 1738, Amaru was the son of a Quechua kuraka, a regional magistrate and descendant of the royal Inca line. Despite being separated by over two hundred years from the rule of his ancestors, Condorcanqui (not yet Amaru) read accounts of the Inca, identified strongly with them, and was angered at the exploitative labor practices under which indigenous workers existed in the Viceroyalty of Peru. Condorcanqui decided that there was no choice but to rebel. He changed his name to Túpac Amaru II, after a previous Inca descendant who led a short-lived rebellion, and Amaru II declared himself in revolt. Amaru’s revolt can be seen as an early attempt at decolonization, a movement that combines present-day social justice with a focus on rebuilding systems that existed before European powers. Amaru fought for many principles that would undergird future revolutions: the abolition of slavery, the redistribution of goods to the poor, the restitution of indigenous lands, and equality between indigenous, creole and mestizos.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_CHAPTER_HISTORY_PARA_3]Amaru, a persuasive speaker, brought many Quechua to his side and won several early victories handily, but was betrayed, captured, and executed in a particularly brutal fashion. Amaru’s revolt inspired both indigenous movements in Ecuador and Bolivia as well as a creole backlash in colonial Peru. He remains an influential figure in anti-colonial and decolonial movements today, and American rapper Tupac (Amaru) Shakur, “2Pac,” was named for him.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_VALMIKI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_VALMIKI_CHAPTER_HISTORY_PARA_1]If Homer is the semi-mythical father of the epic poem in the Mediterranean, Valmiki is the same in India. He was a rishi, a sacred hermit (a role that still exists across India and Southeast Asia), someone who lives a life of rural poverty in order to contemplate nature and religion. Valmiki is often referred to as the inventor of the shloka, a Sanskrit poetic form. Valmiki’s most famous work, composed some time around 500 BC, is the Ramayana.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_VALMIKI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_VALMIKI_CHAPTER_HISTORY_PARA_2]The Ramayana is the story of how Vishnu, the Hindu god of kingship, sought to destroy a demon, Ravanna, who had become invulnerable to all of the gods’ weapons. Vishnu incarnates as a human, Rama, whose wife, Sita, Ravanna conspires to steal. When Ravanna whisks Sita off to Lanka (often situated in present-day Sri Lanka), Rama and his allies, including the monkey god Hanuman, undertake an epic journey to bring her back. The story has intriguing similarities with Homer’s work – a hero gathers a group of friends to fight another man who has sailed off with his wife.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_VALMIKI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_VALMIKI_CHAPTER_HISTORY_PARA_3]Valmiki’s works were influential in the creation of a shared (if widely altered, adapted, and re-interpreted) culture on the shores of the Indian Ocean, a Sanskrit world reflected in every place from the names of Siamese kings to Indonesian shadow puppets to the Chinese story of the Monkey King. Echoes of the story resonate from the Mediterranean to the Pacific.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_WASSILY_KANDINSKY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_WASSILY_KANDINSKY_CHAPTER_HISTORY_PARA_1]One of the pioneers of modern art, Wassily Kandinsky fused painting with philosophy, reflecting a world profoundly changed over the course of World War I, the Russian Revolution and World War II, at each point when the world seemed to be breaking down and rebuilding itself from the basic elements up. Modernism as a movement is a reaction to this reshaping of the world – "modernism" here does not mean up-to-date, rather, it is an attention to and rearrangement of the basic elements that make up a work. Modern art tries to play with these basic elements, giving up trying to represent objects and instead asking what effect a certain color or angle or arrangement would have upon the viewer, without the mess of asking, "what is this a painting of?". In other words, two lines in opposition might create a sense of drama; one soaring line might evoke lyricism. Circles are peaceful; colors have inherent resonances with particular sounds. This is not symbolism – it is not that Kandinsky's canvases are mysteries to be decoded; rather, the elements themselves share a fundamental link in Kandinsky's theory. Kandinsky's theoretical work became influential to the larger modernist and abstract movement and remains so today.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_WASSILY_KANDINSKY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_WASSILY_KANDINSKY_CHAPTER_HISTORY_PARA_2]Kandinsky's attention to the fundamentals emerged from his personal and spiritual beliefs. He saw these resonances between shape, color, and the viewer as reflecting deeper spiritual truths. He was attracted to theosophy and saw that movement's search for a universal divine reflected in his own search for the spiritual resonances of color and shape.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_WASSILY_KANDINSKY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_WASSILY_KANDINSKY_CHAPTER_HISTORY_PARA_3]This spirituality caused some disruption to his life. Kandinsky was born in Moscow and studied art in Munich, but returned to Russia after the Russian Revolution. Within the USSR, he initially was influential in the development of the USSR art scene, but Kandinsky was profoundly spiritual and clashed with materialistic Soviet norms. Returning to Germany, Kandinsky worked with the modernist Bauhaus movement until the Nazi period, during which time he fled to France, where he lived for the rest of his life. He died there, just after the end of the war, unable to see the new, aesthetic world and movement that he hoped to create fully emerge.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHANG_HENG_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHANG_HENG_CHAPTER_HISTORY_PARA_1]Born in the first century AD in the city of Nanjing, Zhang Heng was an inventor, astronomer, mathematician, poet, and everything in between. He lived during the Eastern Han Dynasty, under the reigns of the Emperors Andi and Shundi. As an astronomer, Zhang Heng held an important post in court, maintaining the calendar, which in turn allowed the emperor to make accurate predictions about the cycles of the seasons and stars. While this might not be immediately apparent, Chinese subjects at that time believed that civil life was a reflection of heavenly life, and astronomers were instrumental in showing that these two worlds were in accord.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHANG_HENG_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHANG_HENG_CHAPTER_HISTORY_PARA_2]Zhang Heng came up with a detailed model of the earth and heavens, which he likened to an egg. The outer shell was the heavens, and the yolk at the center was the earth. While the overall idea here might have been incorrect in the eyes of present-day science, one must remember that Zhang Heng was writing nearly two thousand years before. Zhang Heng was able to demonstrate that the moon did not shine with its own light, and was able to explain lunar eclipses (again, valuable to show the heavenly knowledge of the imperial court). For more mundane matters (literally), Zhang Heng developed a working seismograph, one that used an ingenious technique to point out the direction of a quake’s epicenter.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHANG_HENG_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHANG_HENG_CHAPTER_HISTORY_PARA_3]Zhang Heng lived and worked between 78 CE to 139 CE, making him a contemporary of the thinkers and philosophers of the Roman Empire, especially Ptolemy, whose cosmological vision was quite similar to Zhang’s. Like those thinkers, his work laid the foundation for further technical and scientific achievements.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_CHAPTER_HISTORY_PARA_1]The ruins of Angkor speak for themselves. Or do they? On the walls of the great temple complex are detailed carvings of military conquests, and royal inscriptions describe the majesty of the kingdom. But what was everyday life like in the Khmer empire? With so much Cambodian writing centered on royal deeds, or on religious texts, we must turn to Chinese accounts to really understand Cambodia of the 13th century, at (or just past) the peak of the Khmer Empire.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_CHAPTER_HISTORY_PARA_2]Luckily, Zhou Daguan, often compared (favorably) to Marco Polo, has left us an account. He spent a year at the court of Indravarman III, in Angkor, and wrote descriptions not just of the majesty of the empire, but also surprisingly detailed and sensitive accounts of the everyday lives of the Cambodian people. Unlike many explorers – including Marco Polo – Zhou does not speculate about places that he hasn’t been, nor report hearsay as fact (though he does report on the details of the Khmer Emperor’s nightly activities with a naga queen).</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_CHAPTER_HISTORY_PARA_3]Zhou wrote in a way that was meant to advise others like himself – interested merchants and diplomats. While he does write about the gold-encrusted royal processions, Zhou also wrote about mundane affairs. He noticed a division in the religious lives of Cambodians: Buddhism, Hinduism (“Brahmanism”), and animism co-existed in the metropolis, although Zhou misinterprets these religious figures along Chinese lines. Notably, Zhou remarks upon the advanced status of women in Cambodia at the time – merchants and markets were often female-managed.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_CHAPTER_HISTORY_PARA_4]Zhou came from Yuan Dynasty China, a dynasty begun by Kublai Khan. His mission likely wasn’t of great diplomatic importance to China or to Cambodia – the two empires, separated as they were by the Southeast Asian massif (those mountains in Laos, Burma and Vietnam) had less interaction than present-day Cambodia and China. But the importance of his account to Khmer history is central.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_MAHAVIHARA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_MAHAVIHARA_CHAPTER_HISTORY_PARA_1]A vihara is the Sanskrit and Pali term for a Buddhist monastery; “Maha” simply means “great,” so the “mahavihara” just means a large center for monastic life. Buddhist monks in a vihara are not the stereotype of silent worshippers simply seeking enlightenment via meditation. Rather, many monasteries are places of active learning – devotees are exposed to a wide variety of knowledge and encouraged to debate religious and scientific truths. The mahavihara of Nalanda was a massive complex that brought visitors from all across Asia precisely for this discussion and exchange. It contained within it a library that contained knowledge both of Buddhism as well as  literature and science, including several famous texts: Nagarjuna’s Madhyamaka, or the doctrine of emptiness; as well as the Four Vedas – Sanskrit texts that are vital to both Buddhism and Hinduism. Vihara are still present today – the terms “wihan” and “vihear” in Thai and Cambodian, respectively, refer to the main functional structure in a Buddhist temple.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_TRADING_DOME_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_TRADING_DOME_CHAPTER_HISTORY_PARA_1]One of the most innovative architectural features of Samarkand are its domes. Not content with building one dome above a structure, architects piled dome upon dome, linking them together to make a stable but spacious internal space. On the inside, many of these are decorated with elaborate Islamic muqarnas – ornate decorative vaults. The Chorsu bazaar, the trading dome at the intersection of the roads linking Bukhara, Samarkand, and Tashkent, is an example of this kind of architecture. Inside the bazaar during Samarkand’s height would have been goods and people from China, India, Europe, and the Middle East – virtually the entire known world.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_CAPSULE_BODY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_CAPSULE_BODY]Babylon rewrites how to win a Science Victory. Rather than focusing on gaining [ICON_Science] Science via conventional means, Babylon seeks to leap ahead in the Science race via unlocking Eurekas.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_DETAILED_BODY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_DETAILED_BODY]Babylon’s strategy depends upon using its unique abilities to leap ahead in the science race. Hammurabi has to contend with -50% [ICON_Science] Science each turn, but Eurekas, rather than just boosting research part way, unlock technologies fully. In addition, Hammurabi seeks to build one of each district, as his other unique ability grants him a free initial building in a new district. Finally, his unique building, the Palgum, provides additional [ICON_Production] Production. An effective Babylonian ruler can use the unique unit, the Sabum Kibbitum, to explore the map, triggering more Eurekas by finding Natural Wonders, other Civilizations, Tribal Villages, etc., owing to its additional sight and movement. Hammurabi is best poised to seek a Science Victory.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_1]The name of Babylon lives on, despite being at its height over three thousand years ago, synonymous with luxury and power. And of the kings of Babylon, Hammurabi’s name also remains associated with harsh justice and rational rule.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_2]Hammurabi was the first ruler of the Amorite dynasty of Babylon. He succeeded his father Sin-Muballit when he was still relatively young. His father built the foundation of the kingdom during his rule but wasn’t much of a conqueror, after a failed military campaign against the neighboring city of Larsa. This is possibly what pressured him into leaving the throne early to his son Hammurabi – it would have been an arrangement that made everyone happy: Larsa and their king, Rim Sin I, could rest easier with the seemingly internally-focused boy on the throne.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_3]Hammurabi began his reign by continuing his father’s work on improving the internal structures of the kingdom. This included a code of laws that he wrote (or, rather, chiseled) in 1754 BC, which became known as the Code of Hammurabi.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_4]The Code of Hammurabi was carved onto a giant, four-ton slab of diorite in cuneiform. The laws revolved around Lex Talionis, or retributive justice – the phrase “an eye for an eye, a tooth for a tooth” is a quotation from the Code. The idea here was that specific crimes would have specific punishments in order to ensure that there was no need for interpretation after the accused was sentenced. Many of the punishments were brutal, which was enough to deter a lot of crimes. Not all of the tests to decide guilt would hold up by today’s standards (a swimming test, for instance, to check whether a woman was unfaithful to her husband).</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_5]In Babylon, Hammurabi built up the city walls and developed a system of irrigation based around canals and aqueducts. He also began the building of magnificent temples for their gods. This made him popular with the people and raised their sense of civic duty, which was exactly what he needed. Because, contra what those people of Larsa thought, Hammurabi was indeed going to conquer southern Mesopotamia.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_6]It would have been easy to fall into the trap of attacking Larsa to get revenge for his father’s defeat. A lesser king would have. Instead, he allied himself with Larsa when a group called the Elamites invaded central Mesopotamia (these are the same Elamites who built the city of Anshan). With their help, he quickly and easily defeated the Elamites, but as soon as that alliance served its purpose, Hammurabi turned the tables. He went to the city-states of Nippur and Lagash, making alliances with them so he could take Uruk and Isin—Larsan cities. He then turned on his allies and took Nippur and Lagash. Despite this constant dance of alliance and betrayal, he continued to find willing allies until the entirety of southern Mesopotamia was under his control.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_7]Hammurabi’s conquest didn’t end with the conquering of Larsa. His eyes turned to the north, where king Zimri-Lim held the Amorite Kingdom of Mari. Mari was rich, and they controlled the water. Rather than continuing to negotiate with the city for the use of the Euphrates River, Hammurabi challenged Mari. He razed the city instead of conquering it, potentially to send a message to all of Mesopotamia: he was the one to set the terms for negotiation. Hammurabi continued north from there to Eshnunna and by 1755 BC, he ruled all of Mesopotamia.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_8]He wasn’t a cruel king, regardless of what his invasions might otherwise say. He was called bani matim, or the builder of the land. He cared for his people even when he was away expanding his lands. He sent letters to his administrators with orders for the maintenance and decoration of the city. Hammurabi’s code was innovative in not only its strictness, but in its capacity for mercy – criminals were presumed innocent, for starters.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_CHAPTER_HISTORY_PARA_9]Like his father, Hammurabi trusted his son, Samsu-Iluna with the tasks of a king prior to his full ascension, so Hammurabi wasn’t concerned when age and illness caught up to him. However, following Hammurabi’s death in 1750 BC, Samsu-Iluna proved unable to hold back the invasions that followed. Barely a year after his death, his kingdom started to fall. Whether it was because his successors lacked the charisma, intelligence, or humble wisdom, or simply because alliances weren’t maintained, the kingdom was never as vast or secure as it was under Hammurabi’s reign.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_QUOTE]Anu and Bel called my name, Hammurabi, exalted prince, the reverent, to bring about the rule of righteousness in the land.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_HAMMURABI_TITLE]Hammurabi</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BABYLONIAN_SABUM_KIBITTUM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_UNITS_PAGE_UNIT_BABYLONIAN_SABUM_KIBITTUM_CHAPTER_HISTORY_PARA_1]After Hammurabi’s time, Babylon was occupied by the Assyrians, who reshaped Mesopotamian warfare. The Assyrian king Tiglath Pileser III took up what was originally a collection of conscripted farmers and made from them an integrated army, with different units taking up different tasks (e.g. supply lines, communication, engineering, etc). Further, the Assyrian troops used iron weapons, when most of their contemporaries were still using bronze. The Assyrian sabum kibittum – shock troops – would have been terrifying. What they left behind certainly was; in their monuments, Assyrian kings repeated, “I destroyed, I devastated, and burned with fire.”</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_KUDO_EXIT_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TOOLTIP_KUDO_EXIT_HAMMURABI_ANY]Your civilization thrives through its diversity of structures</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT]Hammurabi likes civilizations who have lots of districts of different types</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT_NEGATIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT_NEGATIVE]Hammurabi dislikes civilizations who do not have many districts or who specialize in one type</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT_POSITIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT_POSITIVE]Hammurabi likes civilizations who have lots of districts of different types</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_WARNING_EXIT_HAMMURABI_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TOOLTIP_WARNING_EXIT_HAMMURABI_ANY]Overspecialization is a curse to all manking</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="pt_BR">
+      <Text>Piratas</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="pt_BR">
+      <Text>Saqueie os mares durante a era de ouro da pirataria.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="pt_BR">
+      <Text>Iô-hô, marujos! Nesta Era de Ouro dos bucaneiros, esse mar tropical é um lugar perigoso e sem lei. E você tem culpa no cartório. Tem montões de ouro escondidos nos porões de galeões espanhóis, cidades inglesas, fragatas francesas e mercadores holandeses, ouro que está pedindo para ser roubado. Mas você é pirata suficiente para fazer sua fama e fortuna e virar o temível Almirante Negro? Ou cairá nas guerras de Davy Jones ou Jack Ketch? Crie sua frota de saveiros e bergantins, encontre ouro enterrado e ateie fogo nas cidades inimigas!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="pt_BR">
+      <Text>Durante a era de ouro da pirataria, os mares tropicais são locais perigosos e sem lei. Você é um dos motivos. Será que você consegue roubar as riquezas das grandes potências coloniais, espalhar sua sinistra reputação pelos mares e não perder literalmente a cabeça? Construa uma frota de piratas, encontre tesouros enterrados, enfrente outros temíveis piratas, saqueie e pilhe as cidades dos mares do sul e faça sua fama e fortuna!</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="pt_BR">
+      <Text>Cenário Multijogador: Piratas</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="fr_FR">
+      <Text>Pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="fr_FR">
+      <Text>Pillez les hautes mers pendant l'âge d'or de la piraterie !</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="fr_FR">
+      <Text>Ha ha, camarades ! Dans cet âge d'or des boucaniers, les mers tropicales sont sans foi ni loi, et vous n'y êtes pas pour rien. Des montagnes d'or sont cachées dans les cales des galions espagnols et dans les villes britanniques, dans les frégates françaises et les navires marchands néerlandais, et cet or n'attend que d'être volé ! Serez-vous un assez bon pirate pour amasser gloire et fortune, et devenir le redouté Amiral de la Flotte noire ? Ou tomberez-vous entre les griffes de Davey Jones ou Jack Ketch ? Formez votre flotte de sloops et de brigantins, déterrez des trésors et embrasez les villes de vos ennemis !</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="fr_FR">
+      <Text>Au cours de l'âge d'or de la piraterie, les mers tropicales grouillaient de dangers, et notamment par votre faute. Parviendrez-vous à voler les richesses des grandes puissances coloniales et à propager votre réputation d'ignominie de par les flots, tout en conservant votre tête ? Formez une flotte de pirates, déterrez des trésors, rencontrez d'autres pirates notoires, et pillez les villes des mers du sud pour amasser gloire et fortune !</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="fr_FR">
+      <Text>Scénario multijoueur : Pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="de_DE">
+      <Text>Piraten</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="de_DE">
+      <Text>Durchstreift im goldenen Zeitalter der Piraterie die Weltmeere auf der Suche nach Beute.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="de_DE">
+      <Text>Arr, Männer! In diesem Goldenen Zeitalter der Bukaniere sind die tropischen Gewässer gefährliche und gesetzlose Orte. Ihr seid ein Grund dafür. Es gibt jede Menge Gold im Frachtraum spanischer Galeonen, in englischen Städten, auf französischen Fregatten und in den Händen holländischer Kauffahrer – Gold, das gestohlen werden will! Seid Ihr Pirat genug, um Euren Ruhm und Wohlstand zu mehren und zum gefürchteten Admiral der Schwarzflagge zu werden? Oder werdet Ihr dem berüchtigten Davey Jones oder Jack Ketch zum Opfer fallen? Stellt eine Flotte aus Schaluppen und Brigantinen auf, findest vergrabenes Gold und setzt die Städte Eurer Widersacher in Brand!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="de_DE">
+      <Text>Während des Goldenen Zeitalters der Piraterie sind die tropischen Gewässer gefährliche und gesetzlose Orte. Ihr seid ein Grund dafür. Könnt Ihr die großen Kolonialmächte bestehlen, Euren gefürchteten Ruf über das gesamte Meer verbreiten und Euren Kopf auf Euren Schultern bewahren? Stellt eine Piratenflotte auf, findet vergrabene Schätze, kämpft gegen andere gefürchtete Piraten und überfallt und plündert die Städte der Südsee, um Euren Ruhm und Wohlstand zu mehren!</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="de_DE">
+      <Text>Multiplayer-Szenario: Piraten</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="it_IT">
+      <Text>Pirati</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="it_IT">
+      <Text>Saccheggia i sette mari durante l'età dell'oro della pirateria.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="it_IT">
+      <Text>Arr, compari! In quest'età dell'oro dei bucanieri, i mari tropicali sono luoghi pericolosi, senza legge. E di quei pericoli voi siete proprio il peggiore! Ci sono fiumi d'oro nelle stive dei galeoni spagnoli e nelle cittadine inglesi, nelle fregate di Francia e nelle navi mercantili olandesi, oro che aspetta solo di essere rubato! Sarete abbastanza uomini da costruirvi fama e fortuna fino a diventare il temibile Ammiraglio delle bandiere nere? O finirete nelle grinfie di boia come Davey Jones o Jack Ketch? Costruite una flotta di sloop e brigantini, scoprite tesori sepolti e riducete in cenere le città nemiche!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="it_IT">
+      <Text>Durante l'età d'oro della pirateria i mari tropicali sono luoghi pericolosi, senza legge. Tu fai parte di quei pericoli! Riuscirai ad appropriarti delle ricchezze delle grandi potenze coloniali, diffondere la tua losca reputazione in tutti i mari e tenere la testa attaccata alle spalle? Costruisci una flotta pirata, scopri tesori sepolti, incontra altri pirati famigerati, saccheggia le città portuali dei mari del Sud alla ricerca di fama e fortuna!</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="it_IT">
+      <Text>Scenario multigiocatore: Pirati</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="ja_JP">
+      <Text>海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="ja_JP">
+      <Text>海賊の黄金時代を舞台に、大海原で暴れ回りましょう。</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="ja_JP">
+      <Text>よお、海賊ども！ この海賊の黄金時代、熱帯の海には法も安全な場所もありゃしない。あんたもその一因さ。スペインのガレオン船の船倉、イギリスの植民都市、フランスのフリゲート艦、オランダの商人、どこもかしこも奪われるのを待ってる黄金でいっぱいだ！ 富を築き、名を上げ、泣く子も黙る黒の提督に成り上がる才覚があんたにあるかい？ それとも海の藻屑となり、死神どもの手の中におさまる運命か？ さあ、スループ船とブリガンティンで艦隊を編成し、隠された黄金を見つけ出し、敵の都市に火を放て！</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="ja_JP">
+      <Text>海賊の黄金時代、熱帯の海は危険に満ちた無法地帯でした。あなたもその一因です。はたしてあなたは強大な植民地帝国の富を奪い、悪名を大海原に轟かせることができるでしょうか？ 富と名声を求めて海賊艦隊を築き、隠された財宝を見つけ、他の恐るべき海賊たちに立ち向かい、南海の都市で略奪のかぎりを尽くしましょう！</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="ja_JP">
+      <Text>マルチプレイヤーシナリオ: 海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="ko_KR">
+      <Text>해적</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="ko_KR">
+      <Text>해적 황금기에 바다를 약탈하세요.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="ko_KR">
+      <Text>안녕하신가, 친구들! 해적 황금기의 열대 바다는 위험한 무법 지대가 되네. 자네도 함께 하지. 스페인 갈레온 요새와 영국 도시, 프랑스 구축함과 네덜란드 상선에는 훔치기에 적당한 대량의 금이 숨겨져 있다네. 부와 명성을 쌓는 해적이 되고, 공포의 검은 제독이 될 텐가? 아니면 데비 존스나 잭 케치의 손아귀에 떨어질 텐가? 자네의 범선 함대를 세우고, 묻힌 금을 찾고, 적들의 도시에 불을 붙이게!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="ko_KR">
+      <Text>해적 황금기의 열대 바다는 위험한 무법 지대였습니다. 당신도 그 이유입니다. 거대 식민국의 재산을 훔치고, 해상에 악랄한 명성을 떨치고, 목이 달아나지 않도록 할 수 있나요? 해적 함대를 만들고, 땅속 보물을 찾고, 다른 공포의 해적과 조우하고, 남쪽 바다의 도시를 약탈하며 부와 명예를 쌓으세요!</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="ko_KR">
+      <Text>멀티플레이어 시나리오: 해적</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="pl_PL">
+      <Text>Piraci</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="pl_PL">
+      <Text>Grasuj na morzach podczas złotej ery piratów.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="pl_PL">
+      <Text>Ahoj, piracie! Mamy złoty wiek korsarzy i na tropikalnych morzach króluje bezprawie. Między innymi przez ciebie! Ładownie hiszpańskich galeonów pełne są złota czekającego, by je zagrabić, a angielskie miasta, francuskie fregaty i holenderscy kupcy aż się proszą o napaść. Masz w sobie dość odwagi, żeby zyskać fortunę i sławę i stać się siejącym grozę admirałem spod czarnej bandery? A może wpadniesz w łapy Davy'ego Jonesa lub Jacka Ketcha? Zbierz flotę slup i brygantyn, znajdź zakopane złoto i puść z dymem miasta wrogów!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="pl_PL">
+      <Text>Podczas złotego wieku piractwa na tropikalnych morzach króluje bezprawie. Między innymi z twojego powodu. Czy zdołasz ukraść bogactwa kolonialnych potęg, siać grozę na morzach i zachować głowę? Stwórz piracką flotę, znajdź zakopany skarb, staw czoła innym piratom i najeżdżaj oraz plądruj wybrzeże południowych mórz, zyskując przy tym sławę i bogactwo!</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="pl_PL">
+      <Text>Scenariusz gry wieloosobowej: Piraci</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="ru_RU">
+      <Text>«Пираты»</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="ru_RU">
+      <Text>Станьте грозным морским волком в эпоху Золотого века пиратства.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="ru_RU">
+      <Text>Свистать всех наверх! Тут у нас золотой век буканьеров, так что ходить по южным морям стало опасно. Да-да, из-за тебя тоже. Испанские галеоны, английские города, французские фрегаты, голландские флейты — все только и ждут, чтоб поделиться с тобой золотишком. Хватит ли тебе духу разбогатеть и прославиться, стать грозой морей, адмиралом Чёрных? Или сгинешь бесследно в лапах Дейви Джонса, а то и на плахе? Собирай шлюпы и бригантины, строй флот, ищи сокровища, запускай красного петуха в города врагов!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="ru_RU">
+      <Text>Золотой век пиратства. Тропические моря — территория разбоя и беззакония. В том числе и благодаря вам. Удастся ли вам ограбить великие колониальные державы, стать грозой морей и при этом сохранить голову на плечах? Создавайте пиратский флот, ищите клады, сражайтесь с другими пиратами, грабьте прибрежные города — и пусть ваша слава растёт вместе с вашим богатством!</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="ru_RU">
+      <Text>Сетевой сценарий: Пираты</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="zh_Hans_CN">
+      <Text>大海盗时代</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="zh_Hans_CN">
+      <Text>在海盗黄金时代中纵横四海。</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>嗨，伙计！在这个海盗黄金时代里，热带海域是凶险无比的法外之地。而您也在其中兴风作浪。西班牙舰队、英国城镇、法国船队和荷兰商人那里有着数之不尽的财富，您只想找他们讨点买路财。您能否累积起自己的财富和声望，成为独霸一方的黑旗船长？还是会被押上断头台，引刀成一快？打造自己无敌的海盗舰队、找到埋藏的秘宝，再把敌人的城市付之一炬！</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="zh_Hans_CN">
+      <Text>在海盗的黄金时代，热带海域是危机四伏的法外之地。您也是其中一份子。您能否从强大殖民势力的手中夺走财富、将您的赫赫威名传遍五湖四海，同时保住自己的项上人头？打造海盗船队、寻找藏宝、遭遇其他恐怖海盗、掠夺南部海域城市，积累自己的声望和财富！</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="zh_Hans_CN">
+      <Text>多人情景：大海盗时代</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="es_ES">
+      <Text>Piratas</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="es_ES">
+      <Text>Saquea los mares durante la Edad de Oro de la piratería.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="es_ES">
+      <Text>¡Arr, camarada! En esta edad de oro de los bucaneros, la mar tropical será un lugar peligroso y sin ley. Y tú serás parte del motivo. Hay oro en abundancia escondido en las bodegas de los galeones españoles y en las ciudades inglesas, en las fragatas francesas y en los mercantes holandeses, oro que está pidiendo a gritos que lo roben. ¿Serás lo bastante pirata para amasar fortuna y fama y convertirte en el temible Almirante de la Flota Negra? ¿O caerás en las garras de Davey Jones o Pedro Botero? ¡Construye una flota de corbetas y bergantines, encuentra oro enterrado y prende fuego a las ciudades enemigas!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="es_ES">
+      <Text>Durante la edad de oro de la piratería, los mares tropicales son lugares peligrosos y sin ley. Y tú eres parte del motivo. ¿Serás capaz de robar la riqueza de las grandes potencias coloniales, dar a conocer tu maltrecha reputación por los mares y conservar la cabeza? Construye una flota pirata, busca tesoros enterrados, enfréntate a otros piratas temibles y saquea las ciudades de los mares del sur mientras ganas fama y fortuna.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="es_ES">
+      <Text>Escenario multijugador: Piratas</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="zh_Hant_HK">
+      <Text>海賊大時代</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="zh_Hant_HK">
+      <Text>在海盜的黃金時代中掠奪五湖四海。</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>啊，夥計！在這海賊的黃金時代中，熱帶海域成了無法無天的危險地帶。而你正是其中的一份子。無論是西班牙的蓋倫帆船、英國的城鎮、法國的護衛艦還是荷蘭的商船，當中都有著等待你前往豪奪的黃金。你是否夠膽親手打造自己的名聲與財富，成為嚇人的黑旗海盜元帥呢？還是說你會死在深海閻王或劊子手之手呢？打造屬於你的大小船隊、找到埋藏的寶藏，然後放把火燒了仇敵的城市吧！</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="zh_Hant_HK">
+      <Text>在海盜的黃金時代，熱帶地區的海域成了危險且無法無天的地方。而你就是造成此局面的原由之一。你是否能搶奪殖民地豪強的財富、將你的赫赫威名傳遍四海，同時保住自己的項上人頭呢？打造一支海盜艦隊、尋找埋藏的寶藏、遭遇其他嚇人海盜，然後掠奪南方海域的各大城市，建立屬於自己的名聲與財富！</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="zh_Hant_HK">
+      <Text>多人遊戲情景：海賊大時代</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

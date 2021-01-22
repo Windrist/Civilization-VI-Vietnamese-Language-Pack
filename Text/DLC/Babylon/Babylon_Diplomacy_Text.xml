@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Hammurabi-->
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HAMMURABI_ANY">
+			<Text>Like two horses pulling a common chariot, so shall our friendship pull us forward!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HAMMURABI_ANY">
+			<Text>I have sent your offer back. It is stamped 'rejected.'</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>I have drafted a contract of friendship. Will you make your mark upon it?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>Friendship is a sacred pact. Let us enter into it.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>Friendship is a sacred pact. I cannot agree at this time</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HAMMURABI_ANY">
+			<Text>Who are you to oppose Hammurabi? You are dust, mere dirt I shake from my sandals.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>I have broken the walls of Adab and Nippur in war. Thus I shall break your cities.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HAMMURABI_ANY">
+			<Text>Your envoys climbed the great zuggurat with me, and gazed upon the gardens and rooftops of Babylon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HAMMURABI_ANY">
+			<Text>Your delegation does not have the correct permits to come. The permit office is closed right now.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>We invite you to taste the riches of Babylon. This dish is called 'the unwinding'.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HAMMURABI_ANY">
+			<Text>Lawless vulture, profaner of shrines, one who is hated by many gods! It is only by my great mercy that I still speak with you.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>Your words are perjury. Your oaths are a field in time of famine. Great Anu, forgive me for speaking with this one! (Denounces You).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_HAMMURABI_ANY">
+			<Text>I fill my storehouses with grain and my wells with water. The gods bless my name: Hammurabi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HAMMURABI_ANY">
+			<Text>Come and see the glories of Babylon and see our gardens - the desert blooms with life!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HAMMURABI_ANY">
+			<Text>Yes.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HAMMURABI_ANY">
+			<Text>Show me your capital, and I will tell you of Babylon. It is only fair.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_HAMMURABI_ANY">
+			<Text>What do you want?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HAMMURABI_ANY">
+			<Text>To copy Hammurabi is the best course. You do this, which is good.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HAMMURABI_ANY">
+			<Text>You must do what I tell you, or I may destroy you.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>I have sent to you a tablet with our names united. Will you make your mark on it?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HAMMURABI_ANY">
+			<Text>By pressing my seal into this tablet, I hereby agree to peace.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HAMMURABI_ANY">
+			<Text>We are not yet in accord. War continues.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>I send to you a request for peace. Please fill it out and send me a receipt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HAMMURABI_ANY">
+			<Text>I have issued a permit for your troops to pass through Babylon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HAMMURABI_ANY">
+			<Text>The walls of Babylon are closed to you. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>This tablet asks for safe passage for my troops. Will you put your mark on it?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HAMMURABI_ANY">
+			<Text>In the footsteps of your troops I hear the drumbeat of war. Move them back.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_HAMMURABI_ANY">
+			<Text>My troops are mine; they go where I order them to go.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_HAMMURABI_ANY">
+			<Text>I have put my seal upon it. My troops will withdraw  from your borders.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>Anu! Answer your servant! Why have you allowed my defeat? </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>The scales do not balance.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_HAMMURABI_ANY">
+			<Text>A deal well struck gives me the greatest pleasure. </Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

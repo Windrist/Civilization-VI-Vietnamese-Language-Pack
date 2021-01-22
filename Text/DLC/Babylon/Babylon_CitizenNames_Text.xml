@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Babylon-->
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MALE_1">
+			<Text>Dadanum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MALE_2">
+			<Text>Enusat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MALE_3">
+			<Text>Ea-nasir</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MALE_4">
+			<Text>Demeetheresu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MALE_5">
+			<Text>Baassiia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MALE_6">
+			<Text>Naram-Sin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MALE_7">
+			<Text>Sargon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MALE_8">
+			<Text>Rihat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MALE_9">
+			<Text>Ubar</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MALE_10">
+			<Text>Zuuthusu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_FEMALE_1">
+			<Text>Baunu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_FEMALE_2">
+			<Text>Munawwirtum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_FEMALE_3">
+			<Text>Nidintu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_FEMALE_4">
+			<Text>Ahati-waqrat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_FEMALE_5">
+			<Text>Gemeti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_FEMALE_6">
+			<Text>Ia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_FEMALE_7">
+			<Text>Iltani</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_FEMALE_8">
+			<Text>Ettu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_FEMALE_9">
+			<Text>Erishti-Aya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_FEMALE_10">
+			<Text>Arwia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_1">
+			<Text>Abbas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_2">
+			<Text>Adil</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_3">
+			<Text>Adnan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_4">
+			<Text>Ferran</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_5">
+			<Text>Faris</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_6">
+			<Text>Dabir</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_7">
+			<Text>Daoud</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_8">
+			<Text>Dekel</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_9">
+			<Text>Hud</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_MALE_10">
+			<Text>Imran</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_1">
+			<Text>Afra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_2">
+			<Text>Janay</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_3">
+			<Text>Jesenia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_4">
+			<Text>Maysun</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_5">
+			<Text>Maja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_6">
+			<Text>Salama</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_7">
+			<Text>Sadia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_8">
+			<Text>Tahira</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_9">
+			<Text>Faizah</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BABYLON_MODERN_FEMALE_10">
+			<Text>Bushra</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

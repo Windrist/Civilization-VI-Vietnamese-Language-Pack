@@ -1,0 +1,899 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_AGENDA_AMBIORIX_ARMY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_AGENDA_AMBIORIX_ARMY_DESCRIPTION]Likes numerous combat units. Dislikes civilizations with tiny armies.</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_AMBIORIX_ARMY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_AGENDA_AMBIORIX_ARMY_NAME]Scourge of Rome</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BASIL_ZEALOT_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_AGENDA_BASIL_ZEALOT_DESCRIPTION]Likes civilizations that follow the same religion. Dislikes civilizations that don't predominantly follow his religion.</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_BASIL_ZEALOT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_AGENDA_BASIL_ZEALOT_NAME]Divine Guardian</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BIOSHPERE_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BUILDING_BIOSHPERE_QUOTE]"Heaven is under our feet as well as over our heads"[NEWLINE]- Henry David Thoreau</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BIOSPHERE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BUILDING_BIOSPHERE_DESCRIPTION]When completed receive 100 [ICON_SCIENCE] Science for every Marsh, Rainforest, and Woods in this city. +1 Appeal to tiles adjacent to Rainforest and Marsh in your empire. Must be built along a River adjacent to a Neighborhood district.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BIOSPHERE_EXPANSION2_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BUILDING_BIOSPHERE_EXPANSION2_DESCRIPTION]+200% [ICON_POWER] Power for all Offshore Windfarms, Solar Farms, Wind Farms, Geothermal Plants, and Hydroelectric Dams. This building and these improvements provide [ICON_TOURISM] Tourism equal to their [ICON_POWER] Power. +1 Appeal to tiles adjacent to Rainforest and Marsh in your empire. Must be built along a River adjacent to a Neighborhood district.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BIOSPHERE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BUILDING_BIOSPHERE_NAME]Biosphère</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_STATUE_OF_ZEUS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BUILDING_STATUE_OF_ZEUS_DESCRIPTION]Grants 3 Archers, 3 Spearmen, and a Battering Ram. +50% [ICON_PRODUCTION] Production towards anti-cavalry units. Must be built on flat land adjacent to an Encampment district with a Barracks.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_STATUE_OF_ZEUS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BUILDING_STATUE_OF_ZEUS_NAME]Statue of Zeus</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_STATUE_OF_ZEUS_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BUILDING_STATUE_OF_ZEUS_QUOTE]“Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory”[NEWLINE]- Samuel Augustus Mitchell</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_FEMALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_FEMALE_1]Yolanda</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_FEMALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_FEMALE_10]Athenais</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_FEMALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_FEMALE_2]Martina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_FEMALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_FEMALE_3]Eulogia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_FEMALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_FEMALE_4]Epiphania</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_FEMALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_FEMALE_5]Ariadne</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_FEMALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_FEMALE_6]Agatha</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_FEMALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_FEMALE_7]Eudocia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_FEMALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_FEMALE_8]Joannina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_FEMALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_FEMALE_9]Theodora</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MALE_1]Arcadius</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MALE_10]Stylian</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MALE_2]Damianus</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MALE_3]Ignatios</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MALE_4]Justinian</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MALE_5]Leo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MALE_6]Niketas</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MALE_7]Phocas</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MALE_8]Theoktistos</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MALE_9]Valens</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_FEMALE_1]Konstantina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_FEMALE_10]Evi</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_FEMALE_2]Michaela</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_FEMALE_3]Marialena</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_FEMALE_4]Rafaela</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_FEMALE_5]Georgia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_FEMALE_6]Alexandra</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_FEMALE_7]Danae</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_FEMALE_8]Despina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_FEMALE_9]Athina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_MALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_MALE_1]Konstantinos</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_MALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_MALE_10]Demetres</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_MALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_MALE_2]Christos</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_MALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_MALE_3]Agrim</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_MALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_MALE_4]Panagiotis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_MALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_MALE_5]Stavros</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_MALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_MALE_6]Kostas</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_MALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_MALE_7]Alexandros</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_MALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_MALE_8]Ierotheos</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_BYZ_MODERN_MALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_BYZ_MODERN_MALE_9]Nikolas</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_FEMALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_FEMALE_1]Boudica</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_FEMALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_FEMALE_10]Aia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_FEMALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_FEMALE_2]Dewognata</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_FEMALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_FEMALE_3]Kunopennos</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_FEMALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_FEMALE_4]Luguselwa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_FEMALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_FEMALE_5]Aiias</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_FEMALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_FEMALE_6]Potita</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_FEMALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_FEMALE_7]Vlatucia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_FEMALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_FEMALE_8]Adiega</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_FEMALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_FEMALE_9]Diligenta</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MALE_1]Sudarix</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MALE_10]Wenikaros</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MALE_2]Atilkoryos</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MALE_3]Axrotalus</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MALE_4]Lukotorix</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MALE_5]Katurix</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MALE_6]Dubnorix</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MALE_7]Bodyokassos</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MALE_8]Segomaros</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MALE_9]Orgetorix</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_FEMALE_1]Lore</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_FEMALE_10]Hanne</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_FEMALE_2]Aya</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_FEMALE_3]Mila</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_FEMALE_4]Chloe</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_FEMALE_5]Elise</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_FEMALE_6]Clara</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_FEMALE_7]Margot</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_FEMALE_8]Valentina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_FEMALE_9]Marion</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_MALE_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_MALE_1]Jan</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_MALE_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_MALE_10]Valentine</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_MALE_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_MALE_2]Cornelis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_MALE_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_MALE_3]Matthys</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_MALE_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_MALE_4]Jakob</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_MALE_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_MALE_5]Pieter</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_MALE_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_MALE_6]Gillis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_MALE_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_MALE_7]Ghildolf</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_MALE_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_MALE_8]Willem</Text>
+    </Replace>
+    <Replace Tag="LOC_CITIZEN_GAUL_MODERN_MALE_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITIZEN_GAUL_MODERN_MALE_9]Robine</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ADRIANOPLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ADRIANOPLE]Adrianople</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ADUATUCA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ADUATUCA]Aduatuca</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_AGEDINCUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_AGEDINCUM]Agedincum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ALESIA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ALESIA]Alesia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_AMASEIA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_AMASEIA]Amaseia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_AMORIUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_AMORIUM]Amorium</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ANCYRA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ANCYRA]Ancyra</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ANDEMATUNNUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ANDEMATUNNUM]Andematunnum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ANICIUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ANICIUM]Anicium</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ANTIOCH_BYZANTIUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ANTIOCH_BYZANTIUM]Antioch</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ARCADIOPOLIS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ARCADIOPOLIS]Arcadiopolis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_AREGENUA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_AREGENUA]Aregenua</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ATTALEA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ATTALEA]Attalea</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_AUTRICUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_AUTRICUM]Autricum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_AVARICUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_AVARICUM]Avaricum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BAGACUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_BAGACUM]Bagacum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BARI" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_BARI]Bari</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BIBRACTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_BIBRACTE]Bibracte</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BIBRAX" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_BIBRAX]Bibrax</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BRENODURUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_BRENODURUM]Brenodurum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CENABUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_CENABUM]Cenabum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CHERSON" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_CHERSON]Cherson</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CONDATE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_CONDATE]Condate</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CONSTANTINOPLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_CONSTANTINOPLE]Constantinople</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CROCIATONUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_CROCIATONUM]Crociatonum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DARIORITUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_DARIORITUM]Darioritum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DIVODURUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_DIVODURUM]Divodurum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DORYLAEUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_DORYLAEUM]Dorylaeum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DORYSTOLON" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_DORYSTOLON]Dorystolon</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DUROCORTERON" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_DUROCORTERON]Durocorteron</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_DYRRACHIUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_DYRRACHIUM]Dyrrachium</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_EDESSA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_EDESSA]Edessa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GERGOVIA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_GERGOVIA]Gergovia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ICONIUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ICONIUM]Iconium</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_KOLONEIA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_KOLONEIA]Koloneia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_LIMONUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_LIMONUM]Limonum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_LISIEUX" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_LISIEUX]Lisieux</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_LUGUDUNON" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_LUGUDUNON]Lugudunon</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_LUTETIA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_LUTETIA]Lutetia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_MELEDUNUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_MELEDUNUM]Meledunum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_MELITENE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_MELITENE]Melitene</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_MESEMBRIA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_MESEMBRIA]Mesembria</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_MOUNT_ATHOS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_MOUNT_ATHOS]Mount Athos</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NICAEA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_NICAEA]Nicaea</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NICOMEDIA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_NICOMEDIA]Nicomedia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NICOPOLIS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_NICOPOLIS]Nicopolis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NOVIODUNUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_NOVIODUNUM]Noviodunum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_RATUMACOS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_RATUMACOS]Ratumacos</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_RUSCINO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_RUSCINO]Ruscino</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SAMAROBRIVA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_SAMAROBRIVA]Samarobriva</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SEBASTEIA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_SEBASTEIA]Sebasteia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SELEUCIA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_SELEUCIA]Seleucia</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SINOPE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_SINOPE]Sinope</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TERVANNA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_TERVANNA]Tervanna</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_THEODOSIOPOLIS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_THEODOSIOPOLIS]Theodosiopolis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_THESSALONICA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_THESSALONICA]Thessalonica</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TREBIZOND" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_TREBIZOND]Trebizond</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TURONES" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_TURONES]Turones</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TYANA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_TYANA]Tyana</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_UXELLODUNUM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_UXELLODUNUM]Uxellodunum</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_VESONTIO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_VESONTIO]Vesontio</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ZARA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ZARA]Zara</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_BYZANTIUM_CAPITAL" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_BYZANTIUM_CAPITAL]Constantinople</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_BYZANTIUM_LOCATION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_BYZANTIUM_LOCATION]Location: Eastern Mediterranean (modern-day Turkey, Greece)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_BYZANTIUM_POPULATION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_BYZANTIUM_POPULATION]26 million (at maximum, around 540 AD).</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_BYZANTIUM_SIZE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_BYZANTIUM_SIZE]1.5 million square miles (about 4 million square km)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_GAUL_CAPITAL" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_GAUL_CAPITAL]No centralized capital; Ambiorix’s tribe had a fort at Atuatuca</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_GAUL_LOCATION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_GAUL_LOCATION]Western Europe (around modern-day France)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_GAUL_POPULATION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_GAUL_POPULATION]No clear figures; estimated around 6-8 million in Ambiorix’s time.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVINFO_GAUL_SIZE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVINFO_GAUL_SIZE]Approximately 200,000 square miles (500,000 square km)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY]Welcome to my camp! I promise that there is no one hiding in the closet with a sword. At this time.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY]You have chosen the side of Rome, and God, and me.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMBIORIX_ANY]Well done! We stand as kin!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BASIL_ANY]Our people stand as one! Well, mine stand just a bit higher, but you see what I mean.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AMBIORIX_ANY]I personally led your delegation on a hunt! They were adequate.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_BASIL_ANY]Your delegation was shown the wonders of the Empire. I hope they can resign themselves to returning to your lands.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AMBIORIX_ANY]For now, we accept.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_BASIL_ANY]This is a good deal for the Empire, and for you.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMBIORIX_ANY]Your people are welcome to walk through Gaul.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_BASIL_ANY]I wish your soldiers God's grace on their passage through our lands. </Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY]Join hands with me, and together our people will crush our rivals!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY]Come! Be a friend with the glory of Rome! Be a friend to God!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AMBIORIX_ANY]I have bested many enemies in war before, and finally I shall match my strength against yours!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BASIL_ANY]You deserve nothing less than war, but in my abundant mercy, I will make it brief and decisive. </Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AMBIORIX_ANY]Peace is stifling. Only in war can we see who is the greater chief. </Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BASIL_ANY]I shall tell my historians to record your empire for the future, after I have ground your cities into the dust.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AMBIORIX_ANY]Such power! Perhaps I underestimated you before. Now, in defeat, I will give you the respect you are due.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DEFEAT_FROM_AI_LEADER_BASIL_ANY]Has God withdrawn his favor from me, that Rome must fall? Oh, what a calamity!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AMBIORIX_ANY]Our envoys carry with them salted hams, wild game, and barrels and barrels of wine! Come, let us feast!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BASIL_ANY]We send to you all the delights of Anatolia: fermented murri, olive oil, wine, kefalotyri. I hope you have the good taste to appreciate them.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AMBIORIX_ANY]You think deceit and cowardice are virtues, but I, Ambiorix, see you for what you are. In time, so shall the rest of the world! (Denounces You)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_BASIL_ANY]Perversion and wickedness seep from your lands and stain the world! Soon the day will come where I shall cleanse your rot. (Denounces You)</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AMBIORIX_ANY]All the Gauls spit at the sound of your name, at your dark deeds, at your many crimes. I shall tell all the world that you are our mortal enemy!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_BASIL_ANY]Antichrist! Barbarian! Heretic! The foulness of your works is the source of all suffering in the world!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_LEADER_AMBIORIX_ANY]All you see is the land of the Gauls, and I am Ambiorix, their chief.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_LEADER_BASIL_ANY]You stand before Basil, Autocrat and Emperor of the Romans, scourge of my foes. Behold Rome!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AMBIORIX_ANY]Yes.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BASIL_ANY]Yes.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AMBIORIX_ANY]Come, I will tell you about the cities of Gaul, if you tell me about those of your lands.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BASIL_ANY]Let me show you the glory of the new Rome, and you can tell me of wherever it is that you come from.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AMBIORIX_ANY]Will you come to my city? We have opened a cask of wine that is, I promise, entirely safe to drink and not at all poisoned.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_BASIL_ANY]We have arranged a contest at the hippodrome between the Greens and the Blues. Care to come and make a wager?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_GREETING_LEADER_AMBIORIX_ANY]Well met.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_GREETING_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_GREETING_LEADER_BASIL_ANY]You may approach me.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_KUDO_EXIT_LEADER_AMBIORIX_ANY]So many troops! Ha ha! Look at them all!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_KUDO_EXIT_LEADER_BASIL_ANY]Your decisive actions, your great victories, all are a gift of God. Make sure you thank Him.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AMBIORIX_ANY]Let us sign a binding agreement where no one can betray each other. I'm serious this time.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_BASIL_ANY]Together, let us prosper with God's grace.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_AMBIORIX_ANY]Yes, let us lay down our arms. You have nothing to fear from Gaul. Promise!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_BASIL_ANY]God's blessing upon us. Let us have peace. </Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_AMBIORIX_ANY]Weakling! We will run your forces off the land!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_BASIL_ANY]God still cannot stand your wickedness! No!</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_AMBIORIX_ANY]I grow bored of the battlefield. Let us rest for now.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_BASIL_ANY]The Empire is ready for peace. Are you?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_AMBIORIX_ANY]My troops wish to pass through. We promise that the Gaesatae will put pants on.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_BASIL_ANY]Will you allow Imperial legions to march through your lands?</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY]I understand. You must be careful.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY]Friends? With you? No.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMBIORIX_ANY]I cannot put Gallic lives in your hands.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BASIL_ANY]You are not yet worthy enough to call yourself a friend to the Empire.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AMBIORIX_ANY]No, I will not open my gates for your men, regardless of how many gifts they bring.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_BASIL_ANY]We already have some of those. Thanks but no thanks.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AMBIORIX_ANY]I won't fall for your petty tricks.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_BASIL_ANY]Your offer is unworthy of Rome.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMBIORIX_ANY]The safety of Gaul is in its walls, and its borders. No.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_BASIL_ANY]We will not allow barbarians to set foot in the Empire. This means you, too. </Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_EXIT_LEADER_AMBIORIX_ANY]Your lands are quiet and peaceful. And weak.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_EXIT_LEADER_BASIL_ANY]You lack dignity, honor, piety, and all that makes a ruler righteous. Perhaps you should copy me.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_AMBIORIX_ANY]The Gauls roam where they please.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_BASIL_ANY]I order the legions, not you. </Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_AMBIORIX_ANY]Gaul means you no harm… today. We will retreat.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_BASIL_ANY]The legions will go elsewhere, in the name of peace.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AMBIORIX_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AMBIORIX_ANY]Your troops lurk nearby with weapons in hand. Send them away before I send them away. </Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_BASIL_ANY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_BASIL_ANY]Armed men flying your banners mass on my borders. They must leave.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_MINE_1_CULTURE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_MINE_1_CULTURE]+{1_num} [ICON_Culture] Culture from the adjacent Mines.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_MINE_1_FAITH" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_MINE_1_FAITH]+{1_num} [ICON_Faith] Faith from the adjacent Mines.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_MINE_1_GOLD" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_MINE_1_GOLD]+{1_num} [ICON_Gold] Gold from the adjacent Mines.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_MINE_1_PRODUCTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_MINE_1_PRODUCTION]+{1_num} [ICON_Production] Production from the adjacent Mines.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_MINE_1_SCIENCE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_MINE_1_SCIENCE]+{1_num} [ICON_Science] Science from the adjacent Mines.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION_ADJACENCY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_OPPIDUM_DESCRIPTION_ADJACENCY]Adjacency: Major [ICON_Production] Production bonus if adjacent to a Quarry improvement or strategic resource.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_STRATEGIC2_PRODUCTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_STRATEGIC2_PRODUCTION]+{1_num} [ICON_PRODUCTION] Production from the adjacent Strategic {1_Num : plural 1?resource; other?resources;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_GOVT_FILTER_GOLDEN" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GOVT_FILTER_GOLDEN]Golden</Text>
+    </Replace>
+    <Replace Tag="LOC_NAMED_LAKE_LAKE_NEUCHATEL_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NAMED_LAKE_LAKE_NEUCHATEL_NAME]Lake Neuchâtel</Text>
+    </Replace>
+    <Replace Tag="LOC_NAMED_MOUNTAIN_CEVENNES_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NAMED_MOUNTAIN_CEVENNES_NAME]Cévennes</Text>
+    </Replace>
+    <Replace Tag="LOC_NAMED_MOUNTAIN_EIFEL_MOUNTAINS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NAMED_MOUNTAIN_EIFEL_MOUNTAINS_NAME]Eifel Mountains</Text>
+    </Replace>
+    <Replace Tag="LOC_NAMED_RIVER_AISNE_RIVER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NAMED_RIVER_AISNE_RIVER_NAME]Aisne River</Text>
+    </Replace>
+    <Replace Tag="LOC_NAMED_RIVER_MEANDER_RIVER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NAMED_RIVER_MEANDER_RIVER_NAME]Meander River</Text>
+    </Replace>
+    <Replace Tag="LOC_NAMED_RIVER_PRUT_RIVER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NAMED_RIVER_PRUT_RIVER_NAME]Prut River</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_1]Byzantium - the Byzantine Empire - refers to the eastern part of the former Roman Empire. Its inhabitants wouldn’t have known the name “Byzantine,” rather, that term is one that came into use by later historians. It refers to the name of the village on which Constantine would found Constantinople (now Istanbul; Constantinople got the works). The east/west divide was one that is founded upon a fundamental cultural, linguistic, and political division within the Mediterranean, and one that is reflected in later schisms between Orthodox (Eastern) and Catholic (Western) Christianity. Byzantium continued the legacy of Rome’s progress and presence in the region until its fall to the Ottomans in 1453 and has had a profound impact upon Eastern Europe.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_10" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_10]In all of this strife, the Umayyad Caliphate, flush with new conquests in Spain, again saw a chance to take the city, and so a second siege of Constantinople was launched. This time, the Arabs aimed to win, and so secured (they thought) the loyalty of an ambitious general, Leo, who had also secured a military pact with the Bulgarians. Leo declared himself Emperor, but, rather than agree to be a vassal of the Umayyads, he closed the gates to them. With the ever-feared Greek fire, and with ingenious defenses (including a chain set up across a strategic waterway – simple, but enough to stop ships… and render them sitting ducks for more Greek fire). Leo set himself up as a new Roman dynasty, and Arab leaders withdrew – indeed, the failure of this siege likely altered the religious and political face of Eastern Europe and Russia as we know it.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_11" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_11]Thus far, the story of the Byzantines may seem to be one of decline. But the subsequent years were to be a time of restoration. Under Basil I and Basil II, the Byzantine empire reformed its military, adopting the professional tagma system and new innovations in cavalry. Byzantine forces repelled Arab invasions – now under the Abbasid Caliphate – across the Aegean coast, and Basil II led a brutal campaign to subjugate the Bulgarians, incorporating their remnants into the Empire in 1018 (they would become independent again over a century later). Even far-off events in Scandinavia were to influence Byzantium, as the Rus plundered down the Volga and the Normans threatened the Mediterranean, although, to be fair, some of these groups would also serve in the Byzantine military.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_12" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_12]In the 1100s, Byzantium had its final golden age. Arts and literature thrived, and both city and country saw great gains in infrastructure. Religion was vital to Byzantine life, and it was during the Byzantine Empire that the split between Catholicism, based in old Rome and the former West, and Orthodoxy, based in Byzantium, Greece and the East, happened. Influenced by Muslim ideas and drawing from the Biblical ban on creating “graven images,” Orthodox Christians in the 8th and 9th centuries opposed the creation of icons – images of religious figures, while the Roman pope disagreed (and which led to tensions that would mark the final loss of Byzantine Rome in 756). While the wave of this “iconoclasm” was to abate, it created a split that was to last, as the popes in Rome were no longer appointed by Constantinople. This schism became final in 1054, when the Western (Catholic) church split from the Eastern (Orthodox). The argument this time was not over icons, but over whether the pope in Rome held primacy over other cities’ patriarchs, as well as a host of ritual and theological matters. The split was both a symptom of and the cause for the divergence of Eastern and Western Europe, both in matters of script (Cyrillic vs Latin), language (Greek vs Latin), and custom.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_13" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_13]Nowhere was this split more evident than in the disastrous Fourth Crusade in 1204. In 1182, a usurper named Andronikos Komnenos entered Constantinople following the unpopular rule of a Latin-speaking and Western-oriented regent, the Princess Maria of Antioch, whom the populace accused of favoring Catholics over Orthodox. As the Maria was deposed, the Orthodox crown began a massacre of Catholic, Latin-speaking citizens of Constantinople. Shocked by this, the pope in Rome organized a crusade against Constantinople, and Western Crusaders arrived (albeit twenty years later) and sacked the city, killing many inhabitants and dealing the Byzantine Empire a nearly-fatal blow. What was most shocking here was the fact that a Christian power had ordered a holy war upon another Christian power. The East/West split was complete.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_14" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_14]Byzantium never recovered. While they retook Constantinople from the Crusaders, the Empire was mortally wounded. And yet another power was to enter the scene – Ottoman Turks, a Central Asian people who had previously been employed as mercenaries by Byzantine and Arab rulers, began to fight for their own kingdom. Byzantium slowly lost ground and, in 1453, the fabled walls of Constantinople fell to Ottoman bombards.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_15" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_15]Constantinople is now Istanbul. But its legacy extends as far as the Orthodox Church, into Russia, Greece, Egypt, and Eastern Europe. And the remnants of Constantinople’s famous Theodosian walls remain.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_2]Rome conquered Greece around 150 BC. But the relationship between the culturally strong but militarily weak Greece and conqueror Rome was complicated. Rome had appropriated Greek religion, philosophy, and learning for its own, but many Romans saw a fundamental difference between themselves and the Greeks. Whereas Rome was martial and expansionist, the Greeks preferred philosophy and poetry. The divide stayed: Latin on one side of the Adriatic, Greek on the other.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_3]As different as the East was, its link to trade routes made it vital to the Empire, a significance marked by the establishment of Constantinople as the capital of Rome in 330 AD. Constantine also was the first Roman Emperor to embrace Christianity, and both the geographic move and the religious change seemed to mark a new era in Roman history, one that would eventually lead to the Byzantine Empire. In the hundred years following Constantine, the Western empire suffered wave after wave of invasion from European barbarians, but the East remained relatively stable and prosperous – remember those trade routes to Persia, India, and China! By 476 AD, Rome’s last Western emperor had been deposed, and there was not another, marking for most historians Rome’s fall.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_4]But Rome didn’t really fall. Instead, the Roman Empire was now synonymous with Constantinople, and those people that historians (and we) call “Byzantine” just kept calling themselves “Roman.” The culture of the East was markedly different from the West. The East was largely Greek-speaking (although Byzantine subjects also spoke Coptic in Egypt, Syriac in the Near East, and other languages), and Christianity, while important in the West, was to become absolutely central to Byzantium. The Byzantine Emperor was, for his subjects, God’s representative on Earth and the defender of the Orthodox Christian faith.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_5]If Constantine was the spirit behind Byzantium, Justinian (r. 527-565) was the booster rocket that launched it. It almost didn’t take off, as riots by fans of rival chariot teams (each of which had acquired a political overtone) killed tens of thousands of people, left the city in ashes, and nearly killed the emperor. But worse than the chariot fans were the wars that Justinian had inherited: Byzantium had a hostile Sassanid (Persian) Empire on its borders as well as a series of barbarian kingdoms where the Western Empire used to be: Goths in Rome, Vandals in North Africa. Finally, Justinian inherited an empire with a dizzying array of often-contradictory laws and customs.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_6]These were daunting problems, but Justinian tackled them as best he could. In Constantinople, he appointed a council to review the relevant laws and compile a new “Code of Justinian.” He bought peace with the Persians. In Italy, Justinian retook Rome and parts of the Italian peninsula in a long, drawn-out war with the Gothic kingdoms. In North Africa, Justinian devastated the Vandal kingdom in a war that some historians estimate killed nearly five million. The appearance of the bubonic plague – the first such appearance in European or African history - might also have played a hand. In Justinian’s wake, the Empire was not entirely restored, but it was prosperous, and Rome was in Roman (well, Byzantine) hands again. Justinian’s was to be the greatest extent of the Byzantine Empire in history.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_7]But just when it seemed that Byzantium would reclaim Rome’s old title as the dominant power in the Mediterranean, a new player was to enter the game. About fifty years after Justinian’s death, an Arab prophet – Muhammad – arose. Arab powers, aided by their new faith, Islam, quickly expanded. While a unified Caliphate broke apart shortly after Muhammad’s death, the successor states – the Umayyad and Rashidun Caliphates – quickly took back territory that the Byzantines had taken from the Persians and, significantly, the exceedingly important provinces of Syria and Egypt. At the same time, new invaders from Northern Europe – the Slavs – threatened Byzantine holdings in the Balkans.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_8]Arab forces laid siege to Constantinople for the first (and not last) time in 674. They established naval bases nearby and used these to raid the great city for years. But Constantine IV, the then-Byzantine Emperor, and the city’s massive Theodosian walls were not to be undone so easily. He unleashed a new, devastating weapon upon the sea-borne forces: a mixture of oil and quicklime that burned even when floating on water. This new “Greek fire” drove off the besiegers, at least for now.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_9]The Byzantine Empire at this point was in a sad state. Constant raids, the loss of most of the West to barbarian groups, and the loss of much of its holdings in Africa and the Near East meant that much of the empire stagnated. Remember those important trade routes eastward? This gold now flowed to the Arab states. Byzantine cities emptied out, and Constantinople dwindled. The removal of troops from the Balkans in order to fight the Persians and Arabs gave Slavs – themselves retreating from other invasions from the Central Asian steppe – room to expand, and these new Slavic settlements united into Bulgaria, a sometimes-ally, often-enemy of the Byzantines.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_1]There was never a single king who ruled all of Gaul. Instead, the Gauls were a people unified by their language, religion, and social structure. The Gauls tried the patience of Caesar and the Romans, eventually provoking full-scale Roman domination. This was not to be the end of the Gauls, however, as the Gauls came to blend their culture with the Romans to create a unique identity during and after Roman occupation, and laying the foundation for France.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_2]The Gauls (according to the completely accurate accounts of Caesar) allegedly didn’t initially call themselves “Gauls,” but rather “Celtae." The eventual name of the region, "Gaul," is derived from a Celtic word meaning "foreigner". Gaul, then, was "the kingdom ruled by foreigners [i.e. the Romans]". Confusingly, the Roman "Galatia" or "Gallia Celtae" is based upon another Gaulish work, meaning "powerful". So, in other words, while the conquered Gauls told the Romans that they were the "powerful Celts," they told themselves "we're a nation ruled by foreigners." I'm sure their distant ancestors elsewhere in Celtic lands can relate. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_3]Before meeting Caesar—a thousand or so years before—the tribes that would come to form Gaul resided in Central France around the Rhine River valley. They migrated south towards the Mediterranean coast around the 5th century BC and established themselves in northern Italy. The Gauls didn’t stop there. They pushed down further into the Italian Peninsula and sacked Rome in 390 BC under the command of a man named Brennus (not to be confused with another leader named Brennos, who helped invade Greece around 278 BC). The Gauls were a fearsome and respected force. They allied with Hannibal Barca during the Second Punic War, between Rome and Carthage. Between this alliance and the sacking and subsequent plundering of Rome, the Romans were understandably upset. They pushed back against the invading Gauls and were able to eventually gain some ground against them, ultimately conquering them during the Gallic Wars. By 51 BC, Julius Caesar and his allies controlled Gaul. The conquest of Gaul was exactly what Caesar needed to establish himself: gold to pay off his debts (the Gauls had plenty) and a successful military campaign against a thorn in Rome’s side. Some tribes rebelled against the Roman occupation, notable among those being Vercingetorix’s tribe, the Arverni, and Ambiorix’s tribe, the Eburones. Both rebellions were ended not because of a lack of skill or determination, but a lack of resources and unity.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_4]Gaul was divided into three territories under the Roman Empire around 27 to 12 BC. Surprisingly, Emperor Augustus attempted to maintain the boundaries that were already in place using accounts from Julius Caesar. Peace was (relatively) preserved in the region until the appearance of invading Germanic tribes in the 3rd century AD.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_5]Before Roman occupation, Gaul was a rich, distinct society despite its multitude of separate tribes. They maintained numerous gold mines (which certainly drew Caesar’s attention), and the wealth was such that, following Caesar’s intervention, the price of gold dropped because so much was looted from Gaul. The craftsmen of Gaul used the gold to create elegant and practical works. Helmets were plated in gold. Necklaces known as “torcs,” which were horseshoe-shaped, were worn by women with matching bracelets.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_6]Gallic political and social organization was complex. The druids were among the highest standing citizens, and they acted as both spiritual and political leaders. They were not, contrary to popular belief and propaganda by the Romans, known for their human sacrifices. Instead, they were the lore keepers and healers for their tribes. They gave religious and political advice and, where needed, judged their people in trials. The Romans (particularly Emperor Claudius I) worked to suppress their practices and knowledge because of the influence they had over their followers. This, along with the introduction of the monotheistic religion of Christianity, utterly crushed the Druidic “Celtic” religion, leaving only a patchwork for historians to try to decipher later.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_7]Other than the druids, the Gauls were also led by a council of elders and their king, leading to co-ruled tribes in some instances. The tribes were largely autonomous, and this very division facilitated Caesar’s invasion. Under Roman rule, class divisions were exacerbated and solidified, as richer Gauls took on Roman cultural attributes—they dressed in the Roman style and spoke a mixture of their native Gaulish combined with Latin (something that was – eventually – to become French). They started building their homes and villages to mimic the Romans.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GAUL_CHAPTER_HISTORY_PARA_8]The descendants of the Gauls – the Celts – live today in Great Britain, Germany, the Balkans, Turkey, Spain, and, of course, France. Their legacy has been mixed with that of others: in addition to the Gauls, France was created out of the Franks (a Germanic tribe), invading Goths who settled during the later Roman Empire, and groups of invading Norsemen, as well as the Romans themselves!</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_HIPPODROME_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_HIPPODROME_CHAPTER_HISTORY_PARA_1]The Byzantines, like the Romans before them, loved their chariot races. At the hippodrome (from the Greek “horse way”), teams of four-horse chariots would careen around the U-shaped track – a slight improvement to the bloody gladiatorial pits of Rome. Rivalries between teams were so intense that they put modern-day soccer or football rivalries to shame. In 532, the “Nika riots” between rival fans burned down half of the city of Constantinople and nearly killed the emperor Justinian. The hippodrome was vitally important, then, to the happiness (and, sometimes, unhappiness) of the city’s inhabitants, and was a site where citizens could see and cheer along with (or against) their Emperor. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_OPPIDUM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_OPPIDUM_CHAPTER_HISTORY_PARA_1]Oppidum simple means “settlement” in Latin, but in practice it referred to a walled urban settlement of a small town in Rome’s provinces – especially Gaul, and as such marks the first real cities in Europe north of the Alps. A classic oppidum was a combination of city and fort. Previously, citizens lived outside of protective walls, whereas armed soldiers or nobles had a hill fort: a high, fortified position. With an oppidum, economic and productive activity could occur in relative safety even with enemies nearly. The walls, too, made a separation between city-dwellers and rural residents, and allowed the former to feel a little sense of superiority over the latter, even if these “cities” were quite small by our – or even Roman – standards.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_CAPSULE_BODY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_CAPSULE_BODY]Ambiorix builds a swarm of units to overwhelm his foes via strategic construction of mines and his unique Oppidum district.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_DETAILED_BODY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_DETAILED_BODY]The Gauls under Ambiorix have two main objectives: building mines and using this production to train an onslaught of units. Gaul’s unique civilization trait gives mines adjacency bonuses as well as [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism, meaning that building a lot of them is a must. In war, Ambiorix’s unique trait gives strength to units adjacent to each other, meaning that the more units, the stronger the army. To make Gaulish armies more effective, the Gaesatae unit gains bonuses when attacking cities or units stronger than it, and the unique district, the Oppidum, unlocks early and also carries with it a high adjacency bonus. Gaul is very strong for those seeking a Domination Victory, but also can be made to be an effective Culture-focused civilization as well.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_1]Ambiorix’s legacy survives through Caesar’s Gallic Wars. While his early life and what happened after he left Caesar’s notice is lost to history, his name lives on —or at least his title does, since Ambiorix is not a name but an epithet meaning “King in All Directions.” </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_2]Ambiorix was the co-ruler of the Eburone tribe of Gaul in what would become modern-day Belgium. He shared his kingship with Cativolcus, the elder leader of the tribe. Although Cativolcus was older (and perhaps wiser), he nevertheless bowed his head to Ambiorix when it came to handling the Roman occupation of Gaul. After the defeat of the Eburone’s Gallic overlords by Julius Caesear, the Eburones and Romans found themselves on relatively good terms - Roman intervention weakened the larger tribes and restored hostages to the Eburones. Ambiorix even directly benefitted since some of the hostages who were returned were family members of his.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_3]But the Romans were still an invasive force on Gallic land. Ambiorix’s patience wore thin when winter came, and the Romans demanded that the tribes surrender some of their food to supply Roman garrisons, despite knowing that food was scarce due to an earlier drought. Indutiomarus, a fellow chief from a nearby tribe, finally decided that even friendly Romans were too many Romans, and urged Ambiorix and other Gauls to rise up against the Roman occupation.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_4]The two kings attacked the Roman garrison under the command of Sabinus and Cotta. But the Gauls weren’t skilled in fighting a fortified camp. Ambiorix realized that outright warfare wouldn’t defeat his enemies here. He would have to use a different tactic. Ambiorix went to the gates and requested to negotiate with the Roman commanders. A consummate liar, Ambiorix put on a grand show when they arrived. It hadn’t been his idea to attack, Ambiorix wildly claimed. He was the leader of a small tribe, and he’d been bullied into submission—the Romans could understand that since they’d helped free some of his people from those dreadful bullies in the past. His own people were pressuring him to fight too, so what was a king to do? Ambiorix went on to warn the commanders of an impending attack. The Germans were coming, he cautioned, and their forces were much stronger and larger than what the Romans could face in this small garrison. Ambiorix advised them to leave the garrison to join up with their allies elsewhere and promised them safe passage through his lands along the way.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_5]The Romans bought Ambiorix’s tale. They reasoned that the possibility of deception was low since the Eburones tribe was so small—why would a mouse attack a lion? They prepared to leave and make for another garrison. Meanwhile, Ambiorix prepared his attack. He set up a trap along the ravine on the path he knew that the Romans would march through. Sure enough, the Romans left their fort at dawn and followed the path that Ambiorix predicted they would, defenses low as they thought that the closest hostile army were these still far-off “Germans” of which Ambiorix spoke. They were wrong.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_6]Ambiorix waited for half of the Roman forces to pass through the ravine, then started his attack. He launched volleys of javelins on the Romans, and by the time Sabinus realized what was happening, it was too late. He requested to speak with Ambiorix, who promised him safe passage if he would just come to the Gallic camp. But it seemed that Sabinus hadn’t learned his lesson. Ambiorix killed him upon arrival. Some survivors of the ambush fled back to their fort, but without the manpower needed to defend it, they committed suicide rather than be slaughtered or captured by the enemy. The other survivors escaped to a nearby garrison and warned the commander there of Ambiorix’s treachery. Even so, the word didn’t seem to spread to the rest of the Romans – namely, the Roman commander Cicero.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_7]Ambiorix and his troops killed the forces outside of Cicero’s camp. However, once again, Ambiorix couldn’t breach the walls. Rather than continue to attack the gates, he decided to try and trick the commander like he did before. But this time it didn’t work. Cicero stated it wasn’t the Roman way to accept terms from the enemy and, while he stalled for time, secretly sent for help. Soon, Julius Caesar was on the march to face Ambiorix.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_8" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_8]This time, it was the Roman’s turn to set a trap. Ambiorix was still feeling pretty good after his previous victory, and when he saw Caesar’s “small” army, he felt emboldened enough to attack. Caesar’s men seemed reluctant to fight, and the fort they’d built was small. Ambiorix ordered his men to attack, only to be surprised – the “small” fort had been hiding a large cavalry force. Most of Ambiorix’s army was wiped out, and he narrowly escaped capture. Ambiorix disappeared over the German border, taking with him only a few of his most trusted men. He was never heard from again.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_9" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_CHAPTER_HISTORY_PARA_9]Caesar, unfortunately, didn’t take well to being robbed of the satisfaction of killing Ambiorix. He also didn’t tolerate rebellion or trickery (unless it was his own, of course). He destroyed the Eburones with a combination of military repression and cutting off the Gauls’ food supplies, pushing the tribe to the point where its now-lone king, Cativolcus, poisoned himself, eradicating the last remnant of the forsaken tribe.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_QUOTE]Come, enemy. Send an ambassador, for I have something to say which will benefit us both.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_AMBIORIX_TITLE]Ambiorix</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_CAPSULE_BODY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_CAPSULE_BODY]Byzantium combines religious and military tactics towards a Domination or Religious victory.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_DETAILED_BODY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_DETAILED_BODY]The first priority for the Byzantines is to found a religion, and spread it, as victories in the religious realm lead to increased military strength (and vice-versa). Their unique Taxis ability gives them additional [ICON_Strength] Combat and [ICON_RELIGION] Religious Strength for every Holy City converted, and the Byzantine founded religion spreads when defeating opposing units. Further, if you manage to convert your rival’s cities to your religion, Basil’s unique ability allows Melee attacks to do full damage against them. In addition to these, the Tagma unique unit gives additional strength to any religious or military unit adjacent to it. Fueling these armies are bonus Heavy Cavalry (e.g. Tagma) from the Byzantine unique district, the Hippodrome, and an early-era naval unit, the Dromon, with increased damage against units and increased range. With this synergy between religion and military, Byzantium is setup to win either a Religious or Domination Victory.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_1]Basil II’s early life played out like a Shakespearean play. Basil was born in 958 AD to Emperor Romanos II and his second wife, Theophano. To make sure that both of his sons were treated equally, Romanos crowned Basil and his brother Constantine VIII co-emperors of Byzantium. Shortly after, Romanos died unexpectedly. Some chroniclers blamed Theophano and some hemlock for his untimely death, but at the time, she was given power as regent since her young sons were, understandably, not fit to rule yet. Her authority was contested (to her annoyance) by the court’s parakoimōmenos— a chief minister, often a eunuch, whose title meant literally “sleeping at the side of the emperor”—Joseph Bringas. In such a precarious position, Bringas didn’t last long – he fled after less than half a year of maintaining the post, and general Nikephoros Phokas took up the abandoned crown and Romanos’ widow. But in what was coming to be a disturbing trend, Theophano’s second marriage ended quickly, and she was again a widow. This time, Nikephoros’s own nephew, the general John Tzimiskes, rumored to already be Theophano’s new lover, snuck into the palace and killed Nikephoros. While things looked ready for a third marriage, the church decided that enough was enough, and Theophano was exiled. Following Tzimiskes’ death and Basil’s ascension to the throne in 976 AD, Basil brought Theophano back home to the court.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_2]Basil was considered odd by the standards of his predecessors. He didn’t care about the finer things in life. He didn’t wear elegant robes or throw grand parties. He wasn’t exactly stoic—his temper didn’t allow for that—but he disliked the lavish lifestyle that most Emperors craved. His people, and likewise court, weren’t the fondest of him. He just wasn’t much fun.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_3" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_3]Basil fought off a number of generals and aristocrats during his early reign. If it wasn’t a rebellion, it was a coup. If it wasn’t that, it was a power-hungry relative from within his own dynasty. Basil didn’t hold back when it came to quelling these rebellions. Sword in hand, he took to the field and cut down his enemies with his own blade, even if those enemies were generals with far more experience than him. The rebellions no doubt affected Basil’s philosophies about ruling and lent him a ruthless outlook upon imperial life. Although he was cautious about forming alliances, he reached beyond Byzantium’s borders for help, and accepted the aid of Prince Vladimir of Kiev to shore up support from outside. In exchange for the prince’s help and his forces, Basil granted the prince his sister Anna’s hand in marriage. Unlike her mother’s marriages, Anna’s would last without any murder at all. Kiev’s would be one of the few alliances Basil ever agreed to. He never married, and he kept his family at a distance to protect himself from further distractions.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_4" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_4]Basil knew he needed to ensure that no other aristocrats felt powerful enough to challenge him. To do so, he made an example of those who had rebelled against him. Next, he undercut the power of the aristocracy via a new tax plan that taxed the rich when the poor failed to pay their taxes. Further, he needed to reduce the size of nobles’ standing armies (all the better just in case some noble got the idea to seize power for himself). Normally, military service was the main form of tribute within in his territories. Basil allowed the people to instead pay in cold hard cash. The people, with more money than they had time, eagerly accepted this new offer. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_5" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_5]Besides reclaiming the territories that Byzantine lost over the years, Basil wanted to get revenge on Bulgaria, a kingdom to the north of Byzantium that had been rising steadily in power. Early into his reign, he had challenged Samuel of Bulgaria and suffered a sound defeat. Bulgaria’s continued raids and expansion into Byzantine further wounded Basil’s pride. The conflict between Bulgaria and the Byzantine Empire lasted for years, neither country gaining enough ground for any of the battles to have a lasting effect. Basil learned from each battle, though, and finally, in 1014, Basil gained a decisive victory.  Basil defeated his nemesis Samuel, who only narrowly avoided capture, and seized over 15,000 of Samuel’s men. Basil’s creative cruelty came into play after this victory. For every 100 of Samuel’s men, he blinded 99 of them. For the single lucky man out of those 100 who was only half-blinded, he let that man lead the rest of his cohort back to Bulgaria. It is from these wars that Basil earns his epithet, “the Bulgar Slayer.”</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_6" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_6]Basil became an effective general over the years, thanks to his ruthlessness and cunning. He claimed a large portion of the regions north of the Aegean and the Mediterranean Sea, practically doubling his Empire. His conquests brought pride to the Empire and earned him the trust of his military and the people. He held onto newly incorporated regions, including Bulgaria, thanks to his low taxes and in some cases, by allowing provinces to remain under the local rule.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_7" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_CHAPTER_HISTORY_PARA_7]Basil II died in December of 1025 AD. In his typical style, he requested to be buried in a small tomb outside of Constantinople. Unfortunately, Basil’s empire wouldn’t last. Subsequent rulers failed to hold the wealth and land that Basil gained during his fifty-year rule.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_QUOTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_QUOTE]I am Basil, the Bulgar-Slayer. I am Basil, both hero and villain, loved by my people and hated by my enemies. Power depends on two things: the force of arms and the observance of laws.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_TITLE]Basil II</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BYZANTINE_DROMON_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_UNITS_PAGE_UNIT_BYZANTINE_DROMON_CHAPTER_HISTORY_PARA_1]The Byzantine navy had some of the most advanced ships in the Mediterranean. Abandoning an earlier reliance upon a trireme with a ram in its prow, the dromon had a “beak” (calcar), a projection at the ship’s front that served as a bridge for soldiers to cross onto enemy ships (or, alternately, to crush the enemy’s oars). Along with the triangular sail and one or multiple banks of oars, the dromon was fast and maneuverable, and deadly.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BYZANTINE_DROMON_CHAPTER_HISTORY_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_UNITS_PAGE_UNIT_BYZANTINE_DROMON_CHAPTER_HISTORY_PARA_2]But the dromon’s most fearsome feature was its fire. “Greek fire,” a mixture of oil and quicklime, was a concoction that burned even when floating on water. Some dromons had Greek fire projectors at their bow: essentially a medieval ship-mounted flamethrower. This weapon was used to great effect to repel Arab sieges of Constantinople as well as, famously, an invasion of Rus (Viking raiders from what is now Russia) during the reign of Emperor Romanus. In one contemporaneous account, the Rus, when they saw the flame cannons, “threw themselves from their ships into the sea, choosing to be drowned by the waves rather than cremated by the fire… No one escaped that day unless he was able to flee to the shore.” </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BYZANTINE_TAGMA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_UNITS_PAGE_UNIT_BYZANTINE_TAGMA_CHAPTER_HISTORY_PARA_1]The tagma – plural: tagmata – were the Byzantine descendants of the Roman imperial guard. At first, the tagmata were noble young men who sought positions where they could be personally close to the Emperor and perhaps gain his attention. But over time, the imperial guard became more of a social space than a fighting force and, in the 8th century, the Emperor Constantine V sought to reorganize them into a mobile, rapid-response force: the tagma. Tagma units were continually updated and refined, and later emperors brought new inventions in heavy cavalry into the force. The guard grew so successful that, under Basil II, the tagma system expanded to include not just knights in Constantinople, but provincial units and foreigners. These also involved the feared Varangian Guard – Viking mercenaries in the direct employ of the Byzantine Emperor.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GAUL_GAESATAE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_UNITS_PAGE_UNIT_GAUL_GAESATAE_CHAPTER_HISTORY_PARA_1]The Gaesatae were Celtic warriors from the Alps. In the early days of the Roman Republic, Rome was expanding northward, taking formerly Gallic land and giving it to poorer Roman families. Worried about this expansion, a group of tribes from Cisalpine Gaul – the northern part of Italy – banded together and hired the Gaesatae to defend them. Armed with spears and javelins, the Gaesatae (according to Greek historian Polybius) fought naked, with nothing but their weapons. Polybius writes that the Gallic army made a “dreadful din, for there were innumerable horn-blowers and trumpeters, and, as the whole army were shouting their war-cries at the same time, there was such a tumult of sound that it seemed that not only the trumpets and the soldiers but all the country round had got a voice and caught up the cry. Very terrifying too were the appearance and the gestures of the naked warriors in front, all in the prime of life, and finely built men.” The strange Gallic costume (or lack of costume) may have been because of their sheer confidence in battle or may have just been a practical measure to keep from getting caught in the brambles. Regardless of why they fought nude, the Gauls won the first few battles, but a better-prepared Rome won the war. Perhaps armor was a good idea after all.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_BIOSPHERE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_WONDERS_PAGE_BUILDING_BIOSPHERE_CHAPTER_HISTORY_PARA_1]When the Apollo 11 astronauts took a photograph of the Earth from the Moon in 1969, the image of a small blue dot brought home the idea that the world was small, and shared. The water, atmosphere, and ecology of the Earth was a heritage – and responsibility – that every human shared. Two years before, at the Expo 1967 world’s fair in the Canadian city of Montréal, the US pavilion was constructed in a gigantic sphere, which similarly tried to capture and symbolize this unique and fragile state. The Biosphère, built by architect Buckminster Fuller, dominates the skyline of that city. It is a museum dedicated to the Earth and all of its fragility, its beauty, and the threats to its air, water, biodiversity and climate. The term “biosphere” itself, the inspiration for the structure, was coined by geologist Eduard Suess to refer to this notion of life and its interconnectivity. Today, scientists have built upon his ideas to refer to the “Anthropocene,” this current moment in geologic time where our impact upon this planet is inescapable, when human activity profoundly alters the way that the biosphere works. So maybe you should consider drinking that coffee that’s sitting right there next to your monitor out of a reusable cup. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_STATUE_OF_ZEUS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_WONDERS_PAGE_BUILDING_STATUE_OF_ZEUS_CHAPTER_HISTORY_PARA_1]Phidias, the master sculptor who supervised the construction of the Parthenon, saw the statue of Athena within, and said, “Yes, but make it bigger.” Zeus would have been pleased by that statement, no doubt, and even happier by the outcome of his monument. The final statue featured Zeus seated on a throne and sat a massive 40 feet (he would have hit his head on the temple’s roof if he’d stood up). Gold and ivory were molded over a wooden core to create the god in all of his glory. Other precious materials like silver, ebony, and jewels were etched in to make fine details. On top of the god’s head was a wreath of olive branches and in his right hand the goddess Nike. An eagle perched on his scepter. For all of the statue (and Zeus’s) power, the statue was eventually removed and destroyed by either fire or natural disaster.</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY]Ambiorix likes civilizations with more military units than he has, and dilikes those with fewer</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY_NEGATIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY_NEGATIVE]Ambiorix dislikes civilizations with fewer military units than he has</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY_POSITIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY_POSITIVE]Ambiorix likes civilizations with more military units than he has</Text>
+    </Replace>
+    <Replace Tag="LOC_TOURISM_LENS_GREEN_ENERGY_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TOURISM_LENS_GREEN_ENERGY_TOOLTIP]Visitors are amazed by your green sources of Power.[NEWLINE]Generating +{1_CurrentTourists} [ICON_Tourism] Tourism[NEWLINE]</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

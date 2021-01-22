@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_MOD_PIRATES_SCENARIO_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_MOD_PIRATES_SCENARIO_TITLE]Multiplayer Scenario: Pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MOD_DESCRIPTION]Arr, mateys! In this here Golden Age of buccaneers, yon tropical sea be a lawless, dangerous place. Ye be part o’ the cause o’ that. There be gold aplenty hidden in the holds o’ Spanish galleons and in English towns, in French frigates and Dutch merchantmen, gold that wants stealin. Be ye pirate enough to build yer fortune and fame, and become the dread Admiral of the Black? Or will ye fall into the clutches of Davey Jones or Jack Ketch? Build yer fleet o’ sloops and brigantines, find buried gold, and put to the torch yer foes’ cities!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MOD_DESCRIPTION_ALT_1]During the golden age of piracy, the tropical seas are dangerous, lawless places. You are part of the reason why. Can you steal the wealth of the great colonial powers, spread your fell reputation across the sea, and keep your head? Build a pirate fleet, find buried treasure, encounter other dread pirates, and sack and plunder the cities of the south seas as you build your fame and fortune!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TEASER" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MOD_TEASER]Plunder the open seas during the Golden Age of Piracy.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MOD_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MOD_TITLE]Pirates</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

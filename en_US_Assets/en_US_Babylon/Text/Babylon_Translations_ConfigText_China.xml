@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION]+17 [ICON_Strength] Combat Strength against Heavy and Light Cavalry promotion class units.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME]Sabum Kibittum</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION]+{1_Amount} Combat Strength against Heavy and Light Cavalry promotion class units</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION][ICON_GreatWork_Relic] Relics and [ICON_GreatWork_HeroRelic] Heroic Relics have triple yield of both [ICON_Faith] Faith and [ICON_Tourism] Tourism.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BUILDING_PALGUM_DESCRIPTION]A building unique to Babylon. +1 [ICON_HOUSING] Housing and +2 [ICON_PRODUCTION] Production. Freshwater tiles receive +1 [ICON_FOOD] Food. City must be adjacent to a River.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BUILDING_PALGUM_NAME]Palgum</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE]Babylonian</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION]Babylonian Empire</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_BABYLON_STK_NAME]Babylon</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GAMEMODE_HEROES_DESCRIPTION]This game mode adds twelve powerful Hero units from the world's myths and legends.[NEWLINE][NEWLINE]Discover Heroes by exploring the world and influencing City States, then claim them in your Cities. Each Hero is unique in the world and can be claimed by just one civilization.[NEWLINE][NEWLINE]Heroes possess great power and unique abilities, but also a limited lifespan. Whenever a Hero appears, they remain for a set number of turns before their time is up and they naturally expire. After a Hero is gone, however, their claiming civilization can recall them by spending Faith.[NEWLINE][NEWLINE]Each of the twelve Heroes has their own special powers and distinct role. In the hands of a wise player, the right Hero can truly be a game-changing force!</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GAMEMODE_HEROES_NAME]Heroes &amp; Legends Mode</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_HAMMURABI_NAME]Hammurabi</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION][ICON_TechBoosted] Eurekas provide all of the [ICON_SCIENCE] Science for technologies. -50% [ICON_SCIENCE] Science per turn.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_BABYLON_NAME]Enuma Anu Enlil</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION]+2 [ICON_Food] Food, +2 [ICON_Production] Production, and +4 [ICON_Gold] Gold from each [ICON_GreatWork_Relic] Relic, [ICON_GreatWork_HeroRelic] Heroic Relic, [ICON_GreatWork_Artifact] Artifact, and Sculpture [ICON_GreatWork_Sculpture] Great Work of Art in addition to the usual [ICON_Culture] Culture. Receive 50% more [ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, [ICON_GreatMusician] Great Musician, and [ICON_GreatMerchant] Great Merchant points. Palace has slots for 5 Great Works.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION]25% [ICON_Production] Production increase when claiming Heroes, and Heroes have 20% longer [ICON_Lifespan] Lifespans.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME]Legacy of Enkidu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION]When each specialty district is constructed for the first time receive the lowest [ICON_PRODUCTION] Production cost building that can currently be constructed in that district. Receive an [ICON_ENVOY] Envoy when any other district is constructed for the first time.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_LEADER_HAMMURABI_NAME]Ninu Ilu Sirum</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION]When each specialty district type except the Government Plaza is constructed for the first time receive the lowest [ICON_PRODUCTION] Production cost building that can currently be constructed in that district. Receive an [ICON_ENVOY] Envoy when any other district is constructed for the first time.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION]The Religion founded by Poland becomes the majority in an adjacent city that loses a tile to a Polish Culture Bomb. Holy Sites gain standard Faith adjacency bonus from adjacent districts. [ICON_GreatWork_Relic] Relics and [ICON_GreatWork_HeroRelic] Heroic Relics provide +2 [ICON_Faith] Faith, +2 [ICON_Culture] Culture, +4 [ICON_Gold] Gold.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION]Babylonian unique Ancient era melee unit. +17 [ICON_Strength] Combat Strength against Heavy and Light Cavalry promotion class units. This unit has 3 [ICON_Movement] Movement and sight.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME]Sabum Kibittum</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

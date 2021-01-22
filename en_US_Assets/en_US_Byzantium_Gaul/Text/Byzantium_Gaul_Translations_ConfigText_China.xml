@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION]Receive +2 [ICON_Strength] Combat Strength for each adjacent unit (King of the Eburones)</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME]Ambiorix</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION]Receive +3 [ICON_Strength] Combat Strength for each Holy City converted to your Religion and Byzantium's Religion is spread to nearby cities when a major civilization's unit is defeated (Taxis)</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME]Holy City Combat</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION]Receive +3 [ICON_RELIGION] Religious Strength for each Holy City converted to your Religion.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME]Holy City Religious Strength</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION]+{1_Amount} Combat Strength against units.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_DROMON_DESCRIPTION]Receive +10 [ICON_Strength] Combat Strength against units.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_DROMON_NAME]Greek Fire</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION]Does full damage against cities following the same religion as Byzantium (Porphyrogénnētos)</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME]Porphyrogénnētos</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION]This unit does not cost Strategic Resources per turn from the Hippodrome district.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME]Hippodrome</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION]+{1_Amount} Combat Strength vs. district defenses.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION]+{1_Amount} Combat Strength against units with a higher base Combat Strength.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_GAESATAE_DESCRIPTION]Receive +10 [ICON_Strength] Combat Strength against units with a higher base Combat Strength. +5 [ICON_Strength] Combat Strength vs. district defenses.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_GAESATAE_NAME]Gaesatae</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION]+{1_Amount} Combat Strength when within 1 tile of the Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_TAGMA_DESCRIPTION]Land units within 1 tile of the Tagma receive +4 [ICON_Strength] Combat Strength or [ICON_RELIGION] Religious Strength.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_TAGMA_NAME]Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION]+4 [ICON_Strength] Combat Strength when within 1 tile of the Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME]Tagma Combat Strength</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION]+4 [ICON_RELIGION] Religious Strength when within 1 tile of the Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME]Tagma Religious Strength</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION]+{1_Amount} Religious Strength when within 1 tile of the Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE]Byzantine</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION]Byzantine Empire</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_BYZANTIUM_NAME]Byzantium</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_GAUL_ADJECTIVE]Gallic</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_GAUL_DESCRIPTION]Gallic Empire</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_GAUL_NAME]Gaul</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC]+{1_Amount} Combat Strength from the King of the Eburones trait</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC]+{1_Amount} Combat Strength from the Taxis trait</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC]+{1_Amount} Religious Strength from the Taxis trait</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_HIPPODROME_CULTURE]+{1_num} [ICON_Culture] Culture from the adjacent Hippodrome district.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_HIPPODROME_DESCRIPTION]A district unique to Byzantium. Replaces the Entertainment Complex district, provides +3 [ICON_Amenities] Amenities, and is cheaper to build. When the Hippodrome and buildings in this district are constructed, receive a Heavy Cavalry unit.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION]A district unique to Byzantium. Replaces the Entertainment Complex district, provides +3 [ICON_Amenities] Amenities, and is cheaper to build. When the Hippodrome and buildings in this district are constructed, receive a Heavy Cavalry unit. Cannot be built in a city with a Water Park.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION]A district unique to Byzantium. Replaces the Entertainment Complex district, provides +3 [ICON_Amenities] Amenities, and is cheaper to build. When the Hippodrome and buildings in this district are constructed, receive a Heavy Cavalry unit. Units granted from this district do not have a resource maintenance cost. Cannot be built in a city with a Water Park.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_HIPPODROME_NAME]Hippodrome</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_OPPIDUM_DESCRIPTION]A district unique to Gaul that is cheaper and available earlier than the district it replaces, the Industrial Zone. The Oppidum district is defensible with a ranged attack. When the first Oppidum is constructed the Apprenticeship technology is unlocked.[NEWLINE][NEWLINE]+2 [ICON_Production] Production adjacency bonus from Quarries and strategic resources.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DISTRICT_OPPIDUM_NAME]Oppidum</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION]This game mode makes Dark Ages and Golden Ages more potent than ever. Heroic Ages are removed, and players can only be in a Normal Age in the first era. After that, they will either earn a Dark or a Golden Age.[NEWLINE][NEWLINE]Instead of making Dedications, players get access to powerful new Social Policies based on their Age. Dark Policies make a return with refreshed powerful effects. Brand new Golden Policies are available to those who make it to a Golden Age. To keep earning Era Score, complete Techs and Civics and earn military unit promotions.[NEWLINE][NEWLINE]Dark Ages are particularly dangerous. Players in Dark Ages will have a portion of their empire immediately fall into Free Cities, and Free Cities can exert pressure on other cities. On easier difficulty settings, AI players lose a lot of cities. On harder difficulty settings, human players do. On Prince, they lose an equal amount.[NEWLINE][NEWLINE]Georgia's civilization unique ability is brand new, to match the mode's unique rules.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GAMEMODE_DRAMATICAGES_NAME]Dramatic Ages Mode</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_AMBIORIX_NAME]Ambiorix</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_BASIL_NAME]Basil II</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LOADING_INFO_LEADER_AMBIORIX]Your wits will serve you well, Ambiorix. Where the size of your armies fail, use your head and gilded tongue to reclaim your land. Your allies will follow your lead and your strong spear arm will shatter the resistance of your enemies.  Fight, great warrior-king!</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LOADING_INFO_LEADER_BASIL]Your enemies will fear you, King Basil II, for you were forged in the fire. Let your cunning and ambition sharpen your blade. Protect your pride and stand against your foes, both within your walls and beyond.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_MAP_HIGHLANDS_DESCRIPTION]A large region dominated by hills and mountain ranges.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_MAP_HIGHLANDS_NAME]Highlands</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION]Units receive +3 [ICON_Strength] Combat Strength or [ICON_Religion] Religious Strength for each Holy City converted to Byzantium's Religion (including Byzantium's Holy City). Byzantium's Religion is spread to nearby cities when defeating a unit belonging to an enemy civilization or city-state. +1 [ICON_GreatProphet] Great Prophet point from cities with a Holy Site district.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME]Taxis</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION]While in a Golden Age, gains an extra Wildcard Policy Slot, and may use Dark Age Policies. +50% [ICON_Production] Production towards defensive buildings.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION]Mines provide a minor adjacency bonus for all districts, a Culture Bomb of unowned territory, and receive +1 [ICON_CULTURE] Culture. Specialty districts do not receive a minor adjacency for being adjacent to another district and these districts cannot be built adjacent to the City Center.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_GAUL_NAME]Hallstatt Culture</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION]Your civilization gains [ICON_CULTURE] Culture equal to 20% of the unit’s cost when a non-civilian is trained. Melee, Anti-Cavalry, and Ranged Units receive +2 [ICON_Strength] Combat Strength for every adjacent unit.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_LEADER_AMBIORIX_NAME]King of the Eburones</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_LEADER_BASIL_DESCRIPTION]Heavy and Light Cavalry units do full damage against cities following the same religion as Byzantium. Gain the Tagma unique unit when the Divine Right civic is discovered.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_LEADER_BASIL_NAME]Porphyrogénnētos</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION]Byzantine unique Classical era unit that replaces the Quadrireme that has additional range and receives +10 [ICON_Strength] Combat Strength against units.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_BYZANTINE_DROMON_NAME]Dromon</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION]Basil II's unique Medieval era unit that replaces the Knight. Land units within 1 tile of the Tagma receive +4 [ICON_Strength] Combat Strength or [ICON_RELIGION] Religious Strength.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_BYZANTINE_TAGMA_NAME]Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_GAUL_GAESATAE_DESCRIPTION]Gallic unique Ancient era unit that replaces the Warrior. This unit has increased cost and receives +10 [ICON_Strength] Combat Strength when fighting units with a higher base Combat Strength. +5 [ICON_Strength] Combat Strength vs. district defenses.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_GAUL_GAESATAE_NAME]Gaesatae</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

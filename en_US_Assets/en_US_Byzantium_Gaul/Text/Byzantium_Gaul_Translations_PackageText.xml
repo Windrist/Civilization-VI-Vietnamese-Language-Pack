@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="pt_BR">
+      <Text>Pacote Bizâncio e Gália</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="pt_BR">
+      <Text>Novas civilizações e líderes - Basílio II de Bizâncio e Ambiórix da Gália</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="pt_BR">
+      <Text>Contém duas novas civilizações e dois novos líderes, 2 novas maravilhas do mundo, 1 novo mapa e o modo de jogo Eras Espetaculares.</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="fr_FR">
+      <Text>Pack Gaule et Byzance</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="fr_FR">
+      <Text>Nouvelles civilisations et leurs dirigeants : Basile II de Byzance et Ambiorix le Gaulois</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="fr_FR">
+      <Text>Contient deux nouvelles civilisations et leurs dirigeants, deux merveilles mondiales, une carte et le mode de jeu Âges dramatiques.</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="de_DE">
+      <Text>Byzanz- und Gallien-Paket</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="de_DE">
+      <Text>Neue Zivilisationen und Anführer - Basilius II. von Byzanz und Ambiorix von Gallien</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="de_DE">
+      <Text>Enthält zwei neue Zivilisationen und Anführer, 2 neue Weltwunder, 1 neues Kartenskript und den Dramatische-Zeiten-Modus.</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="it_IT">
+      <Text>Pacchetto Bisanzio e Galli</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="it_IT">
+      <Text>Nuove civiltà e leader - Basilio II di Bisanzio e Ambiorix dei Galli</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="it_IT">
+      <Text>Contiene due nuove civiltà e leader, due nuove Grandi Meraviglie, 1 script per mappe e la modalità di gioco Età drammatiche.</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="ja_JP">
+      <Text>ビザンティン＆ガリアパック</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="ja_JP">
+      <Text>新たな文明と指導者 - ガリアのアンビオリクスとビザンティンのバシレイオス2世</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="ja_JP">
+      <Text>新たな文明、指導者、世界遺産が2つずつ、新たなマップスクリプト1つが追加され、新たに「波瀾の時代」モードが登場します。</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="ko_KR">
+      <Text>비잔티움 및 골 팩</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="ko_KR">
+      <Text>새로운 문명과 지도자 - 비잔티움의 바실리우스 2세와 골의 암비오릭스</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="ko_KR">
+      <Text>두 개의 새로운 문명과 지도자, 두 개의 새로운 세계 불가사의, 1개의 새로운 지도 스크립트, 극적인 시대 게임 모드를 포함합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="pl_PL">
+      <Text>Pakiet Bizancjum i Galów</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="pl_PL">
+      <Text>Nowe cywilizacje i przywódcy – Bazyli II, władca Bizancjum, i Ambioryks, władca Galów</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="pl_PL">
+      <Text>Zawiera dwie nowe cywilizacje i przywódców, dwa nowe cuda świata, nowy skrypt mapy oraz tryb dramatycznych wieków.</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="ru_RU">
+      <Text>Набор «Византия и галлы»</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="ru_RU">
+      <Text>Новые цивилизации и лидеры — Василий II, император Византии, и Амбиорикс, князь галлов</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="ru_RU">
+      <Text>Содержит две новые цивилизации и их лидеров, два новых чуда света, один новый скрипт для карт и игровой режим «Великая эпоха».</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="zh_Hans_CN">
+      <Text>拜占庭和高卢包</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="zh_Hans_CN">
+      <Text>新文明和领袖——拜占庭的巴兹尔二世和高卢的安比奥里克斯</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>包含2个新文明和领袖、2个全新世界奇观、1张新地图，以及“动荡时代”模式。</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="es_ES">
+      <Text>Pack de los bizantinos y galos</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="es_ES">
+      <Text>Nuevas civilizaciones y líderes: Basilio II de Bizancio y Ambiórix de la Galia</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="es_ES">
+      <Text>Incluye dos nuevas civilizaciones y líderes, 2 maravillas del mundo más, 1 comando del mapa adicional y el modo de juego Épocas espectaculares.</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="zh_Hant_HK">
+      <Text>拜占庭及高盧包</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="zh_Hant_HK">
+      <Text>新文明和領袖——拜占庭的巴茲爾二世及高盧的安比奧里克斯</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>包含2個新文明與領袖、2座新世界奇觀、1張新地圖，以及「動盪時代」遊戲模式。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

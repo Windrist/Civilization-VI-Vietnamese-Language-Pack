@@ -1,0 +1,109 @@
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AYUTTHAYA_NAME">
+			<Text>Ayutthaya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AYUTTHAYA_DESCRIPTION">
+			<Text>Ayutthaya city-state</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AYUTTHAYA_ADJECTIVE">
+			<Text>Ayutthaya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_AYUTTHAYA_NAME">
+			<Text>Ayutthaya Suzerain Bonus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_AYUTTHAYA_DESCRIPTION">
+			<Text>Gain [ICON_CULTURE] Culture equal to 10% of the construction cost when finishing buildings.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CHINGUETTI_NAME">
+			<Text>Chinguetti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CHINGUETTI_DESCRIPTION">
+			<Text>Chinguetti city-state</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CHINGUETTI_ADJECTIVE">
+			<Text>Chinguetti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CHINGUETTI_NAME">
+			<Text>Chinguetti Suzerain Bonus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CHINGUETTI_DESCRIPTION">
+			<Text>International and domestic [ICON_TradeRoute] Trade Routes receive +1 [ICON_FAITH] Faith for every follower in this city, of your founded or majority religion.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JOHANNESBURG_NAME">
+			<Text>Johannesburg</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JOHANNESBURG_DESCRIPTION">
+			<Text>Johannesburg city-state</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JOHANNESBURG_ADJECTIVE">
+			<Text>Johannesburg</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JOHANNESBURG_NAME">
+			<Text>Johannesburg Suzerain Bonus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JOHANNESBURG_DESCRIPTION">
+			<Text>Cities receive +1 [ICON_Production] Production for every improved resource type. After researching Industrialization it becomes +2 [ICON_PRODUCTION] Production.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NALANDA_NAME">
+			<Text>Nalanda</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NALANDA_DESCRIPTION">
+			<Text>Nalanda city-state</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NALANDA_ADJECTIVE">
+			<Text>Nalanda</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NALANDA_NAME">
+			<Text>Nalanda Suzerain Bonus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NALANDA_DESCRIPTION">
+			<Text>Your Builders can now make Mahavihara improvements.[NEWLINE][NEWLINE]+2 [ICON_SCIENCE] Science and +1 [Icon_Housing] Housing. +1 [ICON_Faith] Faith for every adjacent Holy Site district and +1 [ICON_Science] Science for every adjacent Campus district. After researching Scientific Theory receive an additional +1 [Icon_Science] Science for every adjacent Campus. When a player constructs their first Mahavihara receive a random technology. Must be built on flat terrain not adjacent to another Mahavihara.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SAMARKAND_NAME">
+			<Text>Samarkand</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SAMARKAND_DESCRIPTION">
+			<Text>Samarkand city-state</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SAMARKAND_ADJECTIVE">
+			<Text>Samarkand</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_SAMARKAND_NAME">
+			<Text>Samarkand Suzerain Bonus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_SAMARKAND_DESCRIPTION">
+			<Text>Your Builders can now make Trading Dome improvements.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold. +1 [ICON_Gold] Gold for every adjacent Luxury resource. Your outgoing international [ICON_TradeRoute] Trade Routes grant +1 [ICON_GOLD] Gold per Trading Dome at the origin. Cannot be built next to another Trading Dome.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_WOLIN_NAME">
+			<Text>Wolin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_WOLIN_DESCRIPTION">
+			<Text>Wolin city-state</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_WOLIN_ADJECTIVE">
+			<Text>Wolin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_WOLIN_NAME">
+			<Text>Wolin Suzerain Bonus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_WOLIN_DESCRIPTION">
+			<Text>Receive [ICON_GreatGeneral] Great General points when a land unit defeats a major or minor civilization's unit and receive [ICON_GreatAdmiral] Great Admiral points when a naval unit defeats a major or minor civilization's unit equal to 25% of the opposing unit's strength (Standard Speed).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_WOLIN_LAND_UNITS_NAME">
+			<Text>Great General Points</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_WOLIN_LAND_UNITS_DESCRIPTION">
+			<Text>Receive [ICON_GreatGeneral] Great General points when a land unit defeats a major or minor civilization's unit equal to 25% of the opposing unit's strength (Standard Speed). (Wolin City-State)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_WOLIN_NAVAL_UNITS_NAME">
+			<Text>Great Admiral Points</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_WOLIN_NAVAL_UNITS_DESCRIPTION">
+			<Text>Receive [ICON_GreatAdmiral] Great Admiral points when a naval unit defeats a major or minor civilization's unit equal to 25% of the opposing unit's strength (Standard Speed). (Wolin City-State)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_HAMMURABI">
+			<Text>Great Hammurabi, your word is your law.  You live and lead by your code, and will make sure that your empire does too.  You see the world as a complex web of alliances, possibilities, and risks.  Weigh the odds carefully, as you build your empire to unite Mesopotamia.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

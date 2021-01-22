@@ -1,0 +1,844 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="pt_BR">
+      <Text>Palgum</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="pt_BR">
+      <Text>Babilônia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="pt_BR">
+      <Text>Império Babilônico</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="pt_BR">
+      <Text>babilônio|babilônia|babilônios|babilônias</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="pt_BR">
+      <Text>Hamurabi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="pt_BR">
+      <Text>Edificação exclusiva da Babilônia. +1 de [ICON_HOUSING] habitação e +2 de [ICON_PRODUCTION] produção. Painéis de água doce recebem +1 de [ICON_FOOD] alimento. A cidade deve estar adjacente a um rio.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="pt_BR">
+      <Text>Enuma Anu Enlil</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="pt_BR">
+      <Text>[ICON_TechBoosted] Eurecas concedem toda a [ICON_SCIENCE] ciência para tecnologias. -50% de [ICON_SCIENCE] ciência por turno.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="pt_BR">
+      <Text>Ninu Ilu Sirum</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="pt_BR">
+      <Text>Quando cada tipo de distrito especial é construído pela primeira vez, receba a edificação com menor custo de [ICON_PRODUCTION] produção que pode ser construída atualmente nesse distrito. Receba um [ICON_ENVOY] Emissário quando qualquer outro distrito é construído pela primeira vez.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="pt_BR">
+      <Text>Quando cada tipo de distrito especial, exceto o Edifício Administrativo, é construído pela primeira vez, receba a edificação com menor custo de [ICON_PRODUCTION] produção que pode ser construída atualmente nesse distrito. Receba um [ICON_ENVOY] Emissário quando qualquer outro distrito é construído pela primeira vez.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade corpo a corpo da Era Antiga exclusiva da Babilônia. +17 de [ICON_Strength] força de combate contra unidades da classe de promoção de Cavalaria Pesada e Leve. Esta unidade possui 3 de [ICON_Movement] movimento e visão.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="pt_BR">
+      <Text>Sabum Kibittum</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="pt_BR">
+      <Text>+17 de [ICON_Strength] força de combate contra unidades da classe de promoção de Cavalaria Pesada e Leve.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="pt_BR">
+      <Text>Modo Heróis e Lendas</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="pt_BR">
+      <Text>Este modo de jogo adiciona doze poderosas unidades de Herói dos mitos e lendas do mundo.[NEWLINE][NEWLINE]Descubra Heróis explorando o mundo e influenciando cidades-estados e reivindique-os nas suas cidades. Cada Herói é único no mundo e pode ser reivindicado somente por uma civilização.[NEWLINE][NEWLINE]Os Heróis possuem grande poder e habilidades exclusivas, mas também têm expectativa de vida limitada. Quando um Herói aparece, ele permanece por um determinado número de turnos até que seu tempo acaba e ele expira naturalmente. Porém, depois que um Herói se vai, a civilização que o reivindicou pode reconvocá-lo gastando fé.[NEWLINE][NEWLINE]Cada um dos doze Heróis possui seus próprios poderes especiais e seus próprios papéis. Nas mãos de um jogador inteligente, o Herói certo pode ser uma força decisiva!</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="pt_BR">
+      <Text>Legado de Enkidu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="pt_BR">
+      <Text>25% de aumento de [ICON_Production] produção ao reivindicar Heróis, e os Heróis têm [ICON_Lifespan] expectativas de vida 20% maiores.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="pt_BR">
+      <Text>+2 de [ICON_Food] alimento, +2 de [ICON_Production] produção e +4 de [ICON_Gold] ouro de cada [ICON_GreatWork_Relic] relíquia, [ICON_GreatWork_HeroRelic] relíquia heroica, [ICON_GreatWork_Artifact] artefato e [ICON_GreatWork_Sculpture] grande obra de arte de escultura, além da [ICON_Culture] cultura normal. Recebe 50% a mais de pontos de [ICON_GreatWriter] Grande Escritor, [ICON_GreatArtist] Grande Artista, [ICON_GreatMusician] Grande Músico e [ICON_GreatMerchant] Grande Mercador. O palácio possui espaços para 5 grandes obras.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="pt_BR">
+      <Text>A religião fundada pela Polônia se torna majoritária em uma cidade adjacente que perca um painel devido a uma explosão cultural polonesa. Locais Sagrados recebem um bônus padrão de adjacência de fé de distritos adjacentes. [ICON_GreatWork_Relic] Relíquias e [ICON_GreatWork_HeroRelic] relíquias heroicas concedem +2 de [ICON_Faith] fé, +2 de [ICON_Culture] cultura e +4 de [ICON_Gold] ouro.</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="pt_BR">
+      <Text>[ICON_GreatWork_Relic] Relíquias e [ICON_GreatWork_HeroRelic] Relíquias Heroicas concedem o triplo de [ICON_Faith] fé e [ICON_Tourism] turismo.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="pt_BR">
+      <Text>+{1_Amount} de força de combate contra unidades da classe de promoção de Cavalaria Pesada e Leve.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="pt_BR">
+      <Text>Sabum Kibittum</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="fr_FR">
+      <Text>Palgum|Palgu</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="fr_FR">
+      <Text>Babylone</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="fr_FR">
+      <Text>Empire babylonien</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="fr_FR">
+      <Text>babylonien|babylonienne|babyloniens|babyloniennes</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="fr_FR">
+      <Text>Hammurabi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="fr_FR">
+      <Text>Bâtiment exclusif à Babylone. [ICON_HOUSING] Habitations +1 et [ICON_PRODUCTION] Production +2. [ICON_FOOD] Nourriture +1 sur les cases d'eau douce. La ville doit être adjacente à un cours d'eau.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="fr_FR">
+      <Text>Enuma Anu Enlil</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="fr_FR">
+      <Text>Les [ICON_TechBoosted] Eurêka ! fournissent toute la [ICON_SCIENCE] science pour les technologies. [ICON_SCIENCE] Science -50 % par tour.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="fr_FR">
+      <Text>Ninu ilu sirum</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="fr_FR">
+      <Text>Lorsque chaque quartier spécialisé est construit pour la première fois, reçoit le bâtiment au coût de [ICON_PRODUCTION] production le plus bas pouvant être construit dans ce quartier. [ICON_ENVOY] Émissaire +1 quand n'importe quel autre quartier est construit pour la première fois.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="fr_FR">
+      <Text>Lorsque chaque quartier spécialisé est construit pour la première fois, à l'exception de la place du gouvernement, reçoit le bâtiment au coût de [ICON_PRODUCTION] production le plus bas pouvant être construit dans ce quartier. [ICON_ENVOY] Émissaire +1 quand n'importe quel autre quartier est construit pour la première fois.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="fr_FR">
+      <Text>Unité de l'Antiquité exclusive à Babylone. [ICON_Strength] Puissance de combat +17 contre la cavalerie lourde et légère. [ICON_Movement] PM : 3, champ de vision : 3.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="fr_FR">
+      <Text>Sabum Kibittum</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +17 contre les unités de cavalerie lourde et légère.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="fr_FR">
+      <Text>Mode Héros et légendes</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="fr_FR">
+      <Text>Ce mode de jeu vient ajouter douze puissants héros issus des mythes et légendes de l'histoire à vos unités. [NEWLINE][NEWLINE]Découvrez-les en explorant le monde et en influençant des cités-états, puis recrutez-les dans vos villes. Chaque héros est unique et ne peut être recruté que par une seule civilisation. [NEWLINE][NEWLINE]Les héros possèdent un grand pouvoir et des compétences spéciales, mais leur durée de vie est limitée. Quand un héros apparaît, il reste dans la partie pendant un certain nombre de tours avant de mourir, mais la civilisation qui l'a recruté peut plus tard le rappeler avec de la foi. [NEWLINE][NEWLINE]Chacun de ces douze héros possède des pouvoirs bien spécifiques et un rôle distinct. Sous les ordres d'un joueur avisé, un héros peut véritablement renverser le cours de la partie !</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="fr_FR">
+      <Text>Héritage d'Enkidu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Production] Production +25 % lorsque vous recrutez un héros, et les héros ont une [ICON_Lifespan] durée de vie plus longue de 20 %.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="fr_FR">
+      <Text>En plus de la [ICON_Culture] culture habituelle, [ICON_Food] nourriture +2, [ICON_Production] production +2 et [ICON_Gold] or +4 pour chaque [ICON_GreatWork_Relic] relique, [ICON_GreatWork_HeroRelic] relique héroïque, [ICON_GreatWork_Artifact] artefact et [ICON_GreatWork_Sculpture] chef-d'œuvre de sculpture. Points d'[ICON_GreatWriter] écrivain, d'[ICON_GreatArtist] artiste, de [ICON_GreatMusician] musicien et de [ICON_GreatMerchant] marchand illustre +50 %. Un palais peut accueillir 5 chefs-d'œuvre.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="fr_FR">
+      <Text>La religion fondée par la Pologne devient majoritaire dans une ville adjacente qui perd une case suite à la bombe culturelle polonaise. Les lieux saints reçoivent un important bonus de foi pour les quartiers adjacents. Toutes les [ICON_GreatWork_Relic] reliques et les [ICON_GreatWork_HeroRelic] reliques héroïques offrent des bonus : [ICON_Faith] foi +2, [ICON_Culture] culture +2 et [ICON_Gold] or +4.</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="fr_FR">
+      <Text>Les [ICON_GreatWork_Relic] reliques et les [ICON_GreatWork_HeroRelic] reliques héroïques fournissent trois fois plus de [ICON_Faith] foi et de [ICON_Tourism] tourisme.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="fr_FR">
+      <Text>Puissance de combat +{1_Amount} contre les unités de cavalerie lourde et légère.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="fr_FR">
+      <Text>Sâbum kibittum</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="de_DE">
+      <Text>Palgum|Palgum|Palgum|Palgums|Palgum</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="de_DE">
+      <Text>Babylon|Babylon|Babylon|Babylons|Babylon</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="de_DE">
+      <Text>Babylonisches Reich|Babylonische Reich|Babylonischen Reich|Babylonischen Reichs|Babylonische Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="de_DE">
+      <Text>Babylonisch|Babylonischen|Babylonische|Babylonischer|Babylonisches</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="de_DE">
+      <Text>Hammurabi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartiges Gebäude von Babylon. +1 [ICON_HOUSING] Wohnraum und +2 [ICON_Production] Produktion. Süßwasser-Geländefelder erhalten +1 [ICON_FOOD] Nahrung. Die Stadt muss an einen Fluss angrenzen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="de_DE">
+      <Text>Enuma Anu Enlil</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="de_DE">
+      <Text>[ICON_TechBoosted] Heurekas liefern die [ICON_SCIENCE] Wissenschaft für Technologien. -50 % [ICON_SCIENCE] Wissenschaft pro Runde.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="de_DE">
+      <Text>Ninu Ilu Sirum</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="de_DE">
+      <Text>Beim erstmaligen Bau jedes Spezialbezirks erhaltet Ihr das Gebäude mit den niedrigsten [ICON_PRODUCTION] Produktionskosten, das aktuell in diesem Bezirk gebaut werden kann. Beim erstmaligen Bau jedes anderen Bezirks erhaltet Ihr einen [ICON_ENVOY] Gesandten.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="de_DE">
+      <Text>Beim erstmaligen Bau jedes Spezialbezirks außer dem Regierungsplatz erhaltet Ihr das Gebäude mit den niedrigsten [ICON_PRODUCTION] Produktionskosten, das aktuell in diesem Bezirk gebaut werden kann. Beim erstmaligen Bau jedes anderen Bezirks erhaltet Ihr einen [ICON_ENVOY] Gesandten.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="de_DE">
+      <Text>Babylonische Nahkampf-Spezialeinheit der Antike. +17 [ICON_Strength] Kampfstärke gegen Schwere und Leichte Kavallerie-Beförderungsklasse-Einheiten. Diese Einheit besitzt 3 [ICON_Movement] Fortbewegung und Sicht.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="de_DE">
+      <Text>Sabum Kibittum</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="de_DE">
+      <Text>+17 [ICON_Strength] Kampfstärke gegen Schwere und Leichte Kavallerie-Beförderungsklasseneinheiten.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="de_DE">
+      <Text>"Helden &amp; Legenden"-Modus</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="de_DE">
+      <Text>Eine große Auswahl aus zwölf starken Heldeneinheiten aus Mythen und Legenden der ganzen Welt machen diesen Spielmodus aus.[NEWLINE][NEWLINE]Entdeckt diese Helden, indem Ihr die Welt erkundet und Stadtstaaten beeinflusst und rekrutiert die Helden dann in Euren Städten. Jeder Held ist einzigartig in der Welt und kann immer nur von einer Zivilisation gerufen werden.[NEWLINE][NEWLINE]Helden sind sehr stark und haben einzigartige Fähigkeiten, doch ihre Zeit ist begrenzt. Wenn Helden erscheinen, bleiben sie regulär für eine bestimmte Anzahl von Runden, bevor sie wieder verschwinden. Danach kann die jeweilige Zivilisation sie durch den Einsatz von Glauben zurückrufen.[NEWLINE][NEWLINE]Jede der zwölf Heldeneinheiten verfügt über individuelle Fähigkeiten und nimmt eine einzigartige Rolle ein. Unter der Kontrolle eines klugen Spielers kann der richtige Held so das Blatt komplett wenden!</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="de_DE">
+      <Text>Enkidus Vermächtnis </Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="de_DE">
+      <Text>25 % [ICON_Production] Produktionssteigerung beim Beanspruchen von Helden und Helden haben eine um 20 % längere [ICON_Lifespan] Lebensdauer.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="de_DE">
+      <Text>+2 [ICON_Food] Nahrung, +2 [ICON_Production] Produktion, und +4 [ICON_Gold] Gold durch jede [ICON_GreatWork_Relic] Reliquie, [ICON_GreatWork_HeroRelic] Helden-Reliquie, [ICON_GreatWork_Artifact] jedes Artefakt sowie jede Skulptur als [ICON_GreatWork_Sculpture] Große Kunstwerke zusätzlich zur normalen [ICON_Culture] Kultur. 50 % mehr Punkte durch [ICON_GreatWriter] Große Schriftsteller, [ICON_GreatArtist] Große Künstler, [ICON_GreatMusician] Große Musiker und [ICON_GreatMerchant] Große Händler. Der Palast hat Plätze für 5 Große Werke.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="de_DE">
+      <Text>Die von Polen gegründete Religion wird zur Mehrheitsreligion in einer angrenzenden Stadt, die ein Geländefeld durch einen polnischen Kulturschock verliert. Heilige Stätten erhalten einen bedeutenden Glauben-Nachbarschaftsbonus von angrenzenden Bezirken. Reliquien und [ICON_GreatWork_HeroRelic] Helden-Reliquien gewähren +2 [ICON_Faith] Glauben, +2 [ICON_Culture] Kultur und +4 [ICON_Gold] Gold.</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="de_DE">
+      <Text>[ICON_GreatWork_Relic] Reliquien und [ICON_GreatWork_HeroRelic] Helden-Reliquien steigern den Ertrag von [ICON_Faith] Glauben wie auch [ICON_Tourism] Tourismus um das Dreifache.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="de_DE">
+      <Text>+{1_Amount} Kampfstärke gegen Schwere und Leichte Kavallerie-Beförderungsklasse-Einheiten</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="de_DE">
+      <Text>Sabum Kibittum|Sabum Kibittum|Sabum Kibittum|Sabum Kibittum|Sabum Kibittum</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="it_IT">
+      <Text>Palgum|il Palgum|un Palgum</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="it_IT">
+      <Text>Babilonia|di Babilonia|a Babilonia|Babilonia|da Babilonia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="it_IT">
+      <Text>Impero babilonese|dell'Impero babilonese|all'Impero babilonese|l'Impero babilonese|dall'Impero babilonese</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="it_IT">
+      <Text>babilonese|babilonese|babilonesi|babilonesi</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="it_IT">
+      <Text>Hammurabi|di Hammurabi|ad Hammurabi|Hammurabi|da Hammurabi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="it_IT">
+      <Text>Edificio esclusivo babilonese. +1 [ICON_HOUSING] Abitazioni e +2 alla [ICON_PRODUCTION] Produzione. Le caselle che contengono acqua dolce forniscono +1 [ICON_FOOD] Cibo. La città dev'essere adiacente a un fiume.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="it_IT">
+      <Text>Enuma Anu Enlil</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="it_IT">
+      <Text>I momenti [ICON_TechBoosted] Eureka forniscono la totalità della [ICON_SCIENCE] Scienza necessaria per la scoperta di nuove tecnologie. -50% alla [ICON_SCIENCE] Scienza per turno.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="it_IT">
+      <Text>Ninu Ilu Sirum</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="it_IT">
+      <Text>Quando viene costruito per la prima volta, ciascun distretto specializzato riceve l'edificio che ha il costo di [ICON_PRODUCTION] Produzione minore tra quelli che vi possono essere costruiti in quel momento. La prima costruzione di qualsiasi altro distretto fornisce un [ICON_ENVOY] Emissario.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="it_IT">
+      <Text>Quando viene costruito per la prima volta, ogni distretto specializzato eccetto la Piazza del Governo riceve l'edificio che ha il costo di [ICON_PRODUCTION] Produzione minore tra quelli che vi possono essere costruiti in quel momento. La prima costruzione di qualsiasi altro distretto fornisce un [ICON_ENVOY] Emissario.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva babilonese da mischia di epoca antica. +17 alla [ICON_Strength] Forza di combattimento contro le unità che appartengono alle classi di promozione cavalleria leggera o pesante. Quest'unità ha 3 al [ICON_Movement] movimento e al raggio di visione.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="it_IT">
+      <Text>Sabum Kibittum</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="it_IT">
+      <Text>+17 alla [ICON_Strength] Forza di combattimento contro le unità che appartengono alle classi di promozione cavalleria leggera e cavalleria pesante.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="it_IT">
+      <Text>Modalità di gioco Eroi e Leggende</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="it_IT">
+      <Text>Questa modalità di gioco introduce dodici potenti unità di Eroi tratti dai miti e dalle leggende del mondo.[NEWLINE][NEWLINE]Scopri gli Eroi esplorando la mappa e aumentando la tua influenza sulle città-stato; in seguito potrai reclutarli nelle tue città. Ogni Eroe è unico in tutto il mondo e può servire una sola civiltà.[NEWLINE][NEWLINE]Gli Eroi sono molto potenti e dispongono di abilità esclusive, ma hanno un'aspettativa di vita limitata. Ogni volta che appare, un Eroe resterà in gioco per un certo numero di turni prima di arrivare alla sua fine naturale. Tuttavia, dopo la sua morte un Eroe può essere richiamato dalla civiltà che l'ha reclutato in cambio di una certa quantità di Fede.[NEWLINE][NEWLINE]Ognuno dei dodici Eroi ha poteri speciali e un ruolo ben preciso. Nelle mani di un giocatore accorto, il giusto Eroe può cambiare le sorti della partita!</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="it_IT">
+      <Text>L'eredità di Enkidu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="it_IT">
+      <Text>Incremento del 25% alla [ICON_Production] Produzione durante l'acquisizione degli Eroi; inoltre gli Eroi hanno un'[ICON_Lifespan] Aspettativa di vita più lunga del 20%.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="it_IT">
+      <Text>+2 [ICON_Food] Cibo, +2 [ICON_Production] Produzione e +4 [ICON_Gold] Oro da ogni [ICON_GreatWork_Relic] Reliquia, [ICON_GreatWork_HeroRelic] Reliquia Eroica, [ICON_GreatWork_Artifact] Manufatto e [ICON_GreatWork_Sculpture] Scultura, oltre alla normale quantità di [ICON_Culture] Cultura. Ricevi il 50% in più dei punti [ICON_GreatWriter] Grande Scrittore, [ICON_GreatArtist] Grande Artista, [ICON_GreatMusician] Grande Musicista e [ICON_GreatMerchant] Grande Mercante. Il Palazzo ha slot per 5 Capolavori.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="it_IT">
+      <Text>La religione fondata dalla Polonia diventa quella di maggioranza nelle città adiacenti che perdono una casella per una Bomba culturale polacca. I Luoghi Santi ottengono un bonus alla [ICON_Faith] Fede standard dai distretti adiacenti. Tutte le [ICON_GreatWork_Relic] Reliquie e le [ICON_GreatWork_HeroRelic] Reliquie Eroiche forniscono un bonus alla [ICON_Faith] Fede (+2), alla [ICON_Culture] Cultura (+2) e all'[ICON_Gold] Oro (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="it_IT">
+      <Text>Le [ICON_GreatWork_Relic] Reliquie e le [ICON_GreatWork_HeroRelic] Reliquie Eroiche rendono una quantità tripla di [ICON_Faith] Fede e di [ICON_Tourism] Turismo.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="it_IT">
+      <Text>+{1_Amount} alla Forza di combattimento contro le unità che appartengono alle classi di promozione cavalleria leggera o pesante</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="it_IT">
+      <Text>Sabum Kibittum|un Sabum Kibittum|dal tuo Sabum Kibittum|al tuo Sabum Kibittum|il tuo Sabum Kibittum|da un Sabum Kibittum</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="ja_JP">
+      <Text>パルグム</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="ja_JP">
+      <Text>バビロン</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="ja_JP">
+      <Text>バビロン帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="ja_JP">
+      <Text>バビロンの</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="ja_JP">
+      <Text>ハンムラビ</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="ja_JP">
+      <Text>バビロン固有の建造物。 [ICON_HOUSING] 住宅+1、 [ICON_PRODUCTION] 生産力+2。真水タイルの [ICON_FOOD] 食料+1。都市が川に隣接している必要がある。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="ja_JP">
+      <Text>エヌマ・アヌ・エンリル</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="ja_JP">
+      <Text>[ICON_TechBoosted] ひらめきにより、その技術に必要な全 [ICON_SCiENCE] 科学力が得られる。毎ターンの [ICON_SCiENCE] 科学力-50%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="ja_JP">
+      <Text>ニヌ・イル・シルム</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="ja_JP">
+      <Text>各専門区域を初めて建設すると、その時点でその区域に建設できる建造物の中で [ICON_PRODUCTION] 生産コストが最も低いものを得る。それ以外の区域を初めて建設した場合は、 [ICON_ENVOY] 代表団1つを得る。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="ja_JP">
+      <Text>政府複合施設を除く各専門区域を初めて建設すると、その時点でその区域に建設できる建造物の中で [ICON_PRODUCTION] 生産コストが最も低いものを得る。それ以外の区域を初めて建設した場合は、 [ICON_ENVOY] 代表団1つを得る。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="ja_JP">
+      <Text>バビロン固有の太古の近接戦闘ユニット。重騎兵と軽騎兵のレベルアップ・クラスを持つユニットに対して [ICON_Strength] 戦闘力+17。 [ICON_Movement] 移動力3、視界3。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="ja_JP">
+      <Text>サブン・キビタム</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="ja_JP">
+      <Text>重騎兵と軽騎兵のレベルアップ・クラスを持つユニットに対して [ICON_Strength] 戦闘力+17。</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="ja_JP">
+      <Text>「英雄と伝説」モード</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="ja_JP">
+      <Text>世界各地のさまざまな神話や伝説に語られている12人の強力な英雄が登場するゲームモードです。[NEWLINE][NEWLINE]世界を探索し、都市国家と出会い、英雄たちを発見して自分の都市に迎え入れましょう。英雄はそれぞれが世界に1人だけの存在であり、異なる文明が同じ英雄を擁することはできません。[NEWLINE][NEWLINE]彼らは強大な力と固有の能力を備えていますが、その生涯は短いものです。登場した時点で英雄の寿命はすでに決まっています。しかし英雄がこの世を去ってしまっても、信仰力を消費すれば再び召喚することができます。[NEWLINE][NEWLINE]12人の英雄にはそれぞれに固有の能力と役割があります。賢く用いれば、英雄はゲームの流れをひっくり返す力を発揮するでしょう！</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="ja_JP">
+      <Text>エンキドゥの遺産</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="ja_JP">
+      <Text>英雄の獲得時 [ICON_Production] 生産力+25%、英雄の [ICON_Lifespan] 寿命+20%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="ja_JP">
+      <Text>通常の [ICON_Culture] 文化力に加えて、 [ICON_GreatWork_Relic] 遺物、 [ICON_GreatWork_Relic] 英雄の遺物、 [ICON_GreatWork_HeroRelic] 秘宝、 [ICON_GreatWork_Sculpture] 傑作 (彫刻)  からそれぞれ [ICON_Food] 食料+2、 [ICON_Production] 生産力+2、 [ICON_Gold] ゴールド+4。獲得できる [ICON_GreatWriter] 大著述家、 [ICON_GreatArtist] 大芸術家、 [ICON_GreatMusician] 大音楽家、 [ICON_GreatMerchant] 大商人ポイントが50%上昇する。宮殿には傑作スロットが5つある。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="ja_JP">
+      <Text>隣接し、かつポーランドの文化爆弾でタイルを失った都市において、ポーランドの創始した宗教が主流になる。聖地は隣接する区域から通常の信仰力ボーナスを得る。すべての [ICON_GreatWork_Relic] 遺物と [ICON_GreatWork_HeroRelic] 英雄の遺物が [ICON_Faith] 信仰力+2、 [ICON_Culture] 文化力+4、 [ICON_Gold] ゴールド+4のボーナスをもたらす。</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="ja_JP">
+      <Text>[ICON_GreatWork_Relic] 遺物と [ICON_GreatWork_HeroRelic] 英雄の遺物が生み出す [ICON_Faith] 信仰力と [ICON_Tourism] 観光力が3倍になる。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="ja_JP">
+      <Text>重騎兵と軽騎兵のレベルアップ・クラスを持つユニットに対する戦闘力+{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="ja_JP">
+      <Text>サブン・キビタム</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="ko_KR">
+      <Text>팔굼</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="ko_KR">
+      <Text>바빌론</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="ko_KR">
+      <Text>바빌론 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="ko_KR">
+      <Text>바빌론</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="ko_KR">
+      <Text>함무라비</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="ko_KR">
+      <Text>바빌론 특유의 건물입니다. [ICON_HOUSING] 주거공간 +1과 [ICON_PRODUCTION] 생산력 +2를 얻습니다. 담수 타일이 [ICON_FOOD] 식량 +1을 얻습니다. 도시는 반드시 강과 인접해야 합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="ko_KR">
+      <Text>에누마 아누 엔릴</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="ko_KR">
+      <Text>[ICON_TechBoosted] 유레카는 기술에 필요한 모든 [ICON_SCIENCE] 과학을 제공합니다. - 턴당 [ICON_SCIENCE] 과학 50%를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="ko_KR">
+      <Text>법전</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="ko_KR">
+      <Text>전문 특수지구를 처음 건설할 때마다 해당 전문 특수지구에서 현재 건설할 수 있는 가장 낮은 [ICON_PRODUCTION] 생산력 비용의 건물을 얻습니다. 다른 특수지구는 처음으로 건설할 때마다 [ICON_ENVOY] 사절을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="ko_KR">
+      <Text>정부 청사를 제외하고 전문 특수지구를 처음 건설할 때마다 해당 지구에서 현재 건설할 수 있는 가장 낮은 [ICON_PRODUCTION] 생산력 비용 건물을 얻습니다. 다른 특수지구는 처음으로 건설할 때마다 [ICON_ENVOY] 사절을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="ko_KR">
+      <Text>바빌론 특유의 고대 시대 근접 유닛입니다. 중기병 및 경기병 진급 부류 유닛 상대 시 [ICON_Strength] 전투력 +17을 얻습니다. 이 유닛의 [ICON_Movement] 이동력과 시야는 3입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="ko_KR">
+      <Text>사붐 키비툼</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="ko_KR">
+      <Text>중기병 및 경기병 진급 부류 유닛 상대 시 [ICON_Strength] 전투력 +17을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="ko_KR">
+      <Text>영웅 및 전설 모드</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="ko_KR">
+      <Text>이 게임 모드에서는 세계의 신화와 전설에 등장하는 12명의 강력한 영웅 유닛이 추가됩니다.[NEWLINE][NEWLINE]월드를 탐험하고 도시 국가에 영향력을 미쳐 이 영웅들을 발견하고 도시로 모집하십시오. 각각의 영웅은 월드마다 한 명만 존재하며 하나의 문명에만 소유될 수 있습니다.[NEWLINE][NEWLINE]영웅은 아주 짧은 시간만 유지되는 엄청난 힘과 특유 능력을 갖추고 있습니다. 영웅이 출현하면 정해진 턴 동안 유지되다가 시간이 끝나면 자연적으로 만료됩니다. 하지만 영웅을 획득했던 문명은 영웅이 사라진 후에 신앙을 소비해 다시 소환할 수 있습니다.[NEWLINE][NEWLINE]12명의 영웅은 각각 특별한 능력과 고유 역할을 가졌습니다. 현명한 플레이어의 손안에 있다면, 영웅은 게임을 뒤바꿀 힘이 될 수 있습니다!</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="ko_KR">
+      <Text>엔키두의 유산</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="ko_KR">
+      <Text>영웅 획득 시 [ICON_Production] 생산력이 25% 증가하고, 영웅의 [ICON_Lifespan] 수명이 20% 연장됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="ko_KR">
+      <Text>각 [ICON_GreatWork_Relic] 성유물, [ICON_GreatWork_HeroRelic] 영웅 성유물, [ICON_GreatWork_Artifact] 유물, 조각상 [ICON_GreatWork_Sculpture] 걸작 예술품에서 일반적으로 받는 [ICON_Culture] 문화와 더불어 [ICON_Food] 식량 +2, [ICON_Production] 생산력 +2, [ICON_Gold] 금 +4가 제공됩니다. [ICON_GreatWriter] 위대한 작가, [ICON_GreatArtist] 위대한 예술가, [ICON_GreatMusician] 위대한 음악가 및 [ICON_GreatMerchant] 위대한 상인 점수를 +50% 더 받습니다. 궁전은 걸작 슬롯 5개를 가지고 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="ko_KR">
+      <Text>폴란드에 의해 창시된 종교는 폴란드의 문화 폭탄으로 타일을 잃은 인접 도시의 대중 종교가 됩니다. 성지는 인접 특수지구로부터 일반적인 신앙 인접 보너스를 획득합니다. [ICON_GreatWork_Relic] 성유물과 [ICON_GreatWork_HeroRelic] 영웅 성유물은 [ICON_Faith] 신앙 +2, [ICON_Culture] 문화 +2 및 [ICON_Gold] 금 +4를 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="ko_KR">
+      <Text>[ICON_GreatWork_Relic] 성유물과 [ICON_GreatWork_HeroRelic] 영웅 성유물에서 생산되는 [ICON_Faith] 신앙 및 [ICON_Tourism] 관광이 3배로 증가합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="ko_KR">
+      <Text>중기병 및 경기병 진급 부류 유닛 상대 시 전투력 +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="ko_KR">
+      <Text>사붐 키비툼</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="pl_PL">
+      <Text>Palgum|Palgum|Palgum|Palgum|Palgum|Palgum|palgum|palgum|palgum|palgum|palgum|paglum</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="pl_PL">
+      <Text>Babilon|Babilonu|Babilonowi|Babilon|Babilonem|Babilonie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Babilońskie|Imperium Babilońskiego|Imperium Babilońskiemu|Imperium Babilońskie|Imperium Babilońskim|Imperium Babilońskim|Imperium Babilońskie|Imperium Babilońskiego|Imperium Babilońskiemu|Imperium Babilońskie|Imperium Babilońskim|Imperium Babilońskim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="pl_PL">
+      <Text>Babiloński|Babilońska|Babilońscy|Babilońskie|Babilońsk|babiloński|babilońska|babilońscy|babilońskie|babilońsk|babilońskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="pl_PL">
+      <Text>Hammurabi|Hammurabiego|Hammurabiemu|Hammurabiego|Hammurabim|Hammurabim</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="pl_PL">
+      <Text>Budowla dostępna wyłącznie dla Babilonu. +1 [ICON_HOUSING] obszar mieszkalny i +2 do [ICON_PRODUCTION] produkcji. Pola ze słodką wodą otrzymują +1 do [ICON_FOOD] żywności. Miasto musi sąsiadować z rzeką.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="pl_PL">
+      <Text>Enuma Anu Enlil</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="pl_PL">
+      <Text>[ICON_TechBoosted] Eureki zapewniają całą [ICON_SCIENCE] naukę niezbędną do opracowania technologii. -50% [ICON_SCIENCE] nauki na turę.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="pl_PL">
+      <Text>Ninu ilu sirum</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="pl_PL">
+      <Text>Wzniesienie po raz pierwszy wyspecjalizowanej dzielnicy zapewnia w niej za darmo dostępną w danej chwili budowlę kosztującą najmniej [ICON_PRODUCTION] produkcji. Wzniesienie po raz pierwszy jakiejkolwiek innej dzielnicy zapewnia darmowego [ICON_ENVOY] emisariusza.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="pl_PL">
+      <Text>Wzniesienie po raz pierwszy wyspecjalizowanej dzielnicy (poza placem rządowym) zapewnia w niej za darmo dostępną w danej chwili budowlę kosztującą najmniej [ICON_PRODUCTION] produkcji. Wzniesienie po raz pierwszy jakiejkolwiek innej dzielnicy zapewnia darmowego [ICON_ENVOY] emisariusza.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna starożytna jednostka Babilonu walcząca w zwarciu. +17 do [ICON_Strength] siły bojowej przeciwko jednostkom ciężkiej i lekkiej kawalerii. Dysponuje 3 punktami [ICON_Gold] ruchu oraz zasięgiem wzroku równym 3.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="pl_PL">
+      <Text>Sabum kibittum</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="pl_PL">
+      <Text>+17 do [ICON_Strength] siły bojowej przeciwko jednostkom ciężkiej i lekkiej kawalerii.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="pl_PL">
+      <Text>Tryb bohaterów i legend</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="pl_PL">
+      <Text>Ten tryb gry dodaje dwanaście jednostek potężnych bohaterów ze świata mitów i legend.[NEWLINE][NEWLINE]Odkryj bohaterów, eksplorując świat i wpływając na miasta-państwa, a następnie pozyskuj ich w swoich miastach. Każdy bohater jest unikalny na skalę światową i może zostać pozyskany tylko przez jedną cywilizację.[NEWLINE][NEWLINE]Bohaterowie mają wielką siłę i unikalne umiejętności oraz ograniczoną długość życia. Gdy bohater dołącza do rozgrywki, pozostaje w niej przez określoną liczbę tur, po czym w naturalny sposób odchodzi. Cywilizacja, której bohater odszedł, może wydać wiarę, by przywołać go ponownie.[NEWLINE][NEWLINE]Każdy z dwunastu bohaterów mają specjalne moce i określone role. W rękach rozważnego gracza odpowiedni bohater może odmienić przebieg rozgrywki!</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="pl_PL">
+      <Text>Dziedzictwo Enkidu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="pl_PL">
+      <Text>Zwiększenie o 25% [ICON_Production] produkcji, gdy uda się pozyskać bohatera. [ICON_Lifespan] Życie bohaterów jest o 20% dłuższe.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="pl_PL">
+      <Text>+2 do [ICON_Food] żywności, +2 do [ICON_Production] produkcji i +4 [ICON_Gold] złota za każdą [ICON_GreatWork_Relic] relikwię, [ICON_GreatWork_HeroRelic] relikwię bohatera, [ICON_GreatWork_Artifact] artefakt i [ICON_GreatWork_Sculpture] wielkie dzieło rzeźbiarskie (oprócz zwykłej premii [ICON_Culture] kultury). 50% więcej punktów [ICON_GreatWriter] wielkiego pisarza, [ICON_GreatArtist] wielkiego artysty, [ICON_GreatMusician] wielkiego muzyka i [ICON_GreatMerchant] wielkiego kupca. Pałac zapewnia miejsca na 5 wielkich dzieł.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="pl_PL">
+      <Text>Religia założona przez Polskę staje się dominującą w miastach, które utracą pola z powodu polskiej bomby kulturowej. Dzielnice świątynne uzyskują standardową premię do wiary za sąsiedztwo dzielnic. [ICON_GreatWork_Relic] Relikwie i [ICON_GreatWork_HeroRelic] relikwie bohaterów zapewniają premię +2 do [ICON_Faith] wiary, +2 do [ICON_Culture] kultury i +4 [ICON_Gold] złota.</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="pl_PL">
+      <Text>[ICON_GreatWork_Relic] Relikwie i [ICON_GreatWork_HeroRelic] relikwie bohaterów generują trzy razy więcej [ICON_Faith] wiary i [ICON_Tourism] turystyki.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="pl_PL">
+      <Text>+{1_Amount} do siły bojowej przeciwko jednostkom ciężkiej i lekkiej kawalerii.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="pl_PL">
+      <Text>Sabum kibittum</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="ru_RU">
+      <Text>Палгум|палгума|палгуму|палгум|палгумом|палгуме</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="ru_RU">
+      <Text>Вавилон|Вавилона|Вавилону|Вавилон|Вавилоном|Вавилоне</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="ru_RU">
+      <Text>Вавилонская империя|Вавилонской империи|Вавилонской империи|Вавилонскую империю|Вавилонской империей|Вавилонской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="ru_RU">
+      <Text>вавилонск.|вавилонск.|вавилонск.|вавилонск.|вавилонск.|вавилонск.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="ru_RU">
+      <Text>Хаммурапи|Хаммурапи|Хаммурапи|Хаммурапи|Хаммурапи|Хаммурапи</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальное здание Вавилона. +1 ед. [ICON_HOUSING] жилья и +2 ед. [ICON_PRODUCTION] производства. Клетки с пресной водой получают +1 ед. [ICON_FOOD] пищи. Город должен находиться рядом с рекой.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="ru_RU">
+      <Text>Энума Ану Энлиль</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="ru_RU">
+      <Text>[ICON_TechBoosted] Озарения дают [ICON_SCIENCE] науку для технологий. -50% к [ICON_SCIENCE] науке за ход.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="ru_RU">
+      <Text>Когда великий Ану…</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="ru_RU">
+      <Text>При первом строительстве специализированных районов они получают самое дешевое в плане [ICON_PRODUCTION] производства здание, которое только можно построить в этом районе. При первом строительстве любого другого района вы получаете [ICON_ENVOY] посла.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="ru_RU">
+      <Text>При первом строительстве специализированных районов (кроме правительственной площади) они получают самое дешевое в плане [ICON_PRODUCTION] производства здание, которое только можно построить в этом районе. При первом строительстве любого другого района вы получаете [ICON_ENVOY] посла.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный вавилонский юнит ближнего боя эпохи древнего мира. +17 [ICON_Strength] к боевой мощи против юнитов с типами повышения «Тяжелая кавалерия» и «Легкая кавалерия». Имеет 3 [ICON_Movement] ОП и обзора.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="ru_RU">
+      <Text>Сабум кибиттум</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="ru_RU">
+      <Text>+17 [ICON_Strength] к боевой мощи против юнитов с типами повышения «Тяжелая кавалерия» и «Легкая кавалерия».</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="ru_RU">
+      <Text>Режим «Герои и легенды»</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="ru_RU">
+      <Text>Этот игровой режим добавляет двенадцать могучих героев из мифов и сказаний народов мира.[NEWLINE][NEWLINE]Открывайте героев, исследуя мир и оказывая влияние на города-государства, а потом призывайте их в городах. Каждый герой уникален, и получить его может только одна цивилизация.[NEWLINE][NEWLINE]Герои отличаются не только мощью и неповторимыми способностями, но и ограниченным сроком жизни. Они живут строго отведенное количество ходов, после чего исчезают. Впрочем, это еще не конец: отжившего свой век героя можно призвать обратно за очки веры.[NEWLINE][NEWLINE]Каждый из двенадцати героев обладает собственными способностями и конкретной ролью. В руках умелого игрока такая сила может перевернуть ход игры!</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="ru_RU">
+      <Text>Наследие Энкиду</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="ru_RU">
+      <Text>При призыве героев [ICON_Production] производство возрастает на 25%; [ICON_Lifespan] срок жизни героев увеличен на 20%.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="ru_RU">
+      <Text>+2 [ICON_Food] пищи, +2 [ICON_Production] производства и +4 [ICON_Gold] золота от каждой [ICON_GreatWork_Relic] реликвии, [ICON_GreatWork_HeroRelic] героической реликвии, [ICON_GreatWork_Artifact] артефакта и [ICON_GreatWork_Sculpture] скульптурного шедевра в дополнение к [ICON_Culture] культуре. На 50% больше очков [ICON_GreatWriter] великого писателя, [ICON_GreatArtist] великого художника, [ICON_GreatMusician] великого музыканта и [ICON_GreatMerchant] великого торговца. В дворце есть 5 ячеек для наследия.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="ru_RU">
+      <Text>Религия, основанная Польшей, получает большинство в одном из соседних городов, который теряет клетку в результате культурного захвата. Священные места получают стандартный бонус веры от соседства с районами. Все [ICON_GreatWork_Relic] реликвии и [ICON_GreatWork_HeroRelic] героические реликвии дают бонус к [ICON_Faith] вере (+2), [ICON_Culture] культуре (+2) и [ICON_Gold] золоту (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="ru_RU">
+      <Text>[ICON_GreatWork_Relic] Реликвии и [ICON_GreatWork_HeroRelic] героические реликвии утраивают получаемые [ICON_Faith] веру и [ICON_Tourism] туризм.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="ru_RU">
+      <Text>+{1_Amount} к боевой мощи против юнитов с типами повышения «Тяжелая кавалерия» и «Легкая кавалерия»</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="ru_RU">
+      <Text>Сабум кибиттум|Сабум кибиттум|Сабум кибиттум|Сабум кибиттум|Сабум кибиттум|Сабум кибиттум</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="zh_Hans_CN">
+      <Text>沟渠</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="zh_Hans_CN">
+      <Text>巴比伦</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>巴比伦帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>巴比伦的</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="zh_Hans_CN">
+      <Text>汉谟拉比</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>巴比伦特色建筑。+1 [ICON_HOUSING] 住房、+2 [ICON_PRODUCTION] 生产力。淡水单元格产出的 [ICON_FOOD] 食物+1。城市必须建在河流旁。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="zh_Hans_CN">
+      <Text>巴比伦诸神</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[ICON_TechBoosted] 尤里卡提供科技的所有 [ICON_SCIENCE] 科技值。每回合的 [ICON_SCIENCE] 科技值-50%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="zh_Hans_CN">
+      <Text>尼鲁-伊路-辛鲁</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>首次建造出一种特色区域时，获得当前可在该区域中建造的、所需 [ICON_PRODUCTION] 生产力最低的建筑。首次建造任意其他区域时，获得1名 [ICON_ENVOY] 使者。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>首次建造出一种特色区域（市政广场除外）时，获得当前可在该区域中建造的、所需 [ICON_PRODUCTION] 生产力最低的建筑。首次建造任意其他区域时，获得1名 [ICON_ENVOY] 使者。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>巴比伦特色远古时代近战单位。与轻重骑兵类单位作战时+17 [ICON_Strength] 战斗力。此单位拥有3点 [ICON_Movement] 移动力和视野。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="zh_Hans_CN">
+      <Text>主力军团</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>与轻重骑兵升级类单位作战时+17 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="zh_Hans_CN">
+      <Text>英雄与传奇模式</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>此游戏模式加入了12位世界神话与传说中的强力英雄单位。[NEWLINE][NEWLINE]通过探索世界或影响城邦来发现这些英雄，然后在城市中获得他们。每位英雄在世界上只有一位，且只能被一个文明获得。[NEWLINE][NEWLINE]英雄拥有强大能力和特色技能，但寿命有限。英雄出现后，其将在游戏中存在一定时间，之后将自然消亡。英雄离开之后，曾拥有他们的文明可以花费信仰值来将其召回。[NEWLINE][NEWLINE]12位英雄都拥有特殊能力和专属角色。如果使用得当，他们将能一举扭转游戏中的局势！</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="zh_Hans_CN">
+      <Text>恩奇都的遗产</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>获得英雄时+25% [ICON_Production] 生产力；英雄的 [ICON_Lifespan] 寿命+20%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>除常规的 [ICON_Culture] 文化值之外，还会从每个 [ICON_GreatWork_Relic] 遗物、[ICON_GreatWork_HeroRelic] 英雄遗物、[ICON_GreatWork_Artifact] 文物以及 [ICON_GreatWork_Sculpture] 雕塑艺术巨作中获得+2 [ICON_Food] 食物、+2 [ICON_Production] 生产力、+4 [ICON_Gold] 金币。+50% [ICON_GreatWriter] 大作家、[ICON_GreatArtist] 大艺术家、[ICON_GreatMusician] 大音乐家和 [ICON_GreatMerchant] 大商人点数。宫殿拥有5个巨作槽位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>如果相邻城市在波兰文化炸弹的攻击下失去单元格，则波兰创立的宗教将成为此城的主流宗教。圣地将从相邻区域获得标准信仰值相邻加成。[ICON_GreatWork_Relic] 遗物和 [ICON_GreatWork_HeroRelic] 英雄遗物提供的 [ICON_Faith] 信仰值+2、[ICON_Culture] 文化值+2、[ICON_Gold] 金币+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[ICON_GreatWork_Relic] 遗物和 [ICON_GreatWork_HeroRelic] 英雄遗物能产出3倍 [ICON_Faith] 信仰值和 [ICON_Tourism] 旅游业绩。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>与轻重骑兵升级类单位作战时+{1_Amount}战斗力</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="zh_Hans_CN">
+      <Text>主力军团</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="es_ES">
+      <Text>Palgum|Palgum</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="es_ES">
+      <Text>Babilonia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="es_ES">
+      <Text>Imperio babilonio</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="es_ES">
+      <Text>babilonio|babilonia|babilonios|babilonias</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="es_ES">
+      <Text>Hammurabi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="es_ES">
+      <Text>Un edificio exclusivo de Babilonia. +1 a Alojamiento [ICON_HOUSING] y +2 a Producción [ICON_PRODUCTION]. Las casillas de agua dulce reciben +1 a Alimentos [ICON_FOOD]. La ciudad debe estar adyacente a un río.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="es_ES">
+      <Text>Enuma Anu Enlil</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="es_ES">
+      <Text>Las Eurekas [ICON_TechBoosted] dan toda la Ciencia [ICON_SCIENCE] por las tecnologías. -50% a Ciencia [ICON_SCIENCE] por turno.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="es_ES">
+      <Text>Nînu ilu sirum</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="es_ES">
+      <Text>Cuando se construye cada distrito especializado por primera vez, recibe el edificio con el coste de Producción [ICON_PRODUCTION] más bajo que se pueda construir en ese distrito y en ese momento. Recibe un Enviado [ICON_ENVOY] cuando se construye cualquier otro distrito por primera vez.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="es_ES">
+      <Text>Cuando se construye cada tipo de distrito especializado por primera vez, excepto la Plaza de gobierno, recibe el edificio con el coste de Producción [ICON_PRODUCTION] más bajo que se pueda construir en ese distrito y en ese momento. Recibe un Enviado [ICON_ENVOY] cuando se construye cualquier otro distrito por primera vez.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="es_ES">
+      <Text>Unidad cuerpo a cuerpo exclusiva de la Babilonia de la Antigüedad. +17 a la Fuerza de combate [ICON_Strength] contra unidades de las clases de ascenso Caballería ligera y Caballería pesada. Esta unidad tiene 3 de Movimiento [ICON_Movement] y Visual.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="es_ES">
+      <Text>Sabum Kibittum</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="es_ES">
+      <Text>+17 a la Fuerza de combate [ICON_Strength] contra unidades de las clases de ascenso Caballería ligera y Caballería pesada.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="es_ES">
+      <Text>Modo Héroes y leyendas</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="es_ES">
+      <Text>Este modo de juego incorpora doce unidades de Héroes poderosos de los mitos y leyendas del mundo.[NEWLINE][NEWLINE]Descubre Héroes explorando el mundo e influyendo en ciudades-estado y luego incorpóralos a tus ciudades. Cada Héroe es único y solo se puede incorporar a una civilización.[NEWLINE][NEWLINE]Los Héroes tienen grandes poderes y habilidades exclusivas, pero también una esperanza de vida limitada. Cuando aparece un Héroe, se queda un número determinado de turnos antes de que se acabe su tiempo y muera por causas naturales. No obstante, después de que un Héroe se vaya, la civilización a la que se incorporó puede volver a llamarlo gastando Fe.[NEWLINE][NEWLINE]Cada uno de los doce Héroes tiene sus propios poderes especiales. En manos de un jugador avispado, un Héroe puede ser una fuerza que cambie el curso de la partida.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="es_ES">
+      <Text>Legado de Enkidu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="es_ES">
+      <Text>El 25% de la Producción [ICON_Production] aumenta al reclutar Héroes, y estos tienen una Esperanza de vida [ICON_Lifespan] un 20% más larga.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="es_ES">
+      <Text>+2 a Alimentos [ICON_Food], +2 a la Producción [ICON_Production] y +4 de Oro [ICON_Gold] por cada reliquia [ICON_GreatWork_Relic], reliquia heroica [ICON_GreatWork_HeroRelic], artefacto [ICON_GreatWork_Artifact] y gran obra de la Escultura [ICON_GreatWork_Sculpture], además de la Cultura [ICON_Culture] habitual. Recibe el 50% más de puntos de Gran escritor [ICON_GreatWriter], de Gran artista [ICON_GreatArtist], de Gran músico [ICON_GreatMusician] y de Gran mercader [ICON_GreatMerchant]. El Palacio tiene espacio para 5 Grandes obras.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="es_ES">
+      <Text>La religión fundada por Polonia se convierte en mayoritaria en una ciudad adyacente que pierde una casilla por un Bombardeo cultural polaco. Los Lugares sagrados obtienen una bonificación normal de Fe por adyacencia de los distritos adyacentes. Todas las reliquias [ICON_GreatWork_Relic] y reliquias heroicas [ICON_GreatWork_HeroRelic] confieren +2 a Fe [ICON_Faith], +2 a Cultura [ICON_Culture] y +4 de Oro [ICON_Gold].</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="es_ES">
+      <Text>Las reliquias [ICON_GreatWork_Relic] y reliquias de héroes [ICON_GreatWork_HeroRelic] tienen el triple de rendimiento tanto por Fe [ICON_Faith] como por Turismo [ICON_Tourism].</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="es_ES">
+      <Text>+{1_Amount} a la Fuerza de combate contra unidades de las clases de ascenso Caballería ligera y Caballería pesada.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="es_ES">
+      <Text>Sabum Kibittum|Sabum Kibittum</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_NAME" Language="zh_Hant_HK">
+      <Text>灌渠</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_NAME" Language="zh_Hant_HK">
+      <Text>巴比倫</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>巴比倫帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>巴比倫人</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_HAMMURABI_NAME" Language="zh_Hant_HK">
+      <Text>漢摩拉比</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PALGUM_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>巴比倫特色建築。+1 [ICON_HOUSING] 住房並+2 [ICON_PRODUCTION] 生產力。淡水單元格獲得+1 [ICON_FOOD] 食物。城市必須相鄰於河流。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME" Language="zh_Hant_HK">
+      <Text>阿奴與恩利爾時紀</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>[ICON_TechBoosted] 尤里卡能為科技提供所需的全部 [ICON_SCIENCE] 科技值。每回合的 [ICON_SCIENCE] 科技值-50%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME" Language="zh_Hant_HK">
+      <Text>尼努-伊路-辛魯</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>首度建成每個特色區域時，皆可獲得該區域中目前可建且 [ICON_PRODUCTION] 生產力花費最低的建築。首度建成其他區域時可獲得一個 [ICON_ENVOY] 使者。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>首度建成除市政廣場外的每個特色區域時，皆可獲得該區域中目前可建且 [ICON_PRODUCTION] 生產力花費最低的建築。首度建成其他區域時可獲得一個 [ICON_ENVOY] 使者。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>巴比倫遠古時代特色近戰單位。迎戰輕騎兵和重騎兵類單位時+17 [ICON_Strength] 戰鬥力。此單位擁有3點 [ICON_Movement] 移動力與視野。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME" Language="zh_Hant_HK">
+      <Text>重裝主軍</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>迎戰輕騎兵和重騎兵類單位時+17 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_NAME" Language="zh_Hant_HK">
+      <Text>英雄與傳奇模式</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_HEROES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>此遊戲模式新增了12名來自世界各地神話與傳說的強大英雄單位。[NEWLINE][NEWLINE]透過探索世界並會晤城邦來發掘這些英雄，接著再將其招募至你的城市當中。每名英雄在世界中都獨一無二，並且僅能由一個文明所獲取。[NEWLINE][NEWLINE]英雄擁有強大的力量與獨特的能力，但其壽命有限。英雄出現後，他們便會存活特定的回合數，直至壽命盡了自然死亡為止。然而，英雄離世後，當初獲取之文明能花費信仰值來召回之。[NEWLINE][NEWLINE]每名英雄都有自己的特殊能力與獨特角色定位，只要使用得當，就能真正逆轉戰局！</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME" Language="zh_Hant_HK">
+      <Text>恩奇都的遺產</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>獲得英雄時增加25% [ICON_Production] 生產力，英雄的 [ICON_Lifespan] 壽命延長20%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>除了通常的 [ICON_Culture] 文化值外，每個 [ICON_GreatWork_Relic] 遺物、[ICON_GreatWork_HeroRelic] 英雄遺物、[ICON_GreatWork_Artifact] 文物以及 [ICON_GreatWork_Sculpture] 雕塑藝術巨作可獲得+2 [ICON_Food] 食物、+2 [ICON_Production] 生產力及+4 [ICON_Gold] 金幣。+50% [ICON_GreatWriter] 大作家、[ICON_GreatArtist] 大藝術家、[ICON_GreatMusician] 大音樂家和 [ICON_GreatMerchant] 大商人點數。宮殿有5個巨作槽位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>如相鄰城市因受到波蘭文化炸彈攻擊而失去單元格，波蘭所創立的宗教將成為此城的主流宗教。聖地從相鄰的區域處獲得標準信仰值相鄰加成。[ICON_GreatWork_Relic] 遺物與 [ICON_GreatWork_HeroRelic] 英雄遺物提供加成：+2 [ICON_Faith] 信仰值、+2 [ICON_Culture] 文化值、+4 [ICON_Gold] 金幣。</Text>
+    </Replace>
+    <Replace Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>[ICON_GreatWork_Relic] 遺物及 [ICON_GreatWork_HeroRelic] 英雄遺物能產出3倍的 [ICON_Faith] 信仰值和 [ICON_Tourism] 觀光值。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>迎戰輕騎兵和重騎兵類單位時+{1_Amount}戰鬥力</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME" Language="zh_Hant_HK">
+      <Text>重裝主軍</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--UI-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_HEROES_NAME">
+			<Text>Heroes</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_CHAPTER_HEROABILITIES_TITLE">
+			<Text>Heroic Abilities</Text>
+		</Replace>
+		<!-- Game Mode Concept -->
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME">
+			<Text>Modes</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CONTENT_TITLE">
+			<Text>Heroes &amp; Legends</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_WELCOME_TITLE">
+			<Text>Welcome</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_WELCOME_PARA_1">
+			<Text>In game setup, players can turn on the Heroes &amp; Legends game mode, introducing a diverse cast of extraordinary, powerful Hero units to the world.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_TITLE">
+			<Text>Discovering Heroes</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_1">
+			<Text>There are twelve unique Heroes available in this game mode, and each must be discovered before she or he can be claimed by your civilization. Heroes are discovered by chance as you explore the world and meet its people. Each of the following activities provides a chance to discover a new Hero:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_2">
+			<Text>[ICON_BULLET] Encountering a Tribal Village[NEWLINE][ICON_BULLET] Sending an [ICON_ENVOY] Envoy to a City-State[NEWLINE][ICON_BULLET] Becoming Suzerain of a City-State for the first time[NEWLINE][ICON_BULLET] Discovering a new Continent[NEWLINE][ICON_BULLET] Discovering a Natural Wonder</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_3">
+			<Text>In addition to these natural discovery opportunities, you can also complete the repeatable [COLOR:ProductionDark]Heroic Tales[ENDCOLOR] City Project to discover a new, random Hero. This project is unlocked for any city that builds a [COLOR:Civ6Yellow]Monument[ENDCOLOR] building.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_4">
+			<Text>Full information on all Heroes you have discovered including their strengths, abilities, and status can be found on the Heroes &amp; Great People screen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_TITLE">
+			<Text>Claiming Heroes</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_PARA_1">
+			<Text>When you have one or more Heroes discovered, you can claim a Hero of your choice by completing their [COLOR:ProductionDark]Hero Devotion[ENDCOLOR] City Project. These projects are unique to each Hero and unlocked when the city constructs a [COLOR:Civ6Yellow]Monument[ENDCOLOR] building. Completing a Devotion Project will permanently associate the Monument with the Hero and bring them into play for your civilization.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_PARA_2">
+			<Text>Heroes are globally unique. Only the first civilization to devote a Monument to the Hero will claim them, and each Monument can be devoted to only one Hero.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_PARA_3">
+			<Text>To claim multiple Heroes, you can construct multiple Monuments in multiple cities and claim a different Hero in each one. However, the cost of all Hero Devotion projects increases with each claim you complete.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_TITLE">
+			<Text>Hero Units</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_1">
+			<Text>Heroes are powerful units with special characteristics. Each has one or more unique abilities or commands that only they can perform.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_2">
+			<Text>A Hero's strength and ability power grows based on the Era in which they appear. When you recall a Hero multiple times during a game, they will come back stronger in later Eras.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_3">
+			<Text>Full details on the current capabilities of any Hero you have claimed or discovered can be found on the Heroes &amp; Great People screen.</Text>
+		</Replace>		
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_LIFESPAN_TITLE">
+			<Text>Hero Lifespan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_LIFESPAN_PARA_1">
+			<Text>All Hero units have a special characteristic called [ICON_Lifespan] Lifespan. When a Hero enters the game, they have a limited number of turns they can remain. If the Hero is not killed or destroyed before their [ICON_Lifespan] Lifespan expires, they will automatically leave play the turn their [ICON_Lifespan] Lifespan reaches zero. A Hero’s [ICON_Lifespan] Lifespan is displayed in the HUD when the Hero is selected.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_RECALLING_TITLE">
+			<Text>Recalling Heroes</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_RECALLING_PARA_1">
+			<Text>After a Hero leaves the game, they can be recalled once every Era by purchasing them with [ICON_Faith] Faith in the same city that originally claimed them. Heroes can be recalled mulitple times across the Eras, but the cost to recall a specific Hero increases each time.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_RECALLING_PARA_2">
+			<Text>Only the original claiming player can recall a Hero, and only in the city where their Monument is located. If you lose control of a city where you had claimed a Hero, you will not be able to recall that Hero until you regain control of the city. If the city is razed, you will not be able to recall the Hero at all.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_TITLE">
+			<Text>Heroic Great Works</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_PARA_1">
+			<Text>This mode includes a new type of Great Work: the Heroic Relic. When a Monument is devoted to a Hero, it gains two Heroic Relic Great Work slots. After a Hero’s first appearance in the game is over (whether because they were killed or their [ICON_Lifespan] Lifespan expired), they leave behind two unique [ICON_GreatWork_HeroRelic] Heroic Relics: a Heroic Epic and a Heroic Symbol. Heroic Epics are automatically placed in the Monument in the Hero's origin city. Heroic Symbols are hidden as Antiquity sites and can be excavated by Archaeologists once you have unlocked that capability.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_PARA_2">
+			<Text>[ICON_BULLET] The Heroic Epic is a chronicle of the Hero’s life and deeds. It is automatically created and placed into the Hero’s Monument building.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_PARA_3">
+			<Text>[ICON_BULLET] The Heroic Symbol is a famous object associated with the Hero. It is placed as an [ICON_RESOURCE_ANTIQUITY_SITE] Antiquity Site on a plot close to where the Hero was located when they left the game. When you unlock Archaeologists and can excavate the site, the Heroic Symbol can be recovered and placed in the Hero’s Monument building.</Text>
+		</Replace>
+		<!--Hero Units-->
+		<!--Anansi-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ANANSI_CHAPTER_HISTORY_PARA_1">
+			<Text>Anansi has traveled far, for a spider. The sometimes-human, sometimes-spider, sometimes-both trickster protagonist of a number of tales from the Akan people in present-day Ghana, Anansi is the hero of stories that have travelled with West African people wherever they have gone, especially amongst enslaved African people in the New World. Here, Anansi, sometimes re-named &quot;Kompa Nanzi&quot; or even &quot;Aunt Nancy&quot; (though Anansi is normally depicted as a man), remains a source of inspiration for those in less powerful positions seeking to use their wit and cunning to turn the tables on their oppressors. Whereas other heroes and deities might have mighty weapons, Anansi has stories.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ANANSI_CHAPTER_HISTORY_PARA_2">
+			<Text>Before, the sky-god Nyame kept all the stories for himself. Anansi went and asked for them, but Nyame posed to him a series of seemingly impossible tasks that involved gathering up the world’s most dangerous creatures. Anansi went about this not directly, but using the vanity and pride of the great beasts against them. For instance, he let the great python &quot;accidentally&quot; overhear Anansi speculating that the snake wasn’t nearly as long as a nearby branch, and when the python laid down next to the tree to show Anansi his length, Anansi bound him to the branch and captured him. After Nyame saw Anansi’s cleverness, he agreed that from that point on, all stories should belong to the spider, and this is why West Africans tell Anansi stories, and not Nyame stories.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ANANSI_CHAPTER_HISTORY_PARA_3">
+			<Text>Anansi is not always a virtuous hero. Like many other tricksters he can often be selfish, and at these times especially his plans often go awry. But he is a fitting hero for those who have had to rely upon quick thinking in order to get by.</Text>
+		</Replace>
+		<!--Arthur-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ARTHUR_CHAPTER_HISTORY_PARA_1">
+			<Text>The story of King Arthur has been told and re-told in a dizzying number of ways, moving from oral legend to medieval romance to Romantic literature classic to science fiction. It has been told so many times that finding the origin of the legend is difficult, though uncovering pastiche starring Lancelot, Guinevere, Arthur, and the Round Table is not. In nearly all of the tales, Arthur is a wise king who has gathered a group of noble knights who undertake dangerous but often pious quests.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ARTHUR_CHAPTER_HISTORY_PARA_2">
+			<Text>In its medieval form, Arthur’s story is a tragic one. As a child, he presaged his destiny by pulling the magical sword Excalibur from a stone, signifying that he would one day become the king of Britain. Over time, he becomes a righteous king. His knights of the Round Table and he have a number of adventures, most famously the quest for the Holy Grail – the cup that supposedly caught Jesus Christ’s blood as he hung on the cross. The most famous of these knights, Lancelot, fell in love with Arthur’s queen, Guinevere, and the two begin an affair. Arthur, enraged, condemns the queen to death, but Lancelot heroically saves her, thus provoking a war between the two former friends.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ARTHUR_CHAPTER_HISTORY_PARA_3">
+			<Text>Local lore has it that he rests somewhere in the land of Avalon, waiting to save the day when England is again threatened. He could, despite popular depictions, count to three without immediately leaping to five and appeared to have no unusual issues with rabbits.</Text>
+		</Replace>
+		<!--Beowulf-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_1">
+			<Text>The story of Beowulf was written in Old English around 1000 AD, making it one of the very first surviving works in that language. Beowulf is a hero of the Geats, a people that inhabited a part of what is today Sweden. He arrives in the hall of Hrothgar, a king of the Danes, whose lands are under assault by a monster named Grendel – a cannibal beast perhaps thematically related to the trolls of Scandinavian myth, but whom the poem identifies as a cursed descendant of the Biblical Cain.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_2">
+			<Text>Beowulf sets a trap for Grendel. He pretends to go to sleep in the hall, just as the monster’s victims have done. That night, a chill fog creeps in and, with it, the monster. Beowulf abandons his weapons, wanting to test his strength against the beast as equals. The two lock arms and, after a fierce grapple, Beowulf rips one of Grendel’s arms off with his bare hands. The troll, mortally wounded, hobbles back to its home. Back there, Grendel’s bog-witch mother receives her dying son and is consumed with anger, and Beowulf must again do battle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_3">
+			<Text>Beowulf returns to the land of the Geats in triumph, where he rules for many years, but a new, and deadlier evil awakens. A dragon emerges from its lair, setting the countryside alight with its breath. Beowulf, prideful as always, insists on battling the beast alone, but a young warrior, Wiglaf, seeing that the old king is going to his death, disobeys and remains by the king’s side. In the fight, the dragon is slain, but Beowulf is bitten by its poisonous fangs and dies. Wiglaf buries the king in a tall barrow at the sea’s edge.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_4">
+			<Text>Beowulf wasn’t always considered to be the classic that it is today. None other than J. R. R. Tolkien advocated that the poem be taken seriously as an epic, and not simply as a folktale.  It carries with it both a valorization of a warrior’s strength and cautions against pride – both Hrothgar’s pride at his riches, and Beowulf’s pride in his own power. Historically, Beowulf remains an artifact of a moment in time when a population that had nominally Christianized struggled with its pagan past, and an icon of England’s Scandinavian legacy.</Text>
+		</Replace>
+		<!--Hercules-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_1">
+			<Text>Heracles – better-known in English by his Roman name, Hercules – is the son of Zeus, and a hero that epitomized strength, if not good judgement. Hera, Zeus’s wife, hated Heracles for being the product of one of Zeus’s many affairs, and sought to bring ruin upon him however she could. This started in the cradle, as Hera sent snakes to kill the infant Heracles. Even then the boy was strong enough to overcome the serpents, and his strength only grew. His wisdom, however, did not keep pace with his physical strength: Heracles killed his music tutor with a lyre, threw a close friend (whose father and brothers he also slew) over a wall, tossed the herald Lichas into the sea, and, most tragically, killed his own children.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_2">
+			<Text>This latter act was done in a fit of madness after he was cursed once again by Hera. In order to atone for this act, Heracles undertook his famous Labors: slaying a monstrous lion (whose skin he later wore); defeating the hydra, a multi-headed snake whose blood was poison, and who would re-grow two heads whenever one was lopped off; stealing the girdle of Hippolyta, the Queen of the Amazons; and a number of other beast-slaying, livestock-stealing, stables-cleaning sorts of things.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_3">
+			<Text>Heracles’s tale ends tragically. As a centaur attempts to steal his wife away, Heracles shoots him with arrows dipped in the hydra’s poisonous blood. As the centaur dies, he whispers to Heracles’s wife that his tunic, soaked as it is in lusty centaur’s blood, would cause Heracles to fall more deeply in love with her. She convinces him to do so, and Heracles dies horribly from the poison, giving us all a powerful lesson about the benefits of not wearing shirts when one has the physique of a Greek god.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_4">
+			<Text>Heracles has had a long career after his death. The story of a tragically slain hero, the son of the supreme god, was an appealing one in the Mediterranean during the Roman era, and Hercules developed a sizeable following. Even in India, Greek-inspired Gandhara sculptors depicted Vajrapani, the protector of the Buddha, as Hercules with his iconic club and lion-skin.</Text>
+		</Replace>
+		<!--Himiko-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIMIKO_CHAPTER_HISTORY_PARA_1">
+			<Text>Though a figure of legend today, Queen Himiko was likely a real person. She was the queen of Yamatai, on the islands that the Chinese called Wa – present-day Japan. In Chinese records, Himiko sent gifts to the Cao Wei kingdom: the northernmost of the three states that divided China between them in the 3rd century A.D. In these records Himiko is dubbed &quot;Queen of Wa (Japan), and friend of Wei&quot; by the Chinese emperor.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIMIKO_CHAPTER_HISTORY_PARA_2">
+			<Text>Where Himiko’s story gets interesting is in the accusations of sorcery. Chinese sources recount that she bewitched all of the residents of Wa into submitting to her rule, how she lived in a great castle served entirely by female attendants and guards (excepting one man, who brought her food), and rarely left. This mystical reputation is compounded in Japanese records, which identify Himiko with a number of divine beings: as the high shaman of the Japanese sun-goddess Amaterasu, or a shamanic wife of a divine snake. In this latter story, Himiko (identified by the name Yamato-toto-hi-momo-so-bime no Mikoto) is happily married to a clearly divine being, but who only visits at night. She begs him to stay until morning so that she can see him in the sunlight, but he demurs. Eventually, she convinces him, and he tells her that she will see him in her toilet-case, but she must promise not to be shocked at his appearance. The next morning, when she opens the case, there is a beautiful white snake coiled inside. Himiko gasps in alarm, and the god-snake changes back to his human form. He is angry, tells her that she had been warned not to react, and that now he must leave her. Himiko, in her grief, stabs herself.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIMIKO_CHAPTER_HISTORY_PARA_3">
+			<Text>The wide range of storied surrounding Himiko paint a portrait of an extraordinary woman. She combined the features of a queen and shaman, something which must have disturbed the largely-patriarchal chroniclers in her time. Her story speaks to the almost otherworldly hold that charismatic people can have over us. In popular representations in Japan, she is occasionally a seductress and occasionally a wise old queen, but she remains as popular as ever.</Text>
+		</Replace>
+		<!--Hippolyta-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIPPOLYTA_CHAPTER_HISTORY_PARA_1">
+			<Text>Hippolyta is the queen of the Amazons, an all-female tribe of warriors thought to be daughters of Ares, the Greek god of war. They delighted in combat and rejected husbands and sons, although they would visit the men of a neighboring tribe once a year. The Greeks placed them just beyond their eastern border, usually in Asia Minor on the edges of the Black Sea. Perhaps their legend was a way for the Greeks to imagine a different society outside of the boundaries of what they considered civilization, or perhaps there was some sort of historical precedent for warrior women amongst the Scythians or other peoples of that region.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIPPOLYTA_CHAPTER_HISTORY_PARA_2">
+			<Text>Hippolyta is a figure in a few stories featuring Heracles (Hercules). She possessed a magic girdle that protected her in battle, and one of Heracles’s labors was to steal it from her – quite the challenge even for the legendary strongman. According to some versions of the legend, Heracles charmed the Amazon, which so infuriated Hera that the goddess incited Hippolyta’s Amazons to attack.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIPPOLYTA_CHAPTER_HISTORY_PARA_3">
+			<Text>The name &quot;Amazon&quot; has gotten a lot of use in the years since Hippolyta. The Spanish explorer Francisco de Orellana gave the title to the indigenous people that he met in what would become Brazil owing to how women fought alongside men. They fought so well, in fact, that de Orellana was to die on the river he had named, following a skirmish with local groups.</Text>
+		</Replace>
+		<!--Hunahpu & Xbalanque-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_1">
+			<Text>Many indigenous American mythologies have a story of a magical pair of twins. In the K’iche’ Mayan Popol Vuh, these &quot;Hero Twins&quot; were Hunahpú and his brother Xbalanqué. Their story is a story about how the horrific gods of the underworld Xibalba lost their power. It begins with another set of brothers: the father and uncle of the Twins, who were betrayed by the gods of the underworld. They were invited to play the Mesoamerican ballgame in Xibalba, but the game was rigged and the losers were sacrificed.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_2">
+			<Text>Years later, Hunahpú and Xbalanqué found their father’s old ballgame equipment, figured out the story, and began to practice for their own match. Seeing this, the dark lords invited the twins to play a match. The Hero Twins knew it was a trap, but they went anyway. The games were nightmarish – a ball with hidden blades, athlete housing filled with flying razors, and, finally, a night in the lair of Camazotz, the monstrous bat god, which cost Hunahpú his head (temporarily).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_3">
+			<Text>Though the Twins won each game, at the moment of victory, they appeared to fall victim to one last trap, walking into an oven that incinerated them both. Little did the lords of Xibalba know that the Hero Twins had mastered the art of resurrection. Despite being burnt into ash, they were reborn in Xibalba, and lived amongst the dwellers there, hidden in plain sight. They pretended to be magicians who could bring back the dead and offered to show their trick to the dark lords by killing them, then bringing them back. But this was another trick – when the Hero Twins killed the highest gods of the underworld they revealed their identities and gleefully declined to resurrect the murderers of their father.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_4">
+			<Text>Like the ballgame, the Hero Twin stories traveled far. They can be found in mythologies ranging from Maya to Navajo, Mississippian to the Ho-Chunk.</Text>
+		</Replace>
+		<!--Maui-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_1">
+			<Text>The term &quot;Polynesia&quot; is a loose one, encompassing regions from the Maori Aotearoa (New Zealand) to Hawaii and parts in between. While calling all of this area by one term, &quot;Polynesia,&quot; is a vast simplification, there are myths and legends that are shared across the wide expanse, concepts that have made it into English as the words taboo and mana. One of these shared myths is that of Maui.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_2">
+			<Text>In Maori myth, Maui does not have the best of beginnings. He is tossed into the sea by his mother, and only survives because the god Ragni nurtures him. When he returns, he is faced with four skeptical brothers, whom he is able to win over by displays of the magic he learned in the depths. He then goes about helping to create the world as we know it. When his brothers refused to give him any fishing bait, he took a magical jawbone and baited it with his own blood to catch the mighty fish that became New Zealand’s North Island. While he was gone to find a priest (a tohunga) to perform the necessary rituals, his brothers came and began carving up the fish, which is why Aotearoa has mountains and valleys, and not a smooth plain, like a fish’s flank. He continues to alter the world: finding fire for humans, creating the first dog, and the like.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_3">
+			<Text>His final task was to win immortality for humanity, and to do this he had to crawl through the body of a reclining goddess. He had to do this, the story goes, without anyone laughing at him. If he could pass all the way through, the goddess would die, and mankind would live forever. His friends, a varied flock of birds, tried their best, but they could not help laughing, and so Maui died, and so must we all.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_4">
+			<Text>Maui remains an important figure across Polynesia as Polynesian societies re-assert themselves in the wake of colonialism. New respect for local myths and traditions in Aotearoa, Hawaii, Tonga, Tahiti and Samoa, and other places, mean new tellings of Maui’s story, and new interpretations and meanings to his myth.</Text>
+		</Replace>
+		<!--Mulan-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MULAN_CHAPTER_HISTORY_PARA_1">
+			<Text>The 6th century Ballad of Mulan begins, &quot;The sound of one sigh after another / As Mulan weaves at the doorway.&quot; The girl’s family are subjects of the Khan of the Tuoba, a nomadic Turkic or Mongolian people who founded the Northern Wei dynasty of China, and her elderly father has been conscripted to fight in the Khan’s army. Mulan decides to enlist in her father’s place, fighting bravely in the army without her comrades ever finding out that she was actually a woman.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MULAN_CHAPTER_HISTORY_PARA_2">
+			<Text>That’s the story, at least according to the ancient poem. But the legend of filial piety, duty, and bravery inspired later tellers. The Sui Tang Romance sets the story in the Sui Dynasty, around the time of the writing of the Ballad and during a period of war. Here, there are a number of new elements to the tale. Mulan is still a subject of a Turkic Khan, but is captured by the rebel Dou Jiande, where she quickly befriends Dou’s daughter. Later, the two women offer up their own lives when Dou is on trial for insurrection against the Chinese emperor. The Emperor is so impressed by their loyalty that he offers to relocate Mulan’s family to rich farmland, but when Mulan returns home, she discovers her father long dead and her mother remarried. Tragically, Mulan commits suicide, at least in this version. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MULAN_CHAPTER_HISTORY_PARA_3">
+			<Text>Mulan was probably not a historical figure, but her fame doesn’t rely upon her historicity. In her devotion to her father and her willingness to risk her life for his, she epitomizes the Chinese virtue of xiào - filial piety – respect and honor to one’s parents and ancestors, as well as bravery on the battlefield. </Text>
+		</Replace>
+		<!--Oya-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_1">
+			<Text>When storms lash the Caribbean and West African coasts, when tornadoes tear through a village, when the hurricanes come, followers of Yoruba and New World African religions believe that this is Oya’s power. The Yoruba people of West Africa have a rich religious tradition, with four hundred and one separate divinities. When Yoruba were enslaved and brought to colonies in the Caribbean, their traditions fused with Christianity to make new religions such as Haitian Vodun. In Africa, Oya is an orisha, a goddess that once was a person (or was a spirit, and then made flesh). Her name means literally &quot;she tore,&quot; and as such she is the goddess of change, winds, and storms, and the ruler of the Niger river. In Haiti, Oya is transformed into the Irish loa (the Haitian version of orisha) Maman Brigette – who is, for Catholics, Saint Brigid of Kildare.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_2">
+			<Text>Oya is the sister-wife to Shango, the god of thunder, and was the only one of his wives to stick with the loud-mouthed god. When they set off to war, they do so together, with Oya bringing the wind first, and Shango following afterwards with lightning.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_3">
+			<Text>The two fight each other at times, too. Once, Oya had two buffalo horns on her head, and in the middle of a fight, she charged at Shango with them, meaning to gore him. Shango didn’t fight back; instead, he presented her favorite food: akara (bean cakes). Oya was so delighted that she surrendered her horns to him. Now, if Shango finds himself in trouble, all he has to do to summon Oya is to clack the horns together, and she comes with all the fury of the wind.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_4">
+			<Text>Oya is still actively worshipped in Africa and the Caribbean. When a follower enters a trance and becomes possessed, she is notoriously loud and foul-mouthed, but, like the wind, promises to shake up whatever seems firmly rooted.</Text>
+		</Replace>
+		<!--Sinbad-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_SINBAD_CHAPTER_HISTORY_PARA_1">
+			<Text>The story of Sinbad the sailor comes from recent versions of the Thousand and One Nights and is set during the golden age of Arabia, during the reign of Haroun Al-Rashid. Sinbad’s tale is one where his bravery, intelligence and charm allow him to survive a series of increasingly perilous voyages. The structure of Sinbad’s tales is simple: he sails off, encounters and overcomes (or outwits) a series of fantastical and dangerous beasts or other enemies, and returns with riches. It is a formula that works well.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_SINBAD_CHAPTER_HISTORY_PARA_2">
+			<Text>In one voyage, Sinbad finds himself castaway on an island that was really a whale, and then being carried off by a giant roc, an eagle that lives in a diamond-studded valley and which hunted giant serpents for its dinner. On other voyages, Sinbad must charm kings, face down one-eyed giants, and keep sane on an island where the villagers are all addicted to a narcotic plant.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_SINBAD_CHAPTER_HISTORY_PARA_3">
+			<Text>If some of these stories sound a little familiar, you’re not wrong. Some of Sinbad’s tales are taken from the voyages of Odysseus, such as the cyclops and the lotus-eaters. While Western Europe was caught in the chaos of the Dark Ages, the Middle East was the repository for all of the wisdom and learning from Greece and Rome and linked to the glories of the Silk Road. This latter, too, was a source of stories: the legends of the roc and serpents is very similar to the Indian tales of the monstrous garuda bird and its serpentine naga prey. Sinbad’s voyages, then, reflect the wealth and imagination of an empire at the very heart of the world.</Text>
+		</Replace>
+		<!--Sun Wukong-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_1">
+			<Text>One of the best-known and best-loved characters from Chinese legend, Sun Wukong – the Monkey King, has a tremendous quantity of stories surrounding him. His inspiration comes from a wide variety of sources. When China imported Buddhism from India during the Han Dynasty in around 150 AD, a number of Indian legends came along, including the Ramayana whose best supporting star was Hanuman, the lord of the monkeys and faithful sidekick to the hero Rama. As monkeys had already been seen as auspicious animals in previous Chinese dynasties, the notion of a magical monkey king was immensely popular and acquired a life of its own.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_2">
+			<Text>Sun Wukong is not the noblest of heroes. He is at times selfish, at times unpredictable, and at all times mischievous. But unlike more devilish trickster deities like Loki, Sun Wukong ultimately is a force for good… once he can be controlled.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_3">
+			<Text>Sun is stronger than all the armies of Heaven. He wields weapons that he stole from the dragon-king of the sea, including a golden staff so heavy that no other being can wield it, but capable of shrinking down so small that the Monkey King can store it in his ear; flying boots; and magical armor. When he is sentenced to death for these thefts, he simply steals the Book of Life and Death and erases his name from it (as well as the names of all the monkeys that he knows). Thus, when all the gods and all the armies of Heaven cannot stop him, the gods appeal to the Buddha, whose power is the greatest of all, and who imprisons the monkey in his palm.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_4">
+			<Text>This is not it for Sun Wukong’s story, however. Centuries later, the goddess Guan Yin recruits the hero to protect the monk Tang Sanzang, who travels to India to receive the sacred Buddhist sutras. To control him, Guan Yin tricks him into wearing a magical circlet that tightens painfully when she recites the Tightening Sutra – sometimes, even the Goddess of Mercy needs to be harsh. The travelers face monsters and fantastical terrain as they travel to India, where the living Buddha hands the sacred texts to the monk.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_5">
+			<Text>Sun Wukong remains a popular figure in Chinese media, and has been the star of many films. He is popular across East Asia as well, and in the Chinese diaspora in Southeast Asia.</Text>
+		</Replace>
+		<!--Questing Knight-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_QUESTING_KNIGHT_CHAPTER_HISTORY_PARA_1">
+			<Text>The Knights of the Round Table were, according to French and English legend of the 12th century and beyond, a group of warriors assembled by King Arthur. These stories – classics of both medieval chivalric romances and modern-day fairy tales – focused on the deeds of these knights. In the classic stories, their quests revolved around the defense of honor or Christian piety. In Gawain’s tale, for instance, the knight is challenged by a strange “Green Knight,” who mocks the honor of the Round Table. The Green Knight challenges Gawain to cut off his head, so long as Gawain agrees to let the Green Knight do the same to him. Gawain, a rough knight from the outer isles of Orkney, obliges, but to his surprise the Green Knight simply puts his severed head upon his shoulders and announces that he will receive Gawain the next year. This is a test of honor, of course – would Gawain show up to what is likely to be his death, or would he, as the non-canonical Sir Robin might put it, “gallantly chicken out?” Gawain remains true, of course, and the Table’s honor is kept.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_QUESTING_KNIGHT_CHAPTER_HISTORY_PARA_2">
+			<Text>The most famous quest, of course, was for the Holy Grail, the cup that is said to have captured Jesus Christ's blood as he died on the cross (at least beginning with Robert de Boron's tellings in the 12th and 13th century), though other tellings have the Grail as a Communion wafer-holder, or a stone that contains the angels who remained neutral during Lucifer's rebellion.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_QUESTING_KNIGHT_CHAPTER_HISTORY_PARA_3">
+			<Text>While the most famous knights include Galahad, the pure; Lancelot, the brave; Gawain, the mighty; and Percival, the “was-pure-before-Galahad-came-on-the-scene;” there are hundreds of others, including Kay, Bedivere, Bors, and, of course, “Sir Not-Appearing-in-this-Game.”</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,127 @@
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_NAME">
+			<Text>Matthew Perry</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIMERIOS_NAME">
+			<Text>Himerios</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_NAME">
+			<Text>Hanno the Navigator</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAMAL_UD_DIN_BEHZAD_NAME">
+			<Text>Kamāl ud-Dīn Behzād</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_HASEGAWA_TOHAKU_NAME">
+			<Text>Hasegawa Tōhaku</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_WASSILY_KANDINSKY_NAME">
+			<Text>Wassily Kandinsky</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_IMHOTEPI_NAME">
+			<Text>Imhotep</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_SHAH_JAHAN_NAME">
+			<Text>Shah Jahān</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_KENZO_TANGE_NAME">
+			<Text>Kenzo Tange</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_DANDARA_NAME">
+			<Text>Dandara</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_NAME">
+			<Text>Trung Trac</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_NAME">
+			<Text>Tupac Amaru</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_NAME">
+			<Text>Zhou Daguan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_NAME">
+			<Text>Ibn Fadlan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_NAME">
+			<Text>Stamford Raffles</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHANG_HENG_NAME">
+			<Text>Zhang Heng</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_NAME">
+			<Text>Ibn Khaldun</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARGARET_MEAD_NAME">
+			<Text>Margaret Mead</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_DIMITRIE_CANTEMIR_NAME">
+			<Text>Dimitrie Cantemir</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCOTT_JOPLIN_NAME">
+			<Text>Scott Joplin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_VALMIKIY_NAME">
+			<Text>Valmiki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_RUMI_NAME">
+			<Text>Rumi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_BEATRIX_POTTER_NAME">
+			<Text>Beatrix Potter</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_GABRIELA_MISTRAL_NAME">
+			<Text>Gabriela Mistral</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_DANDARA_ACTIVE">
+			<Text>Grants a Warrior Monk with 1 promotion.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_PERMANENT_ACTIVE">
+			<Text>Permanently reduces your empire's War Weariness by 25%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_ACTIVE">
+			<Text>Grants a Musketman in each of the target city's indefensible and undefended Districts.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_BOOST_OR_GRANT_MATHEMATICS">
+			<Text>Triggers [ICON_TechBoosted] Eureka for Celestial Navigation, Mathematics, and Engineering. If they are already triggered, instead completes the tech.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_CAMPUS_HOUSING">
+			<Text>Chosen Campus gains 2 [ICON_Housing] Housing and 1 [ICON_AMENITIES] Amenities. Increases non-[ICON_Food]Food yield benefits of Happiness in your empire by 40%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_GRANT_LOTSO_SCIENCE">
+			<Text>Grants 1000 [ICON_SCIENCE] Science and [ICON_CULTURE] Culture (on Standard speed).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_CITY_STATE_STEAL_ENVOYS">
+			<Text>Grants enough [ICON_ENVOY] Envoys to become Suzerain at this city-state. Then removes all other players' [ICON_ENVOY] Envoys.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIMERIOS_ACTIVE">
+			<Text>Grants 1 promotion level and +25% combat experience to a military naval unit.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HIMERIOS_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+25% Earned experience from combat. (Himerios)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_FREE_UNIT">
+			<Text>Creates a naval melee unit with +2 [ICON_Movement] Movement.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_IMHOTEP_PRODUCTION_ANCIENT_CLASSICAL">
+			<Text>Grants 175 [ICON_Production] Production towards wonder construction, doubled if the wonder is from the Ancient or Classical Era.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_WONDER_PURCHASE">
+			<Text>Grants [ICON_Production] Production towards wonder construction, capped at half of your current treasury. Then reduces your [ICON_Gold] Gold twice the amount of purchased [ICON_Production] Production.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_DISTRICT_SCIENCE_ADJACENCY_AS_TOURISM">
+			<Text>Grants [ICON_Tourism] Tourism in each of this city's Districts equal to its adjacency bonus (halved for [ICON_Gold] Gold).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_GAIN_THREE_ENVOYS_HERE">
+			<Text>Grants 3 [ICON_ENVOY] Envoys at this city-state.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_HAVE_A_FREE_TRADE_ROUTE">
+			<Text>Increases [ICON_TradeRoute] Trade Route capacity by 1. Your [ICON_TradeRoute] Trade Routes to city-states now grant you +2 [ICON_Faith] Faith.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_CITY_STATE_ABSORB_EXPANSIONS">
+			<Text>Absorbs this city-state into your empire. Grants you +10 Loyalty per turn in the city.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATPERSON_CITY_STATE_ABSORB_BASE_GAME">
+			<Text>Absorbs this city-state into your empire.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Babylon: Building Info -->
+		<Replace Language="en_US" Tag="LOC_BUILDING_PALGUM_NAME">
+			<Text>Palgum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_PALGUM_DESCRIPTION">
+			<Text>Kiến trúc đặc biệt của Babylon. +1 [ICON_HOUSING] Nhà ở và +2 [ICON_PRODUCTION] Sản xuất. Trữ nước ngọt và nhận được +1 [ICON_FOOD] Thức ăn. Kiến trúc phải tiếp giáp với một con sông.</Text>
+		</Replace>
+		<!-- Babylon: Civ Info -->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BABYLON_STK_NAME">
+			<Text>Babylon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION">
+			<Text>Đế chế Babylon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE">
+			<Text>Babylonian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME">
+			<Text>Enuma Anu Enlil</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION">
+			<Text>[ICON_TechBoosted] Eurekas cung cấp tất cả [ICON_SCIENCE] Khoa học cho nghiên cứu công nghệ. -50% [ICON_SCIENCE] Khoa học mỗi lượt.</Text>
+		</Replace>
+		<!-- Babylon: Leader Info -->
+		<Replace Language="en_US" Tag="LOC_LEADER_HAMMURABI_NAME">
+			<Text>Hammurabi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME">
+			<Text>Ninu Ilu Sirum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION">
+			<Text>Kiến trúc đặc biệt đầu tiên được xây dựng sẽ có chi phí sản xuất [ICON_PRODUCTION] thấp nhất. Nhận [ICON_ENVOY] Đặc phái viên khi có bất kỳ kiến trúc nào khác được xây dựng lần đầu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION">
+			<Text>Mỗi loại kiến trúc đặc biệt đầu tiên, ngoại trừ Tòa nhà Chính phủ, được xây dựng sẽ tốn ít [ICON_PRODUCTION] chi phí sản xuất nhất. Nhận [ICON_ENVOY] Đặc phái viên khi có bất kỳ kiến trúc nào khác được xây dựng lần đầu.</Text>
+		</Replace>
+		<!-- Babylon: Unit Info -->
+		<Replace Language="en_US" Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME">
+			<Text>Sabum Kibittum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION">
+			<Text>Đơn vị cận chiến thời cổ đại độc nhất của Babylon. +17 [ICON_Strength] Sức mạnh Chiến đấu khi đánh nhau với các đơn vị Kỵ binh hạng nặng và hạng nhẹ đã thăng cấp. Đơn vị này có 3 [ICON_Movement] Chuyển động và tầm nhìn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME">
+			<Text>Sabum Kibittum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION">
+			<Text>+17 [ICON_Strength] Sức mạnh Chiến đấu khi đánh nhau với các đơn vị Kỵ binh hạng nặng và hạng nhẹ đã thăng cấp.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Sức mạnh Chiến đấu khi đánh nhau các đơn vị Kỵ binh hạng nặng và hạng nhẹ đã thăng cấp</Text>
+		</Replace>
+		<!-- Heroes & Legends Mode -->
+		<Replace Language="en_US" Tag="LOC_GAMEMODE_HEROES_NAME">
+			<Text>Anh hùng &amp; Chế độ Huyền Thoại</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAMEMODE_HEROES_DESCRIPTION">
+			<Text>Chế độ trò chơi này bổ sung thêm mười hai Anh hùng mạnh mẽ từ các bậc danh nhân huyền thoại của thế giới. [NEWLINE][NEWLINE]Tìm kiếm các Anh hùng bằng cách khám phá thế giới và gây ảnh hưởng đến các Thành phố, sau đó chiêu mộ họ ở trong Thành phố của bạn. Mỗi anh hùng đều là độc nhất trên thế giới và chỉ có thể được chiêu mộ bởi một nền văn minh. [NEWLINE][NEWLINE]Các anh hùng sở hữu sức mạnh tuyệt vời và kỹ năng độc nhất, nhưng tuổi thọ cũng có hạn. Bất cứ khi nào một Anh hùng xuất hiện, họ sẽ ở lại trong một số lượt đã định trước khi hết thời gian và họ sẽ biến mất. Tuy nhiên, sau khi một Anh hùng biến mất, nền văn minh tự xưng của họ có thể gọi lại họ bằng cách sử dụng Đức tin. [NEWLINE][NEWLINE]Mỗi một người trong số mười hai Anh hùng đều có sức mạnh đặc biệt và vai trò riêng biệt. Trong tay của một người chơi thông thái, Anh hùng phù hợp có thể là một mắt xích thay đổi cuộc chơi!</Text>
+		</Replace>
+		<!--Heroes & Legends Descriptions-->
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME">
+			<Text>Legacy of Enkidu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION">
+			<Text>Tăng 25% [ICON_Production] sản lượng khi chiêu mộ các Anh hùng và các Anh hùng có Vòng đời [ICON_Lifespan] dài hơn 20%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION">
+			<Text>+2 [ICON_Food] Thực phẩm, +2 [ICON_Production] Sản xuất và +4 [ICON_Gold] Vàng từ mỗi [ICON_GreatWork_Relic] Di tích, [ICON_GreatWork_HeroRelic] Di tích Anh hùng, [ICON_GreatWork_Artifact] Tạo tác, và [ICON_Sculpture] Tác phẩm điêu khắc với [ICON_Culture] nền Văn minh. Tăng 50% điểm tìm kiếm [ICON_GreatWriter] Nhà văn, [ICON_GreatArtist] Nhà soạn nhạc, [ICON_GreatMusician] Ca sĩ và [ICON_GreatMerchant] Thương nhân. Cung điện chứa được 5 Công trình Vĩ đại.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION">
+			<Text>Tôn giáo được thành lập bởi Ba Lan sẽ là chủ đạo với những thành thành phố liền kề nếu để mất một ô đất vào tay nền Văn minh Ba Lan. Các Thánh Địa nhận thêm Đức tin từ các quận lân cận. [ICON_GreatWork_Relic] Di tích và [ICON_GreatWork_HeroRelic] Di tích Anh hùng cung cấp +2 [ICON_Faith] Đức tin, +2 [ICON_Culture] Văn hóa, +4 [ICON_Gold] Vàng.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION">
+			<Text>[ICON_GreatWork_Relic] Di tích và [ICON_GreatWork_HeroRelic] Di tích Anh hùng cung cấp gấp ba lần [ICON_Faith] Đức tin và [ICON_Tourism] Du lịch.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

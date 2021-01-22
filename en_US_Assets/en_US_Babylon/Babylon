@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8424840C-92EF-4426-A9B4-B4E0CB818049" version="1">
+	<Properties>
+		<Name>LOC_BABYLON_MOD_TITLE</Name>
+		<Teaser>LOC_BABYLON_MOD_TEASER</Teaser>
+		<Description>LOC_BABYLON_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+		<CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<References>
+		<Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE"/>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+		<Mod id="3809975F-263F-40A2-A747-8BFB171D821A" title="LOC_POLAND_JADWIGA_MOD_TITLE"/>
+	</References>
+	<ActionCriteria>
+		<Criteria id="Babylon" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_HAMMURABI,Players:Expansion1_Players::LEADER_HAMMURABI Players:Expansion2_Players::LEADER_HAMMURABI</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="Babylon_Base" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_HAMMURABI</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD</RuleSetInUse>
+		</Criteria>
+		<Criteria id="Babylon_Expansion1" any="1">
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_HAMMURABI</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+		</Criteria>
+		<Criteria id="Babylon_Expansion2" any="1">
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_HAMMURABI</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="Heroes_Mode">
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_HEROES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="Heroes_Mode_Expansion1">
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_HEROES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="Heroes_Mode_Expansion2">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_HEROES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="Heroes_SecretSocieties_Mode">
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_HEROES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_SECRETSOCIETIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="Heroes_Mode_Poland">
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_HEROES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+			<ModInUse>3809975F-263F-40A2-A747-8BFB171D821A</ModInUse>
+		</Criteria>
+		<Criteria id="Heroes_Mode_IndonesiaKhmer">
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_HEROES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+			<ModInUse>1F367231-A040-4793-BDBB-088816853683</ModInUse>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateArt id="BabylonArt" criteria="Babylon">
+			<File>Babylon.dep</File>
+		</UpdateArt>
+		<UpdateAudio id="BabylonAudio" criteria="Babylon">
+			<File>Platforms/Windows/Audio/XP3_DLC4Banks.ini</File>
+		</UpdateAudio>
+		<UpdateLogitechARX id="BabylonARX" criteria="Babylon">
+			<File>Data/ARX/Civ_LEADER_HAMMURABI.png</File>
+		</UpdateLogitechARX>
+		<UpdateDatabase id="BabylonGameplay" criteria="Babylon">
+			<File>Data/Babylon_Civilizations.xml</File>
+			<File>Data/Babylon_Buildings.xml</File>
+			<File>Data/Babylon_GreatPeople.xml</File>
+			<File>Data/Babylon_GreatWorks.xml</File>
+			<File>Data/Babylon_Improvements.xml</File>
+			<File>Data/Babylon_Leaders.xml</File>
+			<File>Data/Babylon_Modifiers.xml</File>
+			<File>Data/Babylon_Units.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="BabylonGameplay_MODE" criteria="Heroes_Mode">
+			<File Priority="1">Data/Babylon_RemoveData_MODE.xml</File>
+			<File>Data/Babylon_GameCapabilities.xml</File>
+			<File>Data/Babylon_Heroes_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="BabylonGameplay_XP1_MODE" criteria="Heroes_Mode_Expansion1">
+			<File>Data/Babylon_Heroes_XP1_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="BabylonGameplay_XP2_MODE" criteria="Heroes_Mode_Expansion2">
+			<File>Data/Babylon_Heroes_XP1_MODE.xml</File>
+			<File>Data/Babylon_Heroes_XP2_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="BabylonGameplay_SecretSocieties_MODE" criteria="Heroes_SecretSocieties_Mode">
+			<File>Data/Babylon_Heroes_SecretSocieties_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="BabylonGameplay_Poland_MODE" criteria="Heroes_Mode_Poland">
+			<File>Data/Babylon_Heroes_Poland_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="BabylonGameplay_IndonesiaKhmer_MODE" criteria="Heroes_Mode_IndonesiaKhmer">
+			<File>Data/Babylon_Heroes_IndonesiaKhmer_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="BabylonColors" criteria="Babylon">
+			<File>Data/Babylon_Colors_Config.xml</File>
+			<File>Data/Babylon_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="BabylonGameplay_XP1" criteria="Babylon_Base">
+			<File>Data/Babylon_Base.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="BabylonGameplay_XP1" criteria="Babylon_Expansion1">
+			<File>Data/Babylon_Expansion1.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="BabylonGameplay_XP2" criteria="Babylon_Expansion2">
+			<File>Data/Babylon_Expansion2.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="BabylonText" criteria="Babylon">
+			<File Priority="1">Text/en_US/Babylon_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/Babylon_CityNames_Text.xml</File>
+			<File Priority="1">Text/en_US/Babylon_CitizenNames_Text.xml</File>
+			<File Priority="1">Text/en_US/Babylon_Civilopedia_Text.xml</File>
+			<File Priority="1">Text/en_US/Babylon_Diplomacy_Text.xml</File>
+			<File Priority="1">Text/en_US/Babylon_GreatPeople_Text.xml</File>
+			<File Priority="1">Text/en_US/Babylon_GreatWorks_Text.xml</File>
+			<File Priority="1">Text/en_US/Babylon_Improvements_Text.xml</File>
+			<File Priority="1">Text/en_US/Babylon_Leaders_Text.xml</File>
+			<File>Text/Babylon_Translations_ConfigText.xml</File>
+			<File>Text/Babylon_Translations_Text.xml</File>
+		</UpdateText>
+		<UpdateText id="BabylonText_MODE" criteria="Heroes_Mode">
+			<File Priority="1">Text/en_US/Babylon_Heroes_Text_MODE.xml</File>
+			<File Priority="1">Text/en_US/Babylon_Heroes_Civilopedia_Text_MODE.xml</File>
+			<File>Text/Babylon_Translations_Text_MODE.xml</File>
+		</UpdateText>
+		<UpdateText id="BabylonText_MODE_XP1" criteria="Heroes_Mode_Expansion1">
+			<File Priority="1">Text/en_US/Babylon_Heroes_Civilopedia_Text_XP1_MODE.xml</File>
+			<File Priority="1">Text/en_US/Babylon_Heroes_Text_XP1_MODE.xml</File>
+		</UpdateText>
+		<UpdateText id="BabylonText_MODE_XP2" criteria="Heroes_Mode_Expansion2">
+			<File Priority="1">Text/en_US/Babylon_Heroes_Civilopedia_Text_XP1_MODE.xml</File>
+			<File Priority="1">Text/en_US/Babylon_Heroes_Text_XP1_MODE.xml</File>
+			<File Priority="1">Text/en_US/Babylon_Heroes_Text_XP2_MODE.xml</File>
+		</UpdateText>
+		<UpdateIcons id="BabylonIcons" criteria="Babylon">
+			<File>Data/Babylon_Icons_Buildings.xml</File>
+			<File>Data/Babylon_Icons_Civilizations.xml</File>
+			<File>Data/Babylon_Icons_FontIcons.xml</File>
+			<File>Data/Babylon_Icons_GreatWorks.xml</File>
+			<File>Data/Babylon_Icons_GreatWorkTypes.xml</File>
+			<File>Data/Babylon_Icons_Leaders.xml</File>
+			<File>Data/Babylon_Icons_Projects.xml</File>
+			<File>Data/Babylon_Icons_Stats.xml</File>
+			<File>Data/Babylon_Icons_Units.xml</File>
+			<File>Data/Babylon_Icons_UnitActions.xml</File>
+			<File>Data/Babylon_Icons_UnitPortraits.xml</File>
+		</UpdateIcons>
+		<UpdateIcons id="BabylonIcons_MODE" criteria="Heroes_Mode">
+			<File>Data/Babylon_Icons_InGame_MODE.xml</File>
+		</UpdateIcons>
+		<ImportFiles id="Heroes_Files_MODE" criteria="Heroes_Mode">
+			<File>UI/Additions/HeroesPopup.lua</File>
+			<File>UI/Additions/HeroesPopup.xml</File>
+			<File>UI/Additions/HeroesSupport.lua</File>
+			<File>UI/Additions/GreatPeopleHeroPanel.lua</File>
+			<File>UI/Additions/GreatPeopleHeroPanel.xml</File>
+			<File>UI/Civilopedia/CivilopediaPage_HeroUnit.lua</File>
+			<File>UI/Replacements/NotificationPanel_Babylon_Heroes.lua</File>
+			<File>UI/Replacements/GreatPeoplePopup_Babylon_Heroes.lua</File>
+			<File>UI/Replacements/ToolTipHelper_Babylon_Heroes.lua</File>
+			<File>UI/Replacements/GreatWorkShowcase_Babylon_Heroes.lua</File>
+      <File>UI/Replacements/GreatWorksOverview_Babylon_Heroes.lua</File>
+		</ImportFiles>
+		<ImportFiles id="Heroes_Files_XP2_MODE" criteria="Heroes_Mode_Expansion2">
+			<File>UI/Civilopedia/CivilopediaPage_XP2_HeroUnit.lua</File>
+		</ImportFiles>
+		<ReplaceUIScript id="Babylon_ProductionPanel_MODE" criteria="Heroes_Mode">
+			<Properties>
+				<LuaContext>ProductionPanel</LuaContext>
+				<LuaReplace>UI/Replacements/ProductionPanel_Babylon_Heroes.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<AddUserInterfaces id="Heroes_InGameUI" criteria="Heroes_Mode">
+			<Properties>
+				<Context>InGame</Context>
+			</Properties>
+			<File>UI/Additions/HeroesPopup.xml</File>
+		</AddUserInterfaces>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="BabylonSettingsArt">
+			<File>Babylon.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="BabylonSettings">
+			<File>Data/Babylon_ConfigData.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="BabylonColors">
+			<File>Data/Babylon_Colors_Config.xml</File>
+      <File>Data/Babylon_Colors.xml</File>
+		</UpdateColors>
+		<UpdateIcons id="BabylonSettingsIcons" criteria="Babylon">
+			<File>Data/Babylon_Icons_Buildings.xml</File>
+			<File>Data/Babylon_Icons_Civilizations.xml</File>
+			<File>Data/Babylon_Icons_GameModes.xml</File>
+			<File>Data/Babylon_Icons_Leaders.xml</File>
+			<File>Data/Babylon_Icons_UnitPortraits.xml</File>
+			<File>Data/Babylon_Icons_FontIcons.xml</File>
+			<File>Data/Babylon_Icons_Units.xml</File>
+		</UpdateIcons>
+		<UpdateText id="BabylonSettingsText">
+			<File Priority="1">Text/en_US/Babylon_ConfigText.xml</File>
+			<File>Text/Babylon_Translations_ConfigText.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<LocalizedText>
+		<File>Text/en_US/Babylon_PackageText.xml</File>
+		<File>Text/Babylon_Translations_PackageText.xml</File>
+	</LocalizedText>
+	<Files>
+		<File>Babylon.dep</File>
+		<File>Data/Babylon_Colors.xml</File>
+		<File>Data/Babylon_Colors_Config.xml</File>
+		<File>Data/Babylon_ConfigData.xml</File>
+		<File>Data/Babylon_Civilizations.xml</File>
+		<File>Data/Babylon_Base.xml</File>
+		<File>Data/Babylon_Expansion1.xml</File>
+		<File>Data/Babylon_Expansion2.xml</File>
+		<File>Data/Babylon_GameCapabilities.xml</File>
+		<File>Data/Babylon_Buildings.xml</File>
+		<File>Data/Babylon_GreatPeople.xml</File>
+		<File>Data/Babylon_GreatWorks.xml</File>
+		<File>Data/Babylon_Improvements.xml</File>
+		<File>Data/Babylon_Leaders.xml</File>
+		<File>Data/Babylon_Modifiers.xml</File>
+		<File>Data/Babylon_Units.xml</File>
+		<File>Data/Babylon_Icons_Buildings.xml</File>
+		<File>Data/Babylon_Icons_Civilizations.xml</File>
+		<File>Data/Babylon_Icons_FontIcons.xml</File>
+		<File>Data/Babylon_Icons_GameModes.xml</File>
+		<File>Data/Babylon_Icons_GreatWorks.xml</File>
+		<File>Data/Babylon_Icons_GreatWorkTypes.xml</File>
+		<File>Data/Babylon_Icons_Projects.xml</File>
+		<File>Data/Babylon_Icons_Stats.xml</File>
+		<File>Data/Babylon_Icons_Units.xml</File>
+		<File>Data/Babylon_Icons_UnitActions.xml</File>
+		<File>Data/Babylon_Icons_UnitPortraits.xml</File>
+		<File>Data/Babylon_Icons_InGame_MODE.xml</File>
+		<File>Data/Babylon_Icons_Leaders.xml</File>
+		<File>Data/Babylon_Heroes_MODE.xml</File>
+		<File>Data/Babylon_Heroes_XP1_MODE.xml</File>
+		<File>Data/Babylon_Heroes_XP2_MODE.xml</File>
+		<File>Data/Babylon_Heroes_SecretSocieties_MODE.xml</File>
+		<File>Data/Babylon_Heroes_Poland_MODE.xml</File>
+		<File>Data/Babylon_Heroes_IndonesiaKhmer_MODE.xml</File>
+		<File>Data/Babylon_RemoveData_MODE.xml</File>
+		<File>Data/ARX/Civ_LEADER_HAMMURABI.png</File>
+		<File>Text/en_US/Babylon_CityNames_Text.xml</File>
+		<File>Text/en_US/Babylon_CitizenNames_Text.xml</File>
+		<File>Text/en_US/Babylon_Civilopedia_Text.xml</File>
+		<File>Text/en_US/Babylon_Diplomacy_Text.xml</File>
+		<File>Text/en_US/Babylon_ConfigText.xml</File>
+		<File>Text/en_US/Babylon_GreatPeople_Text.xml</File>
+		<File>Text/en_US/Babylon_GreatWorks_Text.xml</File>
+		<File>Text/en_US/Babylon_Improvements_Text.xml</File>
+		<File>Text/en_US/Babylon_Leaders_Text.xml</File>
+		<File>Text/en_US/Babylon_PackageText.xml</File>
+		<File>Text/en_US/Babylon_Heroes_Civilopedia_Text_MODE.xml</File>
+		<File>Text/en_US/Babylon_Heroes_Civilopedia_Text_XP1_MODE.xml</File>
+		<File>Text/en_US/Babylon_Heroes_Text_MODE.xml</File>
+		<File>Text/en_US/Babylon_Heroes_Text_XP1_MODE.xml</File>
+		<File>Text/en_US/Babylon_Heroes_Text_XP2_MODE.xml</File>
+		<File>Text/Babylon_RemoveText.xml</File>
+		<File>Text/Babylon_Translations_PackageText.xml</File>
+		<File>Text/Babylon_Translations_ConfigText.xml</File>
+		<File>Text/Babylon_Translations_Text.xml</File>
+		<File>Text/Babylon_Translations_Text_MODE.xml</File>
+		<File>Platforms/Windows/Audio/XP3_DLC4Banks.ini</File>
+		<File>UI/Additions/HeroesPopup.lua</File>
+		<File>UI/Additions/HeroesPopup.xml</File>
+		<File>UI/Additions/HeroesSupport.lua</File>
+		<File>UI/Additions/GreatPeopleHeroPanel.lua</File>
+		<File>UI/Additions/GreatPeopleHeroPanel.xml</File>
+		<File>UI/Civilopedia/CivilopediaPage_HeroUnit.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_XP2_HeroUnit.lua</File>
+		<File>UI/Replacements/NotificationPanel_Babylon_Heroes.lua</File>
+		<File>UI/Replacements/GreatWorksOverview_Babylon_Heroes.lua</File>
+		<File>UI/Replacements/GreatWorkShowcase_Babylon_Heroes.lua</File>
+		<File>UI/Replacements/GreatPeoplePopup_Babylon_Heroes.lua</File>
+		<File>UI/Replacements/ProductionPanel_Babylon_Heroes.lua</File>
+		<File>UI/Replacements/ToolTipHelper_Babylon_Heroes.lua</File>
+	</Files>
+</Mod>

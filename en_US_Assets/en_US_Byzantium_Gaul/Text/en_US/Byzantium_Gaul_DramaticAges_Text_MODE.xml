@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]You may slot Golden Age Policies, which will provide a powerful gameplay bonus during the Age.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM">
+			<Text>You are in a [ICON_GLORY_GOLDEN_AGE] Golden Age during this game era![NEWLINE][NEWLINE][ICON_BULLET]Each of your [ICON_Citizen] Citizens exerts {Amount} Loyalty pressure in their city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile.[NEWLINE][NEWLINE][ICON_BULLET]You will earn 1 Era Score for every Technology or Civic you complete.[NEWLINE][NEWLINE][ICON_BULLET]You will earn 1 Era Score for every military unit that earns a promotion, after its first.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]You may slot Dark Age Policies, which will provide a powerful gameplay bonus during the Age.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM">
+			<Text>You are in a [ICON_GLORY_DARK_AGE] Dark Age during this game era.[NEWLINE][NEWLINE][ICON_BULLET]Each of your [ICON_Citizen] Citizens exerts {Amount} Loyalty pressure in their city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile.[NEWLINE][NEWLINE][ICON_BULLET]Some of your cities may have rebelled, becoming Free Cities with increased Loyalty pressure. Be careful: you may lose other nearby cities if you do not handle them.[NEWLINE][NEWLINE][ICON_BULLET]You will earn 1 Era Score for every Technology or Civic you complete.[NEWLINE][NEWLINE][ICON_BULLET]You will earn 1 Era Score for every military unit that earns a promotion, after its first.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION">
+			<Text>While in a Golden Age, gains an extra Wildcard Policy Slot, and may use Dark Age Policies.  +50% [ICON_Production] Production towards defensive buildings.</Text>
+		</Replace>
+		<!-- ========== -->
+		<!-- Notifications -->
+		<!-- ========== -->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_COMMERATION_REPLACEMENT_MESSAGE">
+			<Text>A New Era</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_COMMERATION_REPLACEMENT_SUMMARY">
+			<Text>Since the game has entered a new era, your Loyalty pressure has changed, and you may slot Dark or Golden Age Policies.</Text>
+		</Replace>
+		<!-- ========== -->
+		<!-- Social Policies -->
+		<!-- ========== -->
+		<Replace Language="en_US" Tag="LOC_POLICY_FREE_ENQUIRY_NAME">
+			<Text>Free Inquiry</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FREE_ENQUIRY_DESCRIPTION">
+			<Text>Commercial Hub and Harbor district's [ICON_GOLD] Gold provides [ICON_Science] Science as well. Campus districts provide [ICON_GOLD] Gold equal to their [ICON_SCIENCE] Science bonus.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PRAETORIAN_GUARD_NAME">
+			<Text>Praetorian Guard</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PRAETORIAN_GUARD_DESCRIPTION">
+			<Text>Wounded units can heal +10 HP per turn. +2 [ICON_PRODUCTION] Production to Encampment districts and buildings.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_EXODUS_OF_THE_EVANGELISTS_NAME">
+			<Text>Exodus of the Evangelists</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_EXODUS_OF_THE_EVANGELISTS_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Movement for all Religious units. Additionally, newly trained ones get +2 Charges. +4 [ICON_GreatProphet] Great Prophet points per turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MONUMENTALITY_NAME">
+			<Text>Monumentality</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MONUMENTALITY_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Movement for all Builders and Settlers. May purchase civilian units with [ICON_Faith] Faith. Builders are 30% cheaper to purchase with [ICON_FAITH] Faith and [ICON_GOLD] Gold.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_REFORM_THE_COINAGE_NAME">
+			<Text>Reform the Coinage</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_REFORM_THE_COINAGE_DESCRIPTION">
+			<Text>Your Traders cannot be plundered. International [ICON_TradeRoute] Trade Routes provide +3 [ICON_Gold] Gold per specialty district in the foreign city.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CULTURE_INDUSTRY_NAME">
+			<Text>Culture Industry</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CULTURE_INDUSTRY_DESCRIPTION">
+			<Text>Cities receive +1 [ICON_CULTURE] Culture for every specialty district. +25% [ICON_PRODUCTION] Production towards non specialty districts. Entertainment Complex and Water Park district buildings can be bought with [ICON_Faith] Faith.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_HEARTBEAT_OF_STEAM_NAME">
+			<Text>Heartbeat of Steam</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_HEARTBEAT_OF_STEAM_DESCRIPTION">
+			<Text>+10% [ICON_Production] Production toward Industrial era and later wonders. Campus district's [ICON_SCIENCE] Science adjacency bonus provides [ICON_PRODUCTION] Production as well.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_TO_ARMS_NAME">
+			<Text>To Arms!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_TO_ARMS_DESCRIPTION">
+			<Text>+50% XP earned for all units and +15% [ICON_Production] Production towards military units.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_WISH_YOU_WERE_HERE_NAME">
+			<Text>Wish You Were Here</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_WISH_YOU_WERE_HERE_DESCRIPTION">
+			<Text>+100% [ICON_TOURISM] Tourism to all National Parks and +50% [ICON_TOURISM] Tourism from World Wonders.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SKY_AND_STARS_NAME">
+			<Text>Sky and Stars</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SKY_AND_STARS_DESCRIPTION">
+			<Text>+30% [ICON_PRODUCTION] Production towards Spaceport and Aerodrome districts. +15% [ICON_SCIENCE] Science and [ICON_PRODUCTION] Production to Cities with either a Spaceport or Aerodrome.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MILITARY_INDUSTRIAL_COMPLEX_NAME">
+			<Text>Military-Industrial Complex</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MILITARY_INDUSTRIAL_COMPLEX_DESCRIPTION">
+			<Text>All improved Aluminum, Oil, and Uranium resources yield 2 additional resource per turn. All combat units receive +5 [ICON_Strength] Combat Strength and if the unit has a range attack +1 Range.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MANDALA_STATE_NAME">
+			<Text>Mandala State</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MANDALA_STATE_DESCRIPTION">
+			<Text>+4 [ICON_CULTURE] Culture for every Wonder. Each Wonder in your cities cause foreign cities within 9 tiles to lose 2 Loyalty per turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SAKDINA_NAME">
+			<Text>Sakdina</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SAKDINA_DESCRIPTION">
+			<Text>While your projects are active each of your Citizens exerts +0.5 Loyalty pressure to their city. When your projects complete receive +10% additional [ICON_GreatPerson] Great People points for every Building in that project’s district.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SOLIDARITY_NAME">
+			<Text>Solidarity</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SOLIDARITY_DESCRIPTION">
+			<Text>All [ICON_Governor] Governors exert 2 additional foreign Loyalty pressure. All your cities with governors receive +25% [ICON_GOLD] Gold and +25% [ICON_FAITH] Faith.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_POPULAR_FRONT_NAME">
+			<Text>Popular Front</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_POPULAR_FRONT_DESCRIPTION">
+			<Text>+100% Favor from Suzerainty of City-States and Alliance Level. Your Trade Routes to City-States provide +4 to all yields.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_NAME">
+			<Text>MIlitary-Industrial Complex</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength from the Military-Industrial Complex policy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_PREVIEW_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength from the Military-Industrial Complex policy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_RANGE_NAME">
+			<Text>Military-Industrial Complex</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_RANGE_DESCRIPTION">
+			<Text>+1 Range from the Military-Industrial Complex policy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MONASTICISM_DA_DESCRIPTION">
+			<Text>+75% [ICON_Science] Science in cities with a Holy Site.[NEWLINE]BUT: -25% [ICON_Culture] Culture in cities without a Holy Site.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ELITE_FORCES_DA_DESCRIPTION">
+			<Text>+100% combat experience for all units.[NEWLINE]BUT: +1 [ICON_Gold] Gold to maintain each combat and spy unit.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_INQUISITION_DA_DESCRIPTION">
+			<Text>Start Inquisition with 1 Apostle charge. All Religious units +15 [ICON_Religion] Religious Combat Strength in friendly territory.[NEWLINE]BUT: -15% [ICON_Science] Science in all cities.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ISOLATIONISM_DA_DESCRIPTION">
+			<Text>Domestic routes provide +3 [ICON_Food] Food, +3 [ICON_Production] Production, and +3 [ICON_Gold] Gold.[NEWLINE]BUT: Can't train or buy Settlers nor settle new cities.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ROBBER_BARONS_DA_DESCRIPTION">
+			<Text>+50% [ICON_Gold] Gold and +25% [ICON_Production] Production in cities with a Bank or a Shipyard.[NEWLINE]BUT: -2 [ICON_Amenities] Amenities in all cities.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COLLECTIVISM_DA_DESCRIPTION">
+			<Text>Farms provide +1 [ICON_Production] Production. All cities +2 [ICON_Housing] Housing. Industrial Zones provide [ICON_FOOD] Food equal to their adjacency bonus.[NEWLINE]BUT: [ICON_GreatPerson] Great People Points earned 50% slower.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DECENTRALIZATION_NAME">
+			<Text>Decentralization</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DECENTRALIZATION_DESCRIPTION">
+			<Text>Cities with 6 or less [ICON_CITIZEN] population receive +4 Loyalty per turn. BUT: Cities with more than 6 [ICON_CITIZEN] population receive -15% [ICON_Gold] Gold.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SOFT_TARGETS_NAME">
+			<Text>Soft Targets</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SOFT_TARGETS_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength vs. city attacks and district defenses. BUT: -3 [ICON_Strength] Combat Strength against units.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_NAME">
+			<Text>Soft Targets</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength from the Soft Targets policy vs. city attacks.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_NAME">
+			<Text>Soft Targets</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength from the Soft Targets policy vs. district defenses.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_NAME">
+			<Text>Soft Targets</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_DESCRIPTION">
+			<Text>-3 [ICON_Strength] Combat Strength from the Soft Targets policy against units.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_COMPLEX_COMBAT_STRENGTH_PREVIEW_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength from the Soft Targets policy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_COMBAT_STRENGTH_PREVIEW_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength from the Soft Targets policy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_COMBAT_STRENGTH_PREVIEW_DESCRIPTION">
+			<Text>[COLOR_RED]{1_Amount}[ENDCOLOR][ICON_Strength] Combat Strength from the Soft Targets policy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DESPOTIC_PATERNALISM_NAME">
+			<Text>Despotic Paternalism</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DESPOTIC_PATERNALISM_DESCRIPTION">
+			<Text>+4 Loyalty per turn in cities with [ICON_Governor] Governors. BUT: -15% [ICON_Science] Science and -15% [ICON_Culture] Culture in all cities without an established [ICON_Governor] Governor.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SAMODERZHAVIYE_NAME">
+			<Text>Samoderzhaviye</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SAMODERZHAVIYE_DESCRIPTION">
+			<Text>+50% [ICON_PRODUCTION] Production in your [ICON_CAPITAL] Capital. BUT: All [ICON_Governor] Governors are neutralized and cannot be reestablished.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

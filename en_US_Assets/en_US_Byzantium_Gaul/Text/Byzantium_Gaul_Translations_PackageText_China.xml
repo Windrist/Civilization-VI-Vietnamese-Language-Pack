@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION]Contains two new civilizations and leaders, 2 new world wonders, 1 new map script, and the Dramatic Ages game mode.</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BYZANTIUM_GAUL_MOD_TEASER]New Civilizations and Leaders - Basil II of Byzantium and Ambiorix of the Gaul</Text>
+    </Replace>
+    <Replace Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BYZANTIUM_GAUL_MOD_TITLE]Byzantium and Gaul Pack</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

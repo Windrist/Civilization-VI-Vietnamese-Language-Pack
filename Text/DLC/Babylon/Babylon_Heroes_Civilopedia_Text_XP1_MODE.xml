@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Updates for XP1 - 2 -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_21">
+			<Text>In addition to their own abilities, Heroes are also potent representatives of your civilization. At the end of every turn, Hero units add +1 Loyalty to all cities within 2 tiles.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

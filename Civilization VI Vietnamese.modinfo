@@ -196,33 +196,41 @@
 		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
 		<!-- New Frontier Pack 1: MAYA & GRAN COLOMBIA PACK -->
 		<UpdateText id="FrontEnd_GranColombia_Settings">
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_ConfigText.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
+			<File Priority="-1">Text/DLC/GranColombia_Maya/GranColombia_Maya_ConfigText.xml</File>
+			<File Priority="-1">Text/DLC/GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
 		</UpdateText>
 		<!-- New Frontier Pack 2: ETHIOPIA PACK -->
 		<UpdateText id="FrontEnd_Ethiopia_Settings">
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_ConfigText.xml</File>
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_PackageText.xml</File>
+			<File Priority="-1">Text/DLC/Ethiopia/Ethiopia_ConfigText.xml</File>
+			<File Priority="-1">Text/DLC/Ethiopia/Ethiopia_PackageText.xml</File>
 		</UpdateText>
-		<!-- New Frontier Pack 3 -->
-		<!-- New Frontier Pack 4 -->
+		<!-- New Frontier Pack 3: BYZANTIUM & GAUL PACK -->
+		<UpdateText id="FrontEnd_Byzantium_Gaul_Settings">
+			<File Priority="-1">Text/DLC/Byzantium_Gaul/Byzantium_Gaul_ConfigText.xml</File>
+			<File Priority="-1">Text/DLC/Byzantium_Gaul/Byzantium_Gaul_PackageText.xml</File>
+		</UpdateText>
+		<!-- New Frontier Pack 4: BABYLON PACK -->
+		<UpdateText id="FrontEnd_Babylon_Settings">
+			<File Priority="-1">Text/DLC/Babylon/Babylon_ConfigText.xml</File>
+			<File Priority="-1">Text/DLC/Babylon/Babylon_PackageText.xml</File>
+		</UpdateText>
 		<!-- New Frontier Pack 5 -->
 		<!-- New Frontier Pack 6 -->
 		<!-- Bonus -->
 		<!-- Catherine De Medici DLC -->
 		<UpdateText id="FrontEnd_CatherineDeMedici_Settings">
-			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_ConfigText.xml</File>
-			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_PackageText.xml</File>
+			<File Priority="-1">Text/DLC/CatherineDeMedici/CatherineDeMedici_ConfigText.xml</File>
+			<File Priority="-1">Text/DLC/CatherineDeMedici/CatherineDeMedici_PackageText.xml</File>
 		</UpdateText>
 		<!-- Teddy Roosevelt DLC -->
 		<UpdateText id="FrontEnd_TeddyRoosevelt_Settings">
-			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_ConfigText.xml</File>
-			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_PackageText.xml</File>
+			<File Priority="-1">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_ConfigText.xml</File>
+			<File Priority="-1">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_PackageText.xml</File>
 		</UpdateText>
 		<!-- Tree Randomizer Mode DLC -->
 		<UpdateText id="FrontEnd_TreeRandomizer_Settings">
-			<File>Text/DLC/TreeRandomizer/TreeRandomizer_ConfigText.xml</File>
-			<File>Text/DLC/TreeRandomizer/TreeRandomizer_PackageText.xml</File>
+			<File Priority="-1">Text/DLC/TreeRandomizer/TreeRandomizer_ConfigText.xml</File>
+			<File Priority="-1">Text/DLC/TreeRandomizer/TreeRandomizer_PackageText.xml</File>
 		</UpdateText>
 		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->				
 	</FrontEndActions>
@@ -533,61 +541,96 @@
 		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
 		<!-- New Frontier Pack 1: MAYA & GRAN COLOMBIA PACK -->
 		<UpdateText id="InGame_GranColombiaMaya" criteria="GranColombiaMaya">
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_CitizenNames_Text.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_CityNames_Text.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Civilopedia_Text.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_ConfigText.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Diplomacy_Text.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_FeaturesResourcesTerrains_Text.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Improvements_Text.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Leaders_Text.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_NamedPlaces_Text.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Notifications_Text.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_RandomEvents_Text.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Units_Text.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_InGameText_MODE.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Civilopedia_Text_MODE.xml</File>
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_AdvisorText_MODE.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_CitizenNames_Text.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_CityNames_Text.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Civilopedia_Text.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_ConfigText.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Diplomacy_Text.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_FeaturesResourcesTerrains_Text.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Improvements_Text.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Leaders_Text.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_NamedPlaces_Text.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Notifications_Text.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_RandomEvents_Text.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Units_Text.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_InGameText_MODE.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Civilopedia_Text_MODE.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_AdvisorText_MODE.xml</File>
 		</UpdateText>
 		<UpdateText id="InGame_GranColombiaMaya_MODE" criteria="GranColombiaMaya_Mode_Expansion2">
-			<File Priority="50">Text/DLC/GranColombia_Maya/GranColombia_Maya_Units_Text_MODE.xml</File>
+			<File>Text/DLC/GranColombia_Maya/GranColombia_Maya_Units_Text_MODE.xml</File>
 		</UpdateText>
 		<!-- New Frontier Pack 2: ETHIOPIA PACK -->
 		<UpdateText id="InGame_Ethiopia" criteria="Ethiopia">
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_Buildings_Text.xml</File>
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_CitizenNames_Text.xml</File>
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_CityNames_Text.xml</File>
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_Civilopedia_Text.xml</File>
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_ConfigText.xml</File>
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_Diplomacy_Text.xml</File>
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_Districts_Text.xml</File>
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_InGameText.xml</File>
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_NamedPlaces_Text.xml</File>
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_PackageText.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_Buildings_Text.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_CitizenNames_Text.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_CityNames_Text.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_Civilopedia_Text.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_ConfigText.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_Diplomacy_Text.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_Districts_Text.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_InGameText.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_NamedPlaces_Text.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_PackageText.xml</File>
 		</UpdateText>
 		<UpdateText id="InGame_Ethiopia_MODE" criteria="Ethiopia_Mode">
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_Civilopedia_Text_MODE.xml</File>
-			<File Priority="50">Text/DLC/Ethiopia/Ethiopia_SecretSocieties_Text_MODE.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_Civilopedia_Text_MODE.xml</File>
+			<File>Text/DLC/Ethiopia/Ethiopia_SecretSocieties_Text_MODE.xml</File>
 		</UpdateText>
-		<!-- New Frontier Pack 3 -->
-		<!-- New Frontier Pack 4 -->
+		<!-- New Frontier Pack 3: BYZANTIUM & GAUL PACK -->
+		<UpdateText id="InGame_Byzantium_Gaul" criteria="Byzantium_Gaul">
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_Buildings_Text.xml</File>
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_CitizenNames_Text.xml</File>
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_CityNames_Text.xml</File>
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_Civilopedia_Text.xml</File>
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_ConfigText.xml</File>
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_Diplomacy_Text.xml</File>
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_Gameplay_Text.xml</File>
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_NamedPlaces_Text.xml</File>
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_PackageText.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_DramaticAges_MODE" criteria="DramaticAges_Mode">
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_Civilopedia_Text_MODE.xml</File>
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_DramaticAges_AdvisorText_MODE.xml</File>
+			<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_DramaticAges_Text_MODE.xml</File>
+		</UpdateText>
+		<!-- New Frontier Pack 4: BABYLON PACK -->
+		<UpdateText id="InGame_Babylon" criteria="Babylon">
+			<File>Text/DLC/Babylon/Babylon_CitizenNames_Text.xml</File>
+			<File>Text/DLC/Babylon/Babylon_CityNames_Text.xml</File>
+			<File>Text/DLC/Babylon/Babylon_Civilopedia_Text.xml</File>
+			<File>Text/DLC/Babylon/Babylon_ConfigText.xml</File>
+			<File>Text/DLC/Babylon/Babylon_Diplomacy_Text.xml</File>
+			<File>Text/DLC/Babylon/Babylon_GreatPeople_Text.xml</File>
+			<File>Text/DLC/Babylon/Babylon_GreatWorks_Text.xml</File>
+			<File>Text/DLC/Babylon/Babylon_Improvements_Text.xml</File>
+			<File>Text/DLC/Babylon/Babylon_Leaders_Text.xml</File>
+			<File>Text/DLC/Babylon/Babylon_PackageText.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_Heroes_Mode" criteria="Heroes_Mode">
+			<File>Text/DLC/Babylon/Babylon_Heroes_Civilopedia_Text_MODE.xml</File>
+			<File>Text/DLC/Babylon/Babylon_Heroes_Civilopedia_Text_XP1_MODE.xml</File>
+			<File>Text/DLC/Babylon/Babylon_Heroes_Text_MODE.xml</File>
+			<File>Text/DLC/Babylon/Babylon_Heroes_Text_XP1_MODE.xml</File>
+			<File>Text/DLC/Babylon/Babylon_Heroes_Text_XP2_MODE.xml</File>
+		</UpdateText>
 		<!-- New Frontier Pack 5 -->
 		<!-- New Frontier Pack 6 -->
 		<!-- Bonus -->
 		<!-- Catherine De Medici DLC -->
 		<UpdateText id="InGame_CatherineDeMedici" criteria="CatherineDeMedici">
-			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_CivilopediaText.xml</File>
-			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_ConfigText.xml</File>
-			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_Text.xml</File>
-			<File Priority="50">Text/DLC/CatherineDeMedici/CatherineDeMedici_PackageText.xml</File>
+			<File>Text/DLC/CatherineDeMedici/CatherineDeMedici_CivilopediaText.xml</File>
+			<File>Text/DLC/CatherineDeMedici/CatherineDeMedici_ConfigText.xml</File>
+			<File>Text/DLC/CatherineDeMedici/CatherineDeMedici_Text.xml</File>
+			<File>Text/DLC/CatherineDeMedici/CatherineDeMedici_PackageText.xml</File>
 		</UpdateText>
 		<!-- Teddy Roosevelt DLC -->
 		<UpdateText id="InGame_TeddyRoosevelt" criteria="TeddyRoosevelt">
-			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_CivilopediaText.xml</File>
-			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_ConfigText.xml</File>
-			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_Text.xml</File>
-			<File Priority="50">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_PackageText.xml</File>
+			<File>Text/DLC/TeddyRoosevelt/TeddyRoosevelt_CivilopediaText.xml</File>
+			<File>Text/DLC/TeddyRoosevelt/TeddyRoosevelt_ConfigText.xml</File>
+			<File>Text/DLC/TeddyRoosevelt/TeddyRoosevelt_Text.xml</File>
+			<File>Text/DLC/TeddyRoosevelt/TeddyRoosevelt_PackageText.xml</File>
 		</UpdateText>
 		<!-- Tree Randomizer Mode DLC -->
 		<UpdateText id="InGame_TreeRandomizer" criteria="TreeRandomizer_Mode">
@@ -611,11 +654,7 @@
 		<Text id="LOC_MOD_AUTHORS">
 			<en_US>King CTer</en_US>
 		</Text>
-		<File Priority="1">Text/DLC/GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
-		<File Priority="1">Text/DLC/Ethiopia/Ethiopia_PackageText.xml</File>
-		<File Priority="1">Text/DLC/CatherineDeMedici/CatherineDeMedici_PackageText.xml</File>
-		<File Priority="1">Text/DLC/TeddyRoosevelt/TeddyRoosevelt_Text.xml</File>
-		<File Priority="1">Text/DLC/TreeRandomizer/TreeRandomizer_PackageText.xml</File>
+		<File Priority="-1">Text/DLC/Babylon/Babylon_PackageText.xml</File>
 	</LocalizedText>
 	<!-- Config File -->
 	<Files>
@@ -912,8 +951,35 @@
 		<File>Text/DLC/Ethiopia/Ethiopia_NamedPlaces_Text.xml</File>
 		<File>Text/DLC/Ethiopia/Ethiopia_SecretSocieties_Text_MODE.xml</File>
 		<File>Text/DLC/Ethiopia/Ethiopia_PackageText.xml</File>
-		<!-- New Frontier Pack 3 -->
-		<!-- New Frontier Pack 4 -->
+		<!-- New Frontier Pack 3: BYZANTIUM & GAUL PACK -->
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_Buildings_Text.xml</File>
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_CitizenNames_Text.xml</File>
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_CityNames_Text.xml</File>
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_Civilopedia_Text_MODE.xml</File>
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_Civilopedia_Text.xml</File>
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_ConfigText.xml</File>
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_Diplomacy_Text.xml</File>
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_DramaticAges_AdvisorText_MODE.xml</File>
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_DramaticAges_Text_MODE.xml</File>
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_Gameplay_Text.xml</File>
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_NamedPlaces_Text.xml</File>
+		<File>Text/DLC/Byzantium_Gaul/Byzantium_Gaul_PackageText.xml</File>
+		<!-- New Frontier Pack 4: BABYLON PACK -->
+		<File>Text/DLC/Babylon/Babylon_CitizenNames_Text.xml</File>
+		<File>Text/DLC/Babylon/Babylon_CityNames_Text.xml</File>
+		<File>Text/DLC/Babylon/Babylon_Civilopedia_Text.xml</File>
+		<File>Text/DLC/Babylon/Babylon_ConfigText.xml</File>
+		<File>Text/DLC/Babylon/Babylon_Diplomacy_Text.xml</File>
+		<File>Text/DLC/Babylon/Babylon_GreatPeople_Text.xml</File>
+		<File>Text/DLC/Babylon/Babylon_GreatWorks_Text.xml</File>
+		<File>Text/DLC/Babylon/Babylon_Heroes_Civilopedia_Text_MODE.xml</File>
+		<File>Text/DLC/Babylon/Babylon_Heroes_Civilopedia_Text_XP1_MODE.xml</File>
+		<File>Text/DLC/Babylon/Babylon_Heroes_Text_MODE.xml</File>
+		<File>Text/DLC/Babylon/Babylon_Heroes_Text_XP1_MODE.xml</File>
+		<File>Text/DLC/Babylon/Babylon_Heroes_Text_XP2_MODE.xml</File>
+		<File>Text/DLC/Babylon/Babylon_Improvements_Text.xml</File>
+		<File>Text/DLC/Babylon/Babylon_Leaders_Text.xml</File>
+		<File>Text/DLC/Babylon/Babylon_PackageText.xml</File>
 		<!-- New Frontier Pack 5 -->
 		<!-- New Frontier Pack 6 -->
 		<!-- Bonus -->
@@ -931,6 +997,5 @@
 		<File>Text/DLC/TreeRandomizer/TreeRandomizer_ConfigText.xml</File>
 		<File>Text/DLC/TreeRandomizer/TreeRandomizer_InGameText_MODE.xml</File>
 		<File>Text/DLC/TreeRandomizer/TreeRandomizer_PackageText.xml</File>
-		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
 	</Files>
 </Mod>

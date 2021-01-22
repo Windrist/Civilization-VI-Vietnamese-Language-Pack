@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Game Concepts -->
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME">
+			<Text>Modes</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_CONTENT_TITLE">
+			<Text>Dramatic Ages</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_WELCOME_TITLE">
+			<Text>Welcome</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_WELCOME_PARA_1">
+			<Text>In game setup, players can turn on the Dramatic Ages game mode. The rules for earning Era Score are adjusted, encouraging players to engage in conflict and keep current with Technologies and Civics. [ICON_GLORY_SUPER_GOLDEN_AGE] Heroic Ages and Dedications are removed, and players can only be in a [ICON_GLORY_NORMAL_AGE] Normal Age in the first era. After that, they will either earn a [ICON_GLORY_DARK_AGE] Dark Age or a [ICON_GLORY_GOLDEN_AGE] Golden Age, both of which are more potent than ever. Dark Ages can even cause cities to fall into Free Cities.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_TITLE">
+			<Text>Era Score</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_PARA_1">
+			<Text>Players can only earn a [ICON_GLORY_DARK_AGE] Dark Age or a [ICON_GLORY_GOLDEN_AGE] Golden Age. The threshold for earning a Golden Age increases by 3 for every city the player owns after the [ICON_Capital] Capital. Furthermore, earning a Golden Age will increase the threshold by 5, while earning a Dark Age will lower it by 10. These thresholds are calculated and fixed when the game changes era, just like the rules without the Mode, so there is no need to worry about hitting a moving target within an era.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_PARA_2">
+			<Text>Players no longer make Dedications when the game era changes. Instead of earning Era Score from Dedication effects, players gain 1 Era Score each time they complete a Technology or a Civic. They also gain 1 Era Score each time one of their military units earns a promotion, after that unit's first promotion. Era Score can still be earned from Historic Moments as well. Instead of gameplay bonuses from Dedications, players get access to special and more flexible Social Policies.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_TITLE">
+			<Text>Golden Ages</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_PARA_1">
+			<Text>If you earned more Era Score than necessary to reach a [ICON_GLORY_GOLDEN_AGE] Golden Age while in the previous era, the excess will make your citizens apply additional Loyalty pressure during your Golden Age. Each 1 Era Score grants a 5% pressure increase for your citizens. Once this reaches 50%, additional pressure can still be earned, but there are diminishing returns.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_PARA_2">
+			<Text>Golden Ages grant access to powerful Golden Policies, which can be placed in Wildcard slots of your Government.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_TITLE">
+			<Text>Dark Ages</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_PARA_1">
+			<Text>[ICON_GLORY_DARK_AGE] Dark Ages grant access to Dark Policies, which can be placed in Wildcard slots of your Government. These are powerful, but have a drawback effect. Some policies are the same as in a normal game, while others are reworked or brand new.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_PARA_2">
+			<Text>Falling into a Dark Age will also cause at least 1 city to instantly revolt. These cities transform into Free Cities. Cities with the lowest Loyalty pressure from nearby friendly cities are the most at risk, which are usually on the outskirts of your empire. Your [ICON_Capital] Capital, though, is always safe.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_FREECITIES_TITLE">
+			<Text>Free Cities</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_FREECITIES_PARA_1">
+			<Text>The number of Free Cities that emerge from empires in Dark Ages depends on your chosen difficulty level. Moreover, Free Cities can now exert Loyalty pressure on other cities and on each other, so they can be much more resilient.[NEWLINE][ICON_BULLET]Settler: 5% Human cities lost, 30% AI cities lost. 1x pressure from Free Cities.[NEWLINE][ICON_BULLET]Chieftain: 10% Human cities lost, 30% AI cities lost. 2x pressure from Free Cities.[NEWLINE][ICON_BULLET]Warlord: 15% Human cities lost, 25% AI cities lost. 2.5x pressure from Free Cities.[NEWLINE][ICON_BULLET]Prince: 20% Human cities lost, 20% AI cities lost. 3x pressure from Free Cities.[NEWLINE][ICON_BULLET]King: 25% Human cities lost, 15% AI cities lost. 3.5x pressure from Free Cities.[NEWLINE][ICON_BULLET]Emperor: 30% Human cities lost, 15% AI cities lost. 4x pressure from Free Cities.[NEWLINE][ICON_BULLET]Immortal: 35% Human cities lost, 10% AI cities lost. 4.5x pressure from Free Cities.[NEWLINE][ICON_BULLET]Deity: 40% Human cities lost, 10% AI cities lost. 5x pressure from Free Cities.</Text>
+		</Replace>
+		<!-- Policies -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOLDENAGE_POLICIES_NAME">
+			<Text>Golden Age Policies</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_EXODUS_OF_THE_EVANGELISTS_CHAPTER_HISTORY_PARA_1">
+			<Text>The major proselytizing religions each had a point where disciples traveled far in the world to spread the faith: the Christian Apostles moved through and beyond the Roman Empire, the Buddha’s arhants spread their religion across India and beyond, and Islam rode a wave of military, diplomatic and economic successes from South Asia to Spain. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_REFORM_THE_COINAGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Coins are symbols – worth more than the metal inside. Or are they? Efforts to re-value coins could make or break an empire – especially when one considers that soldiers were often paid in coin and might get grumpy if they were given gold-painted lead instead of the real thing.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_HEARTBEAT_OF_STEAM_CHAPTER_HISTORY_PARA_1">
+			<Text>The industrial revolution forever altered relationships between labor, technology and industry. Clocks marked off workhours, steam mills did the labor of hundreds of animals and people, and workers increasingly performed simple, repetitive, almost machine-like tasks. More so than ever before, technology existed as an end in and for itself. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TO_ARMS_CHAPTER_HISTORY_PARA_1">
+			<Text>Nationalism, the “imagined community” that became the defining feature of the industrial age, calls upon us to imagine a kinship with people we have never and will never meet, and imagine ourselves a part of their history. Flags and banners, anthems and recruitment posters – they all call the soldier to fight and die for an abstraction. Enough reading – the bugle sounds!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FREE_ENQUIRY_CHAPTER_HISTORY_PARA_1">
+			<Text>Knowledge is power, the philosopher Michel Foucault noted, and as such it is dangerous. Societies devoted to free inquiry gamble that they are strong enough to survive the answers that open questioning gives.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MONUMENTALITY_CHAPTER_HISTORY_PARA_1">
+			<Text>Imperial capitals – cities such as St. Petersburg, Istanbul, Beijing, and Washington DC, are made to remind the visitor that, compared with the scale of national history, the individual is small and temporary. Here, monumentality refers to more than just the buildings themselves, but a state of mind where the scale of construction shows the breadth of empire. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_WISH_YOU_WERE_HERE_CHAPTER_HISTORY_PARA_1">
+			<Text>Tourism has always played a part in societies, if we can put religious pilgrims, raiders’ voyages, and merchant delegations in the same category. But the emergence of the organized tourist industry in the 1800s altered what it meant to go abroad for pleasure (and to long for home).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SKY_AND_STARS_CHAPTER_HISTORY_PARA_1">
+			<Text>Armies always fought to seize the high ground, but with aviation in the 20th century, that horizon expanded to include aerodromes and, ultimately, launch pads for rockets (rockets that could both bring people to the moon as well as drop warheads into enemy capitals). </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MANDALA_STATE_CHAPTER_HISTORY_PARA_1">
+			<Text>In medieval South and Southeast Asia, statecraft often had to do with managing the cultural prestige of a center. Here, battles are fought in the realm of spectacle rather than violence, and the king or queen who could organize the most dramatic and expensive display was the one who could draw border cities to his or her side. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PRAETORIAN_GUARD_CHAPTER_HISTORY_PARA_1">
+			<Text>In the later Western Roman Empire, the Praetorian Guard, formerly a personal bodyguard for the Emperor, grew to a politically active force, involving the military in the organization of political and social life. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SAKDINA_CHAPTER_HISTORY_PARA_1">
+			<Text>Sakdina – the feudal system in Thai medieval life – placed each individual in a hierarchical system of mutual obligation. Those lower down could call upon favors from those higher up, who were obliged to grant them (within reason), meaning that all levels of society were bound and committed to each other. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_CULTURE_INDUSTRY_CHAPTER_HISTORY_PARA_1">
+			<Text>Theodore Adorno’s critique of mass entertainment was that it reduced art not to a sublime quest for expression, but on its mass appeal. The culture industry, while Adorno might argue for its vapidity, sought to bring all citizens into participation in cultural life than before. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_POPULAR_FRONT_CHAPTER_HISTORY_PARA_1">
+			<Text>During the Cold War, each side sought to bring its allies closer ideologically. States like East Germany and Vietnam were pressured to commit further to their alliances with the USSR (as, on the opposite side, Indonesia and Pakistan did with the USA), forming political blocs that often voted as one.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_INDUSTRIAL_COMPLEX_CHAPTER_HISTORY_PARA_1">
+			<Text>US President Dwight Eisenhower used the term “Military-Industrial Complex” to refer to the close ties between private industry and the military. The concept was not unique to the USA, and here it refers to these close links between heavy industries and the arms race.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SOLDARITY_CHAPTER_HISTORY_PARA_1">
+			<Text>During the Cold War, states put ideological pressure on their neighbors in a variety of ways. We can think of propaganda broadcasts over the border, leaflet drops, secret ideological cells, and, of course, the flood of hair metal and blue jeans into Eastern Europe. These shows of “soft power” were often organized and facilitated at the highest levels, and had a tremendous impact upon the eventual fall of the Berlin Wall and Soviet Union.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SOFT_TARGETS_CHAPTER_HISTORY_PARA_1">
+			<Text>A disciplined military – one that does not loot or pillage indiscriminately – is a hallmark of a well-running society. But in a Dark Age, standards might lapse. In a military that favors soft, civilian targets and sees plunder as a part of an individual soldier’s pay, soldiers might favor pursuing easily carried-off loot over militarily strategic goals. Such behavior might lead to increased damage to cities and civilians, but decreased efficacy in war.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SAMODERZHAVIYE_CHAPTER_HISTORY_PARA_1">
+			<Text>Samoderzhaviye – autocracy – was one of the key pillars of Tsarist Russian conservative thought. Whereas other powers experimented with having power spread out between advisors or popular rule, under the philosophy of samoderzhaviye, what the tsar said went. And if the tsar was lazy, incompetent, or ill-informed, this was a liability. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DESPOTIC_PATERNALISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Thak Chaloemtirana describes Cold War-era Southeast Asia as the home of a particular kind of “despotic paternalism,” where power is invested in locally important strongmen, while independent thought and action is curtailed. One thinks of individuals like Suharto in Indonesia, or Sarit in Thailand. Such a system stifles free inquiry but the harsh action of such despotic paternalists brought dissenting voices under control. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DECENTRALIZATION_CHAPTER_HISTORY_PARA_1">
+			<Text>In the face of societal collapse (e.g. a Dark Age), some civilizations turned towards harsh rule from the center, while others allowed the periphery to become more and more autonomous – consider how the population of Constantinople emptied for smaller towns and farms as the Byzantine Empire declined. In this way, the center heavily subsidizes the periphery as a last-ditch effort to keep citizens’ hearts and minds, at least until things improve. </Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

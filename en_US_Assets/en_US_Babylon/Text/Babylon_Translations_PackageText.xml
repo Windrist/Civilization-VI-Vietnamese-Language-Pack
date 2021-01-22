@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="pt_BR">
+      <Text>Pacote Babilônia</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="pt_BR">
+      <Text>Nova civilização e líder - Hamurabi da Babilônia</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="pt_BR">
+      <Text>Contém uma nova civilização e um novo líder, 6 novas cidades-estados, 25 novas Grandes Personalidades e o modo de jogo Heróis e Lendas.</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="fr_FR">
+      <Text>Pack Babylone</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="fr_FR">
+      <Text>Nouvelle civilisation et son dirigeant - Hammurabi de Babylone</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="fr_FR">
+      <Text>Contient une nouvelle civilisation et son dirigeant, 6 cités-états, 25 personnages illustres et le mode de jeu Héros et légendes.</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="de_DE">
+      <Text>Babylon-Paket</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="de_DE">
+      <Text>Neue Zivilisation und neuer Anführer - Hammurabi von Babylon</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="de_DE">
+      <Text>Enthält eine neue Zivilisation und einen neuen Anführer, 6 neue Stadtstaaten, 25 neue Große Persönlichkeiten sowie den Spielmodus 'Helden und Legenden'.</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="it_IT">
+      <Text>Pacchetto Babilonia</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="it_IT">
+      <Text>Nuova civiltà e nuovo leader - Hammurabi di Babilonia</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="it_IT">
+      <Text>Contiene una nuova civiltà e un nuovo leader, 6 città-stato, 25 Grandi Personaggi e la modalità di gioco Eroi e Leggende.</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="ja_JP">
+      <Text>バビロンパック</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="ja_JP">
+      <Text>新たな文明と指導者 - バビロンのハンムラビ</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="ja_JP">
+      <Text>新たな文明1つと指導者1人、6つの都市国家と25人の偉人に加え、「英雄と伝説」ゲームモードを含みます。</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="ko_KR">
+      <Text>바빌론 팩</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="ko_KR">
+      <Text>새로운 문명과 지도자 - 바빌론의 함무라비</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="ko_KR">
+      <Text>하나의 새로운 문명 및 지도자, 새로운 도시 국가 6개국, 새로운 위인 25명, 신규 게임 모드인 영웅 및 전설을 포함합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="pl_PL">
+      <Text>Pakiet Babilonu</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="pl_PL">
+      <Text>Nowa cywilizacja i dowódca – Hammurabi, władca Babilonu</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="pl_PL">
+      <Text>Zawiera nową cywilizację i przywódcę, 6 nowych miast-państw, 25 nowych wielkich ludzi oraz tryb bohaterów i legend.</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="ru_RU">
+      <Text>Набор «Вавилон»</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="ru_RU">
+      <Text>Новая цивилизация и лидер — Хаммурапи, царь Вавилона</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="ru_RU">
+      <Text>Содержит новую цивилизацию с лидером, шесть новых городов-государств, 25 новых великих людей, а также игровой режим «Герои и легенды».</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="zh_Hans_CN">
+      <Text>巴比伦包</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="zh_Hans_CN">
+      <Text>新文明和领袖——巴比伦的汉谟拉比</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>包含1个新文明和领袖、6个新城邦、25位新伟人，以及“英雄与传奇”模式。</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="es_ES">
+      <Text>Pack de Babilonia</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="es_ES">
+      <Text>Nueva civilización y nuevo líder - Hammurabi de Babilonia</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="es_ES">
+      <Text>Incluye una civilización y un líder nuevos, 6 ciudades-estado más y 25 Grandes personajes adicionales, así como el modo de juego Héroes y leyendas.</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="zh_Hant_HK">
+      <Text>巴比倫包</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="zh_Hant_HK">
+      <Text>新文明和領袖——巴比倫的漢摩拉比</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>包含1個新文明和領袖、6個新城邦、25個新偉人及「英雄與傳奇」遊戲模式。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

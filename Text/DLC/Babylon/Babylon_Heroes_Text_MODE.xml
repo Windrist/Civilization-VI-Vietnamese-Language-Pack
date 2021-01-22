@@ -1,0 +1,698 @@
+<GameData>
+	<LocalizedText>
+		<!-- REPLACEMENTS -->
+		<Delete Tag="LOC_GREAT_PEOPLE_TITLE"/>
+		<Delete Tag="LOC_HUD_GREATPEOPLE_TOOLTIP"/>
+		<Delete Tag="LOC_BUILDING_ORACLE_DESCRIPTION"/>
+		<Delete Tag="LOC_BUILDING_SHRINE_DESCRIPTION"/>
+		<Delete Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION"/>
+		<Delete Tag="LOC_BUILDING_TEMPLE_DESCRIPTION"/>
+	</LocalizedText>
+	<LocalizedText>
+		<!-- REPLACEMENTS -->
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_TITLE">
+			<Text>Heroes &amp; Great People</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_GREATPEOPLE_TOOLTIP">
+			<Text>Heroes &amp; Great People[NEWLINE][NEWLINE]View available [ICON_GreatPerson] Great People and your progress towards earning a [ICON_GreatPerson] Great Person[NEWLINE]View all discovered Heroes with their current status and abilities</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
+			<Text>Recalling Heroes costs 15% less [ICON_Faith] Faith, and Patronage of Great People costs 25% less [ICON_Faith] Faith. Districts in this city provide +2 [ICON_GreatPerson] Great Person points of their type (for example, [ICON_GreatWriter] Great Writer points from the Theater Square district). Must be built on Hills.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
+			<Text>Hero units claimed or recalled in this City have 10% longer [ICON_Lifespan] Lifespans. Allows the purchasing of Missionaries. Missionaries can only be purchased with [ICON_Faith] Faith.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
+			<Text>All Hero units have 10% longer [ICON_Lifespan] Lifespans. Increases growth by 15% in all cities. Must be built next to a River.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
+			<Text>Recalling Heroes in this city costs 15% less [ICON_Faith] Faith. Allows the purchasing of Apostles, Gurus, Inquisitors, and with the proper belief, Warrior Monks. These units can only be purchased with [ICON_Faith] Faith.</Text>
+		</Replace>
+		<!--Hero Units-->
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_ANANSI_NAME">
+			<Text>Anansi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_ANANSI_DESCRIPTION">
+			<Text>Demigod and traveler of African folklore, renowned for his wit and trickery.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_ARTHUR_NAME">
+			<Text>Arthur</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_ARTHUR_DESCRIPTION">
+			<Text>King and founder of the Knights of the Round Table, renowned for his virtue and chivalry.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_BEOWULF_NAME">
+			<Text>Beowulf</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_BEOWULF_DESCRIPTION">
+			<Text>Mighty warrior of the far North, renowned for his strength and bravery in single combat.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_HERCULES_NAME">
+			<Text>Hercules</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_HERCULES_DESCRIPTION">
+			<Text>Demigod of superhuman strength, renowned for his famous Labors.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_HIMIKO_NAME">
+			<Text>Himiko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_HIMIKO_DESCRIPTION">
+			<Text>Shaman-Queen of ancient Japan, renowned for her wisdom and mystical power.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_HIPPOLYTA_NAME">
+			<Text>Hippolyta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_HIPPOLYTA_DESCRIPTION">
+			<Text>Warrior Queen of the Amazons, renowned for her leadership and martial skill.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_HUNAHPU_NAME">
+			<Plurality>2</Plurality>
+			<Text>Hunahpu &amp; Xbalanque</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_HUNAHPU_DESCRIPTION">
+			<Text>Legendary athletes and heroes of the Maya, renowned for their power over death and the Underworld.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_OYA_NAME">
+			<Text>Oya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_OYA_DESCRIPTION">
+			<Text>Orisha of winds, storms, and lightning, renowned for her extreme power.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_MAUI_NAME">
+			<Text>Maui</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_MAUI_DESCRIPTION">
+			<Text>Demigod and hero of Polynesian myth, renowned for his feats and gifts to humanity.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_MULAN_NAME">
+			<Text>Mulan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_MULAN_DESCRIPTION">
+			<Text>Devoted and skilled warrior, renowned for her devotion and loyalty.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_SINBAD_NAME">
+			<Text>Sinbad</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_SINBAD_DESCRIPTION">
+			<Text>[COLOR_LIGHTBLUE]Naval Hero.[ENDCOLOR] Adventurer and fortune-hunter, renowned for his strange and marvelous travels.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_WUKONG_NAME">
+			<Text>Sun Wukong</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_HERO_WUKONG_DESCRIPTION">
+			<Text>The Monkey King, hero of ancient China, renowned for his cunning and immortality.</Text>
+		</Replace>
+		<!--Other Units-->
+		<Replace Language="en_US" Tag="LOC_UNIT_QUESTING_KNIGHT_NAME">
+			<Text>Questing Knight</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_QUESTING_KNIGHT_DESCRIPTION">
+			<Text>Heavy Cavalry. One of Arthur's chosen Knights and strengthened by his charge.</Text>
+		</Replace>
+		<!--Abilities and Classes-->
+		<Replace Language="en_US" Tag="LOC_HERO_CLASS_NAME">
+			<Text>Hero</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_ABILITY_COMBAT_STRENGTH_AOE_NAME">
+			<Text>Inspiring</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_ABILITY_COMBAT_STRENGTH_AOE">
+			<Text>+10 [ICON_Strength] Combat Strength to all units within 2 tiles.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_COMBAT_STRENGTH_UNIT_MODIFIER">
+			<Text>+{1_Amount} [ICON_Strength] Combat Bonus from the Hero Himiko.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HIPPOLYTA_HEAL_PER_TURN_NAME">
+			<Text>Hippolyta's Favor</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_HIPPOLYTA_HEAL_PER_TURN">
+			<Text>Hippolyta automatically heals {1_Amount} HP each turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HUNAHPU_RESURRECT_KILL_NAME">
+			<Text>The Twins' Resurrection</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_HUNAHPU_RESURRECT_KILL">
+			<Text>Any ordinary land unit killed by Hunahpu &amp; Xbalanque is resurrected under your control with full HP and movement.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MULAN_STRENGTH_PER_TURN_NAME">
+			<Text>Mulan's Devotion</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_MULAN_STRENGTH_PER_TURN">
+			<Text>Mulan gains {1_Amount} [ICON_Strength] Combat Strength every turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MULAN_FORTIFY_NAME">
+			<Text>Mulan's Defiance</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_MULAN_FORTIFY">
+			<Text>Mulan fully fortifies automatically at the end of every turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_WUKONG_STEALTH_NAME">
+			<Text>Sun Wukong's Disguise</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_WUKONG_STEALTH">
+			<Text>Sun Wukong is hidden unless adjacent to an enemy unit.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_WUKONG_LIFESPAN_NAME">
+			<Text>Sun Wukong's Immortality</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_WUKONG_LIFESPAN">
+			<Text>Sun Wukong has significantly increased [ICON_Lifespan] Lifespan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SINBAD_GOLD_FOR_DISCOVERY_NAME">
+			<Text>Sinbad's Journeys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_SINBAD_GOLD_FOR_DISCOVERY">
+			<Text>Sinbad earns {1_GoldReward} [ICON_GOLD] Gold whenever he discovers a Continent or Natural Wonder.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SINBAD_OCEAN_VALID_TERRAIN_NAME">
+			<Text>Navigator</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_SINBAD_OCEAN_VALID_TERRAIN">
+			<Text>Can enter Ocean tiles.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_TRAIT_SUMERIA_HEROES_LIFESPAN">
+			<Text>All Hero units have {1_Amount} longer [ICON_Lifespan] Lifespans.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM">
+			<Text>{1_Amount}% [ICON_Production] Production increase from Heroic Quests</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HERO_IGNORE_FOREST_TERRAIN_COST_NAME">
+			<Text>Agile</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HERO_IGNORE_FOREST_TERRAIN_COST">
+			<Text>Ignores [ICON_Movement] Movement penalties in Woods and Rainforest terrain.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HERO_IGNORE_HILLS_TERRAIN_COST_NAME">
+			<Text>Rugged</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HERO_IGNORE_HILLS_TERRAIN_COST">
+			<Text>Ignores [ICON_Movement] Movement penalties in Hills terrain.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HERO_IGNORE_ALL_TERRAIN_COST_NAME">
+			<Text>Swift</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HERO_IGNORE_ALL_TERRAIN_COST">
+			<Text>Ignores all terrain [ICON_Movement] Movement penalties.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HERO_ENTER_FOREIGN_LANDS_MODIFIER">
+			<Text>Can enter foreign lands when not at war.</Text>
+		</Replace>
+		<!--Building Modifier strings-->
+		<Replace Language="en_US" Tag="LOC_MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT">
+			<Text>{1_Amount} [ICON_Faith] Faith to recall Heroes.</Text>
+		</Replace>
+		<!--Unit Commands-->
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_KILL_WEAKER_UNIT_DESCRIPTION">
+			<Text>Beowulf's Challenge</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_KILL_WEAKER_UNIT_HELP">
+			<Text>Target an adjacent enemy unit with [ICON_Strength] Combat Strength less than Beowulf's. Beowulf immediately destroys the target. Costs 1 Charge, 1 [ICON_MOVEMENT] Movement.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_TRANSFORM_UNIT_DESCRIPTION">
+			<Text>Arthur's Accolade</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_TRANSFORM_UNIT_HELP">
+			<Text>Target an adjacent land military unit you control. Arthur transforms the unit into a Questing Knight: a unique Heavy Cavalry unit with increased [ICON_Strength] Combat Strength and {1_LifespanVal} [ICON_Lifespan] Lifespan. Costs 1 Charge, 1 [ICON_MOVEMENT] Movement.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_RESOURCE_INSPIRE_DESCRIPTION">
+			<Text>Anansi's Tricks</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_RESOURCE_INSPIRE_HELP">
+			<Text>Use when located on a Bonus or Luxury Resource. Anansi consumes the resource and generates {1_ScienceReward} [ICON_SCIENCE] Science and {2_CultureReward} [ICON_CULTURE] Culture. Any improvement present is destroyed. Costs 1 Charge and ends turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_COMPLETE_DISTRICT_DESCRIPTION">
+			<Text>Hercules' Labor</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_COMPLETE_DISTRICT_HELP">
+			<Text>Use when located on a friendly District under construction. Hercules immediately completes construction of the District. Costs 2 Charges and ends turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_DESTROY_DEVELOPMENT_DESCRIPTION">
+			<Text>Hercules' Rage</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_DESTROY_DEVELOPMENT_HELP">
+			<Text>Use when located on an enemy District. Hercules destroys all buildings present and pillages the District. Costs 1 Charge and ends turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_GRANT_ENVOY_DESCRIPTION">
+			<Text>Himiko's Charm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_GRANT_ENVOY_HELP">
+			<Text>Target any adjacent City-State. Himiko immediately places 1 free [ICON_Envoy] Envoy in the City-State. If you are already the Suzerain there, Himiko also earns {1_FaithChange} [ICON_FAITH] Faith. Costs 1 Charge and ends turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FORCE_LEVY_MILITARY_DESCRIPTION">
+			<Text>Himiko's Rule</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FORCE_LEVY_MILITARY_HELP">
+			<Text>Use when within the territory of a City-State you are Suzerain of. Himiko immediately levies its military at no cost. Costs 1 Charge and ends turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_RESTORE_UNIT_MOVES_DESCRIPTION">
+			<Text>Hippolyta's Command</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_RESTORE_UNIT_MOVES_HELP">
+			<Text>Target any adjacent friendly unit that has moved or attacked this turn. Hippolyta immediately restores the unit's moves and attacks. Usable once per turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_NAVAL_GOLD_RAID_DESCRIPTION">
+			<Text>Sinbad's Fortunes</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_NAVAL_GOLD_RAID_HELP">
+			<Text>Target any adjacent enemy naval unit or Barbarian Camp. The target is either cleared or damaged by 50%, and Sinbad immediately earns {1_GoldReward} [ICON_GOLD] Gold. Costs 1 Charge and ends turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_CREATE_RANDOM_RESOURCE_DESCRIPTION">
+			<Text>Maui's Inventions</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_CREATE_RANDOM_RESOURCE_HELP">
+			<Text>Use when located on an unowned, empty plot. Maui creates a random Bonus or Luxury Resource on the plot. Costs 1 Charge and ends turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_AREA_DAMAGE_HEAL_DESCRIPTION">
+			<Text>Oya's Storm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_AREA_DAMAGE_HEAL_HELP">
+			<Text>Damage all adjacent enemies and heal all adjacent owned units by {1_DamageAmount}. Costs 1 Charge and ends turn.</Text>
+		</Replace>
+		<!--Projects-->
+		<!--Create Anansi-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_DISCOVER_NEXT_HERO_NAME">
+			<Text>Heroic Tales</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_DISCOVER_NEXT_HERO_SHORT_NAME">
+			<Text>Heroic Tales</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_DISCOVER_NEXT_HERO_DESCRIPTION">
+			<Text>Discover a new Hero.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_ANANSI_NAME">
+			<Text>Devotion to Anansi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_ANANSI_SHORT_NAME">
+			<Text>Devotion to Anansi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_ANANSI_DESCRIPTION">
+			<Text>Devote this city to the Hero Anansi. When complete, Anansi will appear in the city center.</Text>
+		</Replace>
+		<!--Create Arthur-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_ARTHUR_NAME">
+			<Text>Devotion to Arthur</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_ARTHUR_SHORT_NAME">
+			<Text>Devotion to Arthur</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_ARTHUR_DESCRIPTION">
+			<Text>Devote this city to the Hero Arthur. When complete, Arthur will appear in the city center.</Text>
+		</Replace>
+		<!--Create Beowulf-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_BEOWULF_NAME">
+			<Text>Devotion to Beowulf</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_BEOWULF_SHORT_NAME">
+			<Text>Devotion to Beowulf</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_BEOWULF_DESCRIPTION">
+			<Text>Devote this city to the Hero Beowulf. When complete, Beowulf will appear in the city center.</Text>
+		</Replace>
+		<!--Create Hercules-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HERCULES_NAME">
+			<Text>Devotion to Hercules</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HERCULES_SHORT_NAME">
+			<Text>Devotion to Hercules</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HERCULES_DESCRIPTION">
+			<Text>Devote this city to the Hero Hercules. When complete, Hercules will appear in the city center.</Text>
+		</Replace>
+		<!--Create Himiko-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HIMIKO_NAME">
+			<Text>Devotion to Himiko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HIMIKO_SHORT_NAME">
+			<Text>Devotion to Himiko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HIMIKO_DESCRIPTION">
+			<Text>Devote this city to the Hero Himiko. When complete, Himiko will appear in the city center.</Text>
+		</Replace>
+		<!--Create Hippolyta-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HIPPOLYTA_NAME">
+			<Text>Devotion to Hippolyta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HIPPOLYTA_SHORT_NAME">
+			<Text>Devotion to Hippolyta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HIPPOLYTA_DESCRIPTION">
+			<Text>Devote this city to the Hero Hippolyta. When complete, Hippolyta will appear in the city center.</Text>
+		</Replace>
+		<!--Create Hunahpu-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HUNAHPU_NAME">
+			<Text>Devotion to Hunahpu &amp; Xbalanque</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HUNAHPU_SHORT_NAME">
+			<Text>Devotion to Hunahpu &amp; Xbalanque</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_HUNAHPU_DESCRIPTION">
+			<Text>Devote this city to the Hero Twins Hunahpu &amp; Xbalanque. When complete, Hunahpu &amp; Xbalanque will appear in the city center.</Text>
+		</Replace>
+		<!--Create Oya-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_OYA_NAME">
+			<Text>Devotion to Oya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_OYA_SHORT_NAME">
+			<Text>Devotion to Oya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_OYA_DESCRIPTION">
+			<Text>Devote this city to the Hero Oya. When complete, Oya will appear in the city center.</Text>
+		</Replace>
+		<!--Create Maui-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_MAUI_NAME">
+			<Text>Devotion to Maui</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_MAUI_SHORT_NAME">
+			<Text>Devotion to Maui</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_MAUI_DESCRIPTION">
+			<Text>Devote this city to the Hero Maui. When complete, Maui will appear in the city center.</Text>
+		</Replace>
+		<!--Create Mulan-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_MULAN_NAME">
+			<Text>Devotion to Mulan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_MULAN_SHORT_NAME">
+			<Text>Devotion to Mulan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_MULAN_DESCRIPTION">
+			<Text>Devote this city to the Hero Mulan. When complete, Mulan will appear in the city center.</Text>
+		</Replace>
+		<!--Create Sinbad-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_SINBAD_NAME">
+			<Text>Devotion to Sinbad</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_SINBAD_SHORT_NAME">
+			<Text>Devotion to Sinbad</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_SINBAD_DESCRIPTION">
+			<Text>Devote this city to the Hero Sinbad. When complete, Sinbad will appear in the city center.</Text>
+		</Replace>
+		<!--Create Wukong-->
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_WUKONG_NAME">
+			<Text>Devotion to Sun Wukong</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_WUKONG_SHORT_NAME">
+			<Text>Devotion to Sun Wukong</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CREATE_HERO_WUKONG_DESCRIPTION">
+			<Text>Devote this city to the Hero Sun Wukong. When complete, Sun Wukong will appear in the city center.</Text>
+		</Replace>
+		<!--Great Works-->
+		<Replace Language="en_US" Tag="LOC_GREATWORKOBJECT_HERO">
+			<Text>[ICON_GreatWork_HeroRelic] Heroic Relic</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_ANANSI_NAME">
+			<Text>Drums of Anansi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_ANANSI_NAME">
+			<Text>Epic of Anansi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_ARTHUR_NAME">
+			<Text>Chalice of Arthur</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_ARTHUR_NAME">
+			<Text>Epic of Arthur</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_BEOWULF_NAME">
+			<Text>Sword of Beowulf</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_BEOWULF_NAME">
+			<Text>Epic of Beowulf</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_HERCULES_NAME">
+			<Text>Club of Hercules</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_HERCULES_NAME">
+			<Text>Epic of Hercules</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_HIMIKO_NAME">
+			<Text>Crown of Himiko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_HIMIKO_NAME">
+			<Text>Epic of Himiko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_HIPPOLYTA_NAME">
+			<Text>Girdle of Hippolyta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_HIPPOLYTA_NAME">
+			<Text>Epic of Hippolyta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_HUNAHPU_NAME">
+			<Text>Mantles of the Hero Twins</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_HUNAHPU_NAME">
+			<Text>Epic of the Hero Twins</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_OYA_NAME">
+			<Text>Knife of Oya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_OYA_NAME">
+			<Text>Epic of Oya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_MAUI_NAME">
+			<Text>Torch of Maui</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_MAUI_NAME">
+			<Text>Epic of Maui</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_MULAN_NAME">
+			<Text>Armor of Mulan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_MULAN_NAME">
+			<Text>Epic of Mulan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_SINBAD_NAME">
+			<Text>Compass of Sinbad</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_SINBAD_NAME">
+			<Text>Epic of Sinbad</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_SYMBOL_WUKONG_NAME">
+			<Text>Staff of Sun Wukong</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_HERO_EPIC_WUKONG_NAME">
+			<Text>Epic of Sun Wukong</Text>
+		</Replace>
+		<!--UI-->
+		<Replace Language="en_US" Tag="LOC_BUILDING_NAME_FOR_HERO">
+			<Text>{1_BuildingName} of {2_HeroName}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_NO_TARGETS">
+			<Text>No targets available</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_HERO_FAILURE_NOT_ENOUGH_CHARGES">
+			<Text>Not enough Action Charges remaining</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_HERO_FAILURE_REQUIRES_FULL_MOVEMENT">
+			<Text>Requires full movement</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_HERO_FAILURE_NO_MOVES">
+			<Text>No moves remaining</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_ONCE_PER_TURN">
+			<Text>Already used this turn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_OWNED_PLOT">
+			<Text>Cannot be used on an owned plot.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_USED_CITY">
+			<Text>This ability has already been used in {1_CityName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_USED_FEATURE">
+			<Text>This ability has already been used on this {1_FeatureName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_DISTRICT_AT_WAR">
+			<Text>Cannot target a district in a city at war with us.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_CITY_AT_WAR">
+			<Text>Cannot target a city at war with us.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_NO_LEVY_AVAILABLE">
+			<Text>This City-State has no units available to levy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_IN_SUZERAIN_TERRITORY">
+			<Text>Must be inside the territory of a City-State you are Suzerain of.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_LEVY_ACTIVE">
+			<Text>This City-State's military is already levied.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_SUZERAIN_OF_CITY">
+			<Text>You are not Suzerain of {1_CityName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_INCOMPLETE_DISTRICT">
+			<Text>Must be used on a district under construction.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_DISTRICT">
+			<Text>Must be used on a district.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_DEVELOPMENT">
+			<Text>Must be used on a district or improvement.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_LUXURY_OR_BONUS_RESOURCE">
+			<Text>Must be used on a Luxury or Bonus Resource.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_DISTRICT_PILLAGED">
+			<Text>This district is already pillaged.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_CITY_CENTER">
+			<Text>Cannot be used on a City Center.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_RESOURCE">
+			<Text>Cannot be used on an existing resource.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_IMPROVEMENT">
+			<Text>Cannot be used on an improved tile.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_NO_VALID_RESOURCES">
+			<Text>No Resources valid at this location.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_ALLIED_PLOT">
+			<Text>Cannot be used on a plot owned by an allied civilization.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_HEROIC_RELIC">
+			<Text>Your Archaeologist {1_UnitName} has uncovered an iconic object left by an ancestral Hero of {2_ActingCiv}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CAN_TRAIN_FAILURE_SAME_ERA">
+			<Text>Heroes can only appear once per Era.</Text>
+		</Replace>
+		<!--Heroes Popup-->
+		<Replace Language="en_US" Tag="LOC_HERO_DISCOVERED_DESC_GOODY_HUT">
+			<Text>The tribal villagers have shared their myths and legends with us. We have discovered the {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_DISCOVERED_DESC_PROJECT">
+			<Text>Heroic Tales have spread the word of legendary deeds among our people. We have discovered the {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_DISCOVERED_DESC_CITY_STATE">
+			<Text>As our influence with {2_SourcePlayerName} grows, they have shared their myths and legends. We have discovered the {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_DISCOVERED_DESC_CITY_STATE_SUZERAIN">
+			<Text>Our suzerainty over {2_SourcePlayerName} has revealed more about their myths and legends. We have discovered the {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_DISCOVERED_DESC_NEW_CONTINENT">
+			<Text>We have discoverd the continent of {2_ContinentName} and with it new myths and legends. We have discovered the {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_DISCOVERED_DESC_NATURAL_WONDER">
+			<Text>The awesome sight of {2_FeatureName} has inspired local myths and legends. We have discovered the {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_DISCOVERED_DESC_ENCOUNTER">
+			<Text>A legend stands before us! Our forces have personally met the {1_HeroName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISCOVER_HERO_HELP">
+			<Text>You can claim this Hero by completing a Hero Devotion Project in any City with a [COLOR:Civ6Yellow]{1_OriginBuilding}[ENDCOLOR] building. Only one Hero Devotion can be made in each city.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISCOVER_HERO_NAVAL_HELP">
+			<Text>You can claim this Hero by completing a Hero Devotion Project in any City with a [COLOR:Civ6Yellow]{1_OriginBuilding}[ENDCOLOR] building that is capable of training naval units. Only one Hero Devotion can be made in each city.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISCOVER_CLAIMED_HERO_HELP">
+			<Text>This Hero has already been claimed by {1_PlayerName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_EXPIRED_MESSAGE">
+			<Text>Hero [ICON_Lifespan] Lifespan Expired</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_EXPIRED_DESC">
+			<Text>Our {1_UnitName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_UnitName}[ENDCOLOR] {1_UnitName: plural 1?has; other?have;} reached the end of their [ICON_Lifespan] Lifespan and has left our nation.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_KILLED_MESSAGE">
+			<Text>Hero Killed</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HERO_KILLED_DESC">
+			<Text>Our {1_UnitName: plural 1?Hero; other?Heroes;} [COLOR_LIGHTBLUE]{1_UnitName}[ENDCOLOR] {1_UnitName: plural 1?has; other?have;} fallen in battle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HEROES_HELP_RECALL_DESC">
+			<Text>After a Hero expires or is killed, they can be recalled by purchasing them with [ICON_Faith] Faith in the City where their [COLOR:Civ6Yellow]{1_OriginBuilding}[ENDCOLOR] is located.[NEWLINE][NEWLINE]Recalled Heroes return with their [ICON_Lifespan] Lifespan and Action Charges refreshed, but the [ICON_Faith] Faith cost to recall them increases with each appearance. Heroes can be recalled once per Era.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOOK_AT_HERO">
+			<Text>Look At Hero</Text>
+		</Replace>
+		<!--Notifications-->
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_DISCOVERED_MESSAGE">
+			<Text>Hero Discovered</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_DISCOVERED_SUMMARY">
+			<Text>You have discovered the {1_HeroName: plural 1?Hero; other?Heroes;} {1_HeroName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_LOW_LIFESPAN_MESSAGE">
+			<Text>Hero [ICON_Lifespan] Lifespan Low</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_LOW_LIFESPAN_SUMMARY">
+			<Text>Our {1_HeroClassName: plural 1?Hero; other?Heroes;}{1_HeroClassName}{1_HeroClassName: plural 1?has; other?have;} fewer than {2_NumTurns} turns remaining in their [ICON_Lifespan] Lifespan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_LOST_LIFESPAN_EXPIRED_MESSAGE">
+			<Text>Hero Lost</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_LOST_LIFESPAN_EXPIRED_SUMMARY">
+			<Text>Our {1_HeroClassName: plural 1?Hero; other?Heroes;}{1_HeroClassName}{1_HeroClassName: plural 1?has; other?have;} reached the end of their [ICON_Lifespan] Lifespan. They belong to history until we gather enough [ICON_Faith] Faith to recall them.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_CAN_PURCHASE_WITH_FAITH_MESSAGE">
+			<Text>Can Recall Hero</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_CAN_PURCHASE_WITH_FAITH_SUMMARY">
+			<Text>You have accumulated enough [ICON_Faith] Faith to recall the {1_HeroClassName: plural 1?Hero; other?Heroes;}{1_HeroClassName} in the City of {2_CityName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_KILLED_OTHER_MESSAGE">
+			<Text>Hero Killed</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_KILLED_OTHER_SUMMARY">
+			<Text>The {1_HeroClassName: plural 1?Hero; other?Heroes;}{1_HeroClassName}{1_HeroClassName: plural 1?has; other?have;} fallen in battle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_EXPIRED_OTHER_MESSAGE">
+			<Text>Hero Departed</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_EXPIRED_OTHER_SUMMARY">
+			<Text>The {1_HeroClassName: plural 1?Hero; other?Heroes;} {1_HeroClassName} {1_HeroClassName: plural 1?has; other?have;} reached the end of their [ICON_Lifespan] Lifespan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_CLAIMED_OTHER_MESSAGE">
+			<Text>Hero Claimed</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_CLAIMED_OTHER_SUMMARY">
+			<Text>{1_CivName} has claimed the {2_HeroName: plural 1?Hero; other?Heroes;} {2_HeroName}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_CLAIMED_OTHER_UNMET_SUMMARY">
+			<Text>An unmet player has claimed the {1_HeroName: plural 1?Hero; other?Heroes;} {1_HeroName}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_RECALLED_OTHER_MESSAGE">
+			<Text>Hero Recalled</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_RECALLED_OTHER_SUMMARY">
+			<Text>{1_CivName} has recalled the {2_HeroName: plural 1?Hero; other?Heroes;} {2_HeroName}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_CLAIM_FAILED_MESSAGE">
+			<Text>Production Salvaged</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_HERO_CLAIM_FAILED_SUMMARY">
+			<Text>You were not able to claim the {1_HeroName: plural 1?Hero; other?Heroes;} {1_HeroName} in time. However {2_Production} [ICON_Production] Production has been salvaged from the attempt and awarded to the city of {3_CityName}.</Text>
+		</Replace>
+		<!--GreatPeoplePopup-->
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_TAB_HEROES">
+			<Text>Heroes</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_HEROES_RECRUITED_STATE">
+			<Text>CLAIMED BY:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_HEROES_DISCOVERED_STATE">
+			<Text>DISCOVERED</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_HEROES_LOOK_AT_HERO_TT">
+			<Text>Close this panel and select this hero unit.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_HEROES_LOOK_AT_CITY_TT">
+			<Text>Close this panel and select the city this deceased hero originated from.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_HEROES_CIVILOPEDIA_ENTRY_TT">
+			<Text>Open the Civilopedia entry for this hero unit.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_HEROES_FAITH_RECALL">
+			<Text>Recall with Faith</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_HEROES_FAITH_RECALL_TT">
+			<Text>This hero can be recalled for {1_Faith} [ICON_Faith] Faith.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_HEROES_INSUFFICIENT_FAITH_TT">
+			<Text>[COLOR_RED]Insufficient [ICON_Faith] Faith to recall.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_HEROES_DECEASED">
+			<Text>[COLOR_RED]DECEASED[ENDCOLOR]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,66 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--UI-->
+		<Replace Language="en_US" Tag="LOC_HEROES_LOYALTY_FLYOVER_POS">
+			<Text>[COLOR:Happiness]+{1_Num} Loyalty[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HEROES_LOYALTY_FLYOVER">
+			<Text>[COLOR:Happiness]{1_Num} Loyalty[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_CREATED_FIRST_TITLE">
+			<Text>First Hero Claimed</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_CREATED_FIRST_DESCRIPTION">
+			<Text>A hero has joined our civilization for the first time!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_CREATED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{HeroClassName: plural 1?A hero walks; other?Heroes walk;} among us! The devotion of the people of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} has compelled their first {HeroClassName: plural 1?hero; other?heroes;}, {HeroClassName}, to join their cause.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_EXPIRED_FIRST_TITLE">
+			<Text>First Hero Departed</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_EXPIRED_FIRST_DESCRIPTION">
+			<Text>Our first hero has completed their service to our civilization.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_EXPIRED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>The time when {HeroClassName} walked among the people of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} has come to an end. With faith we will see them again, someday.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_RECALLED_FIRST_TITLE">
+			<Text>First Hero Recalled</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_RECALLED_FIRST_DESCRIPTION">
+			<Text>We have recalled a hero to our civilization for the first time!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_RECALLED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>From across the ages, the legendary {HeroClassName: plural 1?hero; other?heroes;} {HeroClassName} {HeroClassName: plural 1?has; other?have;} heard the cries of the people of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} and returned to their service once more.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_CREATED_TITLE">
+			<Text>Hero Claimed</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_CREATED_DESCRIPTION">
+			<Text>A hero has joined our civilization!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_CREATED_INSTANCE_DESCRIPTION">
+			<Text>The devotion of the people of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} has drawn the {HeroClassName: plural 1?legendary; other?legendaries;} {HeroClassName} to their cause.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_EXPIRED_TITLE">
+			<Text>Hero Departed</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_EXPIRED_DESCRIPTION">
+			<Text>A hero has completed their service to our civilization.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_EXPIRED_INSTANCE_DESCRIPTION">
+			<Text>The time of {HeroClassName}, {HeroClassName: plural 1?hero; other?heroes;} of the people of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} has come to an end.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_RECALLED_TITLE">
+			<Text>Hero Recalled</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_RECALLED_DESCRIPTION">
+			<Text>A hero has returned to serve our civilization!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOMENT_HERO_RECALLED_INSTANCE_DESCRIPTION">
+			<Text>The hero {HeroClassName} {HeroClassName: plural 1?has; other?have;} heeded the call of the people of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} and returned to serve them once again.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

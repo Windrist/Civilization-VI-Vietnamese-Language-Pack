@@ -1,0 +1,14 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+    <Replace Language="en_US" Tag="LOC_TUTORIAL_FIRST_TIME_DRAMATIC_AGES">
+      <Text>With Dramatic Ages enabled, the stakes of each Age are much higher! Aside from the initial Age, each Age will be either Golden or Dark, depending on your civilization’s Era Score. You gain Era Score by completing Techs and Civics from the present Era or later. If you earn a Golden Age, any excess Era Score will turn into extra Loyalty pressure, which can be a significant factor if your neighbor has fallen into a Dark Age. In addition, you will have access to powerful Policy cards that you can use in the Wildcard slot of your government but watch out – entering a Dark Age means that some of your cities will rebel!</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_TUTORIAL_DRAMATIC_AGES_FIRST_GOLDEN_AGE">
+      <Text>You have entered a Golden Age! You now have access to Golden Policies that you can use in the Wildcard slot in your government. Also, any excess Era Score from the last Age has been converted to increased Loyalty pressure – now is the time to use it!</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_TUTORIAL_DRAMATIC_AGES_FIRST_DARK_AGE">
+      <Text>Your civilization has entered a Dark Age. Some of your cities have rebelled and joined the Free Cities – these will be hostile! As a consolation, you now have access to Dark Policies that you can use to try to turn things around.</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

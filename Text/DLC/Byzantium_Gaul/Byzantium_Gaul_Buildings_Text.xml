@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_BUILDING_STATUE_OF_ZEUS_NAME">
+			<Text>Statue of Zeus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_STATUE_OF_ZEUS_DESCRIPTION">
+			<Text>Grants 3 Archers, 3 Spearmen, and a Battering Ram. +50% [ICON_PRODUCTION] Production towards anti-cavalry units. Must be built on flat land adjacent to an Encampment district with a Barracks.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_BIOSPHERE_NAME">
+			<Text>Biosphère</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_BIOSPHERE_DESCRIPTION">
+			<Text>When completed receive 100 [ICON_SCIENCE] Science for every Marsh, Rainforest, and Woods in this city. +1 Appeal to tiles adjacent to Rainforest and Marsh in your empire. Must be built along a River adjacent to a Neighborhood district.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_BIOSPHERE_EXPANSION2_DESCRIPTION">
+			<Text>+200% [ICON_POWER] Power for all Offshore Windfarms, Solar Farms, Wind Farms, Geothermal Plants, and Hydroelectric Dams. This building and these improvements provide [ICON_TOURISM] Tourism equal to their [ICON_POWER] Power. +1 Appeal to tiles adjacent to Rainforest and Marsh in your empire. Must be built along a River adjacent to a Neighborhood district.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOURISM_LENS_GREEN_ENERGY_TOOLTIP">
+			<Text>Visitors are amazed by your green sources of Power.[NEWLINE]Generating +{1_CurrentTourists} [ICON_Tourism] Tourism[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_STATUE_OF_ZEUS_QUOTE">
+			<Text>“Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory”[NEWLINE]- Samuel Augustus Mitchell</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_BIOSHPERE_QUOTE">
+			<Text>"Heaven is under our feet as well as over our heads"[NEWLINE]- Henry David Thoreau</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

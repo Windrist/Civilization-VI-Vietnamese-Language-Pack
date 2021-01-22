@@ -1,0 +1,9 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--UI-->
+		<Replace Language="en_US" Tag="LOC_DIPLO_GRIEVANCE_LOG_HERO_ACTION_TERRITORY">
+			<Text>Used the {1_HeroName: plural 1?Hero; other?Heroes;} {1_HeroName} Against Territory</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

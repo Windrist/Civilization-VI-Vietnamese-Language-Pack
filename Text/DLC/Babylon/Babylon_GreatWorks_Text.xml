@@ -1,0 +1,111 @@
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_BEHZAD_1_NAME">
+			<Text>Battleground of Tumir and Egyptian King</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_BEHZAD_2_NAME">
+			<Text>Yusef and Zuleykha</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_BEHZAD_3_NAME">
+			<Text>Timur Granting Audience On The Occasion Of His Accession</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_TOHAKU_1_NAME">
+			<Text>Pine Trees</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_TOHAKU_2_NAME">
+			<Text>Maple Tree</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_TOHAKU_3_NAME">
+			<Text>Birds and Flowers</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_KADINSKY_1_NAME">
+			<Text>Composition 8</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_KADINSKY_2_NAME">
+			<Text>Blue Rider</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_KADINSKY_3_NAME">
+			<Text>Red Square</Text>
+		</Replace>
+    
+		<!-- Music -->
+		<Replace Language="en_US" Tag="LOC_GREATWORK_CANTEMIR_1_NAME">
+			<Text>Peşrev Adjem Yegiahi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_CANTEMIR_2_NAME">
+			<Text>Prince Of Moldavia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_CANTEMIR_3_NAME">
+			<Text>Uzzusule Beresvan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_JOPLIN_1_NAME">
+			<Text>The Entertainer</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_JOPLIN_2_NAME">
+			<Text>Maple Leaf Rag</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_JOPLIN_3_NAME">
+			<Text>The Easy Winners</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_BARTOK_1_NAME">
+			<Text>String Quartet No. 2</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_BARTOK_2_NAME">
+			<Text>Dance Suite</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREATWORK_BARTOK_3_NAME">
+			<Text>String Quartet No. 1</Text>
+		</Replace>
+		    
+    <!-- Writing -->
+    <Replace Language="en_US" Tag="LOC_GREATWORK_BEATRIX_POTTER_1_NAME">
+      <Text>The Tale of Peter Rabbit</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_BEATRIX_POTTER_2_NAME">
+      <Text>The Tailor of Gloucester</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_VALMIKI_1_NAME">
+      <Text>The Ramayana</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_VALMIKI_2_NAME">
+      <Text>Yoga Vasistha</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_RUMI_1_NAME">
+      <Text>Divani Shamsi Tabriz</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_RUMI_2_NAME">
+      <Text>Masnavi</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_GABRIELA_MISTRAL_1_NAME">
+      <Text>Lecturas para mujeres (Books for Women)</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_GABRIELA_MISTRAL_2_NAME">
+      <Text>Sonetos de la Muerte (Sonnets of Death)</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_BEATRIX_POTTER_1_QUOTE">
+      <Text>"Now, my dears," said old Mrs. Rabbit one morning, "you may go into the fields or down the lane, but don't go into Mr. McGregor's garden: your Father had an accident there; he was put in a pie by Mrs. McGregor."</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_BEATRIX_POTTER_2_QUOTE">
+      <Text>No more twist!</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_VALMIKI_1_QUOTE">
+      <Text>Upon his string the hero laid[NEWLINE]An arrow, like a snake that hissed.[NEWLINE]‘Twas feathered with the rushing wind;</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_VALMIKI_2_QUOTE">
+      <Text>It is astonishing that every soul should forget its own nature, and think itself as a living soul residing in the body… as if confined in a pot</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_RUMI_1_QUOTE">
+      <Text>Plant, like brave men, thy banner in the midst of the desert</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_RUMI_2_QUOTE">
+      <Text>Till bread is broken, how can it serve as food?[NEWLINE]Till the grapes are crushed, how can they yield wine?</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_GABRIELA_MISTRAL_1_QUOTE">
+      <Text>The true master will always be somewhat of an artist; we cannot accept any kind of "work boss" or "farm foreman" into which some would wish to see the spiritual leader converted.</Text>
+    </Replace>
+    <Replace Language="en_US" Tag="LOC_GREATWORK_GABRIELA_MISTRAL_2_QUOTE">
+      <Text>I will walk away singing my beautiful revenge, because in those secluded depths no hand will reach down to steal your handful of bones from me!</Text>
+    </Replace>
+	</LocalizedText>
+</GameData>
+

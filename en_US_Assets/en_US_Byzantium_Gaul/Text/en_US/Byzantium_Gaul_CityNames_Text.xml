@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Byzantium Cities-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CONSTANTINOPLE">
+			<Text>Constantinople</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_THESSALONICA">
+			<Text>Thessalonica</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ADRIANOPLE">
+			<Text>Adrianople</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NICAEA">
+			<Text>Nicaea</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ANTIOCH_BYZANTIUM">
+			<Text>Antioch</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NICOMEDIA">
+			<Text>Nicomedia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TREBIZOND">
+			<Text>Trebizond</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ANCYRA">
+			<Text>Ancyra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_EDESSA">
+			<Text>Edessa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SINOPE">
+			<Text>Sinope</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AMASEIA">
+			<Text>Amaseia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHERSON">
+			<Text>Cherson</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DYRRACHIUM">
+			<Text>Dyrrachium</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NICOPOLIS">
+			<Text>Nicopolis</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SELEUCIA">
+			<Text>Seleucia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ICONIUM">
+			<Text>Iconium</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MELITENE">
+			<Text>Melitene</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BARI">
+			<Text>Bari</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DORYLAEUM">
+			<Text>Dorylaeum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AMORIUM">
+			<Text>Amorium</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KOLONEIA">
+			<Text>Koloneia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TYANA">
+			<Text>Tyana</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ATTALEA">
+			<Text>Attalea</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SEBASTEIA">
+			<Text>Sebasteia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_THEODOSIOPOLIS">
+			<Text>Theodosiopolis</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MESEMBRIA">
+			<Text>Mesembria</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ARCADIOPOLIS">
+			<Text>Arcadiopolis</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MOUNT_ATHOS">
+			<Text>Mount Athos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DORYSTOLON">
+			<Text>Dorystolon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ZARA">
+			<Text>Zara</Text>
+		</Replace>
+		<!-- Gaul Cities-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ADUATUCA">
+			<Text>Aduatuca</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BIBRAX">
+			<Text>Bibrax</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NOVIODUNUM">
+			<Text>Noviodunum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAMAROBRIVA">
+			<Text>Samarobriva</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DUROCORTERON">
+			<Text>Durocorteron</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RATUMACOS">
+			<Text>Ratumacos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TERVANNA">
+			<Text>Tervanna</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BAGACUM">
+			<Text>Bagacum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DIVODURUM">
+			<Text>Divodurum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALESIA">
+			<Text>Alesia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AVARICUM">
+			<Text>Avaricum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LISIEUX">
+			<Text>Lisieux</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LUTETIA">
+			<Text>Lutetia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LUGUDUNON">
+			<Text>Lugudunon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CENABUM">
+			<Text>Cenabum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MELEDUNUM">
+			<Text>Meledunum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TURONES">
+			<Text>Turones</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AUTRICUM">
+			<Text>Autricum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BIBRACTE">
+			<Text>Bibracte</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DARIORITUM">
+			<Text>Darioritum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_UXELLODUNUM">
+			<Text>Uxellodunum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GERGOVIA">
+			<Text>Gergovia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_VESONTIO">
+			<Text>Vesontio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRENODURUM">
+			<Text>Brenodurum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CROCIATONUM">
+			<Text>Crociatonum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AGEDINCUM">
+			<Text>Agedincum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LIMONUM">
+			<Text>Limonum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ANDEMATUNNUM">
+			<Text>Andematunnum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CONDATE">
+			<Text>Condate</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AREGENUA">
+			<Text>Aregenua</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ANICIUM">
+			<Text>Anicium</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RUSCINO">
+			<Text>Ruscino</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_BLANK_STRING" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BLANK_STRING]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION]Colonial powers control the ports in the region. Pirates can sneak into ports for a tavern visit or sack the port for great loot. Colonial powers do not take kindly to piracy.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME]Colonial Power</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE]Dread Pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION]Dread Pirate</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME]Dread Pirate</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION]Emerging from the English Civil War, England in the late 17th century was beginning its own colonial expansion in the Caribbean as well as North America. In a century, Brittania would rule the waves, but now its fate stands on a sword's edge.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE]English</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION]England</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME]England</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION]France, with its absolute monarchs and rich holdings in Quebec and Africa, was set to be England's rival as the 17th century waned. Constant wars with its Dutch neighbors meant that the French military was battle-tested and competent.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE]French</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION]France</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME]France</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE]Hoarders</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION]Hoarder</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME]Hoarder</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION]The 17th Century was the Golden Age for the Dutch Empire, as profits from trade in the East Indies and Japan combined with wealth at home. In the Caribbean, though, they were a marginal power... but poised to seize any opportunity.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE]Dutch</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION]Netherlands</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME]Netherlands</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE]Pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION]The Admiral of the Black. The Scourge of the Seven Seas. The reason why children in port cities fall silent and eat their vegetables. The Pirate King.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME]Pirate King</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE]Privateers</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION]Privateer</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME]Privateer</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION]The Spanish Empire in the 17th century was at its height, drawing gold from the remains of the Aztec and Inca empires and sending galleons east to the Philippines. Hapsburg Spain was rich, but plagued with corruption and inequality.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE]Spanish</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION]Spain</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME]Spain</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE]Swashbucklers</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION]Swashbuckler</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME]Swashbuckler</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION]Every naval ship has the Walk the Plank unit action. Walk the Plank can be used on any badly damaged enemy ship to sink the ship in exchange for +3 [ICON_Movement] Movement and +5 [Icon_Strength] Combat Strength for 5 turns. The Walk The Plank ability takes 5 turns to recharge.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME]Walk the Plank</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION]+10 [ICON_Gold] Gold every time a unit engages in combat.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME]Fightin' is What We Do Best</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION]As a free action, all naval units can use the Chain Shot ability to lock a unit into place for one turn. Chain Shot takes 5 turns to recharge.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOARDER_ACTIVE_ABILITY_NAME]Chain Shot</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION]Unit maintenance cost is reduced by 3. +10 Treasure Points for burying treasure. The Hoarder gets 3% interest on their gold reserves per turn.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOARDER_PASSIVE_ABILITY_NAME]Mine! Mine! Mine!</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOF_GRAPH_BUCCANEERS_FORTS]Buccaneer Forts Pillaged</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOF_GRAPH_BUCCANEERS_KILLED]Buccaneers Killed</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOF_GRAPH_PLAYER_RELICS]Relics Found</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOF_STAT_BUCCANEERS_FORTS]Buccaneer Forts Pillaged</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOF_STAT_BUCCANEERS_KILLED]Buccaneers Killed</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME]Dread Pirate</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME]England</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME]France</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME]Hoarder</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME]Netherlands</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME]Pirate King</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME]Privateer</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME]Spain</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME]Swashbuckler</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO]Some corsairs sail under a king's flag. Some sail for to hear the clink o' pieces of eight in a coffer. Some just like to hear a cannonball rolling across the waves. Ye have done with these trifles. The oldest and most powerful currency is fear, and that be your trade.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LOADING_INFO_HOARDER_SCENARIO]Yer father's trade were banking, and ye are a banker of sorts. Yer hold be the vault into which bullion goes, and t'others be ripe for a withdrawl. The Devil and Jack Ketch both might be persuaded to give ye a few years yet, paid the right price.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LOADING_INFO_PRIVATEER_SCENARIO]The Royal Navy has goals on the seas - cities that need plundering, ships that need capturing. But the Royal Navy has rules, and laws, and treaties, and their officers wear wigs. So they give you a letter of marque, so you can do the things they cannot. Go, and put the enemies of the Crown to the torch!</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO]The voyage may end in the gibbet, or at the execution dock, but for now, ye be free. Ye sail to drive the horizon back, and find and claim whatever lies there, whether it be treasure or peril. Aye, the wind be freshening and yer sails run taut!</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_MAP_PIRATE_ISLANDS]Pirate Islands</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_MAP_PIRATE_ISLANDS_DESCRIPTION]A chain of cursed isles full o' treasure and treachery, with a dense and rich main to the west. I smell gold on the waves. And blood.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_MAP_PIRATES_CARIBBEAN]Caribbean Islands</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION]The Spanish Main and the West Indies in the height of the 17th century. Treasure fleets spirit Mexican gold to Spain, keeping a yard-arm ahead o' the black sails.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_RULESET_TEASER]Pirates is about plunder, fame, and adventure on the high seas.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_RULESET_TITLE]Pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_VICTORY_DESC]Be the Pirate with the most Infamy at the end of the game.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_VICTORY_TITLE]King of the Pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION]Every naval ship has the Bring Her Home unit action. Bring Her Home can be used on badly damaged enemy ships to capture the ship for the Privateer's patron. Using Bring Her Home grants +5 Infamous Pirate Points and +100 [ICON_Gold] Gold in addition to the usual naval victory rewards. The Bring Her Home ability takes 5 turns to recharge.</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PRIVATEER_ACTIVE_ABILITY_NAME]Bring Her Home</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION]The Privateer has a randomly assigned colonial power as a patron. The Privateer knows the location of all their patron's ports. Pillaging trade routes grants an additional 100 [ICON_Gold] Gold.</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PRIVATEER_PASSIVE_ABILITY_NAME]Letter of Marque</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION]All naval units can Tack into the Wind to double their [ICON_Movement] Movement for a turn. The Tack into the Wind ability takes 6 turns to recharge.</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME]Tack into the Wind</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION]The Swashbuckler gains +1 Infamous Pirate Points for every 50 hexes revealed on the map.</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME]Sailing the Open Seas</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

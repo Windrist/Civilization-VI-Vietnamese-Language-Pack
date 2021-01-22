@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Ambiorix-->
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>Well done! We stand as kin!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>I cannot put Gallic lives in your hands.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Join hands with me, and together our people will crush our rivals!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Welcome to my camp! I promise that there is no one hiding in the closet with a sword. At this time.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>I understand. You must be careful.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>Peace is stifling. Only in war can we see who is the greater chief. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>I have bested many enemies in war before, and finally I shall match my strength against yours!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>I personally led your delegation on a hunt! They were adequate.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>No, I will not open my gates for your men, regardless of how many gifts they bring.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Our envoys carry with them salted hams, wild game, and barrels and barrels of wine! Come, let us feast!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>All the Gauls spit at the sound of your name, at your dark deeds, at your many crimes. I shall tell all the world that you are our mortal enemy!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>You think deceit and cowardice are virtues, but I, Ambiorix, see you for what you are. In time, so shall the rest of the world! (Denounces You)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_AMBIORIX_ANY">
+			<Text>All you see is the land of the Gauls, and I am Ambiorix, their chief.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AMBIORIX_ANY">
+			<Text>Will you come to my city? We have opened a cask of wine that is, I promise, entirely safe to drink and not at all poisoned.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AMBIORIX_ANY">
+			<Text>Yes.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AMBIORIX_ANY">
+			<Text>Come, I will tell you about the cities of Gaul, if you tell me about those of your lands.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_AMBIORIX_ANY">
+			<Text>Well met.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMBIORIX_ANY">
+			<Text>So many troops! Ha ha! Look at them all!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMBIORIX_ANY">
+			<Text>Your lands are quiet and peaceful. And weak.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Let us sign a binding agreement where no one can betray each other. I'm serious this time.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_AMBIORIX_ANY">
+			<Text>Yes, let us lay down our arms. You have nothing to fear from Gaul. Promise!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_AMBIORIX_ANY">
+			<Text>Weakling! We will run your forces off the land!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>I grow bored of the battlefield. Let us rest for now.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>Your people are welcome to walk through Gaul.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>The safety of Gaul is in its walls, and its borders. No.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>My troops wish to pass through. We promise that the Gaesatae will put pants on.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AMBIORIX_ANY">
+			<Text>Your troops lurk nearby with weapons in hand. Send them away before I send them away. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_AMBIORIX_ANY">
+			<Text>The Gauls roam where they please.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_AMBIORIX_ANY">
+			<Text>Gaul means you no harm… today. We will retreat.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Such power! Perhaps I underestimated you before. Now, in defeat, I will give you the respect you are due.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>I won't fall for your petty tricks.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>For now, we accept.</Text>
+		</Replace>
+		<!-- Basil-->
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>Our people stand as one! Well, mine stand just a bit higher, but you see what I mean.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>You are not yet worthy enough to call yourself a friend to the Empire.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Come! Be a friend with the glory of Rome! Be a friend to God!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY">
+			<Text>You have chosen the side of Rome, and God, and me.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Friends? With you? No.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>I shall tell my historians to record your empire for the future, after I have ground your cities into the dust.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BASIL_ANY">
+			<Text>You deserve nothing less than war, but in my abundant mercy, I will make it brief and decisive. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>Your delegation was shown the wonders of the Empire. I hope they can resign themselves to returning to your lands.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>We already have some of those. Thanks but no thanks.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BASIL_ANY">
+			<Text>We send to you all the delights of Anatolia: fermented murri, olive oil, wine, kefalotyri. I hope you have the good taste to appreciate them.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>Antichrist! Barbarian! Heretic! The foulness of your works is the source of all suffering in the world!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Perversion and wickedness seep from your lands and stain the world! Soon the day will come where I shall cleanse your rot. (Denounces You)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_BASIL_ANY">
+			<Text>You stand before Basil, Autocrat and Emperor of the Romans, scourge of my foes. Behold Rome!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_BASIL_ANY">
+			<Text>We have arranged a contest at the hippodrome between the Greens and the Blues. Care to come and make a wager?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BASIL_ANY">
+			<Text>Yes.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BASIL_ANY">
+			<Text>Let me show you the glory of the new Rome, and you can tell me of wherever it is that you come from.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_BASIL_ANY">
+			<Text>You may approach me.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_BASIL_ANY">
+			<Text>Your decisive actions, your great victories, all are a gift of God. Make sure you thank Him.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_BASIL_ANY">
+			<Text>You lack dignity, honor, piety, and all that makes a ruler righteous. Perhaps you should copy me.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Together, let us prosper with God's grace.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_BASIL_ANY">
+			<Text>God's blessing upon us. Let us have peace. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_BASIL_ANY">
+			<Text>God still cannot stand your wickedness! No!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_BASIL_ANY">
+			<Text>The Empire is ready for peace. Are you?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>I wish your soldiers God's grace on their passage through our lands. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>We will not allow barbarians to set foot in the Empire. This means you, too. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Will you allow Imperial legions to march through your lands?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_BASIL_ANY">
+			<Text>Armed men flying your banners mass on my borders. They must leave.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_BASIL_ANY">
+			<Text>I order the legions, not you. </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_BASIL_ANY">
+			<Text>The legions will go elsewhere, in the name of peace.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Has God withdrawn his favor from me, that Rome must fall? Oh, what a calamity!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Your offer is unworthy of Rome.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_BASIL_ANY">
+			<Text>This is a good deal for the Empire, and for you.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

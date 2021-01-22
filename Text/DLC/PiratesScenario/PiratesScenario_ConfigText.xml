@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<LocalizedText>
+		<!-- Ruleset -->
+		<Replace Language="en_US" Tag="LOC_PIRATES_RULESET_TITLE">
+			<Text>Pirates</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PIRATES_RULESET_TEASER">
+			<Text>Pirates is about plunder, fame, and adventure on the high seas.</Text>
+		</Replace>
+		<!-- Victories  -->
+		<Replace Language="en_US" Tag="LOC_PIRATES_VICTORY_TITLE">
+			<Text>King of the Pirates</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PIRATES_VICTORY_DESC">
+			<Text>Be the Pirate with the most Infamy at the end of the game.</Text>
+		</Replace>
+		<!-- Pirate King Civilization text -->
+		<Replace Language="en_US" Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME">
+			<Text>Pirate King</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME">
+			<Text>Pirate King</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION">
+			<Text>The Admiral of the Black. The Scourge of the Seven Seas. The reason why children in port cities fall silent and eat their vegetables. The Pirate King.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE">
+			<Text>Pirates</Text>
+		</Replace>
+		<!-- Maps -->
+		<Replace Language="en_US" Tag="LOC_MAP_PIRATE_ISLANDS">
+			<Text>Pirate Islands</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION">
+			<Text>A chain of cursed isles full o' treasure and treachery, with a dense and rich main to the west. I smell gold on the waves. And blood.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_PIRATES_CARIBBEAN">
+			<Text>Caribbean Islands</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION">
+			<Text>The Spanish Main and the West Indies in the height of the 17th century. Treasure fleets spirit Mexican gold to Spain, keeping a yard-arm ahead o' the black sails.</Text>
+		</Replace>
+
+		<!-- Dread Pirate Text-->
+		<Replace Language="en_US" Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME">
+			<Text>Dread Pirate</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME">
+			<Text>Dread Pirate</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION">
+			<Text>Dread Pirate</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE">
+			<Text>Dread Pirates</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO">
+			<Text>Some corsairs sail under a king's flag. Some sail for to hear the clink o' pieces of eight in a coffer. Some just like to hear a cannonball rolling across the waves. Ye have done with these trifles. The oldest and most powerful currency is fear, and that be your trade.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME">
+			<Text>Fightin' is What We Do Best</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION">
+			<Text>+10 [ICON_Gold] Gold every time a unit engages in combat.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME">
+			<Text>Walk the Plank</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION">
+			<Text>Every naval ship has the Walk the Plank unit action. Walk the Plank can be used on any badly damaged enemy ship to sink the ship in exchange for +3 [ICON_Movement] Movement and +5 [Icon_Strength] Combat Strength for 5 turns. The Walk The Plank ability takes 5 turns to recharge.</Text>
+		</Replace>
+
+		<!-- Privateer Text-->
+		<Replace Language="en_US" Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME">
+			<Text>Privateer</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME">
+			<Text>Privateer</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION">
+			<Text>Privateer</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE">
+			<Text>Privateers</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO">
+			<Text>The Royal Navy has goals on the seas - cities that need plundering, ships that need capturing. But the Royal Navy has rules, and laws, and treaties, and their officers wear wigs. So they give you a letter of marque, so you can do the things they cannot. Go, and put the enemies of the Crown to the torch!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME">
+			<Text>Letter of Marque</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION">
+			<Text>The Privateer has a randomly assigned colonial power as a patron. The Privateer knows the location of all their patron's ports. Pillaging trade routes grants an additional 100 [ICON_Gold] Gold.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME">
+			<Text>Bring Her Home</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION">
+			<Text>Every naval ship has the Bring Her Home unit action. Bring Her Home can be used on badly damaged enemy ships to capture the ship for the Privateer's patron. Using Bring Her Home grants +5 Infamous Pirate Points and +100 [ICON_Gold] Gold in addition to the usual naval victory rewards. The Bring Her Home ability takes 5 turns to recharge.</Text>
+		</Replace>
+
+		<!-- Swashbuckler Text-->
+		<Replace Language="en_US" Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME">
+			<Text>Swashbuckler</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME">
+			<Text>Swashbuckler</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION">
+			<Text>Swashbuckler</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE">
+			<Text>Swashbucklers</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO">
+			<Text>The voyage may end in the gibbet, or at the execution dock, but for now, ye be free. Ye sail to drive the horizon back, and find and claim whatever lies there, whether it be treasure or peril. Aye, the wind be freshening and yer sails run taut!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME">
+			<Text>Sailing the Open Seas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION">
+			<Text>The Swashbuckler gains +1 Infamous Pirate Points for every 50 hexes revealed on the map.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME">
+			<Text>Tack into the Wind</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION">
+			<Text>All naval units can Tack into the Wind to double their [ICON_Movement] Movement for a turn. The Tack into the Wind ability takes 6 turns to recharge.</Text>
+		</Replace>
+
+		<!-- Hoarder Text-->
+		<Replace Language="en_US" Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME">
+			<Text>Hoarder</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME">
+			<Text>Hoarder</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION">
+			<Text>Hoarder</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE">
+			<Text>Hoarders</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_HOARDER_SCENARIO">
+			<Text>Yer father's trade were banking, and ye are a banker of sorts. Yer hold be the vault into which bullion goes, and t'others be ripe for a withdrawl. The Devil and Jack Ketch both might be persuaded to give ye a few years yet, paid the right price.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME">
+			<Text>Mine! Mine! Mine!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION">
+			<Text>Unit maintenance cost is reduced by 3. +10 Treasure Points for burying treasure. The Hoarder gets 3% interest on their gold reserves per turn.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME">
+			<Text>Chain Shot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION">
+			<Text>As a free action, all naval units can use the Chain Shot ability to lock a unit into place for one turn. Chain Shot takes 5 turns to recharge.</Text>
+		</Replace>
+
+		<!-- Spain Civilization text -->
+		<Replace Language="en_US" Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME">
+			<Text>Spain</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME">
+			<Text>Spain</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION">
+			<Text>Spain</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION">
+			<Text>The Spanish Empire in the 17th century was at its height, drawing gold from the remains of the Aztec and Inca empires and sending galleons east to the Philippines. Hapsburg Spain was rich, but plagued with corruption and inequality.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE">
+			<Text>Spanish</Text>
+		</Replace>
+		<!-- England Civilization text -->
+		<Replace Language="en_US" Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME">
+			<Text>England</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME">
+			<Text>England</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION">
+			<Text>England</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION">
+			<Text>Emerging from the English Civil War, England in the late 17th century was beginning its own colonial expansion in the Caribbean as well as North America. In a century, Brittania would rule the waves, but now its fate stands on a sword's edge.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE">
+			<Text>English</Text>
+		</Replace>
+		<!-- Netherlands Civilization text -->
+		<Replace Language="en_US" Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME">
+			<Text>Netherlands</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME">
+			<Text>Netherlands</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION">
+			<Text>Netherlands</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION">
+			<Text>The 17th Century was the Golden Age for the Dutch Empire, as profits from trade in the East Indies and Japan combined with wealth at home. In the Caribbean, though, they were a marginal power... but poised to seize any opportunity.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE">
+			<Text>Dutch</Text>
+		</Replace>
+		<!-- France Civilization text -->
+		<Replace Language="en_US" Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME">
+			<Text>France</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME">
+			<Text>France</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION">
+			<Text>France</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION">
+			<Text>France, with its absolute monarchs and rich holdings in Quebec and Africa, was set to be England's rival as the 17th century waned. Constant wars with its Dutch neighbors meant that the French military was battle-tested and competent.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE">
+			<Text>French</Text>
+		</Replace>
+		
+		<!--HoF Text-->
+		<Replace Language="en_US" Tag="LOC_HOF_STAT_BUCCANEERS_KILLED">
+			<Text>Buccaneers Killed</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOF_STAT_BUCCANEERS_FORTS">
+			<Text>Buccaneer Forts Pillaged</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED">
+			<Text>Buccaneers Killed</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS">
+			<Text>Buccaneer Forts Pillaged</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOF_GRAPH_PLAYER_RELICS">
+			<Text>Relics Found</Text>
+		</Replace>
+		
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME">
+			<Text>Colonial Power</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION">
+			<Text>Colonial powers control the ports in the region. Pirates can sneak into ports for a tavern visit or sack the port for great loot. Colonial powers do not take kindly to piracy.</Text>
+		</Replace>
+
+		<Replace Language="en_US" Tag="LOC_BLANK_STRING">
+			<Text></Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

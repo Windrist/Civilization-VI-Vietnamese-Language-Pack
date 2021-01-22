@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_BABYLON_MOD_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BABYLON_MOD_DESCRIPTION]Contains a new civilization and leader, 6 new city-states, 25 new great people, and the Heroes and Legends game mode.</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TEASER" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BABYLON_MOD_TEASER]New Civilization and Leader - Hammurabi of Babylon</Text>
+    </Replace>
+    <Replace Tag="LOC_BABYLON_MOD_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BABYLON_MOD_TITLE]Babylon Pack</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

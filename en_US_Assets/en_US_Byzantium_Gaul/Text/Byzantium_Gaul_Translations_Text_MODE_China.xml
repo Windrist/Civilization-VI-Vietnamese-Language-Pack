@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_ABILITY_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_COMPLEX_COMBAT_STRENGTH_PREVIEW_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_COMPLEX_COMBAT_STRENGTH_PREVIEW_DESCRIPTION]+{1_Amount} [ICON_Strength] Combat Strength from the Soft Targets policy.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_DESCRIPTION]+5 [ICON_Strength] Combat Strength from the Military-Industrial Complex policy.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_NAME]MIlitary-Industrial Complex</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_PREVIEW_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_PREVIEW_DESCRIPTION]+{1_Amount} Combat Strength from the Military-Industrial Complex policy.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_RANGE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_RANGE_DESCRIPTION]+1 Range from the Military-Industrial Complex policy.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_RANGE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_RANGE_NAME]Military-Industrial Complex</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_COMBAT_STRENGTH_PREVIEW_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_COMBAT_STRENGTH_PREVIEW_DESCRIPTION]+{1_Amount} [ICON_Strength] Combat Strength from the Soft Targets policy.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_DESCRIPTION]+10 [ICON_Strength] Combat Strength from the Soft Targets policy vs. district defenses.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_NAME]Soft Targets</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_COMBAT_STRENGTH_PREVIEW_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_COMBAT_STRENGTH_PREVIEW_DESCRIPTION][COLOR_RED]{1_Amount}[ENDCOLOR][ICON_Strength] Combat Strength from the Soft Targets policy.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_DESCRIPTION]-3 [ICON_Strength] Combat Strength from the Soft Targets policy against units.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_NAME]Soft Targets</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_DESCRIPTION]+10 [ICON_Strength] Combat Strength from the Soft Targets policy vs. city attacks.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_NAME]Soft Targets</Text>
+    </Replace>
+    <Replace Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_EFFECT_PARAM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ERA_REVIEW_HAVE_DARK_AGE_EFFECT_PARAM]{LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]You may slot Dark Age Policies, which will provide a powerful gameplay bonus during the Age.</Text>
+    </Replace>
+    <Replace Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT_PARAM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT_PARAM]{LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]You may slot Golden Age Policies, which will provide a powerful gameplay bonus during the Age.</Text>
+    </Replace>
+    <Replace Tag="LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM]You are in a [ICON_GLORY_DARK_AGE] Dark Age during this game era.[NEWLINE][NEWLINE][ICON_BULLET]Each of your [ICON_Citizen] Citizens exerts {Amount} Loyalty pressure in their city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile.[NEWLINE][NEWLINE][ICON_BULLET]Some of your cities may have rebelled, becoming Free Cities with increased Loyalty pressure. Be careful: you may lose other nearby cities if you do not handle them.[NEWLINE][NEWLINE][ICON_BULLET]You will earn 1 Era Score for every Technology or Civic you complete.[NEWLINE][NEWLINE][ICON_BULLET]You will earn 1 Era Score for every military unit that earns a promotion, after its first.</Text>
+    </Replace>
+    <Replace Tag="LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM]You are in a [ICON_GLORY_GOLDEN_AGE] Golden Age during this game era![NEWLINE][NEWLINE][ICON_BULLET]Each of your [ICON_Citizen] Citizens exerts {Amount} Loyalty pressure in their city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile.[NEWLINE][NEWLINE][ICON_BULLET]You will earn 1 Era Score for every Technology or Civic you complete.[NEWLINE][NEWLINE][ICON_BULLET]You will earn 1 Era Score for every military unit that earns a promotion, after its first.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_COMMERATION_REPLACEMENT_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_COMMERATION_REPLACEMENT_MESSAGE]A New Era</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_COMMERATION_REPLACEMENT_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_COMMERATION_REPLACEMENT_SUMMARY]Since the game has entered a new era, your Loyalty pressure has changed, and you may slot Dark or Golden Age Policies.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_CONTENT_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_CONTENT_TITLE]Dramatic Ages</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_PARA_1][ICON_GLORY_DARK_AGE] Dark Ages grant access to Dark Policies, which can be placed in Wildcard slots of your Government. These are powerful, but have a drawback effect. Some policies are the same as in a normal game, while others are reworked or brand new.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_PARA_2]Falling into a Dark Age will also cause at least 1 city to instantly revolt. These cities transform into Free Cities. Cities with the lowest Loyalty pressure from nearby friendly cities are the most at risk, which are usually on the outskirts of your empire. Your [ICON_Capital] Capital, though, is always safe.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_TITLE]Dark Ages</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_PARA_1]Players can only earn a [ICON_GLORY_DARK_AGE] Dark Age or a [ICON_GLORY_GOLDEN_AGE] Golden Age. The threshold for earning a Golden Age increases by 3 for every city the player owns after the [ICON_Capital] Capital. Furthermore, earning a Golden Age will increase the threshold by 5, while earning a Dark Age will lower it by 10. These thresholds are calculated and fixed when the game changes era, just like the rules without the Mode, so there is no need to worry about hitting a moving target within an era.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_PARA_2]Players no longer make Dedications when the game era changes. Instead of earning Era Score from Dedication effects, players gain 1 Era Score each time they complete a Technology or a Civic. They also gain 1 Era Score each time one of their military units earns a promotion, after that unit's first promotion. Era Score can still be earned from Historic Moments as well. Instead of gameplay bonuses from Dedications, players get access to special and more flexible Social Policies.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_TITLE]Era Score</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_FREECITIES_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_FREECITIES_PARA_1]The number of Free Cities that emerge from empires in Dark Ages depends on your chosen difficulty level. Moreover, Free Cities can now exert Loyalty pressure on other cities and on each other, so they can be much more resilient.[NEWLINE][ICON_BULLET]Settler: 5% Human cities lost, 30% AI cities lost. 1x pressure from Free Cities.[NEWLINE][ICON_BULLET]Chieftain: 10% Human cities lost, 30% AI cities lost. 2x pressure from Free Cities.[NEWLINE][ICON_BULLET]Warlord: 15% Human cities lost, 25% AI cities lost. 2.5x pressure from Free Cities.[NEWLINE][ICON_BULLET]Prince: 20% Human cities lost, 20% AI cities lost. 3x pressure from Free Cities.[NEWLINE][ICON_BULLET]King: 25% Human cities lost, 15% AI cities lost. 3.5x pressure from Free Cities.[NEWLINE][ICON_BULLET]Emperor: 30% Human cities lost, 15% AI cities lost. 4x pressure from Free Cities.[NEWLINE][ICON_BULLET]Immortal: 35% Human cities lost, 10% AI cities lost. 4.5x pressure from Free Cities.[NEWLINE][ICON_BULLET]Deity: 40% Human cities lost, 10% AI cities lost. 5x pressure from Free Cities.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_FREECITIES_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_FREECITIES_TITLE]Free Cities</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_PARA_1]If you earned more Era Score than necessary to reach a [ICON_GLORY_GOLDEN_AGE] Golden Age while in the previous era, the excess will make your citizens apply additional Loyalty pressure during your Golden Age. Each 1 Era Score grants a 5% pressure increase for your citizens. Once this reaches 50%, additional pressure can still be earned, but there are diminishing returns.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_PARA_2" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_PARA_2]Golden Ages grant access to powerful Golden Policies, which can be placed in Wildcard slots of your Government.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_TITLE]Golden Ages</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_WELCOME_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_WELCOME_PARA_1]In game setup, players can turn on the Dramatic Ages game mode. The rules for earning Era Score are adjusted, encouraging players to engage in conflict and keep current with Technologies and Civics. [ICON_GLORY_SUPER_GOLDEN_AGE] Heroic Ages and Dedications are removed, and players can only be in a [ICON_GLORY_NORMAL_AGE] Normal Age in the first era. After that, they will either earn a [ICON_GLORY_DARK_AGE] Dark Age or a [ICON_GLORY_GOLDEN_AGE] Golden Age, both of which are more potent than ever. Dark Ages can even cause cities to fall into Free Cities.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_WELCOME_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_WELCOME_TITLE]Welcome</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME]Modes</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_CULTURE_INDUSTRY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_CULTURE_INDUSTRY_CHAPTER_HISTORY_PARA_1]Theodore Adorno’s critique of mass entertainment was that it reduced art not to a sublime quest for expression, but on its mass appeal. The culture industry, while Adorno might argue for its vapidity, sought to bring all citizens into participation in cultural life than before. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DECENTRALIZATION_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DECENTRALIZATION_CHAPTER_HISTORY_PARA_1]In the face of societal collapse (e.g. a Dark Age), some civilizations turned towards harsh rule from the center, while others allowed the periphery to become more and more autonomous – consider how the population of Constantinople emptied for smaller towns and farms as the Byzantine Empire declined. In this way, the center heavily subsidizes the periphery as a last-ditch effort to keep citizens’ hearts and minds, at least until things improve. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DESPOTIC_PATERNALISM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DESPOTIC_PATERNALISM_CHAPTER_HISTORY_PARA_1]Thak Chaloemtirana describes Cold War-era Southeast Asia as the home of a particular kind of “despotic paternalism,” where power is invested in locally important strongmen, while independent thought and action is curtailed. One thinks of individuals like Suharto in Indonesia, or Sarit in Thailand. Such a system stifles free inquiry but the harsh action of such despotic paternalists brought dissenting voices under control. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_EXODUS_OF_THE_EVANGELISTS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_EXODUS_OF_THE_EVANGELISTS_CHAPTER_HISTORY_PARA_1]The major proselytizing religions each had a point where disciples traveled far in the world to spread the faith: the Christian Apostles moved through and beyond the Roman Empire, the Buddha’s arhants spread their religion across India and beyond, and Islam rode a wave of military, diplomatic and economic successes from South Asia to Spain. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FREE_ENQUIRY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FREE_ENQUIRY_CHAPTER_HISTORY_PARA_1]Knowledge is power, the philosopher Michel Foucault noted, and as such it is dangerous. Societies devoted to free inquiry gamble that they are strong enough to survive the answers that open questioning gives.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_HEARTBEAT_OF_STEAM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_HEARTBEAT_OF_STEAM_CHAPTER_HISTORY_PARA_1]The industrial revolution forever altered relationships between labor, technology and industry. Clocks marked off workhours, steam mills did the labor of hundreds of animals and people, and workers increasingly performed simple, repetitive, almost machine-like tasks. More so than ever before, technology existed as an end in and for itself. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MANDALA_STATE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MANDALA_STATE_CHAPTER_HISTORY_PARA_1]In medieval South and Southeast Asia, statecraft often had to do with managing the cultural prestige of a center. Here, battles are fought in the realm of spectacle rather than violence, and the king or queen who could organize the most dramatic and expensive display was the one who could draw border cities to his or her side. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_INDUSTRIAL_COMPLEX_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_INDUSTRIAL_COMPLEX_CHAPTER_HISTORY_PARA_1]US President Dwight Eisenhower used the term “Military-Industrial Complex” to refer to the close ties between private industry and the military. The concept was not unique to the USA, and here it refers to these close links between heavy industries and the arms race.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MONUMENTALITY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MONUMENTALITY_CHAPTER_HISTORY_PARA_1]Imperial capitals – cities such as St. Petersburg, Istanbul, Beijing, and Washington DC, are made to remind the visitor that, compared with the scale of national history, the individual is small and temporary. Here, monumentality refers to more than just the buildings themselves, but a state of mind where the scale of construction shows the breadth of empire. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_POPULAR_FRONT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_POPULAR_FRONT_CHAPTER_HISTORY_PARA_1]During the Cold War, each side sought to bring its allies closer ideologically. States like East Germany and Vietnam were pressured to commit further to their alliances with the USSR (as, on the opposite side, Indonesia and Pakistan did with the USA), forming political blocs that often voted as one.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PRAETORIAN_GUARD_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PRAETORIAN_GUARD_CHAPTER_HISTORY_PARA_1]In the later Western Roman Empire, the Praetorian Guard, formerly a personal bodyguard for the Emperor, grew to a politically active force, involving the military in the organization of political and social life. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_REFORM_THE_COINAGE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_REFORM_THE_COINAGE_CHAPTER_HISTORY_PARA_1]Coins are symbols – worth more than the metal inside. Or are they? Efforts to re-value coins could make or break an empire – especially when one considers that soldiers were often paid in coin and might get grumpy if they were given gold-painted lead instead of the real thing.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SAKDINA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SAKDINA_CHAPTER_HISTORY_PARA_1]Sakdina – the feudal system in Thai medieval life – placed each individual in a hierarchical system of mutual obligation. Those lower down could call upon favors from those higher up, who were obliged to grant them (within reason), meaning that all levels of society were bound and committed to each other. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SAMODERZHAVIYE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SAMODERZHAVIYE_CHAPTER_HISTORY_PARA_1]Samoderzhaviye – autocracy – was one of the key pillars of Tsarist Russian conservative thought. Whereas other powers experimented with having power spread out between advisors or popular rule, under the philosophy of samoderzhaviye, what the tsar said went. And if the tsar was lazy, incompetent, or ill-informed, this was a liability. </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SKY_AND_STARS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SKY_AND_STARS_CHAPTER_HISTORY_PARA_1]Armies always fought to seize the high ground, but with aviation in the 20th century, that horizon expanded to include aerodromes and, ultimately, launch pads for rockets (rockets that could both bring people to the moon as well as drop warheads into enemy capitals). </Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SOFT_TARGETS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SOFT_TARGETS_CHAPTER_HISTORY_PARA_1]A disciplined military – one that does not loot or pillage indiscriminately – is a hallmark of a well-running society. But in a Dark Age, standards might lapse. In a military that favors soft, civilian targets and sees plunder as a part of an individual soldier’s pay, soldiers might favor pursuing easily carried-off loot over militarily strategic goals. Such behavior might lead to increased damage to cities and civilians, but decreased efficacy in war.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SOLDARITY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SOLDARITY_CHAPTER_HISTORY_PARA_1]During the Cold War, states put ideological pressure on their neighbors in a variety of ways. We can think of propaganda broadcasts over the border, leaflet drops, secret ideological cells, and, of course, the flood of hair metal and blue jeans into Eastern Europe. These shows of “soft power” were often organized and facilitated at the highest levels, and had a tremendous impact upon the eventual fall of the Berlin Wall and Soviet Union.</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TO_ARMS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TO_ARMS_CHAPTER_HISTORY_PARA_1]Nationalism, the “imagined community” that became the defining feature of the industrial age, calls upon us to imagine a kinship with people we have never and will never meet, and imagine ourselves a part of their history. Flags and banners, anthems and recruitment posters – they all call the soldier to fight and die for an abstraction. Enough reading – the bugle sounds!</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_WISH_YOU_WERE_HERE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_WISH_YOU_WERE_HERE_CHAPTER_HISTORY_PARA_1]Tourism has always played a part in societies, if we can put religious pilgrims, raiders’ voyages, and merchant delegations in the same category. But the emergence of the organized tourist industry in the 1800s altered what it meant to go abroad for pleasure (and to long for home).</Text>
+    </Replace>
+    <Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOLDENAGE_POLICIES_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOLDENAGE_POLICIES_NAME]Golden Age Policies</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_COLLECTIVISM_DA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_COLLECTIVISM_DA_DESCRIPTION]Farms provide +1 [ICON_Production] Production. All cities +2 [ICON_Housing] Housing. Industrial Zones provide [ICON_FOOD] Food equal to their adjacency bonus.[NEWLINE]BUT: [ICON_GreatPerson] Great People Points earned 50% slower.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_CULTURE_INDUSTRY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_CULTURE_INDUSTRY_DESCRIPTION]Cities receive +1 [ICON_CULTURE] Culture for every specialty district. +25% [ICON_PRODUCTION] Production towards non specialty districts. Entertainment Complex and Water Park district buildings can be bought with [ICON_Faith] Faith.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_CULTURE_INDUSTRY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_CULTURE_INDUSTRY_NAME]Culture Industry</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_DECENTRALIZATION_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_DECENTRALIZATION_DESCRIPTION]Cities with 6 or less [ICON_CITIZEN] population receive +4 Loyalty per turn. BUT: Cities with more than 6 [ICON_CITIZEN] population receive -15% [ICON_Gold] Gold.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_DECENTRALIZATION_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_DECENTRALIZATION_NAME]Decentralization</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_DESPOTIC_PATERNALISM_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_DESPOTIC_PATERNALISM_DESCRIPTION]+4 Loyalty per turn in cities with [ICON_Governor] Governors. BUT: -15% [ICON_Science] Science and -15% [ICON_Culture] Culture in all cities without an established [ICON_Governor] Governor.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_DESPOTIC_PATERNALISM_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_DESPOTIC_PATERNALISM_NAME]Despotic Paternalism</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_ELITE_FORCES_DA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_ELITE_FORCES_DA_DESCRIPTION]+100% combat experience for all units.[NEWLINE]BUT: +1 [ICON_Gold] Gold to maintain each combat and spy unit.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_EXODUS_OF_THE_EVANGELISTS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_EXODUS_OF_THE_EVANGELISTS_DESCRIPTION]+2 [ICON_Movement] Movement for all Religious units. Additionally, newly trained ones get +2 Charges. +4 [ICON_GreatProphet] Great Prophet points per turn.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_EXODUS_OF_THE_EVANGELISTS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_EXODUS_OF_THE_EVANGELISTS_NAME]Exodus of the Evangelists</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_FREE_ENQUIRY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_FREE_ENQUIRY_DESCRIPTION]Commercial Hub and Harbor district's [ICON_GOLD] Gold provides [ICON_Science] Science as well. Campus districts provide [ICON_GOLD] Gold equal to their [ICON_SCIENCE] Science bonus.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_FREE_ENQUIRY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_FREE_ENQUIRY_NAME]Free Inquiry</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_HEARTBEAT_OF_STEAM_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_HEARTBEAT_OF_STEAM_DESCRIPTION]+10% [ICON_Production] Production toward Industrial era and later wonders. Campus district's [ICON_SCIENCE] Science adjacency bonus provides [ICON_PRODUCTION] Production as well.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_HEARTBEAT_OF_STEAM_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_HEARTBEAT_OF_STEAM_NAME]Heartbeat of Steam</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_INQUISITION_DA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_INQUISITION_DA_DESCRIPTION]Start Inquisition with 1 Apostle charge. All Religious units +15 [ICON_Religion] Religious Combat Strength in friendly territory.[NEWLINE]BUT: -15% [ICON_Science] Science in all cities.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_ISOLATIONISM_DA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_ISOLATIONISM_DA_DESCRIPTION]Domestic routes provide +3 [ICON_Food] Food, +3 [ICON_Production] Production, and +3 [ICON_Gold] Gold.[NEWLINE]BUT: Can't train or buy Settlers nor settle new cities.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_MANDALA_STATE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_MANDALA_STATE_DESCRIPTION]+4 [ICON_CULTURE] Culture for every Wonder. Each Wonder in your cities cause foreign cities within 9 tiles to lose 2 Loyalty per turn.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_MANDALA_STATE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_MANDALA_STATE_NAME]Mandala State</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_MILITARY_INDUSTRIAL_COMPLEX_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_MILITARY_INDUSTRIAL_COMPLEX_DESCRIPTION]All improved Aluminum, Oil, and Uranium resources yield 2 additional resource per turn. All combat units receive +5 [ICON_Strength] Combat Strength and if the unit has a range attack +1 Range.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_MILITARY_INDUSTRIAL_COMPLEX_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_MILITARY_INDUSTRIAL_COMPLEX_NAME]Military-Industrial Complex</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_MONASTICISM_DA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_MONASTICISM_DA_DESCRIPTION]+75% [ICON_Science] Science in cities with a Holy Site.[NEWLINE]BUT: -25% [ICON_Culture] Culture in cities without a Holy Site.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_MONUMENTALITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_MONUMENTALITY_DESCRIPTION]+2 [ICON_Movement] Movement for all Builders and Settlers. May purchase civilian units with [ICON_Faith] Faith. Builders are 30% cheaper to purchase with [ICON_FAITH] Faith and [ICON_GOLD] Gold.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_MONUMENTALITY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_MONUMENTALITY_NAME]Monumentality</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_POPULAR_FRONT_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_POPULAR_FRONT_DESCRIPTION]+100% Favor from Suzerainty of City-States and Alliance Level. Your Trade Routes to City-States provide +4 to all yields.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_POPULAR_FRONT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_POPULAR_FRONT_NAME]Popular Front</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_PRAETORIAN_GUARD_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_PRAETORIAN_GUARD_DESCRIPTION]Wounded units can heal +10 HP per turn. +2 [ICON_PRODUCTION] Production to Encampment districts and buildings.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_PRAETORIAN_GUARD_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_PRAETORIAN_GUARD_NAME]Praetorian Guard</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_REFORM_THE_COINAGE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_REFORM_THE_COINAGE_DESCRIPTION]Your Traders cannot be plundered. International [ICON_TradeRoute] Trade Routes provide +3 [ICON_Gold] Gold per specialty district in the foreign city.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_REFORM_THE_COINAGE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_REFORM_THE_COINAGE_NAME]Reform the Coinage</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_ROBBER_BARONS_DA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_ROBBER_BARONS_DA_DESCRIPTION]+50% [ICON_Gold] Gold and +25% [ICON_Production] Production in cities with a Bank or a Shipyard.[NEWLINE]BUT: -2 [ICON_Amenities] Amenities in all cities.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_SAKDINA_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_SAKDINA_DESCRIPTION]While your projects are active each of your Citizens exerts +0.5 Loyalty pressure to their city. When your projects complete receive +10% additional [ICON_GreatPerson] Great People points for every Building in that project’s district.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_SAKDINA_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_SAKDINA_NAME]Sakdina</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_SAMODERZHAVIYE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_SAMODERZHAVIYE_DESCRIPTION]+50% [ICON_PRODUCTION] Production in your [ICON_CAPITAL] Capital. BUT: All [ICON_Governor] Governors are neutralized and cannot be reestablished.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_SAMODERZHAVIYE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_SAMODERZHAVIYE_NAME]Samoderzhaviye</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_SKY_AND_STARS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_SKY_AND_STARS_DESCRIPTION]+30% [ICON_PRODUCTION] Production towards Spaceport and Aerodrome districts. +15% [ICON_SCIENCE] Science and [ICON_PRODUCTION] Production to Cities with either a Spaceport or Aerodrome.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_SKY_AND_STARS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_SKY_AND_STARS_NAME]Sky and Stars</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_SOFT_TARGETS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_SOFT_TARGETS_DESCRIPTION]+10 [ICON_Strength] Combat Strength vs. city attacks and district defenses. BUT: -3 [ICON_Strength] Combat Strength against units.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_SOFT_TARGETS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_SOFT_TARGETS_NAME]Soft Targets</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_SOLIDARITY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_SOLIDARITY_DESCRIPTION]All [ICON_Governor] Governors exert 2 additional foreign Loyalty pressure. All your cities with governors receive +25% [ICON_GOLD] Gold and +25% [ICON_FAITH] Faith.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_SOLIDARITY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_SOLIDARITY_NAME]Solidarity</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_TO_ARMS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_TO_ARMS_DESCRIPTION]+50% XP earned for all units and +15% [ICON_Production] Production towards military units.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_TO_ARMS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_TO_ARMS_NAME]To Arms!</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_WISH_YOU_WERE_HERE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_WISH_YOU_WERE_HERE_DESCRIPTION]+100% [ICON_TOURISM] Tourism to all National Parks and +50% [ICON_TOURISM] Tourism from World Wonders.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_WISH_YOU_WERE_HERE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_WISH_YOU_WERE_HERE_NAME]Wish You Were Here</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION]While in a Golden Age, gains an extra Wildcard Policy Slot, and may use Dark Age Policies.  +50% [ICON_Production] Production towards defensive buildings.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_DRAMATIC_AGES_FIRST_DARK_AGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TUTORIAL_DRAMATIC_AGES_FIRST_DARK_AGE]Your civilization has entered a Dark Age. Some of your cities have rebelled and joined the Free Cities – these will be hostile! As a consolation, you now have access to Dark Policies that you can use to try to turn things around.</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_DRAMATIC_AGES_FIRST_GOLDEN_AGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TUTORIAL_DRAMATIC_AGES_FIRST_GOLDEN_AGE]You have entered a Golden Age! You now have access to Golden Policies that you can use in the Wildcard slot in your government. Also, any excess Era Score from the last Age has been converted to increased Loyalty pressure – now is the time to use it!</Text>
+    </Replace>
+    <Replace Tag="LOC_TUTORIAL_FIRST_TIME_DRAMATIC_AGES" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TUTORIAL_FIRST_TIME_DRAMATIC_AGES]With Dramatic Ages enabled, the stakes of each Age are much higher! Aside from the initial Age, each Age will be either Golden or Dark, depending on your civilization’s Era Score. You gain Era Score by completing Techs and Civics from the present Era or later. If you earn a Golden Age, any excess Era Score will turn into extra Loyalty pressure, which can be a significant factor if your neighbor has fallen into a Dark Age. In addition, you will have access to powerful Policy cards that you can use in the Wildcard slot of your government but watch out – entering a Dark Age means that some of your cities will rebel!</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

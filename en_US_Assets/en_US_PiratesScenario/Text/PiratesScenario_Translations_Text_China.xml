@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_ABILITY_CHAINSHOT_MOVE_LOCKED_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_CHAINSHOT_MOVE_LOCKED_DESCRIPTION]Unable to move due to Chain Shot.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_CHAINSHOT_MOVE_LOCKED_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_CHAINSHOT_MOVE_LOCKED_NAME]Chain Shot Stunned</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DREAD_PIRATE_UNIT_ACTIVE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_DREAD_PIRATE_UNIT_ACTIVE_DESCRIPTION]Crew is inspired by seeing foes Walk the Plank.[NEWLINE]+3 [ICON_Movement] Movement. +5 [ICON_Strength] Combat Strength</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DREAD_PIRATE_UNIT_ACTIVE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_DREAD_PIRATE_UNIT_ACTIVE_NAME]Walk the Plank</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SWASHBUCKLER_UNIT_ACTIVE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SWASHBUCKLER_UNIT_ACTIVE_DESCRIPTION]2x [ICON_Movement] Movement</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_SWASHBUCKLER_UNIT_ACTIVE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_ABILITY_SWASHBUCKLER_UNIT_ACTIVE_NAME]Tack into the Wind</Text>
+    </Replace>
+    <Replace Tag="LOC_BLACKBEARD_FUSE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BLACKBEARD_FUSE_DESCRIPTION]Attacks deal -2 [ICON_Movement] Movement to the target unit on the next turn.</Text>
+    </Replace>
+    <Replace Tag="LOC_BLACKBEARD_FUSE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BLACKBEARD_FUSE_NAME]Blackbeard's Short Fuse</Text>
+    </Replace>
+    <Replace Tag="LOC_BONNY_PISTOLS_NUM_ATTACKS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BONNY_PISTOLS_NUM_ATTACKS_DESCRIPTION]+1 additional attack per turn if [ICON_Movement] Movement allows. Can move after attacking.</Text>
+    </Replace>
+    <Replace Tag="LOC_BONNY_PISTOLS_NUM_ATTACKS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BONNY_PISTOLS_NUM_ATTACKS_NAME]Bonny Brace of Pistols</Text>
+    </Replace>
+    <Replace Tag="LOC_BURY_TREASURE_NOT_HERE_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BURY_TREASURE_NOT_HERE_TOOLTIP][COLOR:Red]Can't bury treasure here.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_BURY_TREASURE_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BURY_TREASURE_TOOLTIP]Bury Treasure[NEWLINE][NEWLINE]Bury 600 Gold to gain 30 [ICON_TreasureScore] Treasure Points.</Text>
+    </Replace>
+    <Replace Tag="LOC_BURY_TREASURE_TREASURE_IN_WAY_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BURY_TREASURE_TREASURE_IN_WAY_TOOLTIP][COLOR:Red]Can't bury treasure on top of another treasure chest.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_BURY_TREASURE_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_BURY_TREASURE_WORLDTEXT]They'll n'ver fin' it here!</Text>
+    </Replace>
+    <Replace Tag="LOC_CAPTURE_BOAT_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CAPTURE_BOAT_TOOLTIP]Capture Boat[NEWLINE][NEWLINE]Consume a Crew to capture a damaged enemy ship and add it to your fleet.</Text>
+    </Replace>
+    <Replace Tag="LOC_CAPTURE_BOAT_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CAPTURE_BOAT_WORLDTEXT]She's ours!</Text>
+    </Replace>
+    <Replace Tag="LOC_CAREENING_DEEP_WATER_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CAREENING_DEEP_WATER_TOOLTIP][COLOR:Red]Careening requires Shallow Water.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CAREENING_ENEMY_TERRITORY_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CAREENING_ENEMY_TERRITORY_TOOLTIP][COLOR:Red]Unable to Careen while in enemy territory.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CAREENING_NO_DAMAGE_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CAREENING_NO_DAMAGE_TOOLTIP][COLOR:Red]Unable to Careen while undamaged.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CAREENING_NO_MOVEMENT_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CAREENING_NO_MOVEMENT_TOOLTIP][COLOR:Red]Careening requires [ICON_Movement] Movement Points.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CAREENING_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CAREENING_TOOLTIP]Careening[NEWLINE][NEWLINE]Deploy emergency repairs in shallow water. Exhaust [ICON_Movement] Movement in exchange for a rapid heal. The heal amount is based on amount of [ICON_Movement] Movement consumed.</Text>
+    </Replace>
+    <Replace Tag="LOC_CAREENING_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CAREENING_WORLDTEXT]Put ye back into it! We can save her!</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ANTIGUA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ANTIGUA]Antigua</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ARUBA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ARUBA]Aruba</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BARBADOS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_BARBADOS]Barbados</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_BONAIRE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_BONAIRE]Bonaire</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CAMPECHE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_CAMPECHE]Campeche</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CARACAS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_CARACAS]Caracas</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CUMANA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_CUMANA]Cumana</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_CURACAO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_CURACAO]Curacao</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ELUTHERA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ELUTHERA]Eleuthera</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_FLORIDA_KEYS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_FLORIDA_KEYS]Florida Keys</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GIBRALTAR" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_GIBRALTAR]Gibraltar</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GRAND_BAHAMA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_GRAND_BAHAMA]Grand Bahama</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_GUADELOUPE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_GUADELOUPE]Guadeloupe</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_LA_HABANA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_LA_HABANA]La Habana</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_LEOGANE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_LEOGANE]Leogane</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_MARACAIBO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_MARACAIBO]Maracaibo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_MARGARITA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_MARGARITA]Margarita</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_MARTINIQUE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_MARTINIQUE]Martinique</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_MONTSERRAT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_MONTSERRAT]Montserrat</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NASSAU" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_NASSAU]Nassau</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NEVIS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_NEVIS]Nevis</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_NOMBRE_DE_DIOS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_NOMBRE_DE_DIOS]Nombre de Dios</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PETIT_GOAVE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_PETIT_GOAVE]Petit Goave</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PORT_DE_PAIX" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_PORT_DE_PAIX]Port-de-Paix</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PORT_ROYAL" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_PORT_ROYAL]Port Royal</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PUERTO_BELLO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_PUERTO_BELLO]Puerto Bello</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_PURTO_CABELLO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_PURTO_CABELLO]Puerto Cabello</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_RIO_DE_LA_HACHA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_RIO_DE_LA_HACHA]Rio de la Hacha</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SABA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_SABA]Saba</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SANTA_CATALINA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_SANTA_CATALINA]Santa Catalina</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SANTA_MARTA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_SANTA_MARTA]Santa Marta</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SANTIAGO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_SANTIAGO]Santiago</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_SANTO_DOMINGO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_SANTO_DOMINGO]Santo Domingo</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ST_AUGUSTINE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ST_AUGUSTINE]St. Augustine</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ST_EUSTATIUS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ST_EUSTATIUS]St. Eustatius</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ST_KITTS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ST_KITTS]St. Kitts</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_ST_MARTIN" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_ST_MARTIN]St. Martin</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TORTUGA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_TORTUGA]Tortuga</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_TRINIDAD" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_TRINIDAD]Trinidad</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_VERA_CRUZ" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_VERA_CRUZ]Vera Cruz</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_NAME_VILLA_HERMOSA" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_NAME_VILLA_HERMOSA]Villa Hermosa</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_RECENTLY_SACKED_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_RECENTLY_SACKED_WORLDTEXT]Yar, there be no gold here.</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_SACKED_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CITY_SACKED_WORLDTEXT]The walls crumble! The gold is ours!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_BLACK_SPOT_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_BLACK_SPOT_DESCRIPTION]With this iron, you can mark your enemies with a curse that will follow them across the seas. It can never be washed off, so long as the curse lasts.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_BLACK_SPOT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_BLACK_SPOT_NAME]Black Spot Branding Iron</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_BLACKBEARD_FUSE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_BLACKBEARD_FUSE_DESCRIPTION]The dread pirate would put these in his beard and light them on fire to frighten his enemies. They were perhaps not necessary.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_BLACKBEARD_FUSE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_BLACKBEARD_FUSE_NAME]Blackbeard's Short Fuse</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_BONNY_PISTOLS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_BONNY_PISTOLS_DESCRIPTION]Anne Bonny, born Anne Fulford, was the paramour of the pirate Calico Jack, but when she teamed up with Mary Read, they ditched Jack and set sail together. Here are her pistols.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_BONNY_PISTOLS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_BONNY_PISTOLS_NAME]Bonny Brace of Pistols</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_CAPTAIN_KIDD_JOURNAL_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_CAPTAIN_KIDD_JOURNAL_DESCRIPTION]The legendary captain's journal! And, perhaps, locations to his buried caches.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_CAPTAIN_KIDD_JOURNAL_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_CAPTAIN_KIDD_JOURNAL_NAME]Captain William Kidd's Journal</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_CRATES_OF_RUM_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_CRATES_OF_RUM_DESCRIPTION]A hogshead of Nelson's folly! We can sell this for plenty o' pennies at the ports we visit.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_CRATES_OF_RUM_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_CRATES_OF_RUM_NAME]Crates of Rum</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_CURSED_PIECES_OF_EIGHT_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_CURSED_PIECES_OF_EIGHT_DESCRIPTION]They say one Captain Cleveland took these from a Spanish galleon's hold, but lost them in a duel. The victor was rich for a time, but was poisoned by a spurned lover, who ran a tavern in Tortuga until she got the pox, and so on. These gold pieces have been lucky, and unlucky, and now they are yours.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_CURSED_PIECES_OF_EIGHT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_CURSED_PIECES_OF_EIGHT_NAME]Cursed Lucky Pieces of Eight</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_DOWSING_ROD_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_DOWSING_ROD_DESCRIPTION]A farmer's dowsing rod, used by superstitious men to find water. With a twist here and there, maybe it will point to gold. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_DOWSING_ROD_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_DOWSING_ROD_NAME]Dowsing Rod</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_ENGLISH_POINTER_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_ENGLISH_POINTER_DESCRIPTION]The dog is pointing and holding a lantern hanging down from its mouth. The lantern mysteriously glows brighter the more that figurehead points in the direction of the nearest ship.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_ENGLISH_POINTER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_ENGLISH_POINTER_NAME]English Pointer Figurehead</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_FISHING_FLOATS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_FISHING_FLOATS_DESCRIPTION]A string of colorful glass fishing floats strung together with netting, these "witch balls" have been used in the North Sea trade routes for so long that they contain and are enchanted by the winds of their namesake. When hung by a ship's yard arms they glow and will fill a ship's sails even on the calmest of days.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_FISHING_FLOATS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_FISHING_FLOATS_NAME]North Sea Wind Fishing Floats</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_JOLLY_ROGERS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_JOLLY_ROGERS_DESCRIPTION]The black flag of terror itself. Most depicted a death's head, or a bleeding heart with a dart piercing it. The name may have come from the French "rouge", referring to a red flag, or from a sobriquet of the Devil.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_JOLLY_ROGERS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_JOLLY_ROGERS_NAME]Jack Rackham's Jolly Rogers</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_KRAKANNONS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_KRAKANNONS_DESCRIPTION]Twisting iron barrels and all the fury of the sea-beast! Cannons forged by Davey Jones himself!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_KRAKANNONS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_KRAKANNONS_NAME]Krakannons</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_LOLONNAIS_CUTLERY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_LOLONNAIS_CUTLERY_DESCRIPTION]A fine dining set used by the dread pirate for his feasts. There is a rusty stain around the knife-handle that will not come out.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_LOLONNAIS_CUTLERY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_LOLONNAIS_CUTLERY_NAME]L'Olonnais' Cutlery</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_SINGING_TOPMEN_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_SINGING_TOPMEN_DESCRIPTION]Topmen - men who work high above the decks in the rigging - are known for their songs, and you have hired some excellent singers. Sea chanties dispel the gloom of fogs, ease the anxiety of stormy seas, and make calm days pass more smoothly.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_SINGING_TOPMEN_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_SINGING_TOPMEN_NAME]Singing Topmen</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_SKULL_FIRESHOT_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_SKULL_FIRESHOT_DESCRIPTION]Not an actual skull, but rather a cleverly made iron cannonball. But when fearful superstitious seafaring enemies see these flying through the air toward them, trailing fire from eye sockets and mouth and emanating a screeching whistle... try to tell them different.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVIC_RELIC_SKULL_FIRESHOT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_CIVIC_RELIC_SKULL_FIRESHOT_NAME]Screaming Skull Fireshot</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_BONUS_VS_BARBARIANS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_COMBAT_PREVIEW_BONUS_VS_BARBARIANS]+{1_Value} Advantage vs. Buccaneers</Text>
+    </Replace>
+    <Replace Tag="LOC_DEFEAT_COLONIAL_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DEFEAT_COLONIAL_NAME]Colonial Power Defeated</Text>
+    </Replace>
+    <Replace Tag="LOC_DEFEAT_COLONIAL_TEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DEFEAT_COLONIAL_TEXT]Colonial powers should not be able to be defeated. How has the Admiral of the Black felled the giant?</Text>
+    </Replace>
+    <Replace Tag="LOC_DEFEAT_PIRATE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DEFEAT_PIRATE_NAME]Fleet Lost!</Text>
+    </Replace>
+    <Replace Tag="LOC_DEFEAT_PIRATE_TEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DEFEAT_PIRATE_TEXT]The sea comes to claim her own.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ACTIVATED_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_ACTIVE_ACTIVATED_TT]Walk the Plank is active. Turns Remaining: {1_turnsRemaining}</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ACTIVATED_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_ACTIVE_ACTIVATED_WORLDTEXT]To the plank! And onwards to the abyss.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_DEACTIVATED_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_ACTIVE_DEACTIVATED_WORLDTEXT]The crew is looking bored and shifty.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_RECHARGING_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_ACTIVE_RECHARGING_TT][COLOR:Red]Walk the Plank is recharging. Turns Remaining: {1_turnsRemaining}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_COMBAT_GOLD" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_PASSIVE_COMBAT_GOLD]+{1_Amount} [ICON_Gold]</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_PASSIVE_DESCRIPTION]+10 [ICON_Gold] Gold every time the unit engages in combat.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_PASSIVE_NAME]Bathed in Blood and Iron</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_UNIT_ACTIVE_COMBAT_BONUS_MODIFIER" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_UNIT_ACTIVE_COMBAT_BONUS_MODIFIER]+{1_Amount} Walk the Plank</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_UNIT_ACTIVE_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_DREAD_PIRATE_UNIT_ACTIVE_TOOLTIP]Walk the Plank[NEWLINE][NEWLINE]Inspire your crew by forcing a capturable ship's crew to walk the plank. Walk the Plank grants +3 [ICON_Movement] Movement and +5 [ICON_Strength] Combat Strength for 5 turns.</Text>
+    </Replace>
+    <Replace Tag="LOC_FISHING_FLOATS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_FISHING_FLOATS_DESCRIPTION]+2 [ICON_Movement] Movement</Text>
+    </Replace>
+    <Replace Tag="LOC_FISHING_FLOATS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_FISHING_FLOATS_NAME]North Sea Wind Fishing Floats</Text>
+    </Replace>
+    <Replace Tag="LOC_FLAGSHIP_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_FLAGSHIP_DESCRIPTION]This ship is the flagship of your fleet.</Text>
+    </Replace>
+    <Replace Tag="LOC_FLAGSHIP_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_FLAGSHIP_NAME]Flagship</Text>
+    </Replace>
+    <Replace Tag="LOC_GOVERNMENT_DOESNT_UNLOCK" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GOVERNMENT_DOESNT_UNLOCK]Relics[NEWLINE][NEWLINE]View or manage your Pirate Relics.</Text>
+    </Replace>
+    <Replace Tag="LOC_GOVERNMENT_MANAGE_GOVERNMENT_AND_POLICIES" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GOVERNMENT_MANAGE_GOVERNMENT_AND_POLICIES]Relics[NEWLINE][NEWLINE]View or manage your Pirate Relics.</Text>
+    </Replace>
+    <Replace Tag="LOC_GOVERNMENT_PIRATE_KING_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GOVERNMENT_PIRATE_KING_NAME]Pirate King</Text>
+    </Replace>
+    <Replace Tag="LOC_GOVT_POPUP_PROMPT_POLICIES_CLOSE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_GOVT_POPUP_PROMPT_POLICIES_CLOSE]Are you sure you want to close the menu?[NEWLINE]Relic changes have not been confirmed!</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ACTIVATED_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOARDER_ACTIVE_ACTIVATED_WORLDTEXT]Target their sails! Fire the chain shot!</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_RECHARGING_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOARDER_ACTIVE_RECHARGING_TT][COLOR:Red]Chain Shot is recharging. Turns Remaining: {1_turnsRemaining}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_UNIT_ACTIVE_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HOARDER_UNIT_ACTIVE_TOOLTIP]Chain Shot[NEWLINE][NEWLINE]Lock an enemy naval unit into place for one turn.</Text>
+    </Replace>
+    <Replace Tag="LOC_HUD_GOVT_FREE_CHANGES" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HUD_GOVT_FREE_CHANGES]You have new Relics available!</Text>
+    </Replace>
+    <Replace Tag="LOC_HUD_RIBBON_SCORE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HUD_RIBBON_SCORE]Overall Infamy</Text>
+    </Replace>
+    <Replace Tag="LOC_HUD_UNIT_PANEL_CREW" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_HUD_UNIT_PANEL_CREW]Crew</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME]Buccaneer Fort</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BURIED_TREASURE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_IMPROVEMENT_BURIED_TREASURE_NAME]Buried Treasure</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_FLOATING_TREASURE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_IMPROVEMENT_FLOATING_TREASURE_NAME]Floating Treasure</Text>
+    </Replace>
+    <Replace Tag="LOC_KRAKANNONS_COMBAT_BONUS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_KRAKANNONS_COMBAT_BONUS_DESCRIPTION]+5 [ICON_Strength] Combat Strength</Text>
+    </Replace>
+    <Replace Tag="LOC_KRAKANNONS_COMBAT_BONUS_MODIFIER" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_KRAKANNONS_COMBAT_BONUS_MODIFIER]+{1_Amount} Krakannons</Text>
+    </Replace>
+    <Replace Tag="LOC_KRAKANNONS_COMBAT_BONUS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_KRAKANNONS_COMBAT_BONUS_NAME]Krakannons Combat Bonus</Text>
+    </Replace>
+    <Replace Tag="LOC_KRAKANNONS_RANGE_BONUS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_KRAKANNONS_RANGE_BONUS_DESCRIPTION]+1 [ICON_range] Range</Text>
+    </Replace>
+    <Replace Tag="LOC_KRAKANNONS_RANGE_BONUS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_KRAKANNONS_RANGE_BONUS_NAME]Krakannons Range Bonus</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PIRATES_SCENARIO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LOADING_INFO_PIRATES_SCENARIO]{LOC_PIRATES_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_NAVAL_FIELD_REPAIRS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NAVAL_FIELD_REPAIRS_DESCRIPTION]Field repairs constantly heal naval units at sea.</Text>
+    </Replace>
+    <Replace Tag="LOC_NAVAL_FIELD_REPAIRS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NAVAL_FIELD_REPAIRS_NAME]Field Repairs</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE]New Buccaneer Fort</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY]We have received rumors that a new fleet of Buccaneers have moved into a nearby region.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_INFAMOUS_PIRATE_DEFEATED_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_INFAMOUS_PIRATE_DEFEATED_MESSAGE]{1_InfamousPirateName} Sunk!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_INFAMOUS_PIRATE_DEFEATED_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_INFAMOUS_PIRATE_DEFEATED_SUMMARY]Word has spread that {1_InfamousPirateName} has been defeated.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_LETTER_OF_MARQUE_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_LETTER_OF_MARQUE_MESSAGE]{1_CivAdjective} Letter of Marque</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_LETTER_OF_MARQUE_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_LETTER_OF_MARQUE_SUMMARY]Our Majesty has decided to grant us a letter of marque. We now pillage the seas in the name of {1_CivShortName}.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE]New Buccaneer Fort</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY]We have received rumors that a new fleet of Buccaneers have moved into a nearby region.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BURIED_TREASURE_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_NEW_BURIED_TREASURE_MESSAGE]Found {1_playerName}'s Treasure Map</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BURIED_TREASURE_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_NEW_BURIED_TREASURE_SUMMARY]You have discovered a map to {1_playerName}'s treasure.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_INFAMOUS_PIRATE_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_NEW_INFAMOUS_PIRATE_MESSAGE]Infamous Pirate Spotted!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_INFAMOUS_PIRATE_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_NEW_INFAMOUS_PIRATE_SUMMARY]You have heard rumors of an infamous pirate sailing in this area.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_RELIC_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_NEW_RELIC_MESSAGE]Acquired {1_relicName}</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_RELIC_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_NEW_RELIC_SUMMARY]You have discovered a powerful relic during your travels.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_TREASURE_FLEET_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_NEW_TREASURE_FLEET_MESSAGE]New Treasure Fleet</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_TREASURE_FLEET_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_NEW_TREASURE_FLEET_SUMMARY]A new treasure fleet has set sail for Europe.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_TREASURE_LOCATED_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_TREASURE_LOCATED_MESSAGE]Treasure Located!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_TREASURE_LOCATED_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_TREASURE_LOCATED_SUMMARY]You have located the treasure.</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_TREASURE_MAP_PILLAGED_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_TREASURE_MAP_PILLAGED_MESSAGE]Treasure Pillaged!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_TREASURE_MAP_PILLAGED_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_TREASURE_MAP_PILLAGED_SUMMARY]Someone beat us to this treasure!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_TREASURY_BANKRUPT_MESSAGE]Mutiny Immenent</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_TREASURY_BANKRUPT_SUMMARY]Your gold has run dry! Your fleet will soon mutiny!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_YOUR_TREASURE_PILLAGED_MESSAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_YOUR_TREASURE_PILLAGED_MESSAGE]Treasure Stolen!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_YOUR_TREASURE_PILLAGED_SUMMARY" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_NOTIFICATION_YOUR_TREASURE_PILLAGED_SUMMARY]Another pirate has unearthed and spirited off your buried treasure!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATE_BART_ROBERTS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATE_BART_ROBERTS]Bart Roberts</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATE_BLACKBEARD" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATE_BLACKBEARD]Blackbeard</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATE_CAPTAIN_KIDD" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATE_CAPTAIN_KIDD]Captain Kidd</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATE_HENRY_MORGAN" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATE_HENRY_MORGAN]Henry Morgan</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATE_JACK_RACKHAM" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATE_JACK_RACKHAM]Jack Rackham</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATE_JEAN_LAFITTE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATE_JEAN_LAFITTE]Jean Lafitte</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATE_LOLONNAIS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATE_LOLONNAIS]l'Olonnais</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATE_ROC_BRASILIANO" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATE_ROC_BRASILIANO]Roche Braziliano</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATE_STEDE_BONNET" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATE_STEDE_BONNET]Stede Bonnet</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_BUCCANEER_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_BUCCANEER_DESCRIPTION]Buccaneers</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_CITY_NOT_SACKED" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_CITY_NOT_SACKED]This city is ripe for the harvest.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_CITY_SACKED" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_CITY_SACKED]Smoke still rises from the city.[NEWLINE]It can be sacked again in {1_Turns: plural 1?{1_turns}turn; other?{1_Turns} turns;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_GRANT_GOLD_WORLD_TEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_GRANT_GOLD_WORLD_TEXT][COLOR_FLOAT_GOLD]+{1_Amount} [ICON_Gold][ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MORALE_TRACKER_GOLD" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MORALE_TRACKER_GOLD]Gold: {1_totalGold}</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MORALE_TRACKER_GOLD_USAGE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MORALE_TRACKER_GOLD_USAGE]Per Turn: {1_usagePerTurn}</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MORALE_TRACKER_MUTINY_TURNS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MORALE_TRACKER_MUTINY_TURNS]Mutiny imminent in {1_Turns: plural 1?{1_turns}turn; other?{1_Turns} turns;}!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MORALE_TRACKER_NO_MORE_UNITS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MORALE_TRACKER_NO_MORE_UNITS]Your fleet is empty!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MORALE_TRACKER_PROFIT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MORALE_TRACKER_PROFIT]Our treasure be growin!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MORALE_TRACKER_STABLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MORALE_TRACKER_STABLE]Our coffers are stable!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MORALE_TRACKER_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MORALE_TRACKER_TITLE][ICON_GoldLarge]Crew Morale[ICON_GoldLarge]</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_MORALE_TRACKER_TOTAL_MUTINY_TURNS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_MORALE_TRACKER_TOTAL_MUTINY_TURNS]Total mutiny in {1_Turns: plural 1?{1_turns}turn; other?{1_Turns} turns;}!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_PLOT_TOOLTIP_INFAMOUS_PIRATE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_PLOT_TOOLTIP_INFAMOUS_PIRATE][COLOR_RED]Thar's a buccaneer's wake on the foam. They're close![ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_PLOT_TOOLTIP_TREASURE_FLEET" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_PLOT_TOOLTIP_TREASURE_FLEET]We're layin right in the path of a Treasure Fleet!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_PLOT_TOOLTIP_TREASURE_MAP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_PLOT_TOOLTIP_TREASURE_MAP]Ho ho me hearties! We smell gold on the wind, we do!</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_PLOT_TOOLTIP_TREASURE_OWNER" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_PLOT_TOOLTIP_TREASURE_OWNER]Treasure of {1_OwnerName}</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_PLOT_TOOLTIP_TREASURE_OWNER_NONE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_PLOT_TOOLTIP_TREASURE_OWNER_NONE]Treasure of an infamous pirate</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_WIN_BLURB" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PIRATES_VICTORY_WIN_BLURB]The day is yours!</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_BLACK_SPOT_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_BLACK_SPOT_DESCRIPTION]+10 [ICON_Strength] Combat Strength when fighting buccaneer or infamous pirates.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_BLACK_SPOT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_BLACK_SPOT_NAME]Black Spot Branding Iron</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_BLACKBEARD_FUSE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_BLACKBEARD_FUSE_DESCRIPTION]Naval unit attacks deal -2 [ICON_Movement] Movement to enemy ships for the next turn.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_BLACKBEARD_FUSE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_BLACKBEARD_FUSE_NAME]Blackbeard's Short Fuse</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_BONNY_PISTOLS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_BONNY_PISTOLS_DESCRIPTION]+1 additional attack for all units. All units can move after attacking.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_BONNY_PISTOLS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_BONNY_PISTOLS_NAME]Bonny Brace of Pistols</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_CAPTAIN_KIDD_JOURNAL_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_CAPTAIN_KIDD_JOURNAL_DESCRIPTION]50% chance of finding an additional treasure map when visiting a tavern.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_CAPTAIN_KIDD_JOURNAL_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_CAPTAIN_KIDD_JOURNAL_NAME]Captain William Kidd's Journal</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_CRATES_OF_RUM_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_CRATES_OF_RUM_DESCRIPTION]+10 [ICON_Gold] Gold per turn.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_CRATES_OF_RUM_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_CRATES_OF_RUM_NAME]Crates of Rum</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_CURSED_PIECES_OF_EIGHT_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_CURSED_PIECES_OF_EIGHT_DESCRIPTION]+3 gold per unit maintenance (higher chance of mutiny); 3% interest on gold reserves every turn.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_CURSED_PIECES_OF_EIGHT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_CURSED_PIECES_OF_EIGHT_NAME]Cursed Lucky Pieces of Eight</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_DOWSING_ROD_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_DOWSING_ROD_DESCRIPTION]Every ship can sense the closest treasure chest within 20 hexes.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_DOWSING_ROD_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_DOWSING_ROD_NAME]Dowsing Rod</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_ENGLISH_POINTER_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_ENGLISH_POINTER_DESCRIPTION]Every ship will sense the closest unseen ship within 20 hexes.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_ENGLISH_POINTER_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_ENGLISH_POINTER_NAME]English Pointer Figurehead</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_FISHING_FLOATS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_FISHING_FLOATS_DESCRIPTION]+2 [ICON_Movement] Movement for naval ships.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_FISHING_FLOATS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_FISHING_FLOATS_NAME]North Sea Wind Fishing Floats</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_JOLLY_ROGERS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_JOLLY_ROGERS_DESCRIPTION]Gain 50 additional gold when pillaging a trade ship. Makes the flags on the your ships look more tattered.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_JOLLY_ROGERS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_JOLLY_ROGERS_NAME]Jack Rackham's Jolly Rogers</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_KRAKANNONS_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_KRAKANNONS_DESCRIPTION]+1 [ICON_range] Range for Sloops and Brigantines. +5 [ICON_Strength] Combat Strength for naval units.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_KRAKANNONS_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_KRAKANNONS_NAME]Krakannons</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_LOLONNAIS_CUTLERY_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_LOLONNAIS_CUTLERY_DESCRIPTION]Gain [ICON_gold] Gold based on the [ICON_Strength] Combat Strength of defeated units.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_LOLONNAIS_CUTLERY_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_LOLONNAIS_CUTLERY_NAME]L'Olonnais' Cutlery</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_SINGING_TOPMEN_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_SINGING_TOPMEN_DESCRIPTION]Reduces unit maintenance cost by 3 per unit.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_SINGING_TOPMEN_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_SINGING_TOPMEN_NAME]Singing Topmen</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_SKULL_FIRESHOT_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_SKULL_FIRESHOT_DESCRIPTION]+3 [ICON_Strength] Combat Strength for naval ships.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLICY_RELIC_SKULL_FIRESHOT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_POLICY_RELIC_SKULL_FIRESHOT_NAME]Screaming Skull Fireshot</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ACTIVATED_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PRIVATEER_ACTIVE_ACTIVATED_TT]Bring Her Home is active. Turns Remaining: {1_turnsRemaining}</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ACTIVATED_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PRIVATEER_ACTIVE_ACTIVATED_WORLDTEXT]Another one for the Crown!</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_RECHARGING_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PRIVATEER_ACTIVE_RECHARGING_TT][COLOR:Red]Bring Her Home is recharging. Turns Remaining: {1_turnsRemaining}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_UNIT_ACTIVE_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PRIVATEER_UNIT_ACTIVE_TOOLTIP]Bring Her Home[NEWLINE][NEWLINE]Capture an enemy vessel and turn it over to your patron for +5 [ICON_PirateScore] Infamous Pirate Points and +100 [ICON_Gold] Gold.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_CLASS_BRIGANTINE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PROMOTION_CLASS_BRIGANTINE_NAME]Brigantine</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_PIRATES_BOARDING_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PROMOTION_PIRATES_BOARDING_NAME]Swivel Gun</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_PIRATES_HOMING_TORPEDOES_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PROMOTION_PIRATES_HOMING_TORPEDOES_NAME]Exploding Shot</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_PIRATES_LOOT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PROMOTION_PIRATES_LOOT_NAME]Flintlock Muskets</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_PIRATES_OBSERVATION_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PROMOTION_PIRATES_OBSERVATION_NAME]Venetian Spyglass</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_PIRATES_SILENT_RUNNING_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PROMOTION_PIRATES_SILENT_RUNNING_NAME]Copper-plated Hull</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_PIRATES_WOLFPACK_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_PROMOTION_PIRATES_WOLFPACK_NAME]Pirate Code</Text>
+    </Replace>
+    <Replace Tag="LOC_RELIC_POPUP_CHANGE_RELIC" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_RELIC_POPUP_CHANGE_RELIC]Equip Relic</Text>
+    </Replace>
+    <Replace Tag="LOC_RELIC_POPUP_RELIC_FOUND" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_RELIC_POPUP_RELIC_FOUND]Relic Found</Text>
+    </Replace>
+    <Replace Tag="LOC_RELIC_POPUP_UNLOCKED_BY_RELIC" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_RELIC_POPUP_UNLOCKED_BY_RELIC]Unlocked by this Relic:</Text>
+    </Replace>
+    <Replace Tag="LOC_RELIC_SCREEN_ACTIVE_RELICS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_RELIC_SCREEN_ACTIVE_RELICS]Active Relics</Text>
+    </Replace>
+    <Replace Tag="LOC_RELIC_SCREEN_ASSIGN_ALL_RELICS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_RELIC_SCREEN_ASSIGN_ALL_RELICS]Assign All Relics</Text>
+    </Replace>
+    <Replace Tag="LOC_RELIC_SCREEN_CHOOSE_RELIC" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_RELIC_SCREEN_CHOOSE_RELIC]Choose Relic</Text>
+    </Replace>
+    <Replace Tag="LOC_RELIC_SCREEN_CONFIRM_RELICS" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_RELIC_SCREEN_CONFIRM_RELICS]Confirm Relics</Text>
+    </Replace>
+    <Replace Tag="LOC_RELIC_SCREEN_DRAG_RELIC_TEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_RELIC_SCREEN_DRAG_RELIC_TEXT]Drag and Drop a Relic to Slot it Here</Text>
+    </Replace>
+    <Replace Tag="LOC_RELIC_SCREEN_TITLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_RELIC_SCREEN_TITLE]Pirate Relics</Text>
+    </Replace>
+    <Replace Tag="LOC_SCORE_CATEGORY_FIGHTING_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SCORE_CATEGORY_FIGHTING_NAME]Fightin'</Text>
+    </Replace>
+    <Replace Tag="LOC_SCORE_CATEGORY_FIGHTING_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SCORE_CATEGORY_FIGHTING_WORLDTEXT]{1_Points} Fightin'</Text>
+    </Replace>
+    <Replace Tag="LOC_SCORE_CATEGORY_INFAMOUS_PIRATES_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SCORE_CATEGORY_INFAMOUS_PIRATES_NAME]Infamous Pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_SCORE_CATEGORY_INFAMOUS_PIRATES_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SCORE_CATEGORY_INFAMOUS_PIRATES_WORLDTEXT]{1_Points} Infamous Pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_SCORE_CATEGORY_TREASURE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SCORE_CATEGORY_TREASURE_NAME]Treasure</Text>
+    </Replace>
+    <Replace Tag="LOC_SCORE_CATEGORY_TREASURE_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SCORE_CATEGORY_TREASURE_WORLDTEXT]{1_Points} Treasure</Text>
+    </Replace>
+    <Replace Tag="LOC_SHORE_PARTY_EMBARK_NO_SHIP_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SHORE_PARTY_EMBARK_NO_SHIP_TOOLTIP][COLOR:Red]Not adjacent to naval ship.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_SHORE_PARTY_EMBARK_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SHORE_PARTY_EMBARK_TOOLTIP]Embark[NEWLINE][NEWLINE]Returns the Shore Party to the Crew on an adjacent naval ship.</Text>
+    </Replace>
+    <Replace Tag="LOC_SHORE_PARTY_EMBARK_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SHORE_PARTY_EMBARK_WORLDTEXT]Ready to depart, sir!</Text>
+    </Replace>
+    <Replace Tag="LOC_SHORE_PARTY_NO_LAND_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SHORE_PARTY_NO_LAND_TOOLTIP][COLOR:Red]Not Adjacent to Land.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_SHORE_PARTY_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SHORE_PARTY_TOOLTIP]Shore Party[NEWLINE][NEWLINE]Disembark a Crew onto land.</Text>
+    </Replace>
+    <Replace Tag="LOC_SHORE_PARTY_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SHORE_PARTY_WORLDTEXT]Get in the boats, ye dirty bilge rats!</Text>
+    </Replace>
+    <Replace Tag="LOC_SKULL_FIRESHOT_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SKULL_FIRESHOT_DESCRIPTION]+3 [ICON_Strength] Combat Strength</Text>
+    </Replace>
+    <Replace Tag="LOC_SKULL_FIRESHOT_MODIFIER" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SKULL_FIRESHOT_MODIFIER]+{1_Amount} Screaming Skull Fireshot</Text>
+    </Replace>
+    <Replace Tag="LOC_SKULL_FIRESHOT_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SKULL_FIRESHOT_NAME]Screaming Skull Fireshot</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ACTIVATED_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SWASHBUCKLER_ACTIVE_ACTIVATED_TT]Tacking into the wind. Turns Remaining: {1_turnsRemaining}</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ACTIVATED_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SWASHBUCKLER_ACTIVE_ACTIVATED_WORLDTEXT]Comin' about, hard to lee! Brace yourselves!</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_DEACTIVATED_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SWASHBUCKLER_ACTIVE_DEACTIVATED_WORLDTEXT]Aye, come about. Let's give her a rest for now.</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_RECHARGING_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SWASHBUCKLER_ACTIVE_RECHARGING_TT][COLOR:Red]Tacking into the Wind is recharging. Turns Remaining: {1_turnsRemaining}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_UNIT_ACTIVE_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_SWASHBUCKLER_UNIT_ACTIVE_TOOLTIP]Tack into the Wind[NEWLINE][NEWLINE]2x [ICON_Movement] Movement for the current and next turn.</Text>
+    </Replace>
+    <Replace Tag="LOC_TAVERN_AVAILABLE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TAVERN_AVAILABLE]This Tavern Can Be Visited!</Text>
+    </Replace>
+    <Replace Tag="LOC_TAVERN_COOLDOWN" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TAVERN_COOLDOWN]The rum has run dry! [NEWLINE] Visit again in {1_Turns: plural 1?{1_turns}turn; other?{1_Turns} turns;}!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ABILITY_NOT_ENOUGH_MOVEMENT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_ABILITY_NOT_ENOUGH_MOVEMENT][COLOR:Red]Not enough [ICON_Movement] Movement Points available.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BRIGANTINE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_BRIGANTINE_NAME]Brigantine</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GALLEON_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_GALLEON_NAME]Galleon</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PIRATES_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_PIRATES_DESCRIPTION]Roving gang of landlocked pirates.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PIRATES_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_PIRATES_NAME]Shore Party</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SLOOP_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_SLOOP_NAME]Sloop</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_TREASURE_FLEET_GOLD_SHIP_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_TREASURE_FLEET_GOLD_SHIP_NAME]Treasure Ship</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_TREASURE_FLEET_GUARD_SHIP_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNIT_TREASURE_FLEET_GUARD_SHIP_NAME]Treasure Escort</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_BURY_TREASURE_ALREADY_IMPROVED_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_BURY_TREASURE_ALREADY_IMPROVED_TT][COLOR:Red]Can only Bury Treasure on an empty plot.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_BURY_TREASURE_NO_GOLD_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_BURY_TREASURE_NO_GOLD_TT][COLOR:Red]Not enough gold.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_BURY_TREASURE_NO_LAND_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_BURY_TREASURE_NO_LAND_TT][COLOR:Red]Can only Bury Treasure on land.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_BURY_TREASURE_OWNED_PLOT_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_BURY_TREASURE_OWNED_PLOT_TT][COLOR:Red]Can only Bury Treasure on an unowned plot.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_CAPTURE_BOAT_FLAGSHIP_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_CAPTURE_BOAT_FLAGSHIP_TT][COLOR:Red]Flagships and Infamous Pirates cannot be captured.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_CAPTURE_BOAT_NO_CREW_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_CAPTURE_BOAT_NO_CREW_TT][COLOR:Red]Not Enough Crew Available![ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_CAPTURE_BOAT_NO_DAMAGE_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_CAPTURE_BOAT_NO_DAMAGE_TT][COLOR:Red]Enemy ship needs to be more damaged![ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_EMBARK_NO_SHIP_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_EMBARK_NO_SHIP_TT][COLOR:Red]Not adjacent to ship.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_PILLAGE_DESCRIPTION" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_PILLAGE_DESCRIPTION]Plunder</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_PILLAGE_DISABLED_TT_OWN_TREASURE" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_PILLAGE_DISABLED_TT_OWN_TREASURE][COLOR:Red]Unable to plunder your own treasure![ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_SHORE_PARTY_NO_CREW_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_SHORE_PARTY_NO_CREW_TT][COLOR:Red]Not Enough Crew Available![ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNITOPERATION_VISIT_TAVERN_RECHARGING_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNITOPERATION_VISIT_TAVERN_RECHARGING_TT][COLOR:Red]Tavern still recoverying from last visit. Turns Remaining: {1_turnsRemaining}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_UNKNOWN_TREASURE_OWNER" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_UNKNOWN_TREASURE_OWNER]Unknown pirate</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_SCORE_NAME" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_VICTORY_SCORE_NAME]King of the Pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_VISIT_TAVERN_NOT_ADJACENT_TT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_VISIT_TAVERN_NOT_ADJACENT_TT][COLOR:Red]Not Adjacent to a Colonial City Center.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_VISIT_TAVERN_TOOLTIP" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_VISIT_TAVERN_TOOLTIP]Visit Tavern[NEWLINE][NEWLINE]Visit a tavern in the port to recruit crew and discover a new quest. Can only be used adjacent to a Colonial City Center</Text>
+    </Replace>
+    <Replace Tag="LOC_VISIT_TAVERN_WORLDTEXT" Language="zh_Hans">
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_VISIT_TAVERN_WORLDTEXT]+1 Crew</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

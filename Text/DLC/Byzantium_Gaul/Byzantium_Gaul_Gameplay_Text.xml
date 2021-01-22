@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- District Adjacency -->
+		<Replace Language="en_US" Tag="LOC_DISTRICT_MINE_1_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Mines.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_MINE_1_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Mines.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_MINE_1_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Mines.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_MINE_1_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Mines.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_MINE_1_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent Mines.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_STRATEGIC2_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Production from the adjacent Strategic {1_Num : plural 1?resource; other?resources;}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Production] Production bonus if adjacent to a Quarry improvement or strategic resource.</Text>
+		</Replace>
+		<!-- AI Agenda Text -->
+		<Replace Language="en_US" Tag="LOC_AGENDA_AMBIORIX_ARMY_NAME">
+			<Text>Scourge of Rome</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_AMBIORIX_ARMY_DESCRIPTION">
+			<Text>Likes numerous combat units. Dislikes civilizations with tiny armies.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BASIL_ZEALOT_NAME">
+			<Text>Divine Guardian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BASIL_ZEALOT_DESCRIPTION">
+			<Text>Likes civilizations that follow the same religion. Dislikes civilizations that don't predominantly follow his religion.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY">
+			<Text>Ambiorix likes civilizations with more military units than he has, and dilikes those with fewer</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY_POSITIVE">
+			<Text>Ambiorix likes civilizations with more military units than he has</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY_NEGATIVE">
+			<Text>Ambiorix dislikes civilizations with fewer military units than he has</Text>
+		</Replace>
+		<!-- Dramatic Ages Text -->
+		<Replace Language="en_US" Tag="LOC_GOVT_FILTER_GOLDEN">
+			<Text>Golden</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

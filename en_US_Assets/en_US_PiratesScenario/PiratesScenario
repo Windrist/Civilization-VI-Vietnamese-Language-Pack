@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="A55FAFB4-9070-4597-9453-B28A99910CDA" version="1">
+	<Properties>
+		<Name>LOC_MOD_PIRATES_SCENARIO_TITLE</Name>
+		<Teaser>LOC_PIRATES_MOD_TEASER</Teaser>
+		<Description>LOC_PIRATES_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<CompatibleVersions>2.0</CompatibleVersions>
+		<EnabledByDefault>1</EnabledByDefault>
+		<SupportsSinglePlayer>0</SupportsSinglePlayer>
+	</Properties>
+	<ActionCriteria>
+		<Criteria id="PiratesScenario">
+			<RuleSetInUse>RULESET_SCENARIO_PIRATES</RuleSetInUse>
+		</Criteria>
+	</ActionCriteria>
+	<FrontEndActions>
+		<UpdateArt id="PiratesScenarioSettingsArt">
+			<File>PiratesScenario.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="PiratesScenarioSettings">
+			<File>Data/PiratesScenario_Config.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="PiratesScenarioPlayerColors">
+			<File>Data/PiratesScenario_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateIcons id="PiratesScenarioIcons">
+			<File>Data/PiratesScenario_Icons_Civilizations.xml</File>
+			<File>Data/PiratesScenario_Icons_Leaders.xml</File>
+		</UpdateIcons>
+		<UpdateText id="PiratesScenarioText">
+			<File Priority="1">Text/en_US/PiratesScenario_PackageText.xml</File>
+			<File Priority="1">Text/en_US/PiratesScenario_ConfigText.xml</File>
+			<File>Text/PiratesScenario_Translations_PackageText.xml</File>
+			<File>Text/PiratesScenario_Translations_ConfigText.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<InGameActions>
+		<UpdateAudio id="PiratesScenarioAudio" criteria="PiratesScenario">
+			<File>Platforms/Windows/Audio/XP3_PATCH3Banks.ini</File>
+		</UpdateAudio>
+		<UpdateLogitechARX id="PiratesScenarioARX" criteria="PiratesScenario">
+			<File>Data/ARX/Civ_LEADER_PIRATES_SCENARIO_DREAD_PIRATE.png</File>
+			<File>Data/ARX/Civ_LEADER_PIRATES_SCENARIO_PRIVATEER.png</File>
+			<File>Data/ARX/Civ_LEADER_PIRATES_SCENARIO_SWASHBUCKLER.png</File>
+			<File>Data/ARX/Civ_LEADER_PIRATES_SCENARIO_HOARDER.png</File>
+			<File>Data/ARX/CivPirates_Logo.png</File>
+			<File>Data/ARX/index.html</File>
+		</UpdateLogitechARX>
+		<UpdateIcons id="PiratesScenarioIcons" criteria="PiratesScenario">
+			<File>Data/PiratesScenario_Icons_Civilizations.xml</File>
+			<File>Data/PiratesScenario_Icons_CrewMorale.xml</File>
+			<File>Data/PiratesScenario_Icons_FontIcons.xml</File>
+			<File>Data/PiratesScenario_Icons_Leaders.xml</File>
+			<File>Data/PiratesScenario_Icons_Notifications.xml</File>
+			<File>Data/PiratesScenario_Icons_Units.xml</File>
+			<File>Data/PiratesScenario_Icons_UnitActions.xml</File>
+			<File>Data/PiratesScenario_Icons_UnitPortraits.xml</File>
+			<File>Data/ARX/index.html</File>
+		</UpdateIcons>
+		<AddUserInterfaces id="PiratesScenarioInGameUI" criteria="PiratesScenario">
+			<Properties>
+				<Context>InGame</Context>
+			</Properties>
+			<File>UI/Additions/ExpansionIntro.xml</File>
+		</AddUserInterfaces>
+		<UpdateArt id="PiratesScenarioArt" criteria="PiratesScenario">
+			<File>PiratesScenario.dep</File>
+		</UpdateArt>
+		<UpdateColors id="PiratesScenarioPlayerColors" criteria="PiratesScenario">
+			<File>Data/PiratesScenario_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="PiratesScenarioGameplay" criteria="PiratesScenario">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File Priority="1">Data/PiratesScenario_RemoveData.xml</File>
+			<File>Data/PiratesScenario_Victories.xml</File>
+			<File>Data/PiratesScenario_Units.xml</File>
+			<File>Data/PiratesScenario_UnitPromotions.xml</File>
+			<File>Data/PiratesScenario_UnitAbilities.xml</File>
+			<File>Data/PiratesScenario_GameplayData.xml</File>
+			<File>Data/PiratesScenario_Civilizations.xml</File>
+			<File>Data/PiratesScenario_Leaders.xml</File>
+			<File>Data/PiratesScenario_LoadingInfo.xml</File>
+			<File>Data/PiratesScenario_AI.xml</File>
+			<File>Data/PiratesScenario_GameCapabilities.xml</File>
+			<File>Data/PiratesScenario_Eras.xml</File>
+			<File>Data/PiratesScenario_Notifications.xml</File>
+			<File>Data/PiratesScenario_TurnPhases.xml</File>
+			<File>Data/PiratesScenario_Scoring.xml</File>
+			<File>Data/PiratesScenario_Gossip.xml</File>
+			<File>Data/PiratesScenario_GoodyHuts.xml</File>
+			<File>Data/PiratesScenario_Improvements.xml</File>
+			<File>Data/PiratesScenario_Technologies.xml</File>
+			<File>Data/PiratesScenario_Policies.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="PiratesScenarioText" criteria="PiratesScenario">
+			<File Priority="2">Text/PiratesScenario_RemoveText.xml</File>
+			<File Priority="1">Text/en_US/PiratesScenario_PackageText.xml</File>
+			<File Priority="1">Text/en_US/PiratesScenario_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/PiratesScenario_Text.xml</File>
+			<File>Text/PiratesScenario_Translations_PackageText.xml</File>
+			<File>Text/PiratesScenario_Translations_ConfigText.xml</File>
+			<File>Text/PiratesScenario_Translations_Text.xml</File>
+		</UpdateText>
+		<ReplaceUIScript id="PiratesScenarioCityBanners" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>CityBannerManager</LuaContext>
+				<LuaReplace>UI/Replacements/CityBannerManager_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioGovernmentScreen" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>GovernmentScreen</LuaContext>
+				<LuaReplace>UI/Replacements/GovernmentScreen_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioLaunchBar" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>LaunchBar</LuaContext>
+				<LuaReplace>UI/Replacements/LaunchBar_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioTechCivicCompletedPopup" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>TechCivicCompletedPopup</LuaContext>
+				<LuaReplace>UI/Replacements/TechCivicCompletedPopup_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioInGameTopOptionsMenu" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>InGameTopOptionsMenu</LuaContext>
+				<LuaReplace>UI/Replacements/InGameTopOptionsMenu_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioTopPanel" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>TopPanel</LuaContext>
+				<LuaReplace>UI/Replacements/TopPanel_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioUnitFlagManager" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>UnitFlagManager</LuaContext>
+				<LuaReplace>UI/Replacements/UnitFlagManager_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioUnitPanel" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>UnitPanel</LuaContext>
+				<LuaReplace>UI/Replacements/UnitPanel_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioMinimapPanel" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>MinimapPanel</LuaContext>
+				<LuaReplace>UI/Replacements/MinimapPanel_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioPlotToolTip" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>PlotToolTip</LuaContext>
+				<LuaReplace>UI/Replacements/PlotToolTip_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioDiplomacyRibbon" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>DiplomacyRibbon</LuaContext>
+				<LuaReplace>UI/Replacements/DiplomacyRibbon_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<AddGameplayScripts id="PiratesScenarioScripts" criteria="PiratesScenario">
+			<File>Scripts/PiratesScenario_StartScript.lua</File>
+		</AddGameplayScripts>
+		<ReplaceUIScript id="PiratesWorldInput" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>WorldInput</LuaContext>
+				<LuaReplace>UI/Replacements/WorldInput_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioWorldTracker" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>WorldTracker</LuaContext>
+				<LuaReplace>UI/Replacements/WorldTracker_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="PiratesScenarioARXManager" criteria="PiratesScenario">
+			<Properties>
+				<LuaContext>ARXManager</LuaContext>
+				<LuaReplace>UI/Replacements/ARXManager_PiratesScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ImportFiles id="PiratesScenarioFiles" criteria="PiratesScenario">
+			<File>Scripts/PiratesScenario_PropKeys.lua</File>
+			<File>Scripts/PiratesScenario_UnitCommandDefs.lua</File>
+			<File>Scripts/PiratesScenario_UnitCommands.lua</File>
+			<File>Scripts/PiratesScenario_Shared_Script.lua</File>
+			<File>Scripts/PiratesScenario_GameCore_Script.lua</File>
+			<File>UI/Additions/ExpansionIntro.xml</File>
+			<File>UI/Additions/ExpansionIntro.lua</File>
+			<File>UI/Additions/WorldTrackerCrewMorale.xml</File>
+			<File>UI/Replacements/ARXManager_PiratesScenario.lua</File>
+			<File>UI/Replacements/WorldInput_PiratesScenario.lua</File>
+			<File>UI/Replacements/CityBannerManager_PiratesScenario.lua</File>
+			<File>UI/Replacements/CityBannerManager.xml</File>
+			<File>UI/Replacements/DiplomacyRibbon_PiratesScenario.lua</File>
+			<File>UI/Replacements/DiplomacyRibbon.xml</File>
+			<File>UI/Replacements/EndGameMenu_PiratesScenario.lua</File>
+			<File>UI/Replacements/GovernmentScreen_PiratesScenario.lua</File>
+			<File>UI/Replacements/GovernmentScreen.xml</File>
+			<File>UI/Replacements/InGameTopOptionsMenu_PiratesScenario.lua</File>
+			<File>UI/Replacements/TopPanel_PiratesScenario.lua</File>
+			<File>UI/Replacements/InGameTopOptionsMenu.xml</File>
+			<File>UI/Replacements/LaunchBar_PiratesScenario.lua</File>
+			<File>UI/Replacements/LaunchBar.xml</File>
+			<File>UI/Replacements/MultiPlayerTurnManager.xml</File>
+			<File>UI/Replacements/NotificationPanel_PiratesScenario.lua</File>
+			<File>UI/Replacements/PlotToolTip_PiratesScenario.lua</File>
+			<File>UI/Replacements/TechCivicCompletedPopup_PiratesScenario.lua</File>
+			<File>UI/Replacements/TechCivicCompletedPopup.xml</File>
+			<File>UI/Replacements/UnitFlagManager_PiratesScenario.lua</File>
+			<File>UI/Replacements/UnitPanel_PiratesScenario.lua</File>
+			<File>UI/Replacements/UnitPanel.xml</File>
+			<File>UI/Replacements/WorldTracker_PiratesScenario.lua</File>
+			<File>UI/Replacements/WorldTracker.xml</File>
+		</ImportFiles>
+	</InGameActions>
+	<LocalizedText>
+		<File>Text/en_US/PiratesScenario_PackageText.xml</File>
+		<File>Text/PiratesScenario_Translations_PackageText.xml</File>
+	</LocalizedText>
+	<Files>
+		<File>PiratesScenario.dep</File>
+		<File>Data/ARX/Civ_LEADER_PIRATES_SCENARIO_DREAD_PIRATE.png</File>
+		<File>Data/ARX/Civ_LEADER_PIRATES_SCENARIO_PRIVATEER.png</File>
+		<File>Data/ARX/Civ_LEADER_PIRATES_SCENARIO_SWASHBUCKLER.png</File>
+		<File>Data/ARX/Civ_LEADER_PIRATES_SCENARIO_HOARDER.png</File>
+		<File>Data/ARX/CivPirates_Logo.png</File>
+		<File>Data/ARX/index.html</File>
+		<File>Data/PiratesScenario_AI.xml</File>
+		<File>Data/PiratesScenario_Civilizations.xml</File>
+		<File>Data/PiratesScenario_Config.xml</File>
+		<File>Data/PiratesScenario_Eras.xml</File>
+		<File>Data/PiratesScenario_GameCapabilities.xml</File>
+		<File>Data/PiratesScenario_GameplayData.xml</File>
+		<File>Data/PiratesScenario_GoodyHuts.xml</File>
+		<File>Data/PiratesScenario_Gossip.xml</File>
+		<File>Data/PiratesScenario_Icons_Civilizations.xml</File>
+		<File>Data/PiratesScenario_Icons_CrewMorale.xml</File>
+		<File>Data/PiratesScenario_Icons_FontIcons.xml</File>
+		<File>Data/PiratesScenario_Icons_Leaders.xml</File>
+		<File>Data/PiratesScenario_Icons_Notifications.xml</File>
+		<File>Data/PiratesScenario_Icons_Units.xml</File>
+		<File>Data/PiratesScenario_Icons_UnitActions.xml</File>
+		<File>Data/PiratesScenario_Icons_UnitPortraits.xml</File>
+		<File>Data/PiratesScenario_Improvements.xml</File>
+		<File>Data/PiratesScenario_Technologies.xml</File>
+		<File>Data/PiratesScenario_Policies.xml</File>
+		<File>Data/PiratesScenario_Leaders.xml</File>
+		<File>Data/PiratesScenario_LoadingInfo.xml</File>
+		<File>Data/PiratesScenario_Notifications.xml</File>
+		<File>Data/PiratesScenario_PlayerColors.xml</File>
+		<File>Data/PiratesScenario_RemoveData.xml</File>
+		<File>Data/PiratesScenario_Scoring.xml</File>
+		<File>Data/PiratesScenario_TurnPhases.xml</File>
+		<File>Data/PiratesScenario_UnitAbilities.xml</File>
+		<File>Data/PiratesScenario_UnitPromotions.xml</File>
+		<File>Data/PiratesScenario_Units.xml</File>
+		<File>Data/PiratesScenario_Victories.xml</File>
+		<File>Maps/Pirate_Islands.lua</File>
+		<File>Maps/Caribbean.Civ6Map</File>
+		<File>Scripts/PiratesScenario_Shared_Script.lua</File>
+		<File>Scripts/PiratesScenario_GameCore_Script.lua</File>
+		<File>Scripts/PiratesScenario_PropKeys.lua</File>
+		<File>Scripts/PiratesScenario_StartScript.lua</File>
+		<File>Scripts/PiratesScenario_UnitCommandDefs.lua</File>
+		<File>Scripts/PiratesScenario_UnitCommands.lua</File>
+		<File>Text/en_US/PiratesScenario_ConfigText.xml</File>
+		<File>Text/en_US/PiratesScenario_PackageText.xml</File>
+		<File>Text/en_US/PiratesScenario_Text.xml</File>
+		<File>Text/PiratesScenario_RemoveText.xml</File>
+		<File>Text/PiratesScenario_Translations_ConfigText.xml</File>
+		<File>Text/PiratesScenario_Translations_PackageText.xml</File>
+		<File>Text/PiratesScenario_Translations_Text.xml</File>
+		<File>UI/Additions/ExpansionIntro.xml</File>
+		<File>UI/Additions/ExpansionIntro.lua</File>
+		<File>UI/Additions/WorldTrackerCrewMorale.xml</File>
+		<File>UI/Replacements/ARXManager_PiratesScenario.lua</File>
+		<File>UI/Replacements/CityBannerManager.xml</File>
+		<File>UI/Replacements/CityBannerManager_PiratesScenario.lua</File>
+		<File>UI/Replacements/DiplomacyRibbon.xml</File>
+		<File>UI/Replacements/DiplomacyRibbon_PiratesScenario.lua</File>
+		<File>UI/Replacements/EndGameMenu_PiratesScenario.lua</File>
+		<File>UI/Replacements/GovernmentScreen_PiratesScenario.lua</File>
+		<File>UI/Replacements/GovernmentScreen.xml</File>
+		<File>UI/Replacements/InGameTopOptionsMenu_PiratesScenario.lua</File>
+		<File>UI/Replacements/InGameTopOptionsMenu.xml</File>
+		<File>UI/Replacements/TopPanel_PiratesScenario.lua</File>
+		<File>UI/Replacements/LaunchBar_PiratesScenario.lua</File>
+		<File>UI/Replacements/LaunchBar.xml</File>
+		<File>UI/Replacements/MinimapPanel_PiratesScenario.lua</File>
+		<File>UI/Replacements/MultiPlayerTurnManager.xml</File>
+		<File>UI/Replacements/NotificationPanel_PiratesScenario.lua</File>
+		<File>UI/Replacements/PlotToolTip_PiratesScenario.lua</File>
+		<File>UI/Replacements/TechCivicCompletedPopup_PiratesScenario.lua</File>
+		<File>UI/Replacements/TechCivicCompletedPopup.xml</File>
+		<File>UI/Replacements/UnitFlagManager_PiratesScenario.lua</File>
+		<File>UI/Replacements/UnitPanel.xml</File>
+		<File>UI/Replacements/UnitPanel_PiratesScenario.lua</File>
+		<File>UI/Replacements/WorldInput_PiratesScenario.lua</File>
+		<File>UI/Replacements/WorldTracker_PiratesScenario.lua</File>
+		<File>UI/Replacements/WorldTracker.xml</File>
+		<File>Platforms/Windows/Audio/XP3_PATCH3Banks.ini</File>
+	</Files>
+</Mod>

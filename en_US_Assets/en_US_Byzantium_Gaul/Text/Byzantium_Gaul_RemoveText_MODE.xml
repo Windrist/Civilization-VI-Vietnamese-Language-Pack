@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+		<Delete Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT_PARAM"/>
+		<Delete Tag="LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM"/>
+		<Delete Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_EFFECT_PARAM"/>
+		<Delete Tag="LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM"/>
+		<Delete Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION"/>
+  </LocalizedText>
+</GameData>

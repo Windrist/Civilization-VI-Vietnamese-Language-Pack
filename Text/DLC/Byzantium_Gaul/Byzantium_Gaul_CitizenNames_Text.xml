@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Byzantium-->
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MALE_1">
+			<Text>Arcadius</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MALE_2">
+			<Text>Damianus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MALE_3">
+			<Text>Ignatios</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MALE_4">
+			<Text>Justinian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MALE_5">
+			<Text>Leo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MALE_6">
+			<Text>Niketas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MALE_7">
+			<Text>Phocas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MALE_8">
+			<Text>Theoktistos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MALE_9">
+			<Text>Valens</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MALE_10">
+			<Text>Stylian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_FEMALE_1">
+			<Text>Yolanda</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_FEMALE_2">
+			<Text>Martina</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_FEMALE_3">
+			<Text>Eulogia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_FEMALE_4">
+			<Text>Epiphania</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_FEMALE_5">
+			<Text>Ariadne</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_FEMALE_6">
+			<Text>Agatha</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_FEMALE_7">
+			<Text>Eudocia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_FEMALE_8">
+			<Text>Joannina</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_FEMALE_9">
+			<Text>Theodora</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_FEMALE_10">
+			<Text>Athenais</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_MALE_1">
+			<Text>Konstantinos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_MALE_2">
+			<Text>Christos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_MALE_3">
+			<Text>Agrim</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_MALE_4">
+			<Text>Panagiotis</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_MALE_5">
+			<Text>Stavros</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_MALE_6">
+			<Text>Kostas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_MALE_7">
+			<Text>Alexandros</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_MALE_8">
+			<Text>Ierotheos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_MALE_9">
+			<Text>Nikolas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_MALE_10">
+			<Text>Demetres</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_1">
+			<Text>Konstantina</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_2">
+			<Text>Michaela</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_3">
+			<Text>Marialena</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_4">
+			<Text>Rafaela</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_5">
+			<Text>Georgia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_6">
+			<Text>Alexandra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_7">
+			<Text>Danae</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_8">
+			<Text>Despina</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_9">
+			<Text>Athina</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_10">
+			<Text>Evi</Text>
+		</Replace>
+		<!--Gaul-->
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MALE_1">
+			<Text>Sudarix</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MALE_2">
+			<Text>Atilkoryos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MALE_3">
+			<Text>Axrotalus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MALE_4">
+			<Text>Lukotorix</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MALE_5">
+			<Text>Katurix</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MALE_6">
+			<Text>Dubnorix</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MALE_7">
+			<Text>Bodyokassos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MALE_8">
+			<Text>Segomaros</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MALE_9">
+			<Text>Orgetorix</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MALE_10">
+			<Text>Wenikaros</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_FEMALE_1">
+			<Text>Boudica</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_FEMALE_2">
+			<Text>Dewognata</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_FEMALE_3">
+			<Text>Kunopennos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_FEMALE_4">
+			<Text>Luguselwa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_FEMALE_5">
+			<Text>Aiias</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_FEMALE_6">
+			<Text>Potita</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_FEMALE_7">
+			<Text>Vlatucia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_FEMALE_8">
+			<Text>Adiega</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_FEMALE_9">
+			<Text>Diligenta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_FEMALE_10">
+			<Text>Aia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_MALE_1">
+			<Text>Jan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_MALE_2">
+			<Text>Cornelis</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_MALE_3">
+			<Text>Matthys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_MALE_4">
+			<Text>Jakob</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_MALE_5">
+			<Text>Pieter</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_MALE_6">
+			<Text>Gillis</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_MALE_7">
+			<Text>Ghildolf</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_MALE_8">
+			<Text>Willem</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_MALE_9">
+			<Text>Robine</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_MALE_10">
+			<Text>Valentine</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_1">
+			<Text>Lore</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_2">
+			<Text>Aya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_3">
+			<Text>Mila</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_4">
+			<Text>Chloe</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_5">
+			<Text>Elise</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_6">
+			<Text>Clara</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_7">
+			<Text>Margot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_8">
+			<Text>Valentina</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_9">
+			<Text>Marion</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_10">
+			<Text>Hanne</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

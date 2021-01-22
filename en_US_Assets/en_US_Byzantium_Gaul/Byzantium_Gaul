@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="A1100FC4-70F2-4129-AC27-2A65A685ED08" version="1">
+	<Properties>
+		<Name>LOC_BYZANTIUM_GAUL_MOD_TITLE</Name>
+		<Teaser>LOC_BYZANTIUM_GAUL_MOD_TEASER</Teaser>
+		<Description>LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+		<CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<References>
+		<Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE"/>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+	</References>
+	<ActionCriteria>
+		<Criteria id="ByzantiumGaul" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_BASIL,Players:StandardPlayers::LEADER_AMBIORIX,StandardPlayers::LEADER_BASIL,StandardPlayers::LEADER_AMBIORIX,Players:Expansion1_Players::LEADER_BASIL,Players:Expansion2_Players::LEADER_AMBIORIX,Players:Expansion2_Players::LEADER_BASIL,Players:Expansion2_Players::LEADER_AMBIORIX</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="ByzantiumGaul_Base" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_BASIL,Players:StandardPlayers::LEADER_AMBIORIX</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD</RuleSetInUse>
+		</Criteria>
+		<Criteria id="ByzantiumGaul_Expansion1" any="1">
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_BASIL,Players:Expansion1_Players::LEADER_AMBIORIX</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+		</Criteria>
+		<Criteria id="ByzantiumGaul_Expansion2" any="1">
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_BASIL,Players:Expansion2_Players::LEADER_AMBIORIX</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="DramaticAges_Mode">
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_DRAMATICAGES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="DramaticAges_Expansion1_Mode">
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_DRAMATICAGES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="DramaticAges_Expansion2_Mode">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_DRAMATICAGES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="DramaticAges_Georgia">
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_TAMAR,Players:Expansion2_Players::LEADER_TAMAR</LeaderPlayable>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_DRAMATICAGES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="ByzantiumGaul_SecretSocieties_Mode">
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_SECRETSOCIETIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateArt id="ByzantiumGaulArt" criteria="ByzantiumGaul">
+			<File>Byzantium_Gaul.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="ByzantiumGaulGameplay" criteria="ByzantiumGaul">
+			<File>Data/Byzantium_Gaul_Buildings.xml</File>
+			<File>Data/Byzantium_Gaul_Civilizations.xml</File>
+			<File>Data/Byzantium_Gaul_Districts.xml</File>
+			<File>Data/Byzantium_Gaul_Leaders.xml</File>
+			<File>Data/Byzantium_Gaul_Modifiers.xml</File>
+			<File>Data/Byzantium_Gaul_Units.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="ByzantiumGaulColors" criteria="ByzantiumGaul">
+			<File>Data/Byzantium_Gaul_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="ByzantiumGaulGameplay_XP1" criteria="ByzantiumGaul_Expansion1">
+			<File>Data/Byzantium_Gaul_Expansion1.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="ByzantiumGaulGameplay_XP2" criteria="ByzantiumGaul_Expansion2">
+			<File Priority="2">Data/Byzantium_Gaul_RemoveData_Expansion2.xml</File>
+			<File>Data/Byzantium_Gaul_Expansion2.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="DramaticAges_Gameplay_XP1" criteria="DramaticAges_Expansion1_Mode">
+			<File Priority="3">Data/Byzantium_Gaul_RemoveData_Expansion1.xml</File>
+			<File Priority="2">Data/Byzantium_Gaul_GameCapabilities.xml</File>
+			<File Priority="1">Data/Byzantium_Gaul_DramaticAges_MODE.xml</File>
+			<File Priority="0">Data/Byzantium_Gaul_DramaticAges_Expansion1_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="DramaticAges_Gameplay_XP2" criteria="DramaticAges_Expansion2_Mode">
+			<File Priority="3">Data/Byzantium_Gaul_RemoveData_Expansion2_Mode.xml</File>
+			<File Priority="2">Data/Byzantium_Gaul_GameCapabilities.xml</File>
+			<File Priority="1">Data/Byzantium_Gaul_DramaticAges_MODE.xml</File>
+			<File Priority="0">Data/Byzantium_Gaul_DramaticAges_Expansion2_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="DramaticAges_Georgia" criteria="DramaticAges_Georgia">
+			<File>Data/Byzantium_Gaul_DramaticAges_Georgia_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="ByzantiumGaul_SecretSocieties_MODE" criteria="ByzantiumGaul_SecretSocieties_Mode">
+			<File>Data/Byzantium_Gaul_SecretSocieties_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="ByzantiumGaulText" criteria="ByzantiumGaul">
+			<File Priority="1">Text/en_US/Byzantium_Gaul_PackageText.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_Buildings_Text.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_Civilopedia_Text.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_CitizenNames_Text.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_CityNames_Text.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_Diplomacy_Text.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_Gameplay_Text.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_NamedPlaces_Text.xml</File>
+			<File>Text/Byzantium_Gaul_Translations_PackageText.xml</File>
+			<File>Text/Byzantium_Gaul_Translations_ConfigText.xml</File>
+			<File>Text/Byzantium_Gaul_Translations_Text.xml</File>
+		</UpdateText>
+		<UpdateText id="DramaticAges_Text" criteria="DramaticAges_Mode">
+			<File Priority="2">Text/Byzantium_Gaul_RemoveText_MODE.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_Civilopedia_Text_MODE.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_DramaticAges_Text_MODE.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_DramaticAges_AdvisorText_MODE.xml</File>
+			<File>Text/Byzantium_Gaul_Translations_Text_MODE.xml</File>
+		</UpdateText>
+		<UpdateIcons id="ByzantiumGaulIcons" criteria="DramaticAges_Mode">
+			<File>Data/Byzantium_Gaul_Icons_GameModes.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_Notifications_MODE.xml</File>
+		</UpdateIcons>
+		<UpdateIcons id="ByzantiumGaulIcons_Mode_XP1" criteria="DramaticAges_Expansion1_Mode">
+			<File>Data/Byzantium_Gaul_Icons_Policies_MODE.xml</File>
+		</UpdateIcons>
+		<UpdateIcons id="ByzantiumGaulIcons_Mode_XP2" criteria="DramaticAges_Expansion2_Mode">
+			<File>Data/Byzantium_Gaul_Icons_Policies_MODE.xml</File>
+		</UpdateIcons>
+		<UpdateIcons id="ByzantiumGaulIcons" criteria="ByzantiumGaul">
+			<File>Data/Byzantium_Gaul_Icons_Civilizations.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_Districts.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_FontIcons.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_Leaders.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_Units.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_UnitPortraits.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_Wonders.xml</File>
+		</UpdateIcons>
+		<UpdateLogitechARX id="ByzantiumGaul_ARX" criteria="ByzantiumGaul">
+			<File>Data/ARX/Civ_LEADER_AMBIORIX.png</File>
+			<File>Data/ARX/Civ_LEADER_BASIL.png</File>
+		</UpdateLogitechARX>
+		<UpdateAudio id="ByzantiumGaul_Audio" criteria="ByzantiumGaul">
+			<File>Platforms/Windows/Audio/XP3_DLC3Banks.ini</File>
+		</UpdateAudio>
+		<ReplaceUIScript id="ByzantiumGaul_Expansion1_GovernmentScreen_MODE" criteria="DramaticAges_Expansion1_Mode">
+			<Properties>
+				<LuaContext>GovernmentScreen</LuaContext>
+				<LuaReplace>UI/Replacements/GovernmentScreen_Byzantium_Gaul_Expansion1_MODE.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="ByzantiumGaul_Expansion2_GovernmentScreen_MODE" criteria="DramaticAges_Expansion2_Mode">
+			<Properties>
+				<LuaContext>GovernmentScreen</LuaContext>
+				<LuaReplace>UI/Replacements/GovernmentScreen_Byzantium_Gaul_Expansion2_MODE.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ImportFiles id="ByzantiumGaul_Files" criteria="ByzantiumGaul_Base">
+			<File>Maps/Highlands.lua</File>
+		</ImportFiles>
+		<ImportFiles id="ByzantiumGaul_XP1Files" criteria="ByzantiumGaul_Expansion1">
+			<File>Maps/Highlands.lua</File>
+		</ImportFiles>
+		<ImportFiles id="ByzantiumGaul_XP2Files" criteria="ByzantiumGaul_Expansion2">
+			<File>Maps/Highlands_XP2.lua</File>
+		</ImportFiles>
+
+		<ImportFiles id="DramaticAges_Advisor" criteria="DramaticAges_Mode">
+			<File>UI/Loaders/TutorialLoader_Byzantium_Gaul_MODE.lua</File>
+		</ImportFiles>
+		<ImportFiles id="DramaticAges_Advisor" criteria="DramaticAges_Expansion1_Mode">
+			<File>UI/Loaders/TutorialLoader_Byzantium_Gaul_MODE.lua</File>
+		</ImportFiles>
+		<ImportFiles id="DramaticAges_Advisor" criteria="DramaticAges_Expansion2_Mode">
+			<File>UI/Loaders/TutorialLoader_Byzantium_Gaul_MODE.lua</File>
+		</ImportFiles>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="ByzantiumGaulSettingsArt" >
+			<File>Byzantium_Gaul.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="ByzantiumGaulSettings">
+			<File>Data/Byzantium_Gaul_ConfigData.xml</File>
+			<File>Data/Byzantium_Gaul_StandardMaps.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="ByzantiumGaulColors">
+			<File>Data/Byzantium_Gaul_Colors.xml</File>
+		</UpdateColors>
+		<UpdateText id="ByzantiumGaulSettingsText">
+			<File Priority="1">Text/en_US/Byzantium_Gaul_PackageText.xml</File>
+			<File Priority="1">Text/en_US/Byzantium_Gaul_ConfigText.xml</File>
+			<File>Text/Byzantium_Gaul_Translations_PackageText.xml</File>
+			<File>Text/Byzantium_Gaul_Translations_ConfigText.xml</File>
+		</UpdateText>
+		<UpdateIcons id="ByzantiumGaulSettingsIcons">
+			<File>Data/Byzantium_Gaul_Icons_GameModes.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_Civilizations.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_Districts.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_FontIcons.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_Leaders.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_Units.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_UnitPortraits.xml</File>
+			<File>Data/Byzantium_Gaul_Icons_Wonders.xml</File>
+		</UpdateIcons>
+	</FrontEndActions>
+	<LocalizedText>
+		<File>Text/en_US/Byzantium_Gaul_PackageText.xml</File>
+		<File>Text/Byzantium_Gaul_Translations_PackageText.xml</File>
+	</LocalizedText>
+	<Files>
+		<File>Byzantium_Gaul.dep</File>
+		<File>Data/Byzantium_Gaul_Buildings.xml</File>
+		<File>Data/Byzantium_Gaul_Civilizations.xml</File>
+		<File>Data/Byzantium_Gaul_Colors.xml</File>
+		<File>Data/Byzantium_Gaul_ConfigData.xml</File>
+		<File>Data/Byzantium_Gaul_Districts.xml</File>
+		<File>Data/Byzantium_Gaul_DramaticAges_Expansion1_MODE.xml</File>
+		<File>Data/Byzantium_Gaul_DramaticAges_Expansion2_MODE.xml</File>
+		<File>Data/Byzantium_Gaul_DramaticAges_Georgia_MODE.xml</File>
+		<File>Data/Byzantium_Gaul_DramaticAges_MODE.xml</File>
+		<File>Data/Byzantium_Gaul_Expansion1.xml</File>
+		<File>Data/Byzantium_Gaul_Expansion2.xml</File>
+		<File>Data/Byzantium_Gaul_GameCapabilities.xml</File>
+		<File>Data/Byzantium_Gaul_Icons_GameModes.xml</File>
+		<File>Data/Byzantium_Gaul_Icons_Notifications_MODE.xml</File>
+		<File>Data/Byzantium_Gaul_Icons_Civilizations.xml</File>
+		<File>Data/Byzantium_Gaul_Icons_Districts.xml</File>
+		<File>Data/Byzantium_Gaul_Icons_FontIcons.xml</File>
+		<File>Data/Byzantium_Gaul_Icons_Leaders.xml</File>
+		<File>Data/Byzantium_Gaul_Icons_Units.xml</File>
+		<File>Data/Byzantium_Gaul_Icons_UnitPortraits.xml</File>
+		<File>Data/Byzantium_Gaul_Icons_Wonders.xml</File>
+		<File>Data/Byzantium_Gaul_Leaders.xml</File>
+		<File>Data/Byzantium_Gaul_Modifiers.xml</File>
+		<File>Data/Byzantium_Gaul_RemoveData_Expansion1.xml</File>
+		<File>Data/Byzantium_Gaul_RemoveData_Expansion2.xml</File>
+		<File>Data/Byzantium_Gaul_RemoveData_Expansion2_Mode.xml</File>
+		<File>Data/Byzantium_Gaul_SecretSocieties_MODE.xml</File>
+		<File>Data/Byzantium_Gaul_StandardMaps.xml</File>
+		<File>Data/Byzantium_Gaul_Units.xml</File>
+		<File>Data/Byzantium_Gaul_Icons_Policies_MODE.xml</File>
+		<File>Data/ARX/Civ_LEADER_AMBIORIX.png</File>
+		<File>Data/ARX/Civ_LEADER_BASIL.png</File>
+		<File>Maps/Highlands.lua</File>
+		<File>Maps/Highlands_XP2.lua</File>
+		<File>Text/en_US/Byzantium_Gaul_Buildings_Text.xml</File>	
+		<File>Text/en_US/Byzantium_Gaul_Civilopedia_Text.xml</File>
+		<File>Text/en_US/Byzantium_Gaul_CitizenNames_Text.xml</File>
+		<File>Text/en_US/Byzantium_Gaul_CityNames_Text.xml</File>	
+		<File>Text/en_US/Byzantium_Gaul_ConfigText.xml</File>
+		<File>Text/en_US/Byzantium_Gaul_Civilopedia_Text_MODE.xml</File>
+		<File>Text/en_US/Byzantium_Gaul_DramaticAges_Text_MODE.xml</File>
+		<File>Text/en_US/Byzantium_Gaul_DramaticAges_AdvisorText_MODE.xml</File>
+		<File>Text/en_US/Byzantium_Gaul_Diplomacy_Text.xml</File>
+		<File>Text/en_US/Byzantium_Gaul_Gameplay_Text.xml</File>
+		<File>Text/en_US/Byzantium_Gaul_NamedPlaces_Text.xml</File>
+		<File>Text/en_US/Byzantium_Gaul_PackageText.xml</File>
+		<File>Text/Byzantium_Gaul_RemoveText_MODE.xml</File>
+		<File>Text/Byzantium_Gaul_Translations_PackageText.xml</File>
+		<File>Text/Byzantium_Gaul_Translations_ConfigText.xml</File>
+		<File>Text/Byzantium_Gaul_Translations_Text.xml</File>
+		<File>Text/Byzantium_Gaul_Translations_Text_MODE.xml</File>
+		<File>Platforms/Windows/Audio/XP3_DLC3Banks.ini</File>
+		<File>UI/Replacements/GovernmentScreen_Byzantium_Gaul_Expansion1_MODE.lua</File>
+		<File>UI/Replacements/GovernmentScreen_Byzantium_Gaul_Expansion2_MODE.lua</File>
+		<File>UI/Loaders/TutorialLoader_Byzantium_Gaul_MODE.lua</File>
+	</Files>
+</Mod>

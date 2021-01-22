@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BABYLON_STK">
+			<Text>Babylon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BORSIPPA">
+			<Text>Borsippa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MASHKAN_SHAPIR">
+			<Text>Mashkan-shapir</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ESHNUNNA">
+			<Text>Eshnunna</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MALGIUM">
+			<Text>Malgium</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DUR_KURIGALZU">
+			<Text>Dur-Kurigalzu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MARI">
+			<Text>Mari</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KARKAR">
+			<Text>Karkar</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_RAPIQUM">
+			<Text>Rapiqum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DURMUTI">
+			<Text>Durmuti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TUTTUL">
+			<Text>Tuttul</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KAR_SHAMASH">
+			<Text>Kar-Shamash</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_OPIS">
+			<Text>Opis</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SHADUPPUM">
+			<Text>Shaduppum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NERIBTUM">
+			<Text>Neribtum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HARADUM">
+			<Text>Haradum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ANA">
+			<Text>Ana</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TUTUB">
+			<Text>Tutub</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HIT">
+			<Text>Hit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KAZALLU">
+			<Text>Kazallu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DINIKTUM">
+			<Text>Diniktum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DER">
+			<Text>Der</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NAMSUM">
+			<Text>Namsum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TERQA">
+			<Text>Terqa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HARBU">
+			<Text>Harbu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KAKKULATUM">
+			<Text>Kakkulatum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ELIP">
+			<Text>Elip</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YABLIYA">
+			<Text>Yabliya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HIRITUM">
+			<Text>Hiritum</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TELL_WILAYA">
+			<Text>Tell Wilaya</Text>
+		</Replace>
+		<!-- City-States-->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_AYUTTHAYA">
+			<Text>Ayutthaya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHINGUETTI">
+			<Text>Chinguetti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_JOHANNESBURG">
+			<Text>Johannesburg</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_NALANDA">
+			<Text>Nalanda</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAMARKAND">
+			<Text>Samarkand</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_WOLIN">
+			<Text>Wolin</Text>
+		</Replace>
+		<!-- AI Agenda Text -->
+		<Replace Language="en_US" Tag="LOC_AGENDA_HAMMURABI_DISTRICTS_NAME">
+			<Text>Cradle of Civilization</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_HAMMURABI_DISTRICTS_DESCRIPTION">
+			<Text>Hammurabi prefers to build each different kind of district, and likes other Civilizations who do the same. He dislikes those who focus heavily on one district type or who do not build all types available</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT_POSITIVE">
+			<Text>Hammurabi likes civilizations who have lots of districts of different types</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT_NEGATIVE">
+			<Text>Hammurabi dislikes civilizations who do not have many districts or who specialize in one type</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT">
+			<Text>Hammurabi likes civilizations who have lots of districts of different types</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_KUDO_EXIT_HAMMURABI_ANY">
+			<Text>Your civilization thrives through its diversity of structures</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_WARNING_EXIT_HAMMURABI_ANY">
+			<Text>Overspecialization is a curse to all manking</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,2291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="pt_BR">
+      <Text>Hipódromo|Hipódromos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="pt_BR">
+      <Text>Ópido|Ópidos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="pt_BR">
+      <Text>Bizâncio</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="pt_BR">
+      <Text>Império Bizantino</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="pt_BR">
+      <Text>bizantino|bizantina|bizantinos|bizantinas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="pt_BR">
+      <Text>Gália</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="pt_BR">
+      <Text>Império da Gália</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="pt_BR">
+      <Text>gaulês|gaulesa|gauleses|gaulesas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="pt_BR">
+      <Text>Basílio II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="pt_BR">
+      <Text>Ambiórix</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="pt_BR">
+      <Text>Durante uma Era de Ouro, ganha um espaço de política de base extra e pode usar Políticas da Idade das Trevas. +50% de [ICON_Production] produção para edificações defensivas.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="pt_BR">
+      <Text>Táxis</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="pt_BR">
+      <Text>As unidades recebem +3 de [ICON_Strength] força de combate ou [ICON_Religion] força religiosa para cada Cidade Sagrada convertida para a Religião de Bizâncio (incluindo a Cidade Sagrada de Bizâncio). A Religião de Bizâncio se espalha para as cidades próximas ao derrotar uma unidade pertencente a uma civilização ou cidade-estado inimiga. +1 ponto de [ICON_GreatProphet] Grande Profeta de cidades com um distrito de Local Sagrado.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="pt_BR">
+      <Text>Combate nas Cidades Sagradas</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="pt_BR">
+      <Text>Receba +3 de [ICON_Strength] força de combate para cada Cidade Sagrada convertida à sua Religião, e a Religião de Bizâncio se espalha para as cidades próximas quando a unidade de uma grande civilização é derrotada. (Táxis)</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="pt_BR">
+      <Text>Força religiosa de Cidade Sagrada</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="pt_BR">
+      <Text>Receba +3 de [ICON_RELIGION] força religiosa para cada Cidade Sagrada convertida à sua Religião.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="pt_BR">
+      <Text>Um distrito exclusivo de Bizâncio. Substitui o distrito de Complexo de Entretenimento, concede +3 de [ICON_Amenities] serviços e é mais barato de se construir. Quando o Hipódromo e as edificações neste distrito são construídos, recebe uma unidade de Cavalaria Pesada.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="pt_BR">
+      <Text>Um distrito exclusivo de Bizâncio. Substitui o distrito de Complexo de Entretenimento, concede +3 de [ICON_Amenities] serviços e é mais barato de se construir. Quando o Hipódromo e as edificações neste distrito são construídos, recebe uma unidade de Cavalaria Pesada. Não pode ser construído em uma cidade com Parque Aquático.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="pt_BR">
+      <Text>Um distrito exclusivo de Bizâncio. Substitui o distrito de Complexo de Entretenimento, concede +3 de [ICON_Amenities] serviços e é mais barato de se construir. Quando o Hipódromo e as edificações neste distrito são construídos, recebe uma unidade de Cavalaria Pesada. Unidades concedidas a partir deste distrito não possuem custo de manutenção de recurso. Não pode ser construído em uma cidade com Parque Aquático.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="pt_BR">
+      <Text>Hipódromo</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="pt_BR">
+      <Text>Esta unidade não custa recursos estratégicos por turno do distrito do Hipódromo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="pt_BR">
+      <Text>Porfirogêneto</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="pt_BR">
+      <Text>Unidades de Cavalaria Leve e Pesada causam dano total contra cidades que seguem a mesma religião de Bizâncio. Receba a unidade exclusiva Tagma ao descobrir o cívico Direito Divino.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="pt_BR">
+      <Text>Seus inimigos hão de temê-lo, Rei Basílio II, pois você foi forjado no fogo. Que sua astúcia e sua ambição afiem sua lâmina. Proteja sua honra e resista aos inimigos, tanto dentro quanto fora de suas muralhas.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade da Era Clássica exclusiva de Bizâncio que substitui o Quadrirreme, possui alcance adicional e recebe +10 de [ICON_Strength] força de combate contra unidades.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="pt_BR">
+      <Text>Fogo Grego</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="pt_BR">
+      <Text>Receba +10 de [ICON_Strength] força de combate contra unidades.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade da Era Medieval exclusiva de Basílio II que substitui o Cavaleiro. Unidades terrestres dentro de 1 painel da Tagma recebem +4 de [ICON_Strength] força de combate ou [ICON_RELIGION] força religiosa.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="pt_BR">
+      <Text>Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="pt_BR">
+      <Text>Unidades terrestres dentro de 1 painel da Tagma recebem +4 de [ICON_Strength] força de combate ou [ICON_RELIGION] força religiosa.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="pt_BR">
+      <Text>Força de combate de Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="pt_BR">
+      <Text>+4 de [ICON_Strength] força de combate quando estiver dentro de 1 painel de Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="pt_BR">
+      <Text>Força religiosa de Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="pt_BR">
+      <Text>+4 de [ICON_RELIGION] força religiosa quando estiver dentro de 1 painel de Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="pt_BR">
+      <Text>Porfirogênito</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="pt_BR">
+      <Text>Causa dano total contra cidades que seguem a mesma religião de Bizâncio. (Porfirogênito)</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="pt_BR">
+      <Text>Cultura de Hallstatt</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="pt_BR">
+      <Text>Minas concedem um pequeno bônus de adjacência para todos os distritos, uma explosão cultural de território sem dono, e recebem +1 de [ICON_CULTURE] cultura. Distritos especiais não recebem um pequeno bônus de adjacência por serem adjacentes a outro distrito, e esses distritos não podem ser construídos adjacentes ao Centro da Cidade.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="pt_BR">
+      <Text>Um distrito exclusivo da Gália que é mais barato e fica disponível antes do distrito que substitui, a Zona Industrial. O distrito do Ópido pode ser defendido com um ataque a distância. Quando o primeiro Ópido é construído, a tecnologia Aprendizagem é desbloqueada.[NEWLINE][NEWLINE]+2 de bônus de adjacência de [ICON_Production] produção de Pedreiras e recursos estratégicos.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="pt_BR">
+      <Text>Rei dos Eburões</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="pt_BR">
+      <Text>Sua civilização recebe [ICON_CULTURE] cultura igual a 20% do custo da unidade quando um não civil é treinado. Unidades corpo a corpo, anticavalaria e a distância recebem +2 de [ICON_Strength] força de combate para cada unidade adjacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="pt_BR">
+      <Text>Ambiórix</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="pt_BR">
+      <Text>Receba +2 de [ICON_Strength] força de combate para cada unidade adjacente. (Rei dos Eburões)</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="pt_BR">
+      <Text>Sua inteligência lhe será útil, Ambiórix. Quando seus exércitos forem pouco numerosos, use sua cabeça e a língua afiada para tomar sua terra de volta. Seus aliados o seguirão, e sua forte lança fragmentará a resistência dos inimigos. Lute, grande rei guerreiro!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade exclusiva dos gauleses da Era Antiga que substitui o Guerreiro. Esta unidade possui maior custo e recebe +10 de [ICON_Strength] força de combate contra unidades com uma maior força de combate base. +5 de [ICON_Strength] força de combate contra defesas de distritos.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="pt_BR">
+      <Text>Gesetas</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="pt_BR">
+      <Text>Receba +10 de [ICON_Strength] força de combate contra unidades com uma maior força de combate base. +5 de [ICON_Strength] força de combate contra defesas de distritos.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="pt_BR">
+      <Text>Terras Altas</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="pt_BR">
+      <Text>Uma grande região dominada por colinas e cadeias de montanhas.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="pt_BR">
+      <Text>Modo Eras Espetaculares</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="pt_BR">
+      <Text>Este modo de jogo torna a Idade das Trevas e a Era de Ouro mais potentes do que nunca. As Eras Heroicas foram removidas, e os jogadores só podem ficar em uma Era Normal na primeira era. Depois disso, eles receberão ou uma Idade das Trevas ou uma Era de Ouro.[NEWLINE][NEWLINE]Em vez de fazer Dedicações, os jogadores terão acesso a novas políticas sociais poderosas com base em suas eras. As Políticas das Trevas retornam com efeitos potentes atualizados. Políticas de Ouro inéditas estarão disponíveis para aqueles que chegarem a uma Era de Ouro. Para continuar ganhando Pontuação da Era, conclua Tecnologias e Cívicos e ganhe promoções de unidades militares.[NEWLINE][NEWLINE]As Idades das Trevas são particularmente perigosas. Uma parte do império dos jogadores na Idade das Trevas se transformará imediatamente em cidades livres, que podem exercer pressão sobre outras cidades. Em configurações de dificuldade mais fáceis, jogadores IA perdem diversas cidades. Já nas mais difíceis, são os jogadores humanos que perdem. Em Príncipe, eles perdem uma quantia igual.[NEWLINE][NEWLINE]A habilidade exclusiva da civilização da Geórgia é nova, para corresponder às regras exclusivas do modo.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="pt_BR">
+      <Text>+{1_Amount} de força de combate do traço Táxis</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="pt_BR">
+      <Text>+{1_Amount} de força religiosa do traço Táxis</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="pt_BR">
+      <Text>+{1_num} de [ICON_Culture] cultura do distrito do Hipódromo adjacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="pt_BR">
+      <Text>+{1_Amount} de força de combate contra unidades.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="pt_BR">
+      <Text>+{1_Amount} de força de combate quando estiver dentro de 1 painel de Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="pt_BR">
+      <Text>+{1_Amount} de força religiosa quando estiver dentro de 1 painel de Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="pt_BR">
+      <Text>+{1_Amount} de força de combate do traço Rei dos Eburões</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="pt_BR">
+      <Text>+{1_Amount} de força de combate contra unidades com uma maior força de combate base.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="pt_BR">
+      <Text>+{1_Amount} de força de combate contra defesas de distrito.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="pt_BR">
+      <Text>Drómon</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="pt_BR">
+      <Text>Tagma</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="pt_BR">
+      <Text>Gesetas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="fr_FR">
+      <Text>Hippodrome|Hippodromes</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="fr_FR">
+      <Text>Oppidum|Oppida</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="fr_FR">
+      <Text>Byzance</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="fr_FR">
+      <Text>Empire byzantin</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="fr_FR">
+      <Text>byzantin|byzantine|byzantins|byzantines</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="fr_FR">
+      <Text>Gaule</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="fr_FR">
+      <Text>Empire des Gaules</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="fr_FR">
+      <Text>gaulois|gauloise|gaulois|gauloises</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="fr_FR">
+      <Text>Basile II
+</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="fr_FR">
+      <Text>Ambiorix</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="fr_FR">
+      <Text>Pendant un âge d'or, profite d'un emplacement de doctrine joker bonus et peut utiliser des doctrines d'âge sombre. [ICON_Production] Production +50 % pour les bâtiments défensifs.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="fr_FR">
+      <Text>Taxis</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat ou [ICON_Religion] puissance religieuse +3 pour les unités pour chaque ville sainte convertie à la religion byzantine (y compris la ville sainte de Byzance). La religion de Byzance se propage aux villes voisines lorsque l'unité d'une civilisation ou d'une cité-état ennemie est vaincue. Points de [ICON_GreatProphet] prophète illustre +1 pour les villes possédant un lieu saint.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="fr_FR">
+      <Text>Combat des villes saintes</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +3 pour chaque ville sainte convertie à votre religion, et la religion byzantine se propage aux villes voisines quand une unité d'une civilisation majeure est vaincue (taxis).</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="fr_FR">
+      <Text>Puissance religieuse des villes saintes</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_RELIGION] Puissance religieuse +3 pour chaque ville sainte convertie à votre religion.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="fr_FR">
+      <Text>Quartier exclusif à Byzance. Remplace le complexe de loisirs à moindre coût, [ICON_Amenities] Activités +3. +1 unité de cavalerie lourde pour la construction de l'hippodrome et des bâtiments de ce quartier.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="fr_FR">
+      <Text>Quartier exclusif à Byzance, remplaçant le complexe de loisirs à moindre coût. [ICON_Amenities] Activités +3. Octroie une unité de cavalerie lourde pour sa construction et celle de ses bâtiments. La ville ne doit pas posséder de parc aquatique.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="fr_FR">
+      <Text>Quartier exclusif à Byzance, remplaçant le complexe de loisirs à moindre coût. [ICON_Amenities] Activités +3. Octroie une unité de cavalerie lourde pour sa construction et celle de ses bâtiments. L'entretien des unités gagnées grâce à ce quartier est gratuit. La ville ne doit pas posséder de parc aquatique.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="fr_FR">
+      <Text>Hippodrome</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="fr_FR">
+      <Text>Cette unité ne consomme aucune ressource stratégique par tour avec le quartier de l'hippodrome.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="fr_FR">
+      <Text>Porphyrogénnētos</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="fr_FR">
+      <Text>Les unités de cavalerie lourdes et légères font 100 % de dégâts aux villes pratiquant la même religion que Byzance. Le tagma, unité exclusive, est débloqué à la découverte du droit divin.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="fr_FR">
+      <Text>Vous inspirerez la crainte à vos ennemis, Basile II, car votre volonté a été forgée dans les flammes. Que votre sens politique et votre ambition aiguisent votre lame. Défendez ce qui fait votre fierté et affrontez vos ennemis, qu'ils soient intérieurs ou extérieurs.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="fr_FR">
+      <Text>Unité de l'ère classique exclusive aux Byzantins qui remplace la quadrirème et a une plus grande portée. [ICON_Strength] Puissance de combat +10 contre les unités.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="fr_FR">
+      <Text>Feu grégeois</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +10 contre les unités.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="fr_FR">
+      <Text>Unité du Moyen-âge exclusive à Basile II qui remplace le chevalier. [ICON_Strength] Puissance de combat ou [ICON_RELIGION] religieuse +4 pour les unités terrestres dans un rayon d'une case.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="fr_FR">
+      <Text>Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat ou [ICON_RELIGION] puissance religieuse +4 pour les unités terrestres dans un rayon d'une case autour du tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="fr_FR">
+      <Text>Puissance de combat du tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +4 dans un rayon d'une case autour du tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="fr_FR">
+      <Text>Puissance religieuse du tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_RELIGION] Puissance religieuse +4 dans un rayon d'une case autour du tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="fr_FR">
+      <Text>Porphyrogénnētos</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="fr_FR">
+      <Text>100 % de dégâts aux villes ayant adopté la même religion que Byzance (Porphyrogénnētos).</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="fr_FR">
+      <Text>Culture de Hallstatt</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_CULTURE] Culture +1 pour les mines, qui offrent un bonus de proximité mineur à tous les quartiers et une bombe culturelle sur les territoires non possédés. Les quartiers spécialisés ne reçoivent pas de bonus de proximité mineur à côté d'un autre quartier et ces quartiers ne peuvent pas être adjacents au centre-ville.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="fr_FR">
+      <Text>Quartier exclusif aux Gaulois remplaçant la zone industrielle à moindre coût et plus tôt dans la partie. Le quartier de l'oppidum peut être défendu par des attaques à distance. La construction du premier oppidum débloque l'apprentissage. [NEWLINE][NEWLINE]Bonus de proximité : [ICON_Production] production +2 s'il est adjacent à une carrière ou une ressource stratégique.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="fr_FR">
+      <Text>Roi des Éburons</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="fr_FR">
+      <Text>Bonus de [ICON_CULTURE] culture égal à 20 % du coût de l'unité quand une unité non civile est formée. Pour chaque unité adjacente, [ICON_Strength] puissance de combat +2 pour les unités de combat rapproché, anti-cavalerie et d'attaque à distance.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="fr_FR">
+      <Text>Ambiorix</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +2 pour chaque unité adjacente (Roi des Éburons).</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="fr_FR">
+      <Text>Votre présence d'esprit vous sera fort utile, Ambiorix. Là où vos armées échouent, vous parviendrez à reprendre votre terre par votre intelligence et par votre ruse. Vos alliés vous suivront et votre bras aguerri brisera la résistance de vos ennemis. Sus à l'ennemi, roi-guerrier !</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="fr_FR">
+      <Text>Unité gauloise de l'Antiquité qui remplace le guerrier, pour un coût plus élevé. [ICON_Strength] Puissance de combat +10 contre les unités ayant une puissance de combat de base plus élevée. [ICON_Strength] Puissance de combat +5 contre les défenses de quartier.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="fr_FR">
+      <Text>Gésates</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +10 contre les unités ayant une Puissance de combat de base supérieure. [ICON_Strength] Puissance de combat +5 contre les défenses de quartiers.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="fr_FR">
+      <Text>Plateaux</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="fr_FR">
+      <Text>Une grande région dominée par des collines et des chaînes de montagnes.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="fr_FR">
+      <Text>Mode Âges dramatiques</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="fr_FR">
+      <Text>Ce mode de jeu renforce encore plus les âges sombres et les âges d'or. Les âges héroïques n'existent plus, et les joueurs ne sont dans un âge normal qu'au cours de la première ère. Toutes les suivantes déclencheront soit un âge sombre, soit un âge d'or. [NEWLINE][NEWLINE]Au lieu de prendre des engagements, les joueurs ont accès à de puissantes nouvelles doctrines en fonction de l'âge déclenché. Les doctrines sombres sont de retour, accompagnées de puissants nouveaux effets, et des doctrines d'âge d'or font également leur apparition. Pour faire grimper votre score d'ère, complétez des technologies ou des dogmes, et gagnez des promotions avec vos unités militaires. [NEWLINE][NEWLINE]Les âges sombres sont particulièrement dangereux : les joueurs voient une partie de leur empire immédiatement transformée en villes libres, qui peuvent exercer une pression sur les autres villes. Aux niveaux les plus faciles, l'IA perd un grand nombre de villes ; aux niveaux les plus durs, c'est au tour des joueurs. En difficulté "Prince", le nombre de villes perdues est égal. [NEWLINE][NEWLINE]La compétence de civilisation exclusive à la Géorgie est nouvelle, pour correspondre aux règles du mode.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="fr_FR">
+      <Text>Taxis : Puissance de combat +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="fr_FR">
+      <Text>Taxis : Puissance religieuse +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="fr_FR">
+      <Text>Hippodrome adjacent : [ICON_Culture] culture +{1_num}.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="fr_FR">
+      <Text>Puissance de combat +{1_Amount} contre les unités.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="fr_FR">
+      <Text>Puissance de combat +{1_Amount} dans un rayon d'une case du tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="fr_FR">
+      <Text>Puissance religieuse +{1_Amount} dans un rayon d'une case du tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="fr_FR">
+      <Text>Roi des Éburons : Puissance de combat +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="fr_FR">
+      <Text>Puissance de combat +{1_Amount} contre les unités ayant une puissance de combat de base supérieure.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="fr_FR">
+      <Text>Puissance de combat +{1_Amount} contre les défenses de quartier.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="fr_FR">
+      <Text>Dromon|Dromons</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="fr_FR">
+      <Text>Tagma|Tagmata</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="fr_FR">
+      <Text>Gésates</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="de_DE">
+      <Text>Hippodrom|Hippodrom|Hippodrom|Hippodroms|Hippodrom</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="de_DE">
+      <Text>Oppidum|Oppidum|Oppidum|Oppidums|Oppidum</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="de_DE">
+      <Text>Byzanz|Byzanz|Byzanz|Byzanz'|Byzanz</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="de_DE">
+      <Text>Byzantinisches Reich|Byzantinische Reich|Byzantinischen Reich|Byzantinischen Reichs|Byzantinische Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="de_DE">
+      <Text>Byzantinisch|Byzantinischen|Byzantinische|Byzantinischer|Byzantinisches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="de_DE">
+      <Text>Gallien|Gallien|Gallien|Galliens|Gallien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="de_DE">
+      <Text>Gallisches Reich|Gallische Reich|Gallischen Reich|Gallischen Reichs|Gallische Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="de_DE">
+      <Text>Gallisch|Gallischen|Gallische|Gallischer|Gallisches</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="de_DE">
+      <Text>Basilius II.</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="de_DE">
+      <Text>Ambiorix</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="de_DE">
+      <Text>Erhält während eines Goldenen Zeitalters einen zusätzlichen Joker-Politikplatz und kann "Dunkles Zeitalter"-Politiken nutzen. +50 % [ICON_Production] Produktion für Verteidigungsgebäude.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="de_DE">
+      <Text>Ordnung</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="de_DE">
+      <Text>Einheiten erhalten +3 [ICON_Strength] Kampfstärke oder [ICON_Religion] religiöse Stärke für jede heilige Stadt, die zur Religion von Byzanz bekehrt wird (einschließlich der byzantinischen heiligen Stadt). Die Religion von Byzanz breitet sich in nahegelegene Städte aus, wenn eine feindliche Einheit einer Zivilisation oder eines Stadtstaats besiegt wird. +1 [ICON_GreatProphet] Großer-Prophet-Punkt durch Städte mit einer Heiligen Stätte.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="de_DE">
+      <Text>Heilige-Stadt-Kampf</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="de_DE">
+      <Text>Erhaltet +3 [ICON_Strength] Kampfstärke für jede heilige Stadt, die zu Eurer Religion konvertiert ist. Außerdem wird die Religion von Byzanz auf Städte in der Nähe verbreitet, wenn eine Einheit einer großen Zivilisation besiegt wird. (Ordnung)</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="de_DE">
+      <Text>Heilige Stadt: Religiöse Stärke</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="de_DE">
+      <Text>Erhaltet +3 [ICON_RELIGION] religiöse Stärke für jede heilige Stadt, die zu Eurer Religion konvertiert ist.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="de_DE">
+      <Text>Ein Bezirk, der ausschließlich Byzanz zur Verfügung steht. Ersetzt den Unterhaltungskomplex-Bezirk, bringt +3 [ICON_Amenities] Annehmlichkeiten und ist günstiger zu bauen. Wenn das Hippodrom und Gebäude in diesem Bezirk gebaut werden, erhaltet Ihr eine Schwere Kavallerie-Einheit.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="de_DE">
+      <Text>Ein Bezirk, der ausschließlich Byzanz zur Verfügung steht. Ersetzt den Unterhaltungskomplex-Bezirk, bringt +3 [ICON_Amenities] Annehmlichkeiten und ist günstiger zu bauen. Wenn das Hippodrom und Gebäude in diesem Bezirk gebaut werden, erhaltet Ihr eine Schwere Kavallerie-Einheit. Kann nicht in Städten mit einem Wasserpark errichtet werden.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="de_DE">
+      <Text>Ein Bezirk, der ausschließlich Byzanz zur Verfügung steht. Ersetzt den Unterhaltungskomplex-Bezirk, bringt +3 [ICON_Amenities] Annehmlichkeiten und ist günstiger zu bauen. Wenn das Hippodrom und Gebäude in diesem Bezirk gebaut werden, erhaltet Ihr eine Schwere Kavallerie-Einheit. Einheiten, die durch diesen Bezirk gewährt werden, verbrauchen für den Unterhalt keine Ressourcen. Kann nicht in Städten mit einem Wasserpark errichtet werden.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="de_DE">
+      <Text>Hippodrom</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="de_DE">
+      <Text>Diese Einheit kostet keine strategischen Ressourcen pro Runde aus dem Hippodrom-Bezirk.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="de_DE">
+      <Text>Purpurgeboren</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="de_DE">
+      <Text>Schwere und Leichte Kavallerieeinheiten verursachen in Städten, die derselben Religion wie Byzanz anhängen, den vollen Schaden. Erlangt die Spezialeinheit Tagma, wenn die Ausrichtung Göttliches Recht entdeckt wurde.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="de_DE">
+      <Text>Eure Feinde werden Euch fürchten, König Basilius II., denn Ihr wurdet im Feuer geschmiedet. Lasst Euren Scharfsinn und Eure Ambitionen Euer Schwert schärfen. Schützt Euren Stolz und seid standhaft gegenüber Euren Feinden - innerhalb Eurer Mauern und darüber hinaus.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="de_DE">
+      <Text>Byzantinische Spezialeinheit der Klassik, die die Quadrireme mit größerer Reichweite ersetzt und +10 [ICON_Strength] Kampfstärke gegen Einheiten erhält.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="de_DE">
+      <Text>Griechisches Feuer</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="de_DE">
+      <Text>Erhaltet +10 [ICON_Strength] Kampfstärke gegen Einheiten.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="de_DE">
+      <Text>Spezialeinheit des Mittelalters von Basilius II., die den Ritter ersetzt. Landeinheiten innerhalb von 1 Geländefeld Entfernung zum Tagma erhalten +4 [ICON_Strength] Kampfstärke oder [ICON_RELIGION] religiöse Stärke.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="de_DE">
+      <Text>Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="de_DE">
+      <Text>Landeinheiten innerhalb eines Geländefelds des Tagma erhalten +4 [ICON_Strength] Kampfstärke oder [ICON_RELIGION] religiöse Stärke.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="de_DE">
+      <Text>Tagma: Kampfstärke</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="de_DE">
+      <Text>+4 [ICON_Strength] Kampfstärke innerhalb eines Geländefelds des Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="de_DE">
+      <Text>Tagma: religiöse Stärke</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="de_DE">
+      <Text>+4 [ICON_RELIGION] religiöse Stärke innerhalb eines Geländefelds des Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="de_DE">
+      <Text>Purpurgeboren</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="de_DE">
+      <Text>Verursacht vollständigen Schaden beim Angriff auf Städte, die derselben Religion wie Byzanz anhängen. (Purpurgeboren)</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="de_DE">
+      <Text>Hallstattkultur</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="de_DE">
+      <Text>Minen gewähren allen Bezirken einen kleinen Nachbarschaftsbonus, erzeugen einen Kulturschock auf herrenlosem Gebiet und erhalten +1 [ICON_CULTURE] Kultur. Spezialbezirke erhalten keinen kleinen Nachbarschaftsbonus, wenn sie an einen anderen Bezirk angrenzen, und sie dürfen nicht an das Stadtzentrum angrenzen.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="de_DE">
+      <Text>Ein Bezirk, der ausschließlich Gallien zur Verfügung steht und günstiger sowie früher verfügbar ist als der Bezirk, den er ersetzt, das Industriegebiet. Der Oppidum-Bezirk kann verteidigt werden und verfügt über einen Fernangriff. Mit dem Bau des ersten Oppidums wird die Lehrlingstechnologie freigeschaltet.[NEWLINE][NEWLINE]+2 Nachbarschaftsbonus auf die [ICON_Production] Produktion durch Steinbrüche und strategische Ressourcen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="de_DE">
+      <Text>König der Eburonen</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="de_DE">
+      <Text>Eure Zivilisation erhält [ICON_CULTURE] Kultur in Höhe von 20 % der Kosten der Einheit, wenn eine nicht zivile Einheit ausgebildet wird. Nahkampf-, Kavallerie-Abwehr- und Fernkampfeinheiten erhalten +2 [ICON_Strength] Kampfstärke für jede angrenzende Kampfeinheit.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="de_DE">
+      <Text>Ambiorix</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="de_DE">
+      <Text>Erhaltet +2 [ICON_Strength] Kampfstärke für jede angrenzende Einheit. (König der Eburonen)</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="de_DE">
+      <Text>Eure Klugheit wird Euch dienlich sein, Ambiorix. Setzt Euren Kopf und Eure goldene Zunge dort ein, wo Eure Armeen zu klein sind, um Euer Land zu behaupten. Eure Verbündeten werden Euch folgen und Euer starker Speerarm wird den Widerstand Eurer Feinde zerschmettern. Kämpft, großer Kriegerkönig!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="de_DE">
+      <Text>Gallische Spezialeinheit der Antike, die den Krieger ersetzt. Diese Einheit ist teurer und erhält +10 [ICON_Strength] Kampfstärke beim Kampf gegen Einheiten mit höherer Grund-Kampfstärke. +5 [ICON_Strength] Kampfstärke gegen Bezirk-Verteidigungen.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="de_DE">
+      <Text>Gaesaten</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="de_DE">
+      <Text>Erhaltet +10 [ICON_Strength] Kampfstärke gegen Einheiten mit einer höheren Basis-Kampfstärke. +5 [ICON_Strength] Kampfstärke gegen Bezirk-Verteidigungen.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="de_DE">
+      <Text>Hochland</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="de_DE">
+      <Text>Ein großes Gebiet dominiert von Hügeln und Bergketten.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="de_DE">
+      <Text>Dramatische-Zeiten-Modus</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="de_DE">
+      <Text>Dieser Spielmodus macht Dunkle Zeitalter und Goldene Zeitalter mächtiger als je zuvor. Heldenzeitalter wurden entfernt und ein normales Zeitalter ist nur ganz am Anfang möglich. Danach verdienen alle Spieler jeweils ein Dunkles oder ein Goldenes Zeitalter.[NEWLINE][NEWLINE]Statt Widmungen erhalten die Spieler je nach Zeitalter Zugriff auf mächtige neue Sozialpolitiken. Dunkle Politiken kehren mit mächtigen Effekten zurück und die brandneuen Goldenen Politiken sind für all jene verfügbar, die ein Goldenes Zeitalter erreichen. Erforscht Technologien und Ausrichtungen und verdient Beförderungen mit Militäreinheiten, um Zeitalterpunkte zu sammeln.[NEWLINE][NEWLINE]Dunkle Zeitalter sind besonders gefährlich, da sich ein Teil des Reiches sofort als freie Städte abspaltet. Freie Städte können Druck auf andere Städte ausüben. Je nach Schwierigkeitsgrad verlieren entweder die KI-Spieler (leicht) oder die menschlichen Spieler (schwer) besonders viele Städte. Bei 'Prinz' verlieren menschliche und KI-Spieler gleich viele Städte.[NEWLINE][NEWLINE]Georgiens einzigartige Zivilisationsfähigkeit ist brandneu, um perfekt zu den einzigartigen Regeln des Modus zu passen.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="de_DE">
+      <Text>+{1_Amount} Kampfstärke durch Eigenschaft "Ordnung"</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="de_DE">
+      <Text>+{1_Amount} religiöse Stärke durch Eigenschaft "Ordnung"</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="de_DE">
+      <Text>+{1_num} [ICON_Culture] Kultur durch angrenzenden Hippodrom-Bezirk.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="de_DE">
+      <Text>+{1_Amount} Kampfstärke gegen Einheiten.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="de_DE">
+      <Text>+{1_Amount} Kampfstärke im Umkreis von 1 Geländefeld um das Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="de_DE">
+      <Text>+{1_Amount} religiöse Stärke im Umkreis von 1 Geländefeld um das Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="de_DE">
+      <Text>+{1_Amount} Kampfstärke durch Eigenschaft "König der Eburonen"</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="de_DE">
+      <Text>+{1_Amount} Kampfstärke gegen Einheiten mit höherer Grund-Kampfstärke.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="de_DE">
+      <Text>+{1_Amount} Kampfstärke gegen Bezirk-Verteidigungen.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="de_DE">
+      <Text>Dromone|Dromone|Dromone|Dromone|Dromone</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="de_DE">
+      <Text>Tagma|Tagma|Tagma|Tagmas|Tagma</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="de_DE">
+      <Text>Gaesate|Gaesaten|Gaesaten|Gaesaten|Gaesate</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="it_IT">
+      <Text>Ippodromo|l'Ippodromo|un Ippodromo</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="it_IT">
+      <Text>Oppidum|l'Oppidum|un Oppidum</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="it_IT">
+      <Text>Bisanzio|di Bisanzio|a Bisanzio|Bisanzio|da Bisanzio</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="it_IT">
+      <Text>Impero bizantino|dell'Impero bizantino|all'Impero bizantino|l'Impero bizantino|dall'Impero bizantino</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="it_IT">
+      <Text>bizantino|bizantina|bizantini|bizantine</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="it_IT">
+      <Text>Galli|dei Galli|ai Galli|i Galli|dai Galli</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="it_IT">
+      <Text>Impero gallico|dell'Impero gallico|all'Impero gallico|l'Impero gallico|dall'Impero gallico</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="it_IT">
+      <Text>gallico|gallica|gallici|galliche</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="it_IT">
+      <Text>Basilio II|di Basilio II|a Basilio II|Basilio II|da Basilio II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="it_IT">
+      <Text>Ambiorix|di Ambiorix|ad Ambiorix|Ambiorix|da Ambiorix</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="it_IT">
+      <Text>In un'Età dell'oro ottiene uno slot extra per politiche jolly e può adottare anche Politiche Età oscura. +50% alla [ICON_Production] Produzione per la costruzione di edifici difensivi.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="it_IT">
+      <Text>Taxis</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="it_IT">
+      <Text>Le unità ricevono +3 alla [ICON_Strength] Forza di combattimento o alla [ICON_Religion] Forza religiosa per ogni Città Santa convertita alla religione di Bisanzio (compresa la stessa Città Santa bizantina). Inoltre la religione di Bisanzio viene diffusa nelle città vicine ogni volta che un'unità di una civiltà o città-stato nemica viene sconfitta. +1 punto [ICON_GreatProphet] Grande Profeta da ogni città che ha un distretto Luogo Santo.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="it_IT">
+      <Text>Forza di combattimento dalla Città Santa</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="it_IT">
+      <Text>Riceve +3 alla [ICON_Strength] Forza di combattimento per ogni Città Santa convertita alla tua religione. Inoltre la religione di Bisanzio viene diffusa nelle città vicine ogni volta che un'unità di una civiltà principale viene sconfitta (Taxis)</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="it_IT">
+      <Text>Forza religiosa dalla Città Santa</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="it_IT">
+      <Text>Riceve +3 alla [ICON_RELIGION] Forza religiosa per ogni Città Santa convertita alla tua religione.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="it_IT">
+      <Text>Un distretto esclusivo bizantino che sostituisce il Quartiere dei divertimenti. Fornisce +3 [ICON_Amenities] Attrattiva ed è meno costoso da costruire. Alla costruzione dell'Ippodromo e degli edifici nel distretto ricevi un'unità di Cavalleria pesante.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="it_IT">
+      <Text>Un distretto esclusivo bizantino che sostituisce il Quartiere dei divertimenti. Fornisce +3 [ICON_Amenities] Attrattiva ed è meno costoso da costruire. Alla costruzione dell'Ippodromo e degli edifici nel distretto ricevi un'unità di Cavalleria pesante. Non può essere costruito in una città che ha un Parco acquatico.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="it_IT">
+      <Text>Un distretto esclusivo bizantino che sostituisce il Quartiere dei divertimenti. Fornisce +3 [ICON_Amenities] Attrattiva ed è meno costoso da costruire. Alla costruzione dell'Ippodromo e degli edifici nel distretto ricevi un'unità di Cavalleria pesante. Le unità fornite da questo distretto non hanno alcun costo di mantenimento in risorse. Non può essere costruito in una città che ha un Parco acquatico.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="it_IT">
+      <Text>Ippodromo</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="it_IT">
+      <Text>Quest'unità non richiede alcuna risorsa strategica grazie al distretto Ippodromo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="it_IT">
+      <Text>Porfirogenito</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="it_IT">
+      <Text>Gli attacchi della cavalleria leggera e pesante infliggono il 100% dei danni alle città che seguono la stessa religione di Bisanzio. La scoperta del Progresso civico Diritto Divino sblocca l'unità esclusiva Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="it_IT">
+      <Text>I nemici ti temono, re Basilio II, perché sei stato forgiato nel fuoco. Lascia che la tua astuzia e la tua ambizione affilino la tua lama. Proteggi il tuo orgoglio ed ergiti contro i nemici, all'interno delle tue mura e oltre.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva bizantina di epoca classica. Sostituisce la Quadrireme, ma ha un raggio più ampio e riceve un bonus di +10 alla [ICON_Strength] Forza di combattimento contro le unità.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="it_IT">
+      <Text>Fuoco greco</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="it_IT">
+      <Text>+10 alla [ICON_Strength] Forza di combattimento contro le unità.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="it_IT">
+      <Text>Unità di epoca medievale, esclusiva di Basilio II, che sostituisce il Cavaliere. Le unità terrestri entro 1 casella dal Tagma hanno +4 alla [ICON_Strength] Forza di combattimento o alla [ICON_RELIGION] Forza religiosa.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="it_IT">
+      <Text>Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="it_IT">
+      <Text>Le unità terrestri in un raggio di 1 casella dal Tagma ricevono +4 alla [ICON_Strength] Forza di combattimento o alla [ICON_RELIGION] Forza religiosa.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="it_IT">
+      <Text>Forza di combattimento dal Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="it_IT">
+      <Text>+4 alla [ICON_Strength] Forza di combattimento in un raggio di 1 casella dal Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="it_IT">
+      <Text>Forza religiosa dal Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="it_IT">
+      <Text>+4 alla [ICON_RELIGION] Forza religiosa in un raggio di 1 casella dal Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="it_IT">
+      <Text>Porfirogenito</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="it_IT">
+      <Text>Infligge il 100% dei danni quando attacca città che seguono la stessa religione di Bisanzio (Porfirogenito)</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="it_IT">
+      <Text>Cultura di Hallstatt</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="it_IT">
+      <Text>Le Miniere forniscono un bonus minore per la posizione a tutti i distretti, agiscono come Bombe culturali sulle caselle neutrali vicine e ricevono +1 [ICON_CULTURE] Cultura. I distretti specializzati non ricevono un bonus minore per il fatto di essere adiacenti ad altri distretti; inoltre tali distretti non possono essere costruiti nelle caselle adiacenti al Centro cittadino.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="it_IT">
+      <Text>Distretto esclusivo gallico che costa meno ed è disponibile prima rispetto alla Zona industriale, che sostituisce. L'Oppidum si può difendere con un attacco a distanza. La costruzione del primo Oppidum sblocca la tecnologia Apprendistato.[NEWLINE][NEWLINE]Bonus +2 alla [ICON_Production] Produzione se adiacente a un miglioramento Cava o a una risorsa strategica.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="it_IT">
+      <Text>Re degli Eburoni</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="it_IT">
+      <Text>Quando addestri un'unità non civile la tua civiltà ottiene [ICON_CULTURE] Cultura pari al 20% del costo dell'unità. Le unità da mischia, anti-cavalleria e a distanza ricevono +2 alla [ICON_Strength] Forza di combattimento per ogni unità adiacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="it_IT">
+      <Text>Ambiorix</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="it_IT">
+      <Text>Riceve +2 alla [ICON_Strength] Forza di combattimento per ogni unità adiacente (Re degli Eburoni)</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="it_IT">
+      <Text>La tua forza è l'astuzia, Ambiorix. Dove il tuo esercito non sarà sufficiente, usa la testa e la tua eloquenza per riconquistare le terre degli avi. I tuoi alleati saranno ai tuoi ordini e la lancia brandita dal braccio possente spezzerà la resistenza dei nemici. Combatti, grande re guerriero!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva gallica di epoca antica che sostituisce il Guerriero. Costa di più della controparte, ma riceve +10 alla [ICON_Strength] Forza di combattimento quando affronta unità che hanno una Forza di combattimento base superiore alla sua. Inoltre ha +5 alla [ICON_Strength] Forza di combattimento contro le difese dei distretti.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="it_IT">
+      <Text>Gesati</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="it_IT">
+      <Text>+10 alla [ICON_Strength] Forza di combattimento contro le unità che hanno una Forza di combattimento base superiore. +5 alla [ICON_Strength] Forza di combattimento contro le difese dei distretti.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="it_IT">
+      <Text>Altopiani</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="it_IT">
+      <Text>Una grande regione dominata da colline e catene montuose.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="it_IT">
+      <Text>Modalità Età drammatiche</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="it_IT">
+      <Text>Questa modalità rende le Età oscure e le Età dell'oro più potenti che mai. Le Età eroiche sono state eliminate, mentre i giocatori possono trovarsi in un'Età normale solo nella prima epoca della partita. In seguito, ogni Età sarà oscura o aurea![NEWLINE][NEWLINE]Anziché scegliere Dedizioni, i giocatori avranno accesso a nuove, potenti politiche sulla base dell'Età in corso. Le politiche dell'Età oscura fanno il loro ritorno con nuovi e potenti effetti, mentre chi riuscirà a entrare in un'Età dell'oro potrà sfruttare politiche tutte nuove. Per continuare ad accumulare Punteggio Epoca, scopri tecnologie e Progressi civici e guadagna promozioni per le unità militari.[NEWLINE][NEWLINE]Le Età oscure ora sono particolarmente pericolose: alcune città si rivolteranno immediatamente, diventando città libere, e le stesse città libere potranno esercitare pressione sulla Lealtà delle altre città. Nei livelli di difficoltà più bassi, i giocatori guidati dal computer perderanno molte città. In quelli più alti, questo succederà ai giocatori umani! In difficoltà Principe la quantità di città perdute è bilanciata.[NEWLINE][NEWLINE]L'abilità esclusiva della Georgia è stata completamente ridefinita per adattarsi alle nuove regole di questa modalità di gioco.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="it_IT">
+      <Text>+{1_Amount} alla Forza di combattimento dal tratto caratteristico Taxis</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="it_IT">
+      <Text>+{1_Amount} alla Forza religiosa dal tratto caratteristico Taxis</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="it_IT">
+      <Text>+{1_num} [ICON_Culture] Cultura dal distretto Ippodromo adiacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="it_IT">
+      <Text>+{1_Amount} alla Forza di combattimento contro le unità.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="it_IT">
+      <Text>+{1_Amount} alla Forza di combattimento in un raggio di 1 casella dal Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="it_IT">
+      <Text>+{1_Amount} alla Forza religiosa in un raggio di 1 casella dal Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="it_IT">
+      <Text>+{1_Amount} alla Forza di combattimento dal tratto caratteristico Re degli Eburoni</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="it_IT">
+      <Text>+{1_Amount} alla Forza di combattimento contro le unità che hanno una Forza di combattimento base superiore.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="it_IT">
+      <Text>+{1_Amount} alla Forza di combattimento contro le difese dei distretti.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="it_IT">
+      <Text>Dromone|un Dromone|dal tuo Dromone|al tuo Dromone|il tuo Dromone|da un Dromone</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="it_IT">
+      <Text>Tagma|un Tagma|dal tuo Tagma|al tuo Tagma|il tuo Tagma|da un Tagma</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="it_IT">
+      <Text>Gesate|un Gesate|dal tuo Gesate|al tuo Gesate|il tuo Gesate|da un Gesate</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="ja_JP">
+      <Text>ヒッポドローム</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="ja_JP">
+      <Text>オッピドゥム</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="ja_JP">
+      <Text>ビザンティン</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="ja_JP">
+      <Text>ビザンティン帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="ja_JP">
+      <Text>ビザンティンの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="ja_JP">
+      <Text>ガリア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="ja_JP">
+      <Text>ガリア帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="ja_JP">
+      <Text>ガリアの</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="ja_JP">
+      <Text>バシレイオス2世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="ja_JP">
+      <Text>アンビオリクス</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="ja_JP">
+      <Text>黄金時代の間はワイルドカード政策スロットが追加され、暗黒時代の政策も採用できます。 防御施設の [ICON_Production] 生産力+50%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="ja_JP">
+      <Text>位階</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="ja_JP">
+      <Text>ビザンティンの宗教に改宗した聖都 (ビザンティンの聖都も含む) 1つにつき、ユニットの [ICON_Strength] 戦闘力または [ICON_Religion] 宗教戦闘力+3。敵対する文明や都市国家のユニットを倒すと、ビザンティンの宗教が近隣の都市に伝播する。聖地からの [ICON_GreatProphet] 大予言者ポイント+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="ja_JP">
+      <Text>聖都の攻防</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="ja_JP">
+      <Text>自文明の宗教に改宗させた聖都1つにつき [ICON_Strength] 戦闘力+3。主要文明のユニットを倒すと、ビザンティンの宗教が近隣の都市に伝播する。(位階)</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="ja_JP">
+      <Text>聖都の宗教戦闘力</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="ja_JP">
+      <Text>自文明の宗教に改宗させた聖都1つにつき [ICON_RELIGION] 宗教戦闘力+3。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="ja_JP">
+      <Text>ビザンティン固有の区域。総合娯楽施設に取ってかわり、より安価に建設できる。 [ICON_Amenities] 快適性+3。ヒッポドロームとその区域の建造物は、完成すると重騎兵ユニット1体をもたらす。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="ja_JP">
+      <Text>ビザンティン固有の区域。総合娯楽施設に取ってかわり、より安価に建設できる。 [ICON_Amenities] 快適性+3。ヒッポドロームとその区域の建造物は、完成すると重騎兵ユニット1体をもたらす。ウォーターパークがある都市には建設できない。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="ja_JP">
+      <Text>ビザンティン固有の区域。総合娯楽施設に取ってかわり、より安価に建設できる。 [ICON_Amenities] 快適性+3。ヒッポドロームとその区域の建造物は、完成すると重騎兵ユニット1体をもたらす。こうして得たユニットは、維持に資源を必要としない。ウォーターパークがある都市には建設できない。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="ja_JP">
+      <Text>ヒッポドローム</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="ja_JP">
+      <Text>ヒッポドローム区域により、このユニットはターン毎に戦略資源を消費しない。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="ja_JP">
+      <Text>ポルフュロゲネトス</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="ja_JP">
+      <Text>ビザンティンと同じ宗教の都市に対する重騎兵と軽騎兵の攻撃が、都心に最大のダメージを与える。社会制度「王権神授説」を発見すると、固有ユニット「タグマ」を得る。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="ja_JP">
+      <Text>バシレイオス2世よ、炎に鍛えられし貴方を敵は恐れる。狡猾なる知恵と野心がその刃をいっそう研ぎ澄まさんことを。誇りを守り、敵に立ち向かえ。たとえその敵が城壁の中にいようとも。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="ja_JP">
+      <Text>ビザンティン固有の古典時代のユニット。カドリレームに取ってかわる。カドリレームより射程が長い。また、対ユニット [ICON_Strength] 戦闘力+10。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="ja_JP">
+      <Text>ギリシャ火</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="ja_JP">
+      <Text>対ユニット [ICON_Strength] 戦闘力+10。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="ja_JP">
+      <Text>騎士に取ってかわるバシレイオス2世固有の中世のユニット。タグマの1タイル以内にいる陸上ユニットは、 [ICON_Strength] 戦闘力または [ICON_RELIGION] 宗教戦闘力+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="ja_JP">
+      <Text>タグマ</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="ja_JP">
+      <Text>タグマの1タイル以内にいる陸上ユニットの [ICON_Strength] 戦闘力または [ICON_RELIGION] 宗教戦闘力+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="ja_JP">
+      <Text>タグマの戦闘力</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="ja_JP">
+      <Text>タグマの1タイル以内にいると [ICON_Strength] 戦闘力+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="ja_JP">
+      <Text>タグマの宗教戦闘力</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="ja_JP">
+      <Text>タグマの1タイル以内にいると [ICON_RELIGION] 宗教戦闘力+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="ja_JP">
+      <Text>ポルフュロゲネトス</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="ja_JP">
+      <Text>ビザンティンと同じ宗教を信仰している都市に最大のダメージを与える。(ポルフュロゲネトス)</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="ja_JP">
+      <Text>ハルシュタット文化</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="ja_JP">
+      <Text>鉱山がすべての区域に若干の隣接ボーナスをもたらす。所有者のいない土地に対して文化爆弾を発動させる。 [ICON_CULTURE] 文化力+1。専門区域は他の区域から隣接ボーナスを受けられない。また、これらの区域を都心に隣接させることはできない。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="ja_JP">
+      <Text>工業地帯に取ってかわるガリア固有の区域。工業地帯よりも早く、より安価に建設できる。オッピドゥム区域は長距離攻撃によって防衛できる。初めて建設すると、「徒弟制度」技術が解除される。[NEWLINE][NEWLINE]採石場か戦略資源に隣接している場合、 [ICON_Production] 生産力+2。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="ja_JP">
+      <Text>エブロネスの王</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="ja_JP">
+      <Text>この都市で非民間人ユニットを訓練した場合、そのユニットのコストの20%に相当する [ICON_CULTURE] 文化力を得る。隣接するユニット1つにつき近接戦闘ユニット、対騎兵ユニット、長距離戦闘ユニットの [ICON_Strength] 戦闘力+2。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="ja_JP">
+      <Text>アンビオリクス</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="ja_JP">
+      <Text>隣接ユニット1つにつき [ICON_Strength] 戦闘力+2。(エブロネスの王)</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="ja_JP">
+      <Text>その機智を存分に活かせ、アンビオリクス。率いる軍勢の規模が劣るなら、知恵と黄金の舌を駆使して領土を取り戻すのだ。貴方の導きに味方は従い、その力強き槍は抗う敵を打ち砕かん。戦え、武に長けし偉大なる王よ！</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="ja_JP">
+      <Text>ガリア固有の太古のユニット。戦士に取ってかわり、戦士よりもコストが高い。自分より基本戦闘力が高いユニットに対して [ICON_Strength] 戦闘力+10。対区域 [ICON_Strength] 戦闘力+5。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="ja_JP">
+      <Text>ガエサタエ</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="ja_JP">
+      <Text>自分より基本戦闘力が高いユニットに対して [ICON_Strength] 戦闘力+10。対区域 [ICON_Strength] 戦闘力+5。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="ja_JP">
+      <Text>ハイランド</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="ja_JP">
+      <Text>丘陵と山岳の占める割合が大きなマップです。</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="ja_JP">
+      <Text>「波瀾の時代」モード</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="ja_JP">
+      <Text>このゲームモードでは、暗黒時代と黄金時代の影響がこれまで以上に大きくなります。英雄時代はなくなり、通常の時代は最初の時代のみとなります。その後は暗黒の時代か黄金時代に突入します。[NEWLINE][NEWLINE]公約の代わりに、プレイヤーは時代ごとに異なる新たな社会政策を採用できます。暗黒時代の政策は、効果がこれまでと違います。黄金時代を迎えることができたプレイヤーは、まったく新しい黄金時代の政策を選択できます。時代スコアを獲得しつづけるには、技術と社会制度を完成させ、軍事ユニットのレベルアップを獲得する必要があります。[NEWLINE][NEWLINE]暗黒時代はこれまで以上に危険です。暗黒時代には帝国の一部が即座に自由都市となり、他の都市へ圧力を加えます。低めの難易度ではAIプレイヤーが多くの都市を失いますが、高めの難易度では人間プレイヤーが多くの都市を失います (難易度「王子」で同等)。[NEWLINE][NEWLINE]グルジア文明の新しい固有能力は、このモード固有のルールに対応しています。</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="ja_JP">
+      <Text>特性「位階」により戦闘力+{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="ja_JP">
+      <Text>特性「位階」により宗教戦闘力+{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="ja_JP">
+      <Text>隣接するヒッポドローム区域により [ICON_Culture] 文化力+{1_num}。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="ja_JP">
+      <Text>ユニットに対する戦闘力+{1_Amount}。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="ja_JP">
+      <Text>タグマの1タイル以内にいると戦闘力+{1_Amount}。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="ja_JP">
+      <Text>タグマの1タイル以内にいると宗教戦闘力+{1_Amount}。</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="ja_JP">
+      <Text>特性「エブロネスの王」により戦闘力+{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="ja_JP">
+      <Text>自分より基本戦闘力が高いユニットに対する戦闘力+{1_Amount}。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="ja_JP">
+      <Text>対区域戦闘力+{1_Amount}。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="ja_JP">
+      <Text>デュロモイ</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="ja_JP">
+      <Text>タグマ</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="ja_JP">
+      <Text>ガエサタエ</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="ko_KR">
+      <Text>히포드롬</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="ko_KR">
+      <Text>오피둠</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="ko_KR">
+      <Text>비잔틴</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="ko_KR">
+      <Text>비잔틴 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="ko_KR">
+      <Text>비잔틴</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="ko_KR">
+      <Text>골</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="ko_KR">
+      <Text>갈리아 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="ko_KR">
+      <Text>갈리아</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="ko_KR">
+      <Text>바실리우스 2세</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="ko_KR">
+      <Text>암비오릭스</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="ko_KR">
+      <Text>황금기 중에는 추가 와일드카드 정책 슬롯을 획득하고, 암흑기 정책을 사용할 수도 있습니다. 수비 건물에 대한 [ICON_Production] 생산력 +50%.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="ko_KR">
+      <Text>탁시스</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="ko_KR">
+      <Text>유닛이 비잔티움 종교로 개종한 성도(비잔티움 성도 포함)마다 [ICON_Strength] 전투력 또는 [ICON_Religion] 신앙력 +3을 얻습니다. 적 문명이나 도시 국가에 속한 유닛을 처치하면 비잔티움 종교가 인근 도시로 전파됩니다. 성지 특수지구가 있는 도시에서 [ICON_GreatProphet] 위대한 선지자 점수 +1을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="ko_KR">
+      <Text>성도 전투</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="ko_KR">
+      <Text>플레이어 종교로 개종한 각 성도마다 [ICON_Strength] 전투력 +3을 제공하며 주요 문명의 유닛이 패배하면 비잔티움 종교가 인근 도시로 전파됩니다(탁시스).</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="ko_KR">
+      <Text>성도 신앙력</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="ko_KR">
+      <Text>플레이어 종교로 개종한 각 성도마다 [ICON_RELIGION] 신앙력 +3을 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="ko_KR">
+      <Text>비잔티움 특유의 특수지구입니다. 유흥단지 특수지구를 대체하고, [ICON_Amenities] 쾌적도 +3을 제공하고, 건설 비용이 더 낮습니다. 이 특수지구에 히포드롬과 건물을 건설하면 중기병 유닛을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="ko_KR">
+      <Text>비잔티움 특유의 특수지구입니다. 유흥단지 특수지구를 대체하고, [ICON_Amenities] 쾌적도 +3을 제공하며, 건설 비용이 더 낮습니다. 이 특수지구에 히포드롬과 건물을 건설하면 중기병 유닛을 얻습니다. 워터 파크가 있는 도시에는 지을 수 없습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="ko_KR">
+      <Text>비잔티움 특유의 특수지구입니다. 유흥단지 특수지구를 대체하고, [ICON_Amenities] 쾌적도 +3을 제공하며, 건설 비용이 더 낮습니다. 이 특수지구에 히포드롬과 건물을 건설하면 중기병 유닛을 얻습니다. 이 특수지구에서 얻은 유닛은 자원 유지 비용이 없습니다. 워터 파크가 있는 도시에는 지을 수 없습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="ko_KR">
+      <Text>히포드롬</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="ko_KR">
+      <Text>이 유닛은 히포드롬 특수지구에서 턴마다 전략 자원을 소모하지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="ko_KR">
+      <Text>포르피로겐네토스</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="ko_KR">
+      <Text>중기병 및 경기병 유닛이 비잔티움과 같은 종교를 따르는 도시에 대해 전체 피해를 줍니다. 신권 사회 제도를 발견하면 타그마 특유 유닛을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="ko_KR">
+      <Text>적들은 불꽃 속에서 빚어진 당신을 두려워할 것입니다, 바실리우스 2세. 간계와 야심으로 칼날을 다듬으십시오. 국토 안팎에서 자존심을 지키고 적들에 대항하십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="ko_KR">
+      <Text>사단노선을 대체하는 비잔티움 특유의 고전 시대 유닛으로, 사정거리가 늘어났으며 유닛 상대 시 [ICON_Strength] 전투력 +10을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="ko_KR">
+      <Text>그리스 화약</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="ko_KR">
+      <Text>유닛 상대 시 [ICON_Strength] 전투력 +10을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="ko_KR">
+      <Text>기사를 대체하는 바실리우스 2세 특유의 중세 시대 유닛입니다. 타그마 1타일 이내의 지상 유닛이 [ICON_Strength] 전투력 또는 [ICON_RELIGION] 신앙력 +4를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="ko_KR">
+      <Text>타그마</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="ko_KR">
+      <Text>타그마 1타일 이내의 지상 유닛이 [ICON_Strength] 전투력 또는 [ICON_RELIGION] 신앙력 +4를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="ko_KR">
+      <Text>타그마 전투력</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="ko_KR">
+      <Text>타그마 1타일 이내에 있으면 [ICON_Strength] 전투력 +4를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="ko_KR">
+      <Text>타그마 신앙력</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="ko_KR">
+      <Text>타그마 1타일 이내에 있으면 [ICON_RELIGION] 신앙력 +4를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="ko_KR">
+      <Text>포르피로겐네토스</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="ko_KR">
+      <Text>비잔티움과 동일한 종교를 따르는 도시에 대해 전체 피해를 줍니다(포르피로겐네토스)</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="ko_KR">
+      <Text>할슈타트 문화</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="ko_KR">
+      <Text>광산은 모든 특수지구에 약간의 인접 보너스, 주인이 없는 영토에 문화 폭탄을 제공하고, [ICON_CULTURE] 문화 +1을 받습니다. 전문 특수지구는 다른 특수지구와 인접해 있어도 약간의 인접 보너스를 얻지 않으며, 이 특수지구는 도심부 근처에 건설할 수 없습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="ko_KR">
+      <Text>골 특유의 특수지구입니다. 대체되는 산업구역 특수지구보다 비용이 저렴하고 조기에 건설할 수 있습니다. 오피둠 특수지구는 원거리 공격으로부터 보호할 수 있습니다. 오피둠을 처음으로 건설하면 도제제도 기술이 잠금 해제됩니다.[NEWLINE][NEWLINE]채석장이나 전략 자원에서 [ICON_Production] 생산량 인접 보너스 +2를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="ko_KR">
+      <Text>에부로네스왕</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="ko_KR">
+      <Text>비민간인을 훈련할 때마다 문명이 해당 유닛 비용의 20%에 준하는 [ICON_CULTURE] 문화를 얻습니다. 인접 유닛마다 근접, 대기병, 원거리 유닛이 [ICON_Strength] 전투력 +2를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="ko_KR">
+      <Text>암비오릭스</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="ko_KR">
+      <Text>인접한 각 유닛마다 [ICON_Strength] 전투력 +2를 제공합니다(에부로네스왕).</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="ko_KR">
+      <Text>당신의 기지는 빛을 발할 것입니다, 암비오릭스. 부대의 규모가 모자랄 때, 두뇌와 미끄러운 혀를 이용해 영토를 되찾으십시오. 아군은 당신의 지시를 따를 것이고, 당신의 강력한 창대는 적들의 저항을 산산이 조각낼 것입니다.  싸우십시오, 위대한 전사 왕이시여!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="ko_KR">
+      <Text>전사를 대체하는 골 특유의 고대 시대 유닛입니다. 이 유닛은 생산 비용이 높으며 기본 전투력이 높은 유닛과 전투 시 [ICON_Strength] 전투력 +10을 얻습니다. 특수지구 방어군 상대 시 [ICON_Strength] 전투력 +5를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="ko_KR">
+      <Text>가이사타이</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="ko_KR">
+      <Text>기본 전투력이 높은 유닛 상대 시 [ICON_Strength] 전투력 +10을 얻습니다. 특수지구 방어군 상대 시 [ICON_Strength] 전투력 +5를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="ko_KR">
+      <Text>고지</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="ko_KR">
+      <Text>주로 언덕과 산맥으로 이루어진 넓은 지역입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="ko_KR">
+      <Text>극적인 시대 모드</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="ko_KR">
+      <Text>이 게임 모드는 암흑기와 황금기가 매우 강력해집니다. 영웅기는 제거되며, 플레이어의 첫 시대는 정상기로 고정됩니다. 그 후, 암흑기 또는 황금기를 획득합니다.[NEWLINE][NEWLINE]플레이어는 집중 전략을 만드는 대신, 시대를 기반으로 강력한 신규 사회 정책에 접근할 수 있습니다. 암흑기 정책이 신선하고 강력한 효과와 함께 돌아옵니다. 새로운 황금기 정책은 황금기에 진입하는 플레이어가 사용할 수 있습니다. 시대 점수를 계속 획득하려면, 기술과 사회 제도를 완료하고 군사 유닛 진급을 획득하세요.[NEWLINE][NEWLINE]암흑기는 특히 위험합니다. 암흑기에 든 플레이어는 즉시 제국의 일부가 자유 도시로 전향하며, 자유 도시는 다른 도시에 영향력을 발휘할 수 있습니다. 쉬운 난이도 설정에서는 AI 플레이어가 도시를 많이 잃습니다. 어려운 난이도 설정에서는 인간 플레이어가 도시를 많이 잃습니다. 왕자 난이도에서는 손해량이 같습니다.[NEWLINE][NEWLINE]조지아의 문명 특유 능력이 모드의 고유 규칙에 따라 새로 도입되었습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="ko_KR">
+      <Text>탁시스 특성으로부터 전투력 +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="ko_KR">
+      <Text>탁시스 특성으로부터 신앙력 +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="ko_KR">
+      <Text>인접한 히포드롬 특수지구에서 [ICON_Culture] 문화 +{1_num}.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="ko_KR">
+      <Text>유닛 상대 시 전투력 +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="ko_KR">
+      <Text>타그마 1타일 이내에 있을 때 전투력 +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="ko_KR">
+      <Text>타그마 1타일 이내에 있을 때 신앙력 +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="ko_KR">
+      <Text>에부로네스왕 특성에서 전투력 +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="ko_KR">
+      <Text>기본 전투력이 높은 유닛 상대 시 전투력 +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="ko_KR">
+      <Text>특수지구 방어군 상대 시 전투력 +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="ko_KR">
+      <Text>쾌속 목조 범선</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="ko_KR">
+      <Text>타그마</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="ko_KR">
+      <Text>가이사타이</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="pl_PL">
+      <Text>Hipodrom|Hipodromu|Hipodromowi|Hipodrom|Hipodromem|Hipodromie|hipodrom|hipodromu|hipodromowi|hipodrom|hipodromem|hipodromie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="pl_PL">
+      <Text>Oppidum|Oppidum|Oppidum|Oppidum|Oppidum|Oppidum|oppidum|oppidum|oppidum|oppidum|oppidum|oppidum</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="pl_PL">
+      <Text>Bizancjum</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Bizantyjskie|Imperium Bizantyjskiego|Imperium Bizantyjskiemu|Imperium Bizantyjskie|Imperium Bizantyjskim|Imperium Bizantyjskim|Imperium Bizantyjskie|Imperium Bizantyjskiego|Imperium Bizantyjskiemu|Imperium Bizantyjskie|Imperium Bizantyjskim|Imperium Bizantyjskim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="pl_PL">
+      <Text>Bizantyjski|Bizantyjska|Bizantyjscy|Bizantyjskie|Bizantyjsk|bizantyjski|bizantyjska|bizantyjscy|bizantyjskie|bizantyjsk|bizantyjskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="pl_PL">
+      <Text>Galowie|Galów|Galom|Galów|Galami|Galach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Galów</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="pl_PL">
+      <Text>Galijski|Galijska|Galijscy|Galijskie|Galijsk|galijski|galijska|galijscy|galijskie|galijsk|galijskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="pl_PL">
+      <Text>Bazyli II|Bazylego II|Bazylemu II|Bazylego II|Bazylim II|Bazylim II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="pl_PL">
+      <Text>Ambioryks|Ambioryksa|Ambioryksowi|Ambioryksa|Ambioryksem|Ambioryksie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="pl_PL">
+      <Text>Podczas złotych er zyskuje dodatkowe miejsce na dziką kartę doktryny i może używać doktryn ciemnego wieku. +50% do [ICON_Production] produkcji budowli obronnych.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="pl_PL">
+      <Text>Taxis</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostki zyskują +3 do [ICON_Strength] siły bojowej lub [ICON_Religion] siły religijnej za każde święte miasto nawrócone na religię Bizancjum (w tym również święte miasta należące do Bizancjum). Pokonanie jednostki wrogiej cywilizacji lub miasta-państwa powoduje rozprzestrzenienie się religii Bizancjum na pobliskie miasta. +1 punkt [ICON_GreatProphet] wielkiego proroka za miasta z dzielnicą świątynną.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="pl_PL">
+      <Text>Walka świętego miasta</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="pl_PL">
+      <Text>Zapewnia +3 do [ICON_Strength] siły bojowej za każde święte miasto nawrócone na twoją religię. Pokonanie jednostki jednej z wielkich cywilizacji powoduje rozprzestrzenienie się religii Bizancjum na pobliskie miasta. (Taxis)</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="pl_PL">
+      <Text>Siła religijna świętego miasta</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="pl_PL">
+      <Text>Zapewnia +3 do [ICON_RELIGION] siły religijnej za każde święte miasto nawrócone na twoją religię.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna dzielnica Bizancjum. Zastępuje dzielnicę rozrywkową, zapewnia +3 [ICON_Amenities] udogodnienia, a jej wzniesienie jest tańsze. Wzniesienie hipodromu i budowli w tej dzielnicy zapewnia jednostkę ciężkiej kawalerii.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna dzielnica Bizancjum. Zastępuje dzielnicę rozrywkową, zapewnia +3 [ICON_Amenities] udogodnienia, a jej wzniesienie jest tańsze. Wzniesienie hipodromu i budowli w tej dzielnicy zapewnia jednostkę ciężkiej kawalerii. Nie można wybudować w mieście z parkiem wodnym.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna dzielnica Bizancjum. Zastępuje dzielnicę rozrywkową, zapewnia +3 [ICON_Amenities] udogodnienia, a jej wzniesienie jest tańsze. Wzniesienie hipodromu i budowli w tej dzielnicy zapewnia jednostkę ciężkiej kawalerii. Utrzymanie jednostki zapewnianej przez tę dzielnicę nie powoduje utraty zasobów. Nie można wybudować w mieście z parkiem wodnym.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="pl_PL">
+      <Text>Hipodrom</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="pl_PL">
+      <Text>Ta jednostka nie zużywa zasobów strategicznych w każdej turze dzięki hipodromowi.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="pl_PL">
+      <Text>Porfirogeneta</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostki lekkiej i ciężkiej kawalerii zadają pełne uszkodzenia miastom wyznającym tę samą religię co Bizancjum. Odkrycie idei boskiego prawa zapewnia unikalną jednostkę: tagmę.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="pl_PL">
+      <Text>Twoi wrogowie będą przed tobą drżeli, królu Bazyli II, bo wykuto cię w ogniu. Niech przebiegłość i ambicja wyostrzą twój oręż. Broń swej godności i staw czoła przeciwnikom – zarówno wewnątrz twych murów, jak i poza nimi.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostka epoki klasycznej dostępna wyłącznie dla Bizancjum. Zastępuje kwadryremę i ma większy zasięg. Zyskuje +10 do [ICON_Strength] siły bojowej w starciach z jednostkami.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="pl_PL">
+      <Text>Ogień grecki</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="pl_PL">
+      <Text>Zapewnia +10 do [ICON_Strength] siły bojowej przeciwko jednostkom.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna średniowieczna jednostka Bazylego II zastępująca rycerzy. Jednostki lądowe, które znajdują się w promieniu 1 pola od tagmy, zyskują +4 do [ICON_Strength] siły bojowej lub [ICON_RELIGION] siły religijnej.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="pl_PL">
+      <Text>Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostki lądowe znajdujące się w promieniu 1 pola od tagmy zyskują +4 do [ICON_Strength] siły bojowej lub [ICON_RELIGION] siły religijnej.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="pl_PL">
+      <Text>Siła bojowa tagmy</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="pl_PL">
+      <Text>+4 do [ICON_Strength] siły bojowej jednostek znajdujących się w promieniu 1 pola od tagmy.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="pl_PL">
+      <Text>Siła religijna tagmy</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="pl_PL">
+      <Text>+4 do [ICON_RELIGION] siły religijnej jednostek znajdujących się w promieniu 1 pola od tagmy.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="pl_PL">
+      <Text>Porfirogeneta</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="pl_PL">
+      <Text>Zadaje pełne obrażenia miastom wyznających tę samą religię co Bizancjum. (Porfirogeneta)</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="pl_PL">
+      <Text>Kultura halsztacka</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="pl_PL">
+      <Text>Kopalnie zapewniają wszystkim dzielnicom małą premię za sąsiedztwo, +1 do [ICON_CULTURE] kultury i uruchamiają bombę kulturową przejmującą nienależące do nikogo terytorium. Wyspecjalizowane dzielnice nie otrzymują małej premii za sąsiedztwo innych dzielnic i nie mogą być wznoszone w sąsiedztwie centrum miasta.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="pl_PL">
+      <Text>Dostępna wyłącznie dla Galów dzielnica zastępująca dzielnicę przemysłową, tańsza i wcześniej dostępna. Zaatakowane oppidum może bronić się za pomocą ataków dystansowych. Wzniesienie pierwszego oppidum odblokowuje technologię terminu.[NEWLINE][NEWLINE]+2 do [ICON_Production] produkcji, gdy sąsiaduje z kamieniołomem lub zasobem strategicznym.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="pl_PL">
+      <Text>Król Eburonów</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="pl_PL">
+      <Text>Wyszkolenie niecywilnej jednostki zapewnia twojej cywilizacji premię do [ICON_CULTURE] kultury równą 20% kosztu tej jednostki. Jednostki walczące w zwarciu, zwalczające kawalerię i dystansowe zyskują +2 do [ICON_Strength] siły bojowej za każdą sąsiadującą jednostkę.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="pl_PL">
+      <Text>Ambioryks</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="pl_PL">
+      <Text>Zapewnia +2 do [ICON_Strength] siły bojowej za każdą sąsiadującą jednostkę. (Król Eburonów)</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="pl_PL">
+      <Text>Twój rozum posłuży ci dobrze, Ambioryksie. Gdy zawiedzie cię liczebność twych wojsk, wykorzystaj swoją głowę i złote usta, by odzyskać utracone ziemie. Sprzymierzeńcy podążą za tobą, a twoja włócznia obróci w pył opór wrogów. Walcz, wielki królu wojowniku!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna starożytna jednostka galijska zastępująca wojowników. Cechuje się wyższym kosztem i zyskuje +10 do [ICON_Strength] siły bojowej w walce z jednostkami o większej bazowej sile bojowej. +5 do [ICON_Strength] siły bojowej przeciw umocnieniom dzielnic.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="pl_PL">
+      <Text>Gesaci</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="pl_PL">
+      <Text>Zyskuje +10 do [ICON_Strength] siły bojowej w walce z jednostkami o większej bazowej sile bojowej. +5 do [ICON_Strength] siły bojowej przeciw umocnieniom dzielnic.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="pl_PL">
+      <Text>Wyżyny</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="pl_PL">
+      <Text>Duży region zdominowany przez wzgórza i pasma górskie.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="pl_PL">
+      <Text>Tryb dramatycznych wieków</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="pl_PL">
+      <Text>Ten tryb znacząco zwiększa potencjał złotych er i ciemnych wieków. Z rozgrywki usuwane są heroiczne ery i tylko pierwsza epoka może być zwykła – po jej zakończeniu wszyscy gracze wkraczają w ciemny wiek lub złotą erę.[NEWLINE][NEWLINE]Upamiętnienia zostają zastąpione potężnymi nowymi doktrynami społecznymi stosownymi do epoki. Mroczne doktryny powracają z odświeżonymi, potężnymi efektami, a gracze, którym uda się wkroczyć w złotą erę, mogą korzystać z zupełnie nowych złotych doktryn. Aby zdobywać punkty zwiększające wynik w epoce, należy opracowywać technologie i idee oraz zapewniać awanse jednostkom wojskowym.[NEWLINE][NEWLINE]Ciemne wieki są szczególnie niebezpieczne. Część miast należących do graczy, którzy wkroczą w ciemny wiek, natychmiast przeistacza się w wolne miasta, a te mogą wywierać nacisk na pozostałe. Na najniższym poziomie trudności wiele miast tracą z tego powodu cywilizacje sterowane przez SI. Na wyższym poziomie trudności liczne miasta tracą ludzcy gracze. Na poziomie Książę wszyscy gracze tracą tyle samo miast.[NEWLINE][NEWLINE]Unikalna umiejętność Gruzji została zmieniona tak, aby pasowała do reguł tego trybu.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="pl_PL">
+      <Text>+{1_Amount} do siły bojowej dzięki cesze „Taxis”.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="pl_PL">
+      <Text>+{1_Amount} do siły religijnej dzięki cesze „Taxis”.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="pl_PL">
+      <Text>+{1_num} do [ICON_Culture] kultury dzięki sąsiedztwu hipodromu.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="pl_PL">
+      <Text>+{1_Amount} do siły bojowej przeciwko jednostkom.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="pl_PL">
+      <Text>+{1_Amount} do siły bojowej w promieniu 1 pola od tagmy.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="pl_PL">
+      <Text>+{1_Amount} do siły religijnej w promieniu 1 pola od tagmy.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="pl_PL">
+      <Text>+{1_Amount} do siły bojowej dzięki cesze „Król Eburonów”.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="pl_PL">
+      <Text>+{1_Amount} do siły bojowej w starciu z jednostką o większej bazowej sile bojowej.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="pl_PL">
+      <Text>+{1_Amount} do siły bojowej przeciw umocnieniom dzielnic.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="pl_PL">
+      <Text>Dromona|Dromony|Dromonie|Dromonę|Dromoną|Dromonie|dromona|dromony|dromonie|dromonę|dromoną|dromonie</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="pl_PL">
+      <Text>Tagma|Tagmy|Tagmie|Tagmę|Tagmą|Tagmie|tagma|tagmy|tagmie|tagmę|tagmą|tagmie</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="pl_PL">
+      <Text>Gesaci|Gesatów|Gesatom|Gesatów|Gesatami|Gesatach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="ru_RU">
+      <Text>Ипподром|ипподрома|ипподрому|ипподром|ипподромом|ипподроме</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="ru_RU">
+      <Text>Оппид|оппида|оппиду|оппид|оппидом|оппиде</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="ru_RU">
+      <Text>Византия|Византии|Византии|Византию|Византией|Византии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="ru_RU">
+      <Text>Византийская империя|Византийской империи|Византийской империи|Византийскую империю|Византийской империей|Византийской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="ru_RU">
+      <Text>византийск.|византийск.|византийск.|византийск.|византийск.|византийск.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="ru_RU">
+      <Text>Галлия|Галлии|Галлии|Галлию|Галлией|Галлии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="ru_RU">
+      <Text>Галльская империя|Галльской империи|Галльской империи|Галльскую империю|Галльской империей|Галльской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="ru_RU">
+      <Text>галльск.|галльск.|галльск.|галльск.|галльск.|галльск.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="ru_RU">
+      <Text>Василий II|Василия ІІ|Василию ІІ|Василия ІІ|Василием ІІ|Василии ІІ</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="ru_RU">
+      <Text>Амбиорикс|Амбиорикса|Амбиориксу|Амбиорикс|Амбиориксом|Амбиориксе</Text>
+      <Gender>masculine</Gender>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="ru_RU">
+      <Text>Перейдя в золотой век, получает еще одну универсальную ячейку политического курса и может использовать политические курсы темного века. +50% к [ICON_Production] производству оборонительных зданий.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="ru_RU">
+      <Text>Таксис</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="ru_RU">
+      <Text>Юниты получают +3 [ICON_Strength] к боевой мощи или [ICON_Religion] к религиозной силе за каждый обращенный в религию Византии священный город (включая священный город самой Византии). Византия распространяет свою религию на ближайшие города, когда побеждает вражеский юнит. Дает +1 [ICON_GreatProphet] очко великого пророка от дворца.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="ru_RU">
+      <Text>Сражения за священные города</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="ru_RU">
+      <Text>+3 к [ICON_Strength] боевой мощи за каждый обращенный в вашу религию священный город; религия Византии распространяется на ближайшие города, когда она побеждает юнит одной из великих держав (таксис).</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="ru_RU">
+      <Text>Религиозная сила священных городов</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="ru_RU">
+      <Text>+3 к [ICON_RELIGION] боевой мощи за каждый обращенный в вашу религию священный город.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный район Византии. Заменяет собой более дорогой развлекательный комплекс и дает +3 ед. [ICON_Amenities] довольства. При строительстве ипподрома и зданий в нем дается тяжелый кавалерийский юнит.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный район Византии. Заменяет собой более дорогой развлекательный комплекс и дает +3 ед. [ICON_Amenities] довольства. При строительстве ипподрома и зданий в нем дается тяжелый кавалерийский юнит. Нельзя строить в городе с аквапарком.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный район Византии. Заменяет собой более дорогой развлекательный комплекс и дает +3 ед. [ICON_Amenities] довольства. При строительстве ипподрома и зданий в нем дается тяжелый кавалерийский юнит. Юниты, получаемые из этого района, не требуют затрат ресурсов на содержание. Нельзя строить в городе с аквапарком.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="ru_RU">
+      <Text>Ипподром</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="ru_RU">
+      <Text>Благодаря ипподрому содержание этого юнита не требует затрат стратегических ресурсов.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="ru_RU">
+      <Text>Багрянородный</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="ru_RU">
+      <Text>Тяжелая и легкая кавалерия наносит полный урон городам, имеющим ту же религию, что и Византия. При исследовании социального института «Божественное право» вы получаете уникальный юнит — тагма.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="ru_RU">
+      <Text>Вы станете грозой врагов, император Василий II, ибо вы закалены огнем. Ваша хитрость и амбиции принесут вам немало побед. Защитите свою честь и поставьте на колени врагов как в стенах вашей империи, так и за ее пределами.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="ru_RU">
+      <Text>Византийский уникальный юнит эпохи античности, заменяющий квадрирему и имеющий повышенную дальность. Получает +10 к [ICON_Strength] боевой мощи против юнитов.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="ru_RU">
+      <Text>Греческий огонь</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="ru_RU">
+      <Text>+10 [ICON_Strength] к боевой мощи против юнитов.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный юнит Василия II эпохи Средневековья, заменяющий рыцаря. Наземные юниты в пределах 1 клетки от тагмы получают +4 [ICON_Strength] к боевой мощи или [ICON_RELIGION] к религиозной силе.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="ru_RU">
+      <Text>Тагма</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="ru_RU">
+      <Text>Наземные юниты в пределах 1 клетки от тагмы получают +4 [ICON_Strength] к боевой мощи или [ICON_RELIGION] к религиозной силе.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="ru_RU">
+      <Text>Боевая мощь тагмы</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="ru_RU">
+      <Text>+4 [ICON_Strength] к боевой мощи в пределах 1 клетки от тагмы</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="ru_RU">
+      <Text>Религиозная сила тагмы</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="ru_RU">
+      <Text>+4 [ICON_RELIGION] к религиозной силе в пределах 1 клетки от тагмы</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="ru_RU">
+      <Text>Багрянородный</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="ru_RU">
+      <Text>Наносит полный урон городам, исповедующим религию Византии (Багрянородный).</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="ru_RU">
+      <Text>Гальштатская культура</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="ru_RU">
+      <Text>Рудники дают небольшой бонус соседним районам, культурный захват клеток без владельца и получают +1 ед. [ICON_CULTURE] к культуре. Специализированные районы не получают небольшой бонус за соседство с другими районами, и такие районы нельзя строить рядом с центром города.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный район Галлии. Доступен дешевле и раньше, чем заменяемый район — промышленная зона. Оппид может защищаться дальнобойными атаками. При постройке первого оппида открывается технология «Ученичество».[NEWLINE][NEWLINE]Бонус: +2 ед. [ICON_Production] производства за соседство с каменоломнями или стратегическими ресурсами.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="ru_RU">
+      <Text>Царь эбуронов</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="ru_RU">
+      <Text>Ваша цивилизация получает [ICON_CULTURE] культуру в размере 20% от стоимости юнита при каждом создании негражданского юнита. Юниты ближнего и дальнего боя, а также антикавалерийские юниты получают +2 к [ICON_Strength] боевой мощи за каждый юнит на соседней клетке.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="ru_RU">
+      <Text>Амбиорикс</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="ru_RU">
+      <Text>+2 к [ICON_Strength] боевой мощи за каждый юнит в соседней клетке (Царь эбуронов).</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="ru_RU">
+      <Text>Твой ум сослужит тебе хорошую службу, Амбиорикс. Там, где не хватит войск, ты отвоюешь свои земли хитростью и красноречием. Союзники смело встанут под твое знамя, а враги падут под ударами твоего копья. В бой, великий вождь!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный галльский юнит эпохи древнего мира, заменяющий воина. Повышенная скорость перемещения и стоимость, +10 [ICON_Strength] к боевой мощи против юнитов с более высокой базовой боевой мощью и +5 [ICON_Strength] к боевой мощи против укреплений района.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="ru_RU">
+      <Text>Гесаты</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="ru_RU">
+      <Text>+10 [ICON_Strength] к боевой мощи против юнитов с более высокой базовой боевой мощью. +5 [ICON_Strength] к боевой мощи против укреплений района.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="ru_RU">
+      <Text>Нагорье</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="ru_RU">
+      <Text>Обширная, преимущественно холмистая местность с горными хребтами.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="ru_RU">
+      <Text>Режим «Великая эпоха»</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="ru_RU">
+      <Text>В этом режиме эффекты темного и золотого веков становятся гораздо заметнее. Героические века исчезают, и в первой эпохе игрокам доступен только обычный век. После этого начнется либо темный, либо золотой век.[NEWLINE][NEWLINE]Вместо механики устремлений игроки получат доступ к политическим курсам, зависящим от века. Политические курсы темных веков теперь имеют куда больший вес, а тем, кто доберется до золотого века, откроется доступ к совершенно новым политическим курсам. Для увеличения баллов эпохи исследуйте технологии и социальные институты, а также зарабатывайте продвижение по службе для военных юнитов.[NEWLINE][NEWLINE]Темные века особенно опасны. При переходе в темные века часть государства распадется на вольные города, которые смогут оказывать давление на другие города. На более низкой сложности ИИ-игрок будет терять много городов. На более высокой сложности потери начнутся и у живых игроков. На уровне сложности «Князь» потери живых и ИИ-игроков будут одинаковыми.[NEWLINE][NEWLINE]Абсолютно новая уникальная способность грузинской цивилизации соответствует уникальным правилам режима.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="ru_RU">
+      <Text>+{1_Amount} к боевой мощи от особенности «Таксис»</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="ru_RU">
+      <Text>+{1_Amount} к религиозной силе от особенности «Таксис»</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="ru_RU">
+      <Text>+{1_num} [ICON_Culture] к культуре за соседство с ипподромом.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="ru_RU">
+      <Text>+{1_Amount} к боевой мощи против юнитов.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="ru_RU">
+      <Text>+{1_Amount} к боевой мощи в пределах 1 клетки от тагмы.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="ru_RU">
+      <Text>+{1_Amount} к религиозной силе в пределах 1 клетки от тагмы.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="ru_RU">
+      <Text>+{1_Amount} к боевой мощи от особенности «Царь эбуронов»</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="ru_RU">
+      <Text>+{1_Amount} к боевой мощи против юнитов с более высокой базовой боевой мощью.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="ru_RU">
+      <Text>+{1_Amount} к боевой мощи против укреплений района.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="ru_RU">
+      <Text>Дромон|дромона|дромону|дромон|дромоном|дромоне</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="ru_RU">
+      <Text>Тагма|тагмы|тагме|тагму|тагмой|тагме</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="ru_RU">
+      <Text>Гесаты|гесатов|гесатам|гесатов|гесатами|гесатах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="zh_Hans_CN">
+      <Text>跑马场</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="zh_Hans_CN">
+      <Text>奥皮杜姆</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="zh_Hans_CN">
+      <Text>拜占庭</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>拜占庭帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>拜占庭的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="zh_Hans_CN">
+      <Text>高卢</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>高卢帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>高卢的</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="zh_Hans_CN">
+      <Text>巴兹尔二世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="zh_Hans_CN">
+      <Text>安比奥里克斯</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>进入黄金时代后将额外获得一个通配符政策槽位，并能使用黑暗时代政策。建造防御性建筑时+50% [ICON_Production] 生产力。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="zh_Hans_CN">
+      <Text>天授规矩</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>每有1座圣城皈依拜占庭的宗教（也包括拜占庭的圣城），单位便获得+3 [ICON_Strength] 战斗力或 [ICON_Religion] 宗教战斗力。击杀敌方文明或城邦的单位时，拜占庭的宗教将传播到附近的城市。如城市拥有圣地区域，其提供的 [ICON_GreatProphet] 大预言家点数+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="zh_Hans_CN">
+      <Text>圣城之战</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>每有一座圣城皈依您的宗教，便+3 [ICON_Strength] 战斗力；主要文明的单位被击杀后，拜占庭的宗教将传播到附近的城市（天授规矩）</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="zh_Hans_CN">
+      <Text>圣城宗教战斗力</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>每有一座圣城皈依您的宗教，便+3 [ICON_RELIGION] 宗教战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>拜占庭特色区域。替代“娱乐设施”区域，提供+3 [ICON_Amenities] 宜居度，且建造花费更低。在此区域中建成跑马场及建筑后，将获得1个重骑兵单位。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>拜占庭特色区域。替代“娱乐设施”区域，提供+3 [ICON_Amenities] 宜居度，且建造花费更低。在此区域中建成跑马场及建筑后，将获得1个重骑兵单位。无法建在拥有“水上乐园”的城市中。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>拜占庭特色区域。替代“娱乐设施”区域，提供+3 [ICON_Amenities] 宜居度，且建造花费更低。在此区域中建成跑马场及建筑后，将获得1个重骑兵单位（此单位不消耗资源）。此区域提供的单位不消耗维护资源。无法建在拥有“水上乐园”的城市中。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="zh_Hans_CN">
+      <Text>跑马场</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>此单位每回合不消耗来自跑马场区域的战略资源。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="zh_Hans_CN">
+      <Text>生于紫室</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>对所信仰宗教与拜占庭相同的城市发起进攻时，轻重骑兵将输出全额伤害。解锁“王权神授”市政后将获得特色单位“甲胄骑兵”。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="zh_Hans_CN">
+      <Text>国王巴兹尔二世，你是烈火铸造的勇士，敌人将在你的脚下颤抖。让机智和雄心将你的战刀磨得无比锋利，直面国内外的敌人，捍卫你那高贵的尊严。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>拜占庭特色古典时代单位，替代四段帆船。拥有更高射程，与单位作战时+10 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="zh_Hans_CN">
+      <Text>希腊火</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>与单位作战时+10 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>巴兹尔二世的特色中世纪单位，替代骑士。甲胄骑兵1单元格范围内的陆地单位+4 [ICON_Strength] 战斗力或 [ICON_RELIGION] 宗教战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="zh_Hans_CN">
+      <Text>甲胄骑兵</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>甲胄骑兵周围1单元格内的陆地单位+4 [ICON_Strength] 战斗力或 [ICON_RELIGION] 宗教战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="zh_Hans_CN">
+      <Text>甲胄骑兵战斗力</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>位于甲胄骑兵周围1单元格内时+4 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="zh_Hans_CN">
+      <Text>甲胄骑兵宗教战斗力</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>位于甲胄骑兵周围1单元格内时+4 [ICON_RELIGION] 宗教战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="zh_Hans_CN">
+      <Text>生于紫室</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>进攻所信仰宗教与拜占庭相同之城市时输出全额伤害（生于紫室）</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="zh_Hans_CN">
+      <Text>哈尔施塔特文化</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>矿山为所有区域提供少量相邻加成、对无主领土施放文化炸弹，并+1 [ICON_CULTURE] 文化值。特色区域与其他区域相邻时不会获得少量相邻加成；特色区域也无法建在市中心旁。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>高卢特色区域，替代“工业区”，建造花费更低，且出现时间更早。“奥皮杜姆”区域具有防御力且可执行远程攻击。建成此区域后，即可解锁“学徒”科技。[NEWLINE][NEWLINE]每与一个采石场改良设施或战略资源相邻，则+2 [ICON_Production] 生产力。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="zh_Hans_CN">
+      <Text>厄勃隆尼斯之王</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>生产出一个非平民单位时，您的文明将获得等同于该单位成本20%的 [ICON_CULTURE] 文化值。每与1个单位相邻，近战、抗骑兵和远程单位便+2 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="zh_Hans_CN">
+      <Text>安比奥里克斯</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>每个相邻的单位提供+2 [ICON_Strength] 战斗力（厄勃隆尼斯之王）</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="zh_Hans_CN">
+      <Text>安比奥里克斯，你的头脑便是最强大的武器。即使军队出师不利，你也可以凭自己的聪明才智和三寸不烂之舌来开疆拓土。盟友将坦然接受你的领导，而敌人则会在你的英武神威前拜倒。战斗吧，伟大的勇士国王！</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>高卢特色远古时代单位，替代勇士。此单位拥有更高花费。与基础战斗力更高的单位作战时+10 [ICON_Strength] 战斗力。进攻区域防御时+5 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="zh_Hans_CN">
+      <Text>高卢枪佣兵</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>与拥有更高基础战斗力的单位作战时+10 [ICON_Strength] 战斗力。与区域作战时+5 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="zh_Hans_CN">
+      <Text>高地</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>主要由丘陵和山脉构成的地区。</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="zh_Hans_CN">
+      <Text>动荡时代模式</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>这个模式让黄金时代和黑暗时代更加强大。英雄时代已被移除，玩家最初只会进入普通时代，随后便会进入黄金时代或黑暗时代。[NEWLINE][NEWLINE]玩家可以根据自己所处的时代选择强大的全新社会政策，不再设定着力点。黑暗政策再度回归，并带来了全新的强大效果。而进入黄金时代后玩家可以选择全新的黄金政策。玩家需要多多解锁科技和市政、升级单位，不断获取时代得分。[NEWLINE][NEWLINE]黑暗时代将变得凶险万分。进入黑暗时代后，玩家帝国的一部分将直接沦为自由城市，而自由城市会对其他城市释放忠诚度压力。在较简单的难度下，AI玩家会失去大量城市；而在较难的难度下，真人玩家会失去大量城市。在“王子”难度下，两者失去的城市数量相同。[NEWLINE][NEWLINE]为匹配此模式的特殊规则，格鲁吉亚的文明特色能力已更新。</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="zh_Hans_CN">
+      <Text>趋性特质+{1_Amount}战斗力</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="zh_Hans_CN">
+      <Text>趋性特质+{1_Amount}宗教战斗力</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="zh_Hans_CN">
+      <Text>相邻跑马场区域提供+{1_num} [ICON_Culture] 文化值。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>与单位作战时+{1_Amount}战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>位于甲胄骑兵1个单元格内时+{1_Amount}战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>位于甲胄骑兵1个单元格内时+{1_Amount}宗教战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="zh_Hans_CN">
+      <Text>厄勃隆尼斯之王特质+{1_Amount}战斗力</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>与拥有更高基础战斗力的单位作战时+{1_Amount}战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>攻击区域防御时+{1_Amount}战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="zh_Hans_CN">
+      <Text>火战船</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="zh_Hans_CN">
+      <Text>甲胄骑兵</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="zh_Hans_CN">
+      <Text>高卢枪佣兵</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="es_ES">
+      <Text>Hipódromo|Hipódromos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="es_ES">
+      <Text>Oppidum|Oppida</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="es_ES">
+      <Text>Bizancio</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="es_ES">
+      <Text>Imperio bizantino</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="es_ES">
+      <Text>bizantino|bizantina|bizantinos|bizantinas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="es_ES">
+      <Text>Galia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="es_ES">
+      <Text>Imperio galo</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="es_ES">
+      <Text>galo|gala|galos|galas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="es_ES">
+      <Text>Basilio II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="es_ES">
+      <Text>Ambiórix</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="es_ES">
+      <Text>Mientras está en una edad de oro, gana un espacio más de política comodín y puede usar políticas de época oscura. +50% a la Producción [ICON_Production] de edificios defensivos.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="es_ES">
+      <Text>Taxis</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="es_ES">
+      <Text>Las unidades reciben +3 a la Fuerza de combate [ICON_Strength] o Fuerza religiosa [ICON_Religion] por cada Ciudad santa que se convierta a la religión de Bizancio (incluida la ciudad santa de Bizancio). La religión de Bizancio se propagará a las ciudades cercanas al derrotar a una unidad de una civilización o ciudad-estado enemigas. +1 punto de Gran profeta [ICON_GreatProphet] por ciudades que tengan un distrito de Lugar sagrado.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="es_ES">
+      <Text>Combate en la ciudad santa</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="es_ES">
+      <Text>Recibes +3 a la Fuerza de combate [ICON_Strength] por cada Ciudad santa que se convierta a tu religión, y la religión de Bizancio se propagará a las ciudades cercanas al derrotar a una unidad de una gran civilización (Taxis).</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="es_ES">
+      <Text>Fuerza religiosa de la Ciudad santa</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="es_ES">
+      <Text>Recibes +3 a la Fuerza religiosa [ICON_RELIGION] por cada Ciudad santa que se convierta a tu religión.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="es_ES">
+      <Text>Un distrito exclusivo de Bizancio. Sustituye al distrito de Complejo de ocio, da +3 a Servicios [ICON_Amenities] y es más barato de construir. Cuando se construyan el Hipódromo y los edificios de este distrito, recibirá una unidad de Caballería pesada.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="es_ES">
+      <Text>Un distrito exclusivo de Bizancio. Sustituye al distrito de Complejo de ocio, da +3 a Servicios [ICON_Amenities] y es más barato de construir. Cuando se construyan el Hipódromo y los edificios de este distrito, recibirá una unidad de Caballería pesada. No se puede construir en una ciudad con un Parque acuático.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="es_ES">
+      <Text>Un distrito exclusivo de Bizancio. Sustituye al distrito de Complejo de ocio, da +3 a Servicios [ICON_Amenities] y es más barato de construir. Cuando se construyan el Hipódromo y los edificios de este distrito, recibirá una unidad de Caballería pesada. Las unidades que dé este distrito no tienen coste de mantenimiento en recursos. No se puede construir en una ciudad con un Parque acuático.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="es_ES">
+      <Text>Hipódromo</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="es_ES">
+      <Text>Esta unidad no cuesta recursos estratégicos por turno del distrito de Hipódromo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="es_ES">
+      <Text>Porphyrogénnētos</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="es_ES">
+      <Text>Las unidades de caballería pesada y ligera hacen daño completo contra las ciudades que sigan la misma religión que Bizancio. Gana la unidad exclusiva del Tagma cuando se descubre el principio del derecho divino.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="es_ES">
+      <Text>Los enemigos te temerán, rey Basilio II, puesto que te forjaste en el fuego. Que la astucia y la ambición afilen tu espada. Protege tu orgullo y levántate contra los enemigos, tanto entre tus murallas como más allá.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="es_ES">
+      <Text>Unidad bizantina exclusiva de la Época Clásica que sustituye a la Cuatrirreme, tiene más alcance y recibe +10 a la Fuerza de combate [ICON_Strength] contra unidades.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="es_ES">
+      <Text>Fuego griego</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="es_ES">
+      <Text>Recibe +10 a la Fuerza de combate [ICON_Strength] contra unidades.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="es_ES">
+      <Text>Unidad exclusiva de Basilio II de la Época Medieval que sustituye al Caballero. Las unidades terrestres que estén a 1 casilla o menos del Tagma reciben +4 a la Fuerza de combate [ICON_Strength] o a la religiosa [ICON_RELIGION].</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="es_ES">
+      <Text>Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="es_ES">
+      <Text>Las unidades terrestres que estén a 1 casilla o menos del Tagma reciben +4 a la Fuerza de combate [ICON_Strength] o a la religiosa [ICON_RELIGION].</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="es_ES">
+      <Text>Fuerza de combate del Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="es_ES">
+      <Text>+4 a la Fuerza de combate [ICON_Strength] si está a 1 casilla o menos del Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="es_ES">
+      <Text>Fuerza religiosa del Tagma</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="es_ES">
+      <Text>+4 a la Fuerza religiosa [ICON_RELIGION] si está a 1 casilla o menos del Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="es_ES">
+      <Text>Porphyrogénnētos</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="es_ES">
+      <Text>Hace el daño completo contra ciudades que tengan la misma religión que Bizancio (Porphyrogénnētos).</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="es_ES">
+      <Text>Cultura de Hallstatt</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="es_ES">
+      <Text>Las Minas dan una bonificación por adyacencia menor para todos los distritos y un Bombardeo cultural de un territorio que no sea propio, y reciben +1 a Cultura [ICON_CULTURE]. Los distritos especializados no reciben una adyacencia menor por estar adyacentes a otro distrito y no se pueden construir adyacentes al Centro urbano.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="es_ES">
+      <Text>Un distrito exclusivo de la Galia que es más barato y está disponible antes que el distrito al que sustituye, la Zona industrial. El distrito de Oppidum es defendible con ataques a distancia. Cuando se construye el primer Oppidum, se desbloquea la tecnología Aprendizaje.[NEWLINE][NEWLINE]+2 de bonificación por adyacencia a la Producción [ICON_Production] de Canteras y recursos estratégicos.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="es_ES">
+      <Text>Rey de los eburones</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="es_ES">
+      <Text>Tu civilización gana una Cultura [ICON_CULTURE] igual a un 20% del coste de la unidad cuando se entrena a una que no sea civil. Las unidades de combate cuerpo a cuerpo y a distancia y las anticaballería reciben +2 a la Fuerza de combate [ICON_Strength] por cada unidad adyacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="es_ES">
+      <Text>Ambiórix</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="es_ES">
+      <Text>Recibe +2 a la Fuerza de combate [ICON_Strength] por cada unidad adyacente (Rey de los eburones).</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="es_ES">
+      <Text>Tu ingenio te servirá bien, Ambiórix. Cuando no baste con el tamaño de tus ejércitos, usa la cabeza y ese pico de oro para recuperar tus tierras. Los aliados seguirán tu estandarte y el brazo con el que empuñas la lanza quebrará la resistencia del enemigo. ¡Lucha, gran rey guerrero!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="es_ES">
+      <Text>Unidad exclusiva gala de la Antigüedad que sustituye al Guerrero. Esta unidad tiene más coste y recibe +10 a la Fuerza de combate [ICON_Strength] cuando luche contra unidades que tengan más Fuerza de combate básica. +5 a la Fuerza de combate [ICON_Strength] contra defensas de distritos.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="es_ES">
+      <Text>Gaesatae</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="es_ES">
+      <Text>Recibe +10 a la Fuerza de combate [ICON_Strength] contra unidades que tengan más Fuerza de combate básica. +5 a la Fuerza de combate [ICON_Strength] contra defensas de distritos.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="es_ES">
+      <Text>Altiplano</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="es_ES">
+      <Text>Una gran región, llena de colinas y cadenas montañosas.</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="es_ES">
+      <Text>Modo Épocas espectaculares</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="es_ES">
+      <Text>Este modo de juego hace que las épocas oscuras y las edades de oro sean más intensas. Se eliminan las épocas heroicas, y los jugadores solo estarán en una época normal durante la primera era. Después de esta, ganarán una época oscura o una edad de oro.[NEWLINE][NEWLINE]En lugar de hacer Dedicaciones, los jugadores accederán a nuevas políticas sociales de gran impacto, en función del momento en que estén. Las políticas oscuras vuelven con efectos poderosos renovados. Las nuevas políticas de oro están disponibles para los que lleguen a una edad de oro. Para seguir ganando Puntuación de época, completa Tecnologías y Principios de la era actual o una posterior y gana ascensos para tus unidades militares.[NEWLINE][NEWLINE]Las épocas oscuras son especialmente peligrosas. Los jugadores que estén en una verán cómo una parte de su imperio se convierte de inmediato en ciudades libres. En las dificultades más fáciles, los jugadores de la IA pierden muchas ciudades. En las más difíciles, lo hacen los humanos. En Príncipe, pierden una cantidad igual.[NEWLINE][NEWLINE]La habilidad exclusiva de Georgia es nueva, para que encaje con las reglas especiales del modo.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="es_ES">
+      <Text>+{1_Amount} a la Fuerza de combate por el rasgo Taxis.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="es_ES">
+      <Text>+{1_Amount} a la Fuerza religiosa por el rasgo Taxis.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="es_ES">
+      <Text>+{1_num} a Cultura [ICON_Culture] por el distrito de Hipódromo adyacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="es_ES">
+      <Text>+{1_Amount} a la Fuerza de combate contra unidades.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="es_ES">
+      <Text>+{1_Amount} a la Fuerza de combate si está a 1 casilla o menos del Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="es_ES">
+      <Text>+{1_Amount} a la Fuerza religiosa si está a 1 casilla o menos del Tagma.</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="es_ES">
+      <Text>+{1_Amount} a la Fuerza de combate por el rasgo Rey de los eburones.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="es_ES">
+      <Text>+{1_Amount} a la Fuerza de combate contra unidades con una Fuerza de combate básica mayor.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="es_ES">
+      <Text>+{1_Amount} a la Fuerza de combate contra defensas del distrito.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="es_ES">
+      <Text>Drómona|Drómonas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="es_ES">
+      <Text>Tagma|Tagmata</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="es_ES">
+      <Text>Gaesatae|Gaesatae</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_NAME" Language="zh_Hant_HK">
+      <Text>競馬場</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_NAME" Language="zh_Hant_HK">
+      <Text>奧皮杜姆</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_NAME" Language="zh_Hant_HK">
+      <Text>拜占庭</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>拜占庭帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>拜占庭</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_NAME" Language="zh_Hant_HK">
+      <Text>高盧</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>高盧帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>高盧的</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_BASIL_NAME" Language="zh_Hant_HK">
+      <Text>巴茲爾二世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMBIORIX_NAME" Language="zh_Hant_HK">
+      <Text>安比奧里克斯</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>處於黃金時代時，可獲得一個額外通用政策槽位，並且可以使用黑暗時代政策。建造防禦建築時+50% [ICON_Production] 生產力。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME" Language="zh_Hant_HK">
+      <Text>天授規矩</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>每座聖城皈依於拜占庭的宗教（包含拜占庭自身的聖城），所有單位獲得+3 [ICON_Strength] 戰鬥力或 [ICON_Religion] 宗教戰鬥力。擊敗屬於敵方文明或城邦之單位時，拜占庭的宗教會傳播至附近的城市。從有聖地區域的城市處獲得+1 [ICON_GreatProphet] 大預言家點數。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME" Language="zh_Hant_HK">
+      <Text>聖城作戰</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>從每個皈依你宗教的聖城處獲得+3 [ICON_Strength] 戰鬥力，而且擊敗主要文明的單位時，拜占庭的宗教會傳播至附近城市（天授規矩）</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME" Language="zh_Hant_HK">
+      <Text>聖城宗教力</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>從每個皈依你宗教的聖城處獲得+3 [ICON_RELIGION] 宗教戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>拜占庭特色區域。取代娛樂中心區域，提供+3 [ICON_Amenities] 滿意度、且造價較為低廉。當競馬場和此區域內建築建成時可獲得一個重騎兵單位。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>拜占庭特色區域。取代娛樂中心區域，提供+3 [ICON_Amenities] 滿意度、且造價較為低廉。當競馬場和此區域內建築建成時可獲得一個重騎兵單位。無法建造在擁有「水上樂園」的城市中。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>拜占庭特色區域。取代娛樂中心區域，提供+3 [ICON_Amenities] 滿意度、且造價較為低廉。當競馬場和此區域內建築建成時可獲得一個重騎兵單位。此區域所賦予之單位無須花費資源維護。無法建造在擁有「水上樂園」的城市中。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME" Language="zh_Hant_HK">
+      <Text>競馬場</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>此單位不消耗每回合來自競馬場區域的戰略資源。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_NAME" Language="zh_Hant_HK">
+      <Text>紫衣貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>攻打與拜占庭信仰相同宗教的城市時，重騎兵與輕騎兵單位可造成完整傷害。解鎖「王權神授」市政後獲得「塔格瑪精兵」特色單位。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_BASIL" Language="zh_Hant_HK">
+      <Text>國王巴茲爾二世，你的敵人將懼怕你的到來，因為你經過戰火的千錘百鍊。用你的機智與野心磨利你的刀鋒，保護好你的驕傲，起身對抗城牆內外的仇敵們吧。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>取代四槳座戰船的拜占庭古典時代特色單位，具有額外射程。對抗其他單位時+10 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_NAME" Language="zh_Hant_HK">
+      <Text>希臘火</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>與各單位戰鬥時+10 [ICON_Strength] 戰鬥力</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>取代騎士的巴茲爾二世中世紀特色單位。位於塔格瑪精兵1單元格範圍內的陸地單位獲得+4 [ICON_Strength] 戰鬥力或 [ICON_RELIGION] 宗教戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NAME" Language="zh_Hant_HK">
+      <Text>塔格瑪精兵</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>距離塔格瑪精兵1單元格範圍內的陸地單位可獲得+4 [ICON_Strength] 戰鬥力或 [ICON_RELIGION] 宗教戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME" Language="zh_Hant_HK">
+      <Text>塔格瑪精兵戰鬥力</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>距離塔格瑪精兵1個單元格範圍內時+4 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME" Language="zh_Hant_HK">
+      <Text>塔格瑪精兵宗教戰鬥力</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>距離塔格瑪精兵1個單元格範圍內時+4 [ICON_RELIGION] 宗教戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME" Language="zh_Hant_HK">
+      <Text>紫衣貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>攻擊與拜占庭信仰的宗教相同之城市時造成完整傷害（紫衣貴族）</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME" Language="zh_Hant_HK">
+      <Text>哈爾施塔特文化</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>礦山為所有區域提供少量相鄰加成，對無主的領土施放文化炸彈，並且獲得+1 [ICON_CULTURE] 文化值。特色區域無法因相鄰於其他區域而獲得少量相鄰加成，且這些區域無法建造在市中心旁。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>高盧特色區域，取代工業區，不僅造價較低廉，可建造的時間也較早。奧皮杜姆為防禦性區域且具有遠程攻擊能力。建成首座奧皮杜姆後，隨即解鎖「學徒」科技。[NEWLINE][NEWLINE]每與一個採石場改良設施或戰略資源相鄰，就可獲得+2 [ICON_Production] 生產力之相鄰加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME" Language="zh_Hant_HK">
+      <Text>厄勃隆尼斯之王</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>生產非平民單位時，您文明將獲得等同於該單位花費20%的 [ICON_CULTURE] 文化值。每一相鄰單位賦予近戰、抗騎兵及遠程單位+2 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME" Language="zh_Hant_HK">
+      <Text>安比奧里克斯</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>從每個相鄰單位處獲得+2 [ICON_Strength] 戰鬥力（厄勃隆尼斯之王）</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_AMBIORIX" Language="zh_Hant_HK">
+      <Text>安比奧里克斯，你的機敏將讓你一帆風順。若你的兵力略有未逮，那就使用聰慧頭腦及巧舌如簧來奪回你的領土吧。你的盟友將會遵從你的領導，而你的強大利矛則會粉碎敵人的反抗意圖。奮戰吧，偉大的戰士國王！</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>取代勇士的高盧遠古時代特色單位。此單位有較高的花費，並在和擁有較高基礎戰鬥力的單位戰鬥時獲得+10 [ICON_Strength] 戰鬥力。對抗區域防禦時+5 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_NAME" Language="zh_Hant_HK">
+      <Text>蓋薩塔槍傭兵</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>和擁有較高基礎戰鬥力的單位戰鬥時獲得+10 [ICON_Strength] 戰鬥力。對抗區域防禦時+5 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_NAME" Language="zh_Hant_HK">
+      <Text>高地</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_HIGHLANDS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>由丘陵與山脈為主體的廣大區域。</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_NAME" Language="zh_Hant_HK">
+      <Text>動盪時代模式</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>此遊戲模式讓黑暗時代與黃金時代的效力更大。英雄時代遭到移除，而且玩家僅能在第一個時代中處於普通時代，之後便必定會處於黑暗或黃金時代。[NEWLINE][NEWLINE]在此模式中，玩家不會獲得致力方針，而是能根據其時代獲得強大的新社會政策。黑暗政策再次帶著新穎的強大效果回歸。成功進入黃金時代的玩家則可使用嶄新的黃金政策。若要持續獲得時代分數，請持續完成科技與市政並獲得軍事單位強化。[NEWLINE][NEWLINE]黑暗時代變得特別危險。處於黑暗時代的玩家將有部分帝國立即失陷成為自由城市，而自由城市能對其他城市施加忠誠度壓力。在較容易的難度設定中，AI玩家會失去大量城市。在較難的難度設定中，則是真實玩家會失去大量城市。在王子難度下，雙方損失的城市數相同。[NEWLINE][NEWLINE]喬治亞的文明特色能力改為最新，以配合此模式的獨特規則。</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC" Language="zh_Hant_HK">
+      <Text>+{1_Amount}戰鬥力來自天授規矩特質</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC" Language="zh_Hant_HK">
+      <Text>+{1_Amount}宗教戰鬥力來自天授規矩特質</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_HIPPODROME_CULTURE" Language="zh_Hant_HK">
+      <Text>+{1_num} [ICON_CULTURE] 文化值，來自相鄰競馬場區域。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>對抗單位時+{1_Amount}戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>距離塔格瑪精兵1個單元格範圍內時+{1_Amount}戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>距離塔格瑪精兵1個單元格範圍內時+{1_Amount}宗教戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC" Language="zh_Hant_HK">
+      <Text>+{1_Amount}戰鬥力來自厄勃隆尼斯之王特質</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>對抗擁有較高基礎戰鬥力的單位時+{1_Amount}戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>攻擊區域防禦時+{1_Amount}戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_DROMON_NAME" Language="zh_Hant_HK">
+      <Text>德羅蒙戰船</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME" Language="zh_Hant_HK">
+      <Text>塔格瑪精兵</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_GAUL_GAESATAE_NAME" Language="zh_Hant_HK">
+      <Text>蓋薩塔槍傭兵</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

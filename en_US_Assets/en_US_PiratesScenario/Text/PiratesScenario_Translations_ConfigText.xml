@@ -1,0 +1,3021 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="pt_BR">
+      <Text>Rei Pirata</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="pt_BR">
+      <Text>O Almirante Negro. O flagelo dos sete mares. A razão pela qual as crianças nas cidades portuárias ficavam caladas e comiam suas verduras. O Rei Pirata.</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="pt_BR">
+      <Text>o pirata|a pirata|os piratas|as piratas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="pt_BR">
+      <Text>Pirata Aterrador</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="pt_BR">
+      <Text>Pirata Aterrador</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="pt_BR">
+      <Text>Piratas aterradores</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="pt_BR">
+      <Text>Corsário</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="pt_BR">
+      <Text>Corsário</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="pt_BR">
+      <Text>Corsários</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="pt_BR">
+      <Text>Aventureiro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="pt_BR">
+      <Text>Aventureiro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="pt_BR">
+      <Text>Aventureiros</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="pt_BR">
+      <Text>Acumulador</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="pt_BR">
+      <Text>Acumulador</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="pt_BR">
+      <Text>Acumuladores</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="pt_BR">
+      <Text>Espanha</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="pt_BR">
+      <Text>Espanha</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>O Império Espanhol no século XVII cresceu graças ao ouro extraído do que sobrou dos impérios incas e astecas e enviando galeões a leste, para as Filipinas. A Espanha dos Habsburgo era rica, mas infestada pela corrupção e desigualdade.</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="pt_BR">
+      <Text>espanhol|espanhola|espanhóis|espanholas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="pt_BR">
+      <Text>Inglaterra</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="pt_BR">
+      <Text>Inglaterra</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Saindo de uma Guerra Civil, a Inglaterra do final do século XVII estava começando sua própria expansão colonial pelo Caribe e América do Norte. Em um século, a Britânia governaria os mares, mas agora seu destino está na ponta de uma espada.</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="pt_BR">
+      <Text>inglês|inglesa|ingleses|inglesas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="pt_BR">
+      <Text>Países Baixos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="pt_BR">
+      <Text>Países Baixos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>O século XVII foi a era de ouro do Império Holandês, com o lucro vindo do comércio com as Índias Orientais e o Japão combinado com as riquezas dentro de casa. No Caribe, porém, eles não eram protagonistas, mas esperavam uma oportunidade para crescer.</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="pt_BR">
+      <Text>holandês|holandesa|holandeses|holandesas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="pt_BR">
+      <Text>França</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="pt_BR">
+      <Text>França</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>A França, com sua monarquia absolutista e ricas colônias em Quebec e na África, se apresentava como a rival da Inglaterra no final do século XVII. As constantes guerras com seus vizinhos holandeses testou e comprovou a competência dos militares franceses. </Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="pt_BR">
+      <Text>francês|francesa|franceses|francesas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="pt_BR">
+      <Text>Potência Colonial|Potências Coloniais</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="pt_BR">
+      <Text>Potências coloniais controlam os portos da região. Os piratas podem se esgueirar pelos portos para visitar uma taverna ou saquear o porto em busca de um grande espólio. Potências coloniais não gostam da pirataria.</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="pt_BR">
+      <Text>Rei Pirata</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="pt_BR">
+      <Text>Pirata Aterrador</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="pt_BR">
+      <Text>Corsário</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="pt_BR">
+      <Text>Aventureiro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="pt_BR">
+      <Text>Acumulador</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="pt_BR">
+      <Text>Espanha</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="pt_BR">
+      <Text>Inglaterra</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="pt_BR">
+      <Text>Países Baixos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="pt_BR">
+      <Text>França</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="pt_BR">
+      <Text>Piratas</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="pt_BR">
+      <Text>Piratas tem como foco o saque, a fama e a aventura em mar aberto.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="pt_BR">
+      <Text>Rei dos Piratas</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="pt_BR">
+      <Text>Seja o Pirata mais infame ao final do jogo.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="pt_BR">
+      <Text>Ilhas dos Piratas</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="pt_BR">
+      <Text>Um arquipélago de ilhas malditas cheias de tesouros e traição, com um rico e denso continente a oeste. Farejo ouro nas ondas. E sangue.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="pt_BR">
+      <Text>Ilhas do Caribe</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="pt_BR">
+      <Text>Os domínios continentais da Espanha e as Índias Ocidentais em pleno século XVII. Frotas de tesouros afanam o ouro mexicano e o levam às mãos espanholas, mantendo distância das velas negras.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="pt_BR">
+      <Text>Alguns corsários ostentam a bandeira de um rei. Outros navegam só para ouvir o tinido de moedas num baú. Outros gostam de ouvir bolas de canhão atravessando as ondas. Você cansou dessas ninharias. A moeda mais antiga e poderosa é o medo, e esse é o seu negócio.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="pt_BR">
+      <Text>Lutar é o que fazemos melhor</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>+10 de [ICON_Gold] ouro sempre que uma unidade entra em combate.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="pt_BR">
+      <Text>Andar na Prancha</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Todo navio de marinha possui a ação de unidade Andar na Prancha. Esta ação pode ser usada em qualquer navio inimigo muito danificado para fazê-lo afundar em troca de +3 de [ICON_Movement] movimento e +5 de [Icon_Strength] força de combate por 5 turnos. A habilidade Andar na Prancha leva 5 turnos para recarregar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="pt_BR">
+      <Text>A Marinha Real tem objetivos marítimos: cidades a saquear, navios a capturar. Mas também tem regras, leis e tratados, e seus oficiais usam perucas. Assim, eles lhe dão uma carta de corso para você fazer o que eles não podem. Vá, e queime os inimigos da Coroa!</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="pt_BR">
+      <Text>Carta de Corso</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>O Corsário tem uma potência colonial designada aleatoriamente como patrono. O Corsário sabe a localização de todos os portos do patrono. Pilhar rotas comerciais concede 100 de [ICON_Gold] ouro adicional.</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="pt_BR">
+      <Text>Traga-o para Casa</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Todo navio de marinha possui a ação de unidade Traga-o para Casa. Esta ação pode ser usada em navios inimigos muito danificados para capturar o navio para o patrono do Corsário. Usar Traga-o para Casa concede +5 pontos de Pirata Notório e +100 de [ICON_Gold] ouro, além das recompensas normais de vitória naval. A habilidade Traga-o para Casa leva 5 turnos para recarregar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="pt_BR">
+      <Text>A viagem pode acabar na forca, mas por enquanto você está livre. Navegue até onde a vista alcança, encontre e se aposse do que lá houver, seja tesouros ou perigos. Os ventos estão fortes e as velas estão içadas!</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="pt_BR">
+      <Text>Navegando em Mar Aberto</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>O Aventureiro ganha +1 ponto de Pirata Notório para cada 50 hexágonos revelados no mapa.</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="pt_BR">
+      <Text>Cambar contra o Vento</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Todas as unidades navais podem Cambar contra o Vento para duplicar seu [ICON_Movement] movimento por um turno. A habilidade Cambar contra o Vento leva 6 turnos para recarregar.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="pt_BR">
+      <Text>Seu pai era bancário, e você também trabalha mais ou menos nesse ramo. Seus domínios são a arca na qual entra o ouro, e os outros estão prontinhos para você fazer o saque. Pagando bem, o Diabo e Jack Ketch poderão ser convencidos a trabalhar alguns anos para você.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="pt_BR">
+      <Text>Meu! Meu! Meu!</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>O custo de manutenção da unidade é reduzido em 3. +10 Pontos de Tesouro por enterrar tesouros. O Acumulador ganha 3% de juros sobre suas reservas de ouro por turno.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="pt_BR">
+      <Text>Bala Encadeada</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Como ação gratuita, todas as unidades navais podem usar a habilidade Bala Encadeada para prender uma unidade no mesmo lugar por um turno. Bala Encadeada leva 5 turnos para recarregar.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="pt_BR">
+      <Text>Bucaneiros mortos</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="pt_BR">
+      <Text>Fortes Bucaneiros pilhados</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="pt_BR">
+      <Text>Bucaneiros mortos</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="pt_BR">
+      <Text>Fortes Bucaneiros pilhados</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="pt_BR">
+      <Text>Relíquias encontradas</Text>
+    </Replace>
+    <Replace Tag="LOC_BLANK_STRING" Language="pt_BR">
+      <Text></Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="fr_FR">
+      <Text>Roi des Pirates|Rois des pirates</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="fr_FR">
+      <Text>L'Amiral de la Flotte noire. Le Fléau des Sept mers. La raison pour laquelle les enfants des villes portuaires se taisent et mangent leurs brocolis. Le roi des pirates.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="fr_FR">
+      <Text>pirate|pirate|pirates|pirates</Text>
+      <Gender>masculine:vowel|feminine:vowel|masculine:vowel|feminine:vowel</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="fr_FR">
+      <Text>Pirate redouté</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="fr_FR">
+      <Text>Pirate redouté</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="fr_FR">
+      <Text>Pirates redoutés</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="fr_FR">
+      <Text>Corsaire</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="fr_FR">
+      <Text>Corsaire</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="fr_FR">
+      <Text>Corsaires</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="fr_FR">
+      <Text>Aventurier</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="fr_FR">
+      <Text>Aventurier</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="fr_FR">
+      <Text>Aventuriers</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="fr_FR">
+      <Text>Thésauriseur</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="fr_FR">
+      <Text>Thésauriseur</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="fr_FR">
+      <Text>Thésauriseurs</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="fr_FR">
+      <Text>Espagne</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="fr_FR">
+      <Text>Espagne</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>L'Empire espagnol du XVIIe siècle était à son apogée, extirpant l'or des vestiges aztèques et incas et expédiant des galions à l'est, vers les Philippines. L'Espagne des Habsbourg était certes riche, mais percluse de corruption et d'inégalités.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="fr_FR">
+      <Text>espagnol|espagnole|espagnols|espagnoles</Text>
+      <Gender>masculine:vowel|feminine:vowel|masculine:vowel|feminine:vowel</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="fr_FR">
+      <Text>Angleterre</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="fr_FR">
+      <Text>Angleterre</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Tout juste sortie de la Première Révolution anglaise, l'Angleterre de la fin du XVIIe siècle entamait son expansion coloniale dans les Caraïbes et en Amérique du Nord. En un siècle, Brittania allait dominer les flots, mais aujourd'hui, son destin ne tient qu'à un fil.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="fr_FR">
+      <Text>anglais|anglaise|anglais|anglaises</Text>
+      <Gender>masculine:vowel|feminine:vowel|masculine:vowel|feminine:vowel</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="fr_FR">
+      <Text>Pays-Bas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="fr_FR">
+      <Text>Pays-Bas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Le XVIIe siècle était l'âge d'or de l'Empire néerlandais : les profits commerciaux des Indes orientales et du Japon se combinaient à la richesse du trésor de la couronne. Dans les Caraïbes, cependant, sa présence était plus limitée... mais toute occasion restait bonne à prendre.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="fr_FR">
+      <Text>néerlandais|néerlandaise|néerlandais|néerlandaises</Text>
+      <Gender>masculine:vowel|feminine:vowel|masculine:vowel|feminine:vowel</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="fr_FR">
+      <Text>France</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="fr_FR">
+      <Text>France</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>La France, avec ses souverains absolus et ses riches possessions au Québec et en Afrique, avait tout pour rivaliser avec l'Angleterre à la fin du XVIIe siècle, et ses armées étaient largement aguerries par les guerres constantes avec ses voisins néerlandais.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="fr_FR">
+      <Text>français|française|français|françaises</Text>
+      <Gender>masculine:vowel|feminine:vowel|masculine:vowel|feminine:vowel</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="fr_FR">
+      <Text>Puissance coloniale</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="fr_FR">
+      <Text>Les puissances coloniales contrôlent les ports de la région. Les pirates peuvent s'y infiltrer pour visiter une taverne ou piller le port. Attention cependant, la piraterie est assez mal vue par les autorités.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="fr_FR">
+      <Text>Roi des Pirates|Rois des pirates</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="fr_FR">
+      <Text>Pirate redouté</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="fr_FR">
+      <Text>Corsaire</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="fr_FR">
+      <Text>Aventurier</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="fr_FR">
+      <Text>Thésauriseur</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="fr_FR">
+      <Text>Espagne</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="fr_FR">
+      <Text>Angleterre</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="fr_FR">
+      <Text>Pays-Bas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="fr_FR">
+      <Text>France</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="fr_FR">
+      <Text>Pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="fr_FR">
+      <Text>Pirates est un mode de jeu pour les amateurs de pillage, de gloire et d'aventures en haute mer.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="fr_FR">
+      <Text>Roi des pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="fr_FR">
+      <Text>Soyez le pirate possédant le plus gros score d'infamie à la fin de la partie.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="fr_FR">
+      <Text>Îles pirates</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="fr_FR">
+      <Text>Une série d'îles maudites, entre trésors et trahisons, avec une terre principale dense et riche à l'ouest. On sent déjà l'or sur les vagues... et le sang.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="fr_FR">
+      <Text>Caraïbes</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="fr_FR">
+      <Text>L'Espagne et les Caraïbes à leur apogée, au XVIIe siècle. Des navires évacuent l'or du Mexique jusqu'en Espagne, prêts à tout pour esquiver les voiles noires.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="fr_FR">
+      <Text>Certains corsaires naviguent sous le pavillon d'un roi, et d'autres pour accumuler un maximum de pièces d'or dans leurs coffres. Et puis il y a ceux qui apprécient simplement le sifflement des boulets de canon par-dessus les vagues. La plus puissante et la plus ancienne des monnaies restera toujours la peur.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="fr_FR">
+      <Text>Le combat dans le sang</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Gold] Or +10 chaque fois qu'une unité en attaque une autre.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="fr_FR">
+      <Text>Supplice de la planche</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Tous les navires peuvent utiliser l'action "Supplice de la planche" sur n'importe quelle embarcation ennemie très endommagée, qui sera alors coulée. [ICON_Movement] PM +3 et [ICON_Strength] puissance de combat +5 pendant cinq tours. Cinq tours de rechargement.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="fr_FR">
+      <Text>La Royal Navy a de nombreux objectifs sur les mers, entre villes à piller et navires à capturer. Mais elle a aussi des règles, des lois et des traités à respecter, et leurs officiers portent des perruques. Alors elle vous donne une lettre de marque, pour vous autoriser à faire ce qu'elle ne peut pas. Allez donc faire flamber les ennemis de la couronne !</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="fr_FR">
+      <Text>Lettre de marque</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Le corsaire est employé par une puissance coloniale choisie au hasard, dont il connaît l'emplacement de tous les ports. [ICON_Gold] Or +100 en plus pour chaque route commerciale pillée.</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="fr_FR">
+      <Text>Changement de pavillon</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Tous les navires peuvent utiliser l'action "Changement de pavillon" sur les embarcations très endommagées afin de les capturer pour le compte de leur employeur. Points de pirate célèbre +5 et [ICON_Gold] or +100 en plus des récompenses de victoire habituelles. Cinq tours de rechargement.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="fr_FR">
+      <Text>Le voyage risque bien de finir dans la misère ou sur le quai pour une exécution, mais pour l'instant, vous êtes libre. Vous naviguez pour repousser l'horizon et mettre la main sur tout ce que vous trouverez, trésor ou danger. Que le vent soit frais et gonfle vos voiles !</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="fr_FR">
+      <Text>Explorer la haute mer</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>L'aventurier gagne un point de pirate célèbre toutes les cinquante cases découvertes sur la carte.</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="fr_FR">
+      <Text>Virement de bord</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Toutes les unités navales peuvent virer de bord pour doubler leur nombre de [ICON_Movement] PM pendant un tour. Rechargement de la compétence : six tours.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="fr_FR">
+      <Text>Votre père était banquier, et vous naviguez aussi dans les eaux de la finance, à votre manière. Vous stockez des lingots dans vos cales et effectuez des retraits dans celles des autres. En y mettant le prix, le Diable vous laissera peut-être encore exercer quelques années.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="fr_FR">
+      <Text>Tout dans ma poche !</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Coût d'entretien de l'unité -3. Points de trésor +10 pour avoir enterré un trésor. Le thésauriseur reçoit 3 % d'intérêts sur les réserves d'or par tour.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="fr_FR">
+      <Text>Tir enchaîné</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Action gratuite : toutes les unités navales peuvent utiliser la compétence "Tir enchaîné" pour bloquer une unité sur place pendant un tour. Temps de rechargement : cinq tours.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="fr_FR">
+      <Text>Boucaniers tués</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="fr_FR">
+      <Text>Forts de boucaniers pillés</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="fr_FR">
+      <Text>Boucaniers tués</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="fr_FR">
+      <Text>Forts de boucaniers pillés</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="fr_FR">
+      <Text>Reliques trouvées</Text>
+    </Replace>
+    <Replace Tag="LOC_BLANK_STRING" Language="fr_FR">
+      <Text></Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="de_DE">
+      <Text>Piratenkönig|Piratenkönig|Piratenkönig|Piratenkönigs|Piratenkönig</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="de_DE">
+      <Text>Der schwarze Admiral. Die Geißel der sieben Weltmeere. Das Schreckgespenst, mit dem allen Kindern in Hafenstädten gedroht wird. Der Piratenkönig.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="de_DE">
+      <Text>Piraten-|Piraten-|Piraten-|Piraten-|Piraten-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="de_DE">
+      <Text>Gefürchteter Pirat|Gefürchteten Piraten|Gefürchteten Piraten|Gefürchteten Piraten|Gefürchtete Pirat</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="de_DE">
+      <Text>Gefürchteter Pirat|Gefürchteten Piraten|Gefürchteten Piraten|Gefürchteten Piraten|Gefürchtete Pirat</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="de_DE">
+      <Text>Piraten-|Piraten-|Piraten-|Piraten-|Piraten-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="de_DE">
+      <Text>Freibeuter|Freibeuter|Freibeuter|Freibeuters|Freibeuter</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="de_DE">
+      <Text>Freibeuter|Freibeuter|Freibeuter|Freibeuters|Freibeuter</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="de_DE">
+      <Text>Freibeuter-|Freibeuter-|Freibeuter-|Freibeuter-|Freibeuter-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="de_DE">
+      <Text>Säbelrassler|Säbelrassler|Säbelrassler|Säbelrasslers|Säbelrassler</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="de_DE">
+      <Text>Säbelrassler|Säbelrassler|Säbelrassler|Säbelrasslers|Säbelrassler</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="de_DE">
+      <Text>Säbelrassler-|Säbelrassler-|Säbelrassler-|Säbelrassler-|Säbelrassler-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="de_DE">
+      <Text>Horter|Horter|Horter|Horters|Horter</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="de_DE">
+      <Text>Horter|Horter|Horter|Horters|Horter</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="de_DE">
+      <Text>Horter-|Horter-|Horter-|Horter-|Horter-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="de_DE">
+      <Text>Spanien|Spanien|Spanien|Spaniens|Spanien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="de_DE">
+      <Text>Spanien|Spanien|Spanien|Spaniens|Spanien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Das Spanische Reich war im 17. Jahrhundert auf dem Höhepunkt seiner Macht. Gold floss aus den ehemaligen Reichen der Azteken und Inka und Galleonen brachen nach Osten zu den Philippinen auf. Das habsburgische Spanien war wohlhabend, aber von Korruption und Ungerechtigkeit geplagt.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="de_DE">
+      <Text>Spanisch|Spanischen|Spanische|Spanischer|Spanisches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="de_DE">
+      <Text>England|England|England|Englands|England</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="de_DE">
+      <Text>England|England|England|Englands|England</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Nach dem englischen Bürgerkrieg begann England im späten 17. Jahrhundert eigene Kolonialpläne in der Karibik und Nordamerika voranzutreiben. Innerhalb eines Jahrhunderts würde Britannien über die Wellen herrschen, doch noch steht das Schicksal des Landes auf Messers Schneide.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="de_DE">
+      <Text>Englisch|Englischen|Englische|Englischer|Englisches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="de_DE">
+      <Text>Niederlande|Niederlande|Niederlanden|Niederlande|Niederlande</Text>
+      <Gender>neuter</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="de_DE">
+      <Text>Niederlande|Niederlande|Niederlanden|Niederlande|Niederlande</Text>
+      <Gender>neuter</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Das 17. Jahrhundert war ein Goldenes Zeitalter für das Niederländische Reich, das von Handelsbeziehungen nach Ostindien und Japan profitierte und zuhause Reichtum anhäufte. In der Karibik stellten die Niederlande aber nur eine sekundäre Macht dar ... waren jedoch stehts auf der Suche nach guten Gelegenheiten.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="de_DE">
+      <Text>Niederländisch|Niederländischen|Niederländische|Niederländischer|Niederländisches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="de_DE">
+      <Text>Frankreich|Frankreich|Frankreich|Frankreichs|Frankreich</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="de_DE">
+      <Text>Frankreich|Frankreich|Frankreich|Frankreichs|Frankreich</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Ende des 17. Jahrhunderts stellte Frankreich mit seinen absolut herrschenden Monarchen und den reichen Besitztümern in Quebéc und Afrika einen ernstzunehmenden Rivalen für England dar. Ständige Kriege mit den niederländischen Nachbarn hatten das französische Militär gestählt.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="de_DE">
+      <Text>Französisch|Französischen|Französische|Französischer|Französisches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="de_DE">
+      <Text>Kolonialmacht</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="de_DE">
+      <Text>Die Hafenstädte der Region unterstehen den Kolonialmächten. Piraten können sich für einen Schänkenbesuch hineinschleichen oder in der Hoffnung auf reiche Beute den Hafen plündern. Die Kolonialmächte gehen rigoros gegen Piraterie vor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="de_DE">
+      <Text>Piratenkönig|Piratenkönig|Piratenkönig|Piratenkönigs|Piratenkönig</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="de_DE">
+      <Text>Gefürchteter Pirat|Gefürchteten Piraten|Gefürchteten Piraten|Gefürchteten Piraten|Gefürchtete Pirat</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="de_DE">
+      <Text>Freibeuter|Freibeuter|Freibeuter|Freibeuters|Freibeuter</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="de_DE">
+      <Text>Säbelrassler|Säbelrassler|Säbelrassler|Säbelrasslers|Säbelrassler</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="de_DE">
+      <Text>Horter|Horter|Horter|Horters|Horter</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="de_DE">
+      <Text>Spanien|Spanien|Spanien|Spaniens|Spanien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="de_DE">
+      <Text>England|England|England|Englands|England</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="de_DE">
+      <Text>Niederlande|Niederlande|Niederlanden|Niederlande|Niederlande</Text>
+      <Gender>neuter</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="de_DE">
+      <Text>Frankreich|Frankreich|Frankreich|Frankreichs|Frankreich</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="de_DE">
+      <Text>Piraten</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="de_DE">
+      <Text>In Piraten geht es um Raubzüge, Ruhm und Abenteuer auf hoher See.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="de_DE">
+      <Text>König der Piraten</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="de_DE">
+      <Text>Ziel ist es, am Ende des Spiels der Pirat mit der höchsten Verrufenheit zu sein.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="de_DE">
+      <Text>Pirateninseln</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="de_DE">
+      <Text>Eine Kette von verfluchten Inseln voller Vermögen und Verrat vor einem reichen und üppigen Festland im Westen. Die frische Meeresbrise schmeckt nach Gold und Blut.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="de_DE">
+      <Text>Karibische Inseln</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="de_DE">
+      <Text>Das spanische Überseegebiet und die Westindischen Inseln Mitte des 17. Jahrhunderts. Schatzflotten voller mexikanischem Gold versuchen auf ihrem Weg nach Spanien den schwarzen Segeln der Piraten zu entkommen.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="de_DE">
+      <Text>Manche Korsaren segeln unter der Flagge eines Staatsoberhauptes, einige segeln um des Goldes Willen und andere segeln, weil sie das Donnern der Kanonen über den Wellen lieben. Doch Ihr habt Höheres im Sinn und nutzt die älteste und mächtigste Währung der Welt: Angst.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="de_DE">
+      <Text>Kämpfen ist unsere Stärke</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Ihr erhaltet jedes Mal +10 [ICON_Gold] Gold, wenn eine Einheit sich in den Kampf stürzt.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="de_DE">
+      <Text>Über die Planke gehen</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Alle Marineschiffe verfügen über die Einheitenaktion 'Über die Planke gehen'. Sie kann gegen schwer beschädigte feindliche Schiffe genutzt werden, um das Schiff zu versenken und im Gegenzug für 5 Runden +3 [ICON_Movement] Fortbewegung und +5 [Icon_Strength] Kampfstärke zu erhalten. Die Fähigkeit 'Über die Planke gehen' benötigt 5 Runden zum Wiederaufladen.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="de_DE">
+      <Text>Die königliche Marine hat Pläne für die hohe See - Städte, die geplündert, und Schiffe, die erbeutet werden sollen. Aber die königliche Marine hat Regeln und Gesetze und Bündnisse und ihre Offiziere tragen Perücken. Deshalb geben sie Euch einen Kaperbrief, damit Ihr erledigen könnt, was ihnen verwehrt ist. Zieht aus und brennt die Feinde der Krone nieder!</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="de_DE">
+      <Text>Kaperbrief</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Dem Freibeuter wird eine zufällige Kolonialmacht als Patron zugewiesen. Der Freibeuter kennt die Positionen aller Häfen seines Patrons. Das Plündern von Handelswegen bringt zusätzliche 100 [ICON_Gold] Gold ein.</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="de_DE">
+      <Text>Bring sie heim</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Jedes Marineschiff verfügt über die Einheitenaktion 'Bring sie heim'. Sie kann gegen schwer beschädigte feindliche Schiffe genutzt werden, um das Schiff für den Patron des Freibeuters zu erobern. 'Bring sie heim' gewährt +5 Verrufene-Piraten-Punkte und +100 [ICON_Gold] Gold zusätzlich zu den üblichen Belohnungen für einen maritimen Sieg. Die Fähigkeit 'Bring sie heim' benötigt 5 Runden zum Wiederaufladen.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="de_DE">
+      <Text>Morgen mag die Reise vor dem Seegericht oder am Galgen enden, doch heute seid Ihr frei. Jagt dem Horizont nach und beansprucht alles, was Ihr findet, sei es zum Guten oder zum Schlechten. Möge der Wind stets Eure Segel blähen!</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="de_DE">
+      <Text>Über das offene Meer segeln</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Der Säbelrassler erhält +1 Verrufene-Piraten-Punkt pro 50 Geländefelder, die auf der Karte aufgedeckt werden.</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="de_DE">
+      <Text>Gegen den Wind segeln</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Alle Marineeinheiten können gegen den Wind segeln, um ihre [ICON_Movement] Fortbewegung für eine Runde zu verdoppeln. Die Fähigkeit 'Gegen den Wind segeln' benötigt 6 Runden zum Wiederaufladen.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="de_DE">
+      <Text>Euer Vater war im Bankgeschäft und auch Ihr seid wohl auf gewisse Art Bankier. Euer Frachtraum ist der Tresor, in dem das ehemals fremde Gold ruht, das Ihr eingezahlt habt. Vielleicht lassen sich der Teufel oder Jack Ketch mit klingender Münze überzeugen, Euch noch ein paar Jahre zu geben.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="de_DE">
+      <Text>Meins! Meins! Meins!</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Unterhaltskosten für Einheiten werden um 3 reduziert. +10 Schatzpunkte für das Vergraben von Schätzen. Der Horter erhält in jeder Runde 3 % Zinsen auf seine Goldreserven.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="de_DE">
+      <Text>Kettenschuss</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Alle Marineeinheiten können als kostenlose Aktion die Fähigkeit 'Kettenschuss' nutzen, um eine Einheit für eine Runde festzusetzen. Kettenschuss benötigt 5 Runden zum Wiederaufladen.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="de_DE">
+      <Text>Bukaniere getötet</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="de_DE">
+      <Text>Bukanier-Festungen geplündert</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="de_DE">
+      <Text>Bukaniere getötet</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="de_DE">
+      <Text>Bukanier-Festungen geplündert</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="de_DE">
+      <Text>Relikte gefunden</Text>
+    </Replace>
+    <Replace Tag="LOC_BLANK_STRING" Language="de_DE">
+      <Text></Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="it_IT">
+      <Text>Re dei pirati|del Re dei pirati|al Re dei pirati|il Re dei pirati|dal Re dei pirati</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="it_IT">
+      <Text>L'ammiraglio delle bandiere nere. Il flagello dei sette mari. La ragione per cui i bambini, nelle città portuali, facevano silenzio e mangiavano la loro verdura. Il re dei pirati.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="it_IT">
+      <Text>pirata|pirata|pirata|pirata</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="it_IT">
+      <Text>Assassino|dell'Assassino|all'Assassino|l'Assassino|dall'Assassino</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="it_IT">
+      <Text>Assassino|dell'Assassino|all'Assassino|l'Assassino|dall'Assassino</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="it_IT">
+      <Text>dell'Assassino|dell'Assassino|dell'Assassino|dell'Assassino</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="it_IT">
+      <Text>Corsaro|del Corsaro|al Corsaro|il Corsaro|dal Corsaro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="it_IT">
+      <Text>Corsaro|del Corsaro|al Corsaro|il Corsaro|dal Corsaro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="it_IT">
+      <Text>del Corsaro|del Corsaro|del Corsaro|del Corsaro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="it_IT">
+      <Text>Filibustiere|del Filibustiere|al Filibustiere|il Filibustiere|dal Filibustiere</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="it_IT">
+      <Text>Filibustiere|del Filibustiere|al Filibustiere|il Filibustiere|dal Filibustiere</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="it_IT">
+      <Text>del Filibustiere|del Filibustiere|del Filibustiere|del Filibustiere</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="it_IT">
+      <Text>Arpagone|dell'Arpagone|all'Arpagone|l'Arpagone|dall'Arpagone</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="it_IT">
+      <Text>Arpagone|dell'Arpagone|all'Arpagone|l'Arpagone|dall'Arpagone</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="it_IT">
+      <Text>dell'Arpagone|dell'Arpagone|dell'Arpagone|dell'Arpagone</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="it_IT">
+      <Text>Spagna|della Spagna|alla Spagna|la Spagna|dalla Spagna</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="it_IT">
+      <Text>Spagna|della Spagna|alla Spagna|la Spagna|dalla Spagna</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Nel Seicento l'impero spagnolo era al suo apice, grazie all'afflusso dell'oro saccheggiato dagli imperi inca e azteco e ai galeoni che a est si spingevano sino alle Filippine. La Spagna degli Asburgo era ricca, ma era minata dalla corruzione e dalle disuguaglianze.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="it_IT">
+      <Text>spagnolo|spagnola|spagnoli|spagnole</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="it_IT">
+      <Text>Inghilterra|dell'Inghilterra|all'Inghilterra|l'Inghilterra|dall'Inghilterra</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="it_IT">
+      <Text>Inghilterra|dell'Inghilterra|all'Inghilterra|l'Inghilterra|dall'Inghilterra</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Alla fine del XVII secolo l'Inghilterra era appena uscita dalla guerra civile e stava cominciando a espandersi nei Caraibi e in Nordamerica. Nel giro di un secolo sarebbe arrivata a dominare tutti i mari, ma in questo momento il suo destino era in equilibrio sul filo di una spada.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="it_IT">
+      <Text>inglese|inglese|inglesi|inglesi</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="it_IT">
+      <Text>Olanda|dell'Olanda|all'Olanda|l'Olanda|dall'Olanda</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="it_IT">
+      <Text>Olanda|dell'Olanda|all'Olanda|l'Olanda|dall'Olanda</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Il Seicento è stato l'età dell'oro dell'impero olandese, che poteva contare su una grande ricchezza in patria e sui profitti del commercio con le Indie orientali e il Giappone. Nei Caraibi, tuttavia, l'Olanda era una potenza minore... ma pronta a cogliere ogni opportunità.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="it_IT">
+      <Text>olandese|olandese|olandesi|olandesi</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="it_IT">
+      <Text>Francia|della Francia|alla Francia|la Francia|dalla Francia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="it_IT">
+      <Text>Francia|della Francia|alla Francia|la Francia|dalla Francia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Al tramonto del XVII secolo la Francia, grazie ai suoi ricchi possedimenti in Quebec e in Africa, si presentava come la rivale più accreditata dell'Inghilterra. Lo stato di guerra pressoché costante con la vicina Olanda aveva temprato la sua flotta e l'aveva preparata alla battaglia.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="it_IT">
+      <Text>francese|francese|francesi|francesi</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="it_IT">
+      <Text>Potenza coloniale|di una Potenza coloniale|a una Potenza coloniale|una Potenza coloniale|da una Potenza coloniale</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="it_IT">
+      <Text>Le potenze coloniali controllano i porti della regione. I pirati possono infiltrarsi in un porto per visitare una taverna o saccheggiarlo per ottenere un grande bottino. Le potenze coloniali non vedono di buon occhio la pirateria.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="it_IT">
+      <Text>Re dei pirati|del Re dei pirati|al Re dei pirati|il Re dei pirati|dal Re dei pirati</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="it_IT">
+      <Text>Assassino|dell'Assassino|all'Assassino|l'Assassino|dall'Assassino</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="it_IT">
+      <Text>Corsaro|del Corsaro|al Corsaro|il Corsaro|dal Corsaro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="it_IT">
+      <Text>Filibustiere|del Filibustiere|al Filibustiere|il Filibustiere|dal Filibustiere</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="it_IT">
+      <Text>Arpagone|dell'Arpagone|all'Arpagone|l'Arpagone|dall'Arpagone</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="it_IT">
+      <Text>Spagna|della Spagna|alla Spagna|la Spagna|dalla Spagna</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="it_IT">
+      <Text>Inghilterra|dell'Inghilterra|all'Inghilterra|l'Inghilterra|dall'Inghilterra</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="it_IT">
+      <Text>Olanda|dell'Olanda|all'Olanda|l'Olanda|dall'Olanda</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="it_IT">
+      <Text>Francia|della Francia|alla Francia|la Francia|dalla Francia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="it_IT">
+      <Text>Pirati</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="it_IT">
+      <Text>Pirati è una storia di saccheggi, fama e avventure nei sette mari.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="it_IT">
+      <Text>Re dei pirati</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="it_IT">
+      <Text>Come pirata, alla fine della partita devi avere il punteggio di Infamia più alto di tutti.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="it_IT">
+      <Text>Isole dei pirati</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="it_IT">
+      <Text>Una catena di isole maledette piene di tesori e inganni, con una ricca, lussureggiante estensione di terraferma a ovest. Sento l'odore dell'oro sulle onde. E del sangue.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="it_IT">
+      <Text>Isole dei Caraibi</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="it_IT">
+      <Text>La costa continentale spagnola e le Indie Orientali all'apice del Seicento. Le flotte del tesoro trasportano l'oro messicano verso la Spagna, cercando di anticipare i movimenti delle vele nere.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="it_IT">
+      <Text>Alcuni corsari navigano sotto la bandiera di un qualche monarca, altri per sentire tintinnare i pezzi da otto nei loro bauli. Altri ancora adorano sentire il suono delle palle di cannone che solcano l'aria e si schiantano tra le onde. Tu hai chiuso con simili piccolezze. La valuta più antica e potente è la paura, ed è quella che vuoi accumulare.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="it_IT">
+      <Text>Nati per combattere</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>+10 [ICON_Gold] Oro ogni volta che un'unità partecipa a un combattimento.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="it_IT">
+      <Text>Giro di chiglia</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Ogni unità navale ha un'azione Giro di chiglia. Il Giro di chiglia può essere usato contro una nave nemica molto danneggiata per affondarla in cambio di un bonus di +3 al [ICON_Movement] movimento e +5 alla [Icon_Strength] Forza di combattimento per 5 turni. L'abilità Giro di chiglia si ricarica dopo 5 turni.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="it_IT">
+      <Text>La Marina Reale ha degli obiettivi precisi: città da saccheggiare, navi da catturare. Ma anche regole, leggi e trattati da seguire, e i loro ufficiali indossano delle parrucche. Così ti hanno dato una lettera di corsa per fare il lavoro sporco. Vai a dare alle fiamme i nemici della Corona!</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="it_IT">
+      <Text>Lettera di corsa</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Il Corsaro ha come patrono una potenza coloniale scelta casualmente. Il Corsaro conosce la posizione di tutti i porti del patrono. Saccheggiare le Rotte commerciali gli fornisce 100 [ICON_Gold] Oro extra.</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="it_IT">
+      <Text>Portiamocela a casa</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Ogni nave ha un'azione Portiamocela a casa che può essere usata sulle navi nemiche fortemente danneggiate per catturarle e farle passare dalla parte del patrono del Corsaro. Usare l'abilità Portiamocela a casa fornisce +5 punti Pirata Famigerato e +100 [ICON_Gold] Oro oltre alle normali ricompense per una vittoria navale. L'abilità Portiamocela a casa si ricarica dopo 5 turni.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="it_IT">
+      <Text>Il tuo viaggio potrà anche concludersi sulla forca, o sul ceppo del boia, ma per ora sei libero. Fai vela verso l'ignoto, trova quello che si nasconde oltre l'orizzonte e fallo tuo, che siano tesori o pericoli. Sì, il vento è fresco e riempie le vele!</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="it_IT">
+      <Text>Solcando i sette mari</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Il Filibustiere guadagna +1 punto Pirata Famigerato ogni 50 caselle rivelate sulla mappa.</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="it_IT">
+      <Text>Bordeggio</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Tutte le unità navali possono Bordeggiare per raddoppiare il loro [ICON_Movement] movimento per un turno. L'abilità Bordeggio richiede 6 turni per essere ricaricata.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="it_IT">
+      <Text>Tuo padre era un banchiere e, a modo tuo, stai seguendo le sue orme. La tua stiva è il caveau dove accumuli metallo prezioso e tutto il mondo è uno sportello a cui puoi prelevare. Pagando il giusto prezzo, forse potrai convincere il diavolo e Jack Ketch, il famigerato boia di Carlo II, a darti qualche altro anno.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="it_IT">
+      <Text>Mio! Mio! Tutto mio!</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Il costo di mantenimento delle unità è ridotto di 3. +10 punti Tesoro quando seppellisce un baule. Arpagone ottiene il 3% di interesse sulle sue riserve auree ogni turno.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="it_IT">
+      <Text>Palle incatenate</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Come azione gratuita, tutte le unità navali possono usare l'abilità Palle incatenate per bloccare un'unità sul posto per un turno. Palle incatenate si ricarica dopo 5 turni.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="it_IT">
+      <Text>Bucanieri uccisi</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="it_IT">
+      <Text>Forti dei bucanieri saccheggiati</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="it_IT">
+      <Text>Bucanieri uccisi</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="it_IT">
+      <Text>Forti dei bucanieri saccheggiati</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="it_IT">
+      <Text>Reliquie trovate</Text>
+    </Replace>
+    <Replace Tag="LOC_BLANK_STRING" Language="it_IT">
+      <Text></Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="ja_JP">
+      <Text>海賊王</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="ja_JP">
+      <Text>「黒の提督」とも「七つの海の災厄」とも呼ばれ、その名を出せば港町のわんぱく小僧もおとなしく親の言いつけを聞くようになる、それが海賊王だ。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="ja_JP">
+      <Text>海賊の</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="ja_JP">
+      <Text>恐怖の海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="ja_JP">
+      <Text>恐怖の海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="ja_JP">
+      <Text>恐怖の海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="ja_JP">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="ja_JP">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="ja_JP">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="ja_JP">
+      <Text>剣豪</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="ja_JP">
+      <Text>剣豪</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="ja_JP">
+      <Text>剣豪</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="ja_JP">
+      <Text>貯蔵庫</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="ja_JP">
+      <Text>貯蔵庫</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="ja_JP">
+      <Text>貯蔵庫</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="ja_JP">
+      <Text>スペイン</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="ja_JP">
+      <Text>スペイン</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>17世紀、全盛期にあったスペインは、西では征服したアステカ帝国とインカ帝国から黄金を奪い、東ではフィリピンに多数のガレオン船を派遣していた。ハプスブルク家の統治下でスペインは富み栄えたが、腐敗と不平等もまたはびこっていた。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="ja_JP">
+      <Text>スペインの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="ja_JP">
+      <Text>イギリス</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="ja_JP">
+      <Text>イギリス</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>イングランド内戦を契機として、イギリスは17世紀後半に北米だけでなくカリブ海でも植民地を拡大させはじめた。それから1世紀後、イギリスは『ルール・ブリタニア』の歌詞にあるように大海原の統治者となるが、この時点でそうした未来を保証できる者は一人としていなかった。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="ja_JP">
+      <Text>イギリスの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="ja_JP">
+      <Text>オランダ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="ja_JP">
+      <Text>オランダ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>本国の富に加え、東インドや日本との交易からも利益を得ていた17世紀のオランダは、まさに黄金時代を迎えていた。カリブ海での植民地獲得競争には出遅れた感があったが、それだけに挽回のチャンスには貪欲だった。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="ja_JP">
+      <Text>オランダの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="ja_JP">
+      <Text>フランス</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="ja_JP">
+      <Text>フランス</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>17世紀終盤、イギリスのライバルとして台頭してきたのが、絶対王政を敷き、ケベックとアフリカに地歩を築いたフランスだ。隣国オランダとの絶え間ない戦争によって鍛えられたフランス軍の実力は侮りがたいものだった。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="ja_JP">
+      <Text>フランスの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="ja_JP">
+      <Text>植民地帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="ja_JP">
+      <Text>この地域の港は植民地帝国が支配している。海賊はこっそりと寄港して酒場を訪れたり、戦利品を求めて港を略奪したりすることができるが、植民地帝国は海賊行為を許さない。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="ja_JP">
+      <Text>海賊王</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="ja_JP">
+      <Text>恐怖の海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="ja_JP">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="ja_JP">
+      <Text>剣豪</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="ja_JP">
+      <Text>貯蔵庫</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="ja_JP">
+      <Text>スペイン</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="ja_JP">
+      <Text>イギリス</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="ja_JP">
+      <Text>オランダ</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="ja_JP">
+      <Text>フランス</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="ja_JP">
+      <Text>海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="ja_JP">
+      <Text>「海賊」は略奪、名声、大海原の冒険に関するシナリオです。</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="ja_JP">
+      <Text>海賊の王</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="ja_JP">
+      <Text>ゲーム終了時に最も悪名高い海賊となっていることを目指しましょう。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="ja_JP">
+      <Text>海賊島</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="ja_JP">
+      <Text>西には深く豊かな大海原が広がり、財宝と裏切りに満ちた呪われた島々が連なっている。波の上を漂ってくる匂い、こいつは黄金と血の香りだ。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="ja_JP">
+      <Text>カリブ海</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="ja_JP">
+      <Text>舞台は17世紀のスペイン本土と西インド諸島。当時、スペインの財宝船団は海賊の追跡をかわしながらメキシコの黄金を本国へ運んでいた。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="ja_JP">
+      <Text>海賊の中には王さまの旗を掲げている奴もいる。金蔵に金貨が積み上げるときの音が聞きたくて海賊稼業をやっている者もいれば、海上を砲弾が飛び交う音が好きなだけの者もいる。だが、そんなものには飽き飽きだ。何よりも古く、何よりも力のある商品、そいつは「恐怖」だ。さあ、商売を始めようぜ。</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="ja_JP">
+      <Text>戦いこそ人生</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>ユニットが戦闘するたびに [ICON_Gold] ゴールド+10。</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="ja_JP">
+      <Text>板歩きの刑</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>すべての海洋ユニットがユニットの行動として「板歩きの刑」を使用できる。「板歩きの形」を使って損傷の激しい敵船を沈めると、5ターンにわたって [ICON_Movement] 移動力+3、 [Icon_Strength] 戦闘力+5を得られる。再び使えるようになるには6ターンかかる。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="ja_JP">
+      <Text>イギリス海軍には使命がある。街があれば略奪し、船に出会えば拿捕することだ。だが実際には、規則に縛られ、法律や条約でがんじがらめ。将校どもときたら、カツラまでかぶってやがる。そこで俺たちに私掠免許を与え、自分たちにできないことをさせようってわけだ。帆を上げろ。陛下に仇なす奴らに火を放て！</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="ja_JP">
+      <Text>私掠免許</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>私掠船には、後援者となる植民地帝国がランダムに割り当てられている。私掠船は後援者の港の位置をすべて把握している。交易路を略奪すると [ICON_Gold] ゴールド+100。</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="ja_JP">
+      <Text>拿捕</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>すべての海洋ユニットは、「拿捕」という行動を使うことにより、損傷の激しい敵船を捕獲して後援者のもとへ持ち帰れる。「拿捕」を使うと、海戦の勝利に対する通常の報酬に加えて、海賊悪名ポイント5と [ICON_Gold] ゴールド100を得る。再び使えるようになるには5ターンかかる。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="ja_JP">
+      <Text>航海の果てに待っているのが処刑場だとしても、さしあたっては自由の身だ。船に乗って水平線をどこまでも追いかけ、宝だろうと危険だろうと出遭うすべてを手に入れろ。順風満帆、潮風が心地いいぜ！</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="ja_JP">
+      <Text>大海原を進め</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>マップを50タイル明らかにする毎に剣豪の海賊悪名ポイント+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="ja_JP">
+      <Text>タッキング</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>すべての海洋ユニットは、「タッキング」によって [ICON_Movement] 移動力を2倍にできる。再び使えるようになるには6ターンかかる。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="ja_JP">
+      <Text>親父は銀行屋だったが、息子もまあ似たようなもんだ。砦は金銀財宝をしまっておく金庫だ。しこたま貯えてる奴らに預金してもらおうじゃねえか。なに、悪魔も処刑人も頼めば何年か待ってくれだろうさ。地獄の沙汰も金しだいだ。</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="ja_JP">
+      <Text>お前の物は俺の物！</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>ユニットの維持費-3。「貯蔵庫」があると、溜め込んだゴールドの3%を利息として毎ターン得られる。</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="ja_JP">
+      <Text>鎖弾</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>すべての海洋ユニットは、「鎖弾」を使うことで敵ユニットをその場に足止めできる。効果は1ターンつづく。移動力などは消費しない。再び使えるようになるには5ターンかかる。</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="ja_JP">
+      <Text>倒した土着の海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="ja_JP">
+      <Text>略奪された海賊の砦</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="ja_JP">
+      <Text>倒した土着の海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="ja_JP">
+      <Text>略奪された海賊の砦</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="ja_JP">
+      <Text>見つけた遺物</Text>
+    </Replace>
+    <Replace Tag="LOC_BLANK_STRING" Language="ja_JP">
+      <Text></Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="ko_KR">
+      <Text>해적왕</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="ko_KR">
+      <Text>검은 제독. 칠대양의 재앙. 해적왕. 항구 도시의 아이들에게 군말 없이 채소를 먹일 수 있는 무서운 말입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="ko_KR">
+      <Text>해적</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="ko_KR">
+      <Text>공포의 해적</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="ko_KR">
+      <Text>공포의 해적</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="ko_KR">
+      <Text>공포의 해적</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="ko_KR">
+      <Text>사략선</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="ko_KR">
+      <Text>사략선</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="ko_KR">
+      <Text>사략선</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="ko_KR">
+      <Text>대해적</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="ko_KR">
+      <Text>대해적</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="ko_KR">
+      <Text>대해적</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="ko_KR">
+      <Text>수집광</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="ko_KR">
+      <Text>수집광</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="ko_KR">
+      <Text>수집광</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="ko_KR">
+      <Text>스페인</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="ko_KR">
+      <Text>스페인</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>17세기의 스페인 제국은 아즈텍과 잉카 제국의 유적으로 부를 축적하고 동양의 필리핀에 갈레온선을 파견하던 전성기였습니다. 합스부르크 스페인은 부유했지만, 부패와 불평등이 물들어 있었습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="ko_KR">
+      <Text>스페인</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="ko_KR">
+      <Text>영국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="ko_KR">
+      <Text>영국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>영국 내전 중인 17세기 후반의 영국은 카리브해와 북아메리카 식민지 확장을 시작하고 있습니다. 브리타니아는 한 세기 동안 해안을 지배했지만, 이제 그 운명은 검 끝에 달려 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="ko_KR">
+      <Text>영국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="ko_KR">
+      <Text>네덜란드</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="ko_KR">
+      <Text>네덜란드</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>17세기는 동인도 및 일본과의 거래로 인한 이득과 자국의 부가 결합된 네덜란드 제국의 황금기였습니다. 카리브해에는 미미하지만... 어떤 기회라도 잡을 태세가 되어 있는 힘이 있었습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="ko_KR">
+      <Text>네덜란드</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="ko_KR">
+      <Text>프랑스</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="ko_KR">
+      <Text>프랑스</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>전제 군주제인 프랑스는 퀘벡 및 아프리카에 풍부한 재산을 바탕으로 17세기 말 영국의 라이벌 자리에 올랐습니다. 이웃나라 네덜란드와의 끊임없는 전쟁으로 인해 프랑스 군대는 노련하며 능숙합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="ko_KR">
+      <Text>프랑스</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="ko_KR">
+      <Text>식민국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="ko_KR">
+      <Text>식민국이 지역의 항구를 통제합니다. 해적은 여관 방문을 위해 항구에 잠입하거나 큰 전리품을 위해 항구를 강탈할 수 있습니다. 식민국은 해적을 달갑게 여기지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="ko_KR">
+      <Text>해적왕</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="ko_KR">
+      <Text>공포의 해적</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="ko_KR">
+      <Text>사략선</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="ko_KR">
+      <Text>대해적</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="ko_KR">
+      <Text>수집광</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="ko_KR">
+      <Text>스페인</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="ko_KR">
+      <Text>영국</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="ko_KR">
+      <Text>네덜란드</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="ko_KR">
+      <Text>프랑스</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="ko_KR">
+      <Text>해적</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="ko_KR">
+      <Text>해적은 공해 위에서 이루어지는 약탈, 명예, 모험에 관한 이야기입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="ko_KR">
+      <Text>해적왕</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="ko_KR">
+      <Text>최고의 악명을 떨치는 해적으로 게임을 마치세요.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="ko_KR">
+      <Text>해적섬</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="ko_KR">
+      <Text>보물과 배반으로 가득한 저주받은 제도. 서쪽의 짙고 풍부한 해안. 파도에서 금 냄새가 나는군. 그리고 피 냄새도.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="ko_KR">
+      <Text>카리브해의 섬</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="ko_KR">
+      <Text>17세기 절정의 스페인 본토와 서인도 제도. 보물선단은 멕시코의 금을 스페인으로 채어 가며, 검은 해적을 한 수 앞서 나가네.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="ko_KR">
+      <Text>어떤 해적은 왕의 깃발을 걸고 항해하네. 어떤 이는 금고에서 돈이 짤랑거리는 소리를 듣기 위해 항해하지. 어떤 이는 파도 너머로 대포알이 날아가는 소리를 듣는 것을 좋아하네. 자네는 이런 하찮은 일은 질렸네. 가장 오래되고 강력한 화폐는 공포이고, 그것이 자네의 무기라네.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="ko_KR">
+      <Text>전투는 우리의 특기</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>유닛이 교전할 때마다 [ICON_Gold] 금 +10.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="ko_KR">
+      <Text>판자 위 걷기</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>모든 해상 유닛은 판자 위 걷기 행동을 보유하고 있습니다. 판자 위 걷기는 심한 피해를 입은 적 선박에 사용할 수 있으며, 선박을 침몰시키는 것과 5턴 동안 [ICON_Movement] 이동력 +3과 [Icon_Strength] 전투력 +5를 교환합니다. 판자 위 걷기는 충전에 5턴이 소요됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="ko_KR">
+      <Text>영국 해군에는 도시 약탈과 선박 포획이라는 해상의 목표가 있다네. 그러나 영국 해군에는 규칙과 법, 조약이 있고, 장교들은 가발을 쓰네. 그래서 그들은 자네에게 나포 면허장을 줬고, 자네는 그들이 못하는 일을 할 수 있지. 왕관의 적들을 불태우러 가게!</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="ko_KR">
+      <Text>나포 면허장</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>사략선은 무작위로 할당된 식민국을 후원자로 보유합니다. 사략선은 후원자의 항구 위치를 모두 알고 있습니다. 교역로 약탈은 [ICON_Gold] 금 100을 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="ko_KR">
+      <Text>집으로 데려오라</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>모든 해상 유닛이 집으로 데려오라 유닛 행동을 보유합니다. 집으로 데려오라는 심한 피해를 입은 적 선박에 사용해 사략선의 후원자를 위해 포획할 수 있습니다. 집으로 데려오라를 사용하면 해상 승리 보상과 더불어 악명 높은 해적 점수 +5와 [ICON_Gold] 금 +100을 받습니다. 집으로 데려오라 능력은 충전에 5턴이 소요됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="ko_KR">
+      <Text>항해는 교수대에서나 해적 처형장에서 끝날 수 있지만, 지금 자네는 자유라네. 수평선 너머로 항해하고, 그곳에 있는 보물과 모험을 찾게. 그래, 공기는 신선하고 돛은 팽팽하군!</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="ko_KR">
+      <Text>망망대해 항해</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>대해적은 지도에 50타일이 공개될 때마다 악명 높은 해적 점수 +1을 획득합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="ko_KR">
+      <Text>바람 속으로 항해</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>모든 해상 유닛은 바람 속으로 항해로 한 턴 동안 [ICON_Movement] 이동력이 2배가 됩니다. 바람 속으로 항해 능력은 재충전하는 데 6턴이 소요됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="ko_KR">
+      <Text>자네 아버지의 직업은 은행업이었고, 자네도 일종의 은행원일세. 금괴가 들어갈 금고가 있고, 인출할 기회가 무르익은 다른 금고들도 있지. 알맞은 대가를 치른다면 악마와 교수형 집행인 둘 다 몇 년의 시간을 줄 걸세.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="ko_KR">
+      <Text>내 거야! 내 거야! 내 거야!</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>유닛 유지 비용이 3으로 감소합니다. 보물을 묻으면 보물 점수 10점을 얻습니다. 수집광이 금에 대해 턴당 3%의 이자를 받습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="ko_KR">
+      <Text>연속 공격</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>무료 행동으로, 모든 해상 유닛이 연속 공격 능력을 사용해 유닛을 한 턴 동안 가둘 수 있습니다. 연속 공격 재충전은 5턴을 소요합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="ko_KR">
+      <Text>해적 사망함</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="ko_KR">
+      <Text>해적 요새 약탈당함</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="ko_KR">
+      <Text>해적 사망함</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="ko_KR">
+      <Text>해적 요새 약탈당함</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="ko_KR">
+      <Text>성유물 발견</Text>
+    </Replace>
+    <Replace Tag="LOC_BLANK_STRING" Language="ko_KR">
+      <Text></Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="pl_PL">
+      <Text>Król Piratów|Króla Piratów|Królowi Piratów|Króla Piratów|Królem Piratów|Królu Piratów</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="pl_PL">
+      <Text>Admirał czarnej floty. Plaga siedmiu mórz. Powód, dla którego dzieci w portowych miastach zjadały posłusznie warzywa. Król piratów.</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="pl_PL">
+      <Text>Piracki|Piracka|Piraccy|Pirackie|Pirack|piracki|piracka|piraccy|pirackie|pirack|pirackich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="pl_PL">
+      <Text>Przerażający pirat|Przerażającego pirata|Przerażającemu piratowi|Przerażającego pirata|Przerażającym piratem|Przerażającym piracie|przerażający pirat|przerażającego pirata|przerażającemu piratowi|przerażającego pirata|przerażającym piratem|przerażającym piracie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="pl_PL">
+      <Text>Przerażający pirat|Przerażającego pirata|Przerażającemu piratowi|Przerażającego pirata|Przerażającym piratem|Przerażającym piracie|przerażający pirat|przerażającego pirata|przerażającemu piratowi|przerażającego pirata|przerażającym piratem|przerażającym piracie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="pl_PL">
+      <Text>Przerażający|Przerażająca|Przerażający|Przerażające|Przerażając|przerażający|przerażająca|przerażający|przerażające|przerażając|przerażających</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="pl_PL">
+      <Text>Kaper|Kapra|Kaprowi|Kapra|Kaprem|Kaprze|kaper|kapra|kaprowi|kapra|kaprem|kaprze</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="pl_PL">
+      <Text>Kaper|Kapra|Kaprowi|Kapra|Kaprem|Kaprze|kaper|kapra|kaprowi|kapra|kaprem|kaprze</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="pl_PL">
+      <Text>Kaperski|Kaperska|Kaperscy|Kaperskie|Kapersk|kaperski|kaperska|kaperscy|kaperskie|kapersk|kaperskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="pl_PL">
+      <Text>Zawadiaka|Zawadiaki|Zwadiace|Zawadiakę|Zawadiaką|Zawadiace|zawadiaka|zawadiaki|zwadiace|zawadiakę|zawadiaką|zawadiace</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="pl_PL">
+      <Text>Zawadiaka|Zawadiaki|Zwadiace|Zawadiakę|Zawadiaką|Zawadiace|zawadiaka|zawadiaki|zwadiace|zawadiakę|zawadiaką|zawadiace</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="pl_PL">
+      <Text>Zawadiacki|Zawadiacka|Zawadiaccy|Zawadiackie|Zawadiack|zawadiacki|zawadiacka|zawadiaccy|zawadiackie|zawadiack|zawadiackich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="pl_PL">
+      <Text>Zachłannik|Zachłannika|Zachłannikowi|Zachłannika|Zachłannikiem|Zachłanniku|zachłannik|zachłannika|zachłannikowi|zachłannika|zachłannikiem|zachłanniku</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="pl_PL">
+      <Text>Zachłannik|Zachłannika|Zachłannikowi|Zachłannika|Zachłannikiem|Zachłanniku|zachłannik|zachłannika|zachłannikowi|zachłannika|zachłannikiem|zachłanniku</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="pl_PL">
+      <Text>Zachłanny|Zachłanna|Zachłanni|Zachłanne|Zachłann|zachłanny|zachłanna|zachłanni|zachłanne|zachłann|zachłannych</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="pl_PL">
+      <Text>Hiszpania|Hiszpanii|Hiszpanii|Hiszpanię|Hiszpanią|Hiszpanii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="pl_PL">
+      <Text>Hiszpania|Hiszpanii|Hiszpanii|Hiszpanię|Hiszpanią|Hiszpanii|Hiszpania|Hiszpanii|Hiszpanii|Hiszpanię|Hiszpanią|Hiszpanii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>W XVII wieku Imperium Hiszpańskie było u szczytu potęgi – grabiło złoto upadłych imperiów Azteków i Inków oraz wysyłało galeony na wschód, na Filipiny. Hiszpania Habsburgów była bogata, lecz trawiły ją korupcja i nierówności społeczne.</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="pl_PL">
+      <Text>Hiszpański|Hiszpańska|Hiszpańscy|Hiszpańskie|Hiszpańsk|hiszpański|hiszpańska|hiszpańscy|hiszpańskie|hiszpańsk|hiszpańskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="pl_PL">
+      <Text>Anglia|Anglii|Anglii|Anglię|Anglią|Anglii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="pl_PL">
+      <Text>Anglia|Anglii|Anglii|Anglię|Anglią|Anglii|Anglia|Anglii|Anglii|Anglię|Anglią|Anglii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Po zakończeniu wojny domowej w Anglii kraj ten rozpoczął kolonialną ekspansję zarówno na Karaibach, jak i w Ameryce Północnej. Podboje te rozpoczęte, pod koniec XVII wieku, po stu latach miały uczynić Brytanię morską potęgą, jednak nim do tego doszło, losy Anglii zawisły na włosku.</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="pl_PL">
+      <Text>Angielski|Angielska|Angielscy|Angielskie|Angielsk|angielski|angielska|angielscy|angielskie|angielsk|angielskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="pl_PL">
+      <Text>Holandia|Holandii|Holandii|Holandię|Holandią|Holandii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="pl_PL">
+      <Text>Holandia|Holandii|Holandii|Holandię|Holandią|Holandii|Holandia|Holandii|Holandii|Holandię|Holandią|Holandii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>XVII wiek był złotą erą Imperium Holenderskiego, które czerpało ogromne zyski z działalności w Indiach Wschodnich i Japonii. Na Karaibach Holendrzy nie odgrywali większej roli... ale byli gotowi wykorzystać każdą okazję, by to zmienić.</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="pl_PL">
+      <Text>Holenderski|Holenderska|Holenderscy|Holenderskie|Holendersk|holenderski|holenderska|holenderscy|holenderskie|holendersk|holenderskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="pl_PL">
+      <Text>Francja|Francji|Francji|Francję|Francją|Francji</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="pl_PL">
+      <Text>Francja|Francji|Francji|Francję|Francją|Francji|Francja|Francji|Francji|Francję|Francją|Francji</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>U schyłku XVII wieku Francja, ze swoją monarchią absolutną i bogatymi posiadłościami w Quebecu i Afryce, stała się rywalką Anglii. Nieustanne wojny z sąsiednią Holandią sprawiły, że francuskie wojsko było kompetentne i zaprawione w boju.</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="pl_PL">
+      <Text>Francuski|Francuska|Francuscy|Francuskie|Francusk|francuski|francuska|francuscy|francuskie|francusk|francuskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="pl_PL">
+      <Text>Kolonialna potęga|Kolonialnej potęgi|Kolonialnej potędze|Kolonialną potęgę|Kolonialną potęgą|Kolonialnej potędze|kolonialna potęga|kolonialnej potęgi|kolonialnej potędze|kolonialną potęgę|kolonialną potęgą|kolonialnej potędze</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="pl_PL">
+      <Text>Kolonialne potęgi kontrolują regionalne porty. Piraci mogą zakradać się do portów, aby odwiedzić tawernę, lub plądrować je w celu zdobycia dużego łupu. Kolonialne potęgi nie darzą piratów sympatią.</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="pl_PL">
+      <Text>Król Piratów|Króla Piratów|Królowi Piratów|Króla Piratów|Królem Piratów|Królu Piratów</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="pl_PL">
+      <Text>Przerażający pirat|Przerażającego pirata|Przerażającemu piratowi|Przerażającego pirata|Przerażającym piratem|Przerażającym piracie|przerażający pirat|przerażającego pirata|przerażającemu piratowi|przerażającego pirata|przerażającym piratem|przerażającym piracie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="pl_PL">
+      <Text>Kaper|Kapra|Kaprowi|Kapra|Kaprem|Kaprze|kaper|kapra|kaprowi|kapra|kaprem|kaprze</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="pl_PL">
+      <Text>Zawadiaka|Zawadiaki|Zwadiace|Zawadiakę|Zawadiaką|Zawadiace|zawadiaka|zawadiaki|zwadiace|zawadiakę|zawadiaką|zawadiace</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="pl_PL">
+      <Text>Zachłannik|Zachłannika|Zachłannikowi|Zachłannika|Zachłannikiem|Zachłanniku|zachłannik|zachłannika|zachłannikowi|zachłannika|zachłannikiem|zachłanniku</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="pl_PL">
+      <Text>Hiszpania|Hiszpanii|Hiszpanii|Hiszpanię|Hiszpanią|Hiszpanii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="pl_PL">
+      <Text>Anglia|Anglii|Anglii|Anglię|Anglią|Anglii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="pl_PL">
+      <Text>Holandia|Holandii|Holandii|Holandię|Holandią|Holandii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="pl_PL">
+      <Text>Francja|Francji|Francji|Francję|Francją|Francji</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="pl_PL">
+      <Text>Piraci</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="pl_PL">
+      <Text>W trybie piratów najważniejsze jest plądrowanie, sława i przygody na otwartym morzu.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="pl_PL">
+      <Text>Król piratów</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="pl_PL">
+      <Text>Zostań piratem, który zakończy grę, okrywając się największą niesławą.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="pl_PL">
+      <Text>Wyspy piratów</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="pl_PL">
+      <Text>Szereg przeklętych wysp obfitujących w skarby i zdradę, z największą i najbogatszą położoną na zachodzie. Na falach unosi się zapach złota. I krwi.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="pl_PL">
+      <Text>Wyspy Karaibskie</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="pl_PL">
+      <Text>Hiszpańskie posiadłości w Nowym Świecie i Indie Zachodnie z XVII wieku. Floty skarbów przewożą meksykańskie złoto do Hiszpanii, starając się umknąć okrętom o czarnych żaglach.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="pl_PL">
+      <Text>Niektórzy korsarze pływają pod królewską banderą. Inni przemierzają morza, by usłyszeć brzęk talarów wpadających do kufrów. Są też tacy, co ponad wszystko kochają huk armat rozlegający się wśród fal. Ciebie te błahostki już nie interesują. Najstarszą i najpotężniejszą walutą jest strach i to strach jest tym, w czym się specjalizujesz.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="pl_PL">
+      <Text>Walka to nasza specjalność</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>+10 [ICON_Gold] złota za każdym razem, gdy jednostka zaangażuje się w walkę.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="pl_PL">
+      <Text>Spacer po desce</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Wszystkie jednostki morskie mają działanie „Spacer po desce”. Można je wykorzystać na każdym mocno uszkodzonym wrogim okręcie, aby go zatopić i na 5 tur uzyskać +3 do [ICON_Movement] ruchu oraz +5 do [Icon_Strength] siły bojowej. Spacer po desce odnawia się przez 5 tur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="pl_PL">
+      <Text>Marynarka Królewska ma na morzach cele do zrealizowania – miasta, które należy splądrować, i statki, które trzeba przejąć. Ma jednak także zasady, prawa i traktaty, a jej oficerowie noszą peruki. Więc wyręczają się tobą, dając ci listy kaperskie. Płyń i rozpraw się z wrogami korony!</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="pl_PL">
+      <Text>Listy kaperskie</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Kaprowi przypisywana jest losowo wybrana kolonialna potęga, która staje się jego patronem. Kaper zna lokalizację wszystkich portów swojego patrona. Plądrowanie szlaków handlowych zapewnia dodatkowe 100 [ICON_Gold] złota.</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="pl_PL">
+      <Text>Przejęcie okrętu</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Wszystkie jednostki morskie mają działanie „Przejęcie okrętu”. Można je wykorzystać na mocno uszkodzonym wrogim okręcie, aby przejąć go dla własnego patrona. Użycie „Przejęcia okrętu” zapewnia +5 punktów niesławnego pirata i +100 [ICON_Gold] złota (poza standardowymi nagrodami związanymi z morskim zwycięstwem). Przejęcie okrętu odnawia się przez 5 tur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="pl_PL">
+      <Text>Twoje wojaże mogą zakończyć się na szubienicy lub w egzekucyjnym doku, ale na razie morze stoi przed tobą otworem. Żegluj za horyzont, gdzie czekają skarby i niebezpieczeństwa. Dalej, wiatr wypełnia żagle, a dziób okrętu pruje fale!</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="pl_PL">
+      <Text>Przemierzanie przestworu oceanu</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Zawadiaka zyskuje +1 punkt niesławnego pirata za każde 50 pól odsłoniętych na mapie.</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="pl_PL">
+      <Text>Zwrot na wiatr</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Wszystkie jednostki morskie mogą wykonać zwrot na wiatr, aby na jedną turę podwoić swoje [ICON_Movement] punkty ruchu. Zwrot na wiatr odnawia się przez 6 tur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="pl_PL">
+      <Text>Twój ojciec był bankowcem, a ty w jakimś sensie podtrzymujesz rodzinne tradycje. Posiadasz skarbiec, do którego płynie złoto bogatych depozytariuszy. Za odpowiednią cenę zarówno diabeł, jak i Jack Ketch mogą się zgodzić, by dać ci pożyć kilka lat dłużej.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="pl_PL">
+      <Text>Moje! Moje! Moje!</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Koszt utrzymania jednostek zmniejszony o 3. +10 punktów skarbu za zakopanie skarbu.  Zachłannik zyskuje 3% odsetek z rezerw złota w każdej turze.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="pl_PL">
+      <Text>Kula łańcuchowa</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>W ramach darmowego działania wszystkie jednostki morskie mogą użyć umiejętności „Kula łańcuchowa”, aby unieruchomić wybraną jednostkę na jedną turę. Kula łańcuchowa odnawia się przez 5 tur.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="pl_PL">
+      <Text>Zabici korsarze</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="pl_PL">
+      <Text>Splądrowane forty korsarzy</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="pl_PL">
+      <Text>Zabici korsarze</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="pl_PL">
+      <Text>Splądrowane forty korsarzy</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="pl_PL">
+      <Text>Znalezione relikwie</Text>
+    </Replace>
+    <Replace Tag="LOC_BLANK_STRING" Language="pl_PL">
+      <Text></Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="ru_RU">
+      <Text>Король пиратов|Короля пиратов|Королю пиратов|Короля пиратов|Королём пиратов|Короле пиратов</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="ru_RU">
+      <Text>Адмирал Черных, бич Мирового океана. Король пиратов, которым на ночь пугают непослушных детей в портовых городах.</Text>
+      <Gender>n/a</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="ru_RU">
+      <Text>Пиратск.|пиратск.|пиратск.|пиратск.|пиратск.|пиратск.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="ru_RU">
+      <Text>Жуткий пират|жуткого пирата|жуткому пирату|жуткого пирата|жутким пиратом|жутком пирате</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="ru_RU">
+      <Text>Жуткий пират|жуткого пирата|жуткому пирату|жуткого пирата|жутким пиратом|жутком пирате</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="ru_RU">
+      <Text>Жуткие пираты|жутких пиратов|жутким пиратам|жутких пиратов|жуткими пиратами|жутких пиратах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="ru_RU">
+      <Text>Капер|капера|каперу|капера|капером|капере</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="ru_RU">
+      <Text>Капер|капера|каперу|капера|капером|капере</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="ru_RU">
+      <Text>Каперы|каперов|каперам|каперов|каперами|каперах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="ru_RU">
+      <Text>Головорез|головореза|головорезу|головореза|головорезом|головорезе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="ru_RU">
+      <Text>Головорез|головореза|головорезу|головореза|головорезом|головорезе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="ru_RU">
+      <Text>Головорезы|головорезов|головорезам|головорезов|головорезами|головорезах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="ru_RU">
+      <Text>Накопитель|накопителя|накопителю|накопителя|накопителем|накопителе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="ru_RU">
+      <Text>Накопитель|накопителя|накопителю|накопителя|накопителем|накопителе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="ru_RU">
+      <Text>Накопители|накопителей|накопителям|накопителей|накопителями|накопителях</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="ru_RU">
+      <Text>Испания|Испании|Испании|Испанию|Испанией|Испании</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="ru_RU">
+      <Text>Испания|Испании|Испании|Испанию|Испанией|Испании</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Испанская империя в XVII веке находилась на пике своего могущества. Не жалея золота из разграбленных владений ацтеков и инков, испанцы снаряжали галеоны на восток, к Филиппинам. Владения испанских Габсбургов были богаты, но страну терзали коррупция и неравенство.</Text>
+      <Gender>n/a</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="ru_RU">
+      <Text>испанск.|испанск.|испанск.|испанск.|испанск.|испанск.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="ru_RU">
+      <Text>Англия|Англии|Англии|Англию|Англией|Англии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="ru_RU">
+      <Text>Англия|Англии|Англии|Англию|Англией|Англии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Англия, оправившись от революции, в конце XVII века начала экспансию на Карибы и в Северную Америку. Спустя век эта страна будет править морями, но сейчас ее судьба висит на волоске.</Text>
+      <Gender>n/a</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="ru_RU">
+      <Text>английск.|английск.|английск.|английск.|английск.|английск.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="ru_RU">
+      <Text>Нидерланды|Нидерландов|Нидерландам|Нидерланды|Нидерландами|Нидерландах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="ru_RU">
+      <Text>Нидерланды|Нидерландов|Нидерландам|Нидерланды|Нидерландами|Нидерландах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>XVII век стал для Нидерландов поистине золотым: в и без того богатую страну рекой текли торговые доходы из Ост-Индии и Японии. Присутствие голландцев на Карибах было незначительным, но компенсировалось крепкой деловой хваткой.</Text>
+      <Gender>n/a</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="ru_RU">
+      <Text>голландск.|голландск.|голландск.|голландск.|голландск.|голландск.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="ru_RU">
+      <Text>Франция|Франции|Франции|Францию|Францией|Франции</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="ru_RU">
+      <Text>Франция|Франции|Франции|Францию|Францией|Франции</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Абсолютистская Франция, владевшая богатыми колониями в Квебеке и Африке, на исходе XVII века стала противником Англии. Постоянные войны с соседними Нидерландами держали французскую армию в тонусе.</Text>
+      <Gender>n/a</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="ru_RU">
+      <Text>французск.|французск.|французск.|французск.|французск.|французск.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="ru_RU">
+      <Text>Колониальная держава|колониальной державы|колониальной державе|колониальную державу|колониальной державой|колониальной державе</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="ru_RU">
+      <Text>Портами в регионе управляют колониальные державы. Пираты могут грабить порты или незаметно пробираться в них, чтобы заглянуть в таверну. Не стоит забывать, что колониальные державы не поощряют пиратство.</Text>
+      <Gender>n/a</Gender>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="ru_RU">
+      <Text>Король пиратов|Короля пиратов|Королю пиратов|Короля пиратов|Королём пиратов|Короле пиратов</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="ru_RU">
+      <Text>Жуткий пират|жуткого пирата|жуткому пирату|жуткого пирата|жутким пиратом|жутком пирате</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="ru_RU">
+      <Text>Капер|капера|каперу|капера|капером|капере</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="ru_RU">
+      <Text>Головорез|головореза|головорезу|головореза|головорезом|головорезе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="ru_RU">
+      <Text>Накопитель|накопителя|накопителю|накопителя|накопителем|накопителе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="ru_RU">
+      <Text>Испания|Испании|Испании|Испанию|Испанией|Испании</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="ru_RU">
+      <Text>Англия|Англии|Англии|Англию|Англией|Англии</Text>
+      <Gender>feminine</Gender>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="ru_RU">
+      <Text>Нидерланды|Нидерландов|Нидерландам|Нидерланды|Нидерландами|Нидерландах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="ru_RU">
+      <Text>Франция|Франции|Франции|Францию|Францией|Франции</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="ru_RU">
+      <Text>«Пираты»</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="ru_RU">
+      <Text>Sid Meier's Pirates — игра о грабежах, славе и приключениях в открытом море</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="ru_RU">
+      <Text>Король пиратов</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="ru_RU">
+      <Text>Станьте самым бесславным пиратом к концу игры.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="ru_RU">
+      <Text>Пиратские острова</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="ru_RU">
+      <Text>Проклятый архипелаг, где вдоволь и кладов, и коварства. А к западу — огромный массив суши. Чую в воздухе запах золота… и крови.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="ru_RU">
+      <Text>Карибские острова</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="ru_RU">
+      <Text>Испанский Мэйн и Вест-Индия XVII века. Серебряный флот регулярно вывозит мексиканское золото в Испанию, на мили опережая черные паруса.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="ru_RU">
+      <Text>Какие-то корсары ходят под флагом короля, какие-то больше всего на свете любят звон монет в кошельке, а какие-то — обожают свист ядер над морской гладью. Вы, впрочем, выше всего этого. Самая древняя и самая крепкая валюта — страх, и в этом вы разбираетесь лучше всех.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="ru_RU">
+      <Text>Наша работа — сражаться</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>+10 [ICON_Gold] золота каждый раз, когда юнит вступает в бой.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="ru_RU">
+      <Text>Прогулка по доске</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Каждый морской юнит может использовать действие «Прогулка по доске». При применении этого действия на тяжело повреждённое вражеское судно оно затапливается, а применивший его корабль получает +3 [ICON_Movement] к перемещению и +5 [Icon_Strength] к боевой мощи в течение 5 ходов. «Прогулка по доске» перезаряжается в течение 5 ходов.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="ru_RU">
+      <Text>Королевский флот и сам бы не прочь грабить города и захватывать корабли, да вот незадача: матросы и адмиралы по рукам и ногам связаны правилами, законами и соглашениями, а командиры вообще носят парики. Поэтому король вручил вам каперский патент, и теперь вы можете делать все, что не дозволено флоту. Вперед! Предайте огню врагов короны!</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="ru_RU">
+      <Text>Каперский патент|каперского патента|каперскому патенту|каперский патент|каперским патентом|каперском патенте</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Каперу случайным образом назначается покровитель из числа колониальных держав. Капер знает расположение портов своего покровителя. Разграбление торговых путей дает дополнительные +100 [ICON_Gold] золота.</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="ru_RU">
+      <Text>Захват судна</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Каждый морской юнит может использовать действие «Захват судна». При применении этого действия на тяжело повреждённое вражеское судно оно захватывается в пользу державы-покровителя капера. Захват судна даёт +5 очков пиратской славы и +100 [ICON_Gold] золота помимо обычной награды за морскую победу. «Захват судна» перезаряжается в течение 5 ходов.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="ru_RU">
+      <Text>Всегда есть риск закончить путешествие на виселице или под топором палача, но пока что вы свободны. Вы держите путь на край земли, и неважно, что там ждет — опасность или приключения. Ветер туго натягивает паруса, а жизнь прекрасна!</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="ru_RU">
+      <Text>Мореходство</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Головорез получает +1 очко пиратской славы за каждые 50 открытых клеток на карте.</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="ru_RU">
+      <Text>Идти, меняя галсы</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Все морские юниты могут идти, меняя галсы, чем удваивают свое [ICON_Movement] перемещение в течение одного хода. Способность идти, меняя галсы, восстанавливается за 6 ходов.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="ru_RU">
+      <Text>Ваш отец был банкиром, и вы в каком-то роде пошли по его стопам. Ваш трюм — хранилище для золотых слитков не хуже банковского, а ваши клиенты стабильно вносят валютные вклады, хотят они того или нет. Что дьявол, что королевский палач могут согласиться отсрочить вашу кончину на несколько лет. Вопрос только в цене.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="ru_RU">
+      <Text>Мое! Мое! Мое!</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Содержание юнита стоит на 3 меньше. +10 очков клада за закопанные сокровища. Накопитель каждый ход увеличивает свои запасы золота на 3%.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="ru_RU">
+      <Text>Цепные заряды</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>В рамках бесплатного действия все морские юниты могут использовать способность «Цепные заряды», которая на один ход лишает вражеский юнит возможности передвигаться. Эта способность перезаряжается в течение 5 ходов.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="ru_RU">
+      <Text>Буканьеры убиты</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="ru_RU">
+      <Text>Форты буканьеров разграблены</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="ru_RU">
+      <Text>Буканьеры убиты</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="ru_RU">
+      <Text>Форты буканьеров разграблены</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="ru_RU">
+      <Text>Найдены реликвии</Text>
+    </Replace>
+    <Replace Tag="LOC_BLANK_STRING" Language="ru_RU">
+      <Text></Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="zh_Hans_CN">
+      <Text>海盗王</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>黑旗船长是肆虐七大洋的灾星。谁的名字能让港口城市的小孩子乖乖闭嘴并大口吃蔬菜？毫无疑问：海盗之王。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>海盗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="zh_Hans_CN">
+      <Text>恐怖海盗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>恐怖海盗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>恐怖海盗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="zh_Hans_CN">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="zh_Hans_CN">
+      <Text>侠盗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>侠盗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>侠盗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="zh_Hans_CN">
+      <Text>财迷</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>财迷</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>财迷</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="zh_Hans_CN">
+      <Text>西班牙</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>西班牙</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>17世纪的西班牙帝国正处于鼎盛时期，他们从阿兹特克和印加帝国的遗迹中大肆搜刮黄金，并将海上贸易路线拓展到了菲律宾。哈布斯堡王朝统治的西班牙十分富有，但却深受腐败与不平等的荼毒。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>西班牙的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="zh_Hans_CN">
+      <Text>英国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>英国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>17世纪后期，英国从内战中崛起，开始了自己在加勒比海和北美的殖民扩张。在百年之中，大不列颠都是海上当之无愧的强权，但它现在的命运却岌岌可危。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>英国的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="zh_Hans_CN">
+      <Text>荷兰</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>荷兰</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>17世纪，荷兰从东印度群岛和日本获取了巨额贸易利润，与国内财富结合后，缔造了帝国的黄金时代。然而在加勒比地区，他们势单力薄……不过，荷兰人不会放走任何机会。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>荷兰的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="zh_Hans_CN">
+      <Text>法国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>法国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>17世纪落幕后，在魁北克和非洲拥有绝对统治地位和丰富资产的法国注定将成为英国的对手。与邻国荷兰持续不断的战争不仅让法国军队获得了丰富的战斗经验，更锻炼了他们的作战能力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>法国的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="zh_Hans_CN">
+      <Text>殖民势力</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>殖民势力控制着区域中的港口。海盗可以潜入港口造访酒馆，或洗劫战利品。殖民势力不会对海盗手下留情。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="zh_Hans_CN">
+      <Text>海盗王</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="zh_Hans_CN">
+      <Text>恐怖海盗</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="zh_Hans_CN">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="zh_Hans_CN">
+      <Text>侠盗</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="zh_Hans_CN">
+      <Text>财迷</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="zh_Hans_CN">
+      <Text>西班牙</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="zh_Hans_CN">
+      <Text>英国</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="zh_Hans_CN">
+      <Text>荷兰</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="zh_Hans_CN">
+      <Text>法国</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="zh_Hans_CN">
+      <Text>大海盗时代</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="zh_Hans_CN">
+      <Text>“大海盗时代”是在大洋中掠夺、冒险并争夺声望的模式。</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="zh_Hans_CN">
+      <Text>海盗之王</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="zh_Hans_CN">
+      <Text>力争在游戏结束时成为最声名狼藉的海盗。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="zh_Hans_CN">
+      <Text>海盗群岛</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>一系列暗藏财宝和背叛的诅咒岛屿，它的西边有有着繁荣昌盛的大陆。我在风中嗅到了黄金和鲜血的味道。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="zh_Hans_CN">
+      <Text>加勒比群岛</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>处于17世纪巅峰期的西属美洲大陆和西印度群岛。宝藏舰队源源不断地从墨西哥运送财宝到西班牙，而它们也是江洋大盗觊觎的目标。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="zh_Hans_CN">
+      <Text>有些海盗在王室的支持下烧杀抢掠。有些海盗是为了袋子里哗啦啦响的金币。而还有一些海盗只是喜欢静静欣赏炮弹呼啸着划过水面上空。这些你都不在乎。人心最脆弱之处便是恐惧，而你将把它释放出来。</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>我们最擅长的就是战斗</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>每1个单位进入战斗便+10 [ICON_Gold] 金币。</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>走木板</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>每艘船只都能进行“走木板”操作。用于严重受损的敌方船只，使其沉没，以换取5回合的 [ICON_Movement] 移动力+3、[Icon_Strength] 战斗力+5的效果。“走木板”冷却时间5回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="zh_Hans_CN">
+      <Text>皇家海军觊觎着海洋。他们不仅渴望掠夺城市，还希望俘虏船只。但皇家海军是按规矩办事的人哦！他们有律法、有条约，而且军官们还戴假发。所以，他们在背后给你颁发了私掠许可证。他们不方便干的脏活，就由你代劳啦。去吧，一把火烧死皇室的敌人！</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>私掠许可证</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>游戏将随机把殖民势力指定为私掠船的赞助者。私掠船知晓所有赞助者港口的位置。掠夺贸易路线额外获得100点 [ICON_Gold] 金币。</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>绑回家去</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>每艘海军船只都能进行“绑回家去”操作。对严重受损的敌方船只使用此操作即可将其俘获，献给私掠船的赞助者。使用此操作后，除常规海战胜利奖励外，还将+5极恶海盗点数、+100 [ICON_Gold] 金币。“绑回家去”冷却时间5回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="zh_Hans_CN">
+      <Text>海盗生涯可能在绞架或断头台上终结，但现在的你像海风一样自由。你向着天际扬帆远航，誓要掠走那里的一切。无论等待着是财宝还是危险，你都在所不惜。那海风让人神清气爽，满帆起航吧！</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>遨游大洋</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>地图上每有50个已显示的格位，侠盗便+1极恶海盗点数。</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>破风前行</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>所有海军单位可以破风前行，使 [ICON_Movement] 移动力加倍。效果持续1回合，冷却时间6回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="zh_Hans_CN">
+      <Text>你父辈的营生便是放钱，而你自己也算得上是这类人。哪里有金子，你便跟着它的味道追到哪里，其他人只得望风而逃。只要献上白花花的银子，死神和阎王也愿意让你多活几年。</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>财宝都是我的！</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>单位维护费用-3。埋藏宝藏获得的宝藏点数+10。财迷每回合将获得金币储量的3%作为利息。</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>铁链困锁</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>所有海军单位都能使用“铁链困锁”能力（不消耗移动力）将1个单位困在原地1回合。冷却时间5回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="zh_Hans_CN">
+      <Text>已击杀残暴海盗</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="zh_Hans_CN">
+      <Text>已掠夺残暴海盗堡垒</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="zh_Hans_CN">
+      <Text>已击杀残暴海盗</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="zh_Hans_CN">
+      <Text>已掠夺残暴海盗堡垒</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="zh_Hans_CN">
+      <Text>已找到遗物</Text>
+    </Replace>
+    <Replace Tag="LOC_BLANK_STRING" Language="zh_Hans_CN">
+      <Text></Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="es_ES">
+      <Text>Rey pirata</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="es_ES">
+      <Text>El almirante de la flota negra. El azote de los siete mares. La razón por la cual los niños de las ciudades portuarias callan y se comen la verdura. El rey pirata.</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="es_ES">
+      <Text>pirata|pirata|piratas|piratas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="es_ES">
+      <Text>Pirata temible|Piratas temibles</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="es_ES">
+      <Text>Pirata temible</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="es_ES">
+      <Text>de los piratas temibles|de los piratas temibles|de los piratas temibles|de los piratas temibles</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="es_ES">
+      <Text>Corsario|Corsarios</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="es_ES">
+      <Text>Corsario</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="es_ES">
+      <Text>de los corsarios|de los corsarios|de los corsarios|de los corsarios</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="es_ES">
+      <Text>Espadachín|Espadachines</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="es_ES">
+      <Text>Espadachín</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="es_ES">
+      <Text>de los espadachines|de los espadachines|de los espadachines|de los espadachines</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="es_ES">
+      <Text>Acaparador|Acaparadores</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="es_ES">
+      <Text>Acaparador</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="es_ES">
+      <Text>de los acaparadores|de los acaparadores|de los acaparadores|de los acaparadores</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="es_ES">
+      <Text>España</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="es_ES">
+      <Text>España</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>En el siglo XVII, el Imperio español estaba en su apogeo y sacaba oro de los restos de los imperios azteca e inca y enviaba galeones a Oriente, hacia las Filipinas. La España de los Habsburgo era rica, pero estaba plagada de corrupción y desigualdad.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="es_ES">
+      <Text>español|española|españoles|españolas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="es_ES">
+      <Text>Inglaterra</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="es_ES">
+      <Text>Inglaterra</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Al salir de la Guerra Civil, a finales del siglo XVII, Inglaterra comenzaba su propia expansión colonial en el Caribe y en América del Norte. En un siglo, Britania reinaría en los mares, pero en aquel momento su destino pendía de un hilo.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="es_ES">
+      <Text>inglés|inglesa|ingleses|inglesas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="es_ES">
+      <Text>Holanda</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="es_ES">
+      <Text>Holanda</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>El siglo XVII fue la Edad de Oro para el Imperio holandés, ya que las ganancias debidas al comercio con las Indias Orientales y Japón se combinaron con la riqueza en el país. Sin embargo, en el Caribe, eran una potencia marginal... pero dispuesta a aprovechar cualquier oportunidad.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="es_ES">
+      <Text>holandés|holandesa|holandeses|holandesas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="es_ES">
+      <Text>Francia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="es_ES">
+      <Text>Francia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Francia, con sus monarcas absolutos y sus ricas posesiones en el Quebec y África, se convertiría en el rival de Inglaterra a medida que el siglo XVII avanzaba. Las guerras constantes con sus vecinos holandeses significaron que el ejército francés estaba curtido en combate y sabía lo que se hacía.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="es_ES">
+      <Text>francés|francesa|franceses|francesas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="es_ES">
+      <Text>Potencia colonial</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="es_ES">
+      <Text>Las potencias coloniales controlan los puertos de la zona. Los piratas pueden colarse en ellos para visitar una taberna o saquear el puerto y conseguir un gran botín. Las potencias coloniales no se toman muy bien la piratería.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="es_ES">
+      <Text>Rey pirata</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="es_ES">
+      <Text>Pirata temible|Piratas temibles</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="es_ES">
+      <Text>Corsario|Corsarios</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="es_ES">
+      <Text>Espadachín|Espadachines</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="es_ES">
+      <Text>Acaparador|Acaparadores</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="es_ES">
+      <Text>España</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="es_ES">
+      <Text>Inglaterra</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="es_ES">
+      <Text>Holanda</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="es_ES">
+      <Text>Francia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="es_ES">
+      <Text>Piratas</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="es_ES">
+      <Text>Piratas va sobre saquear, conseguir fama y vivir aventuras en alta mar.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="es_ES">
+      <Text>El rey de los piratas</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="es_ES">
+      <Text>Sé el pirata con peor fama al final de la partida.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="es_ES">
+      <Text>Islas piratas</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="es_ES">
+      <Text>Una cadena de islas malditas llenas de tesoros y traiciones con una densa y rica masa de tierra hacia poniente. Huelo oro en las olas. Y sangre.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="es_ES">
+      <Text>Islas Caribe</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="es_ES">
+      <Text>Las tierras españolas y las Indias Occidentales en el apogeo del siglo XVII. Las flotas del tesoro llevan el oro mexicano a España, yendo un palmo por delante de las velas negras.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="es_ES">
+      <Text>Algunos corsarios navegan bajo la bandera de un rey. Otros surcan los mares para escuchar el tintineo de los doblones de a ocho en un cofre. A otros solo les gusta escuchar las balas de cañón volando sobre las olas. Tú ya te has hartado de esas tonterías. La moneda más antigua y poderosa es el miedo, y ese es tu oficio.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="es_ES">
+      <Text>Luchar es lo que mejor se nos da</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>+10 de Oro [ICON_Gold] cada vez que una unidad entabla combate.</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="es_ES">
+      <Text>Caminar por el tablón</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Todos los barcos tienen la acción de unidad Caminar por el tablón. Esta se puede usar con un barco enemigo muy maltrecho para hundirlo a cambio de +3 al Movimiento [ICON_Movement] y +5 a la Fuerza de combate [Icon_Strength] durante 5 turnos. La habilidad Caminar por el tablón tarda 5 turnos en recargarse.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="es_ES">
+      <Text>La Marina Real tiene objetivos en la mar: ciudades que deben saquearse, barcos que deben capturarse. Pero también tiene normas, leyes y tratados, y sus oficiales llevan peluca. Así que te dan una patente de corso para que hagas cosas que ellos no pueden. ¡Ve y prende fuego a los enemigos de la Corona!</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="es_ES">
+      <Text>Patente de corso</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>El Corsario tiene como patrona a una potencia colonial que se asigna al azar. El Corsario conoce la ubicación de todos los puertos de esta. Saquear las rutas comerciales da 100 de Oro [ICON_Gold] adicionales.</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="es_ES">
+      <Text>Traedlo a casa</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Todos los barcos tienen la acción de unidad Traedlo a casa. Esta acción se puede usar con los barcos enemigos maltrechos para capturarlos para el patrón del Corsario. Utilizarla da +5 puntos de pirata famoso y +100 de Oro [ICON_Gold], además de las recompensas normales por victoria naval. La habilidad Traedlo a casa tarda 5 turnos en recargarse.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="es_ES">
+      <Text>El viaje puede terminar en el patíbulo o en cualquier calabozo de mala muerte, pero por ahora eres libre. Navegas para descubrir el horizonte y encontrar y apoderarte de lo que haya allí, ya sea un tesoro o un peligro. ¡Sí, que el viento te acompañe y tus velas se hinchen!</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="es_ES">
+      <Text>Navegar por mar abierto</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>El Espadachín gana +1 punto de pirata famoso por cada 50 casillas que revele en el mapa.</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="es_ES">
+      <Text>Dar bordadas</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Todas las unidades navales pueden Dar bordadas para doblar su Movimiento [ICON_Movement] durante un turno. Se tarda 6 turnos en recargar la habilidad Dar bordadas.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="es_ES">
+      <Text>Tu padre era banquero, y tú también lo eres, en cierta forma. Tu reino es la cámara donde van los lingotes, y que sean otros los que retiren fondos. Serías capaz de convencer al diablo y al mismísimo Pedro Botero de que te dieran unos años más, si pagaras el precio.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="es_ES">
+      <Text>¡Mío! ¡Mío! ¡Mío!</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>El coste de mantenimiento de la unidad se reduce en 3. +10 puntos de tesoro por enterrar tesoros. El Acaparador recibe un 3% de interés por sus reservas de oro cada turno.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="es_ES">
+      <Text>Disparo encadenante</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Como acción gratuita, todas las unidades navales pueden usar la habilidad Disparo encadenante para inmovilizar a una unidad durante un turno. Cuesta 5 turnos recargar esta habilidad.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="es_ES">
+      <Text>Bucaneros muertos</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="es_ES">
+      <Text>Fuertes de bucaneros saqueados</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="es_ES">
+      <Text>Bucaneros muertos</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="es_ES">
+      <Text>Fuertes de bucaneros saqueados</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="es_ES">
+      <Text>Reliquias encontradas</Text>
+    </Replace>
+    <Replace Tag="LOC_BLANK_STRING" Language="es_ES">
+      <Text></Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="zh_Hant_HK">
+      <Text>海盜王</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>統領黑旗之元帥，七海之天譴。各港都的孩童能夠安安靜靜並乖乖吃下蔬菜的理由，海盜之王。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>海盜</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="zh_Hant_HK">
+      <Text>嚇人海盜</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>嚇人海盜</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>嚇人海盜</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME" Language="zh_Hant_HK">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="zh_Hant_HK">
+      <Text>俠盜</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>俠盜</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>俠盜</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME" Language="zh_Hant_HK">
+      <Text>囤貨者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>囤貨者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>囤貨者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME" Language="zh_Hant_HK">
+      <Text>西班牙</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>西班牙</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>十七世紀的西班牙帝國躬逢其盛，從阿茲特克與印加兩帝國的殘存中汲取黃金，並將蓋倫帆船一艘艘東渡到菲律賓。哈布斯堡的西班牙十分富有，卻身負貪腐與不公平。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>西班牙的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME" Language="zh_Hant_HK">
+      <Text>英國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>英國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在英國內戰後崛起的英格蘭，於十七世紀晚期開始了自身的殖民擴張，範圍自加勒比海達北美。一個世紀中，大不列顛引領浪頭，但現在它命懸一線。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>英國的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="zh_Hant_HK">
+      <Text>荷蘭</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>荷蘭</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>十七世紀可謂是荷蘭帝國的黃金年代，財富自東印度與日本的貿易利潤與本土家園的積蓄兩者合併聚積。在加勒比海，他們卻是邊陲勢力...但隨時維持伺機而動。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>荷蘭的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME" Language="zh_Hant_HK">
+      <Text>法國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>法國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>法蘭西，以其絕對專制君權和魁北克及非洲的各富裕據點，在十七世紀步向尾聲之時已經準備和英格蘭一較高下。與鄰居荷蘭持續不輟的戰爭，表明了法國軍事已飽經實戰測試且足以披靡。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>法國的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME" Language="zh_Hant_HK">
+      <Text>殖民勢力</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>殖民勢力據有這一區的各港口。海盜可以潛入去造訪酒館，或是掠奪港口以取得貴重戰利品。殖民勢力對海盜行為下手可不輕。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME" Language="zh_Hant_HK">
+      <Text>海盜王</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME" Language="zh_Hant_HK">
+      <Text>嚇人海盜</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME" Language="zh_Hant_HK">
+      <Text>私掠船</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME" Language="zh_Hant_HK">
+      <Text>俠盜</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME" Language="zh_Hant_HK">
+      <Text>囤貨者</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME" Language="zh_Hant_HK">
+      <Text>西班牙</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME" Language="zh_Hant_HK">
+      <Text>英國</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME" Language="zh_Hant_HK">
+      <Text>荷蘭</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME" Language="zh_Hant_HK">
+      <Text>法國</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TITLE" Language="zh_Hant_HK">
+      <Text>海賊大時代</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_RULESET_TEASER" Language="zh_Hant_HK">
+      <Text>《海賊大時代》是關於在五湖四海爭奪財富、名聲並且展開冒險旅程的模式。</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_TITLE" Language="zh_Hant_HK">
+      <Text>海盜王</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_VICTORY_DESC" Language="zh_Hant_HK">
+      <Text>在遊戲結束時成為最具惡名的海盜。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS" Language="zh_Hant_HK">
+      <Text>海盜群島</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>一串充斥著財寶與背叛的詛咒島鏈，在西邊有著繁榮昌盛的大陸。我在浪頭上嗅到了黃金，還有血腥。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN" Language="zh_Hant_HK">
+      <Text>加勒比海群島</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>西班牙佔領的大陸與西印度群島位居十七世紀的巔峰。珍寶艦隊迅速潛運墨西哥黃金去到西班牙，始終領先那些打著黑旗的一個船椼的距離。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO" Language="zh_Hant_HK">
+      <Text>有些出海的是打著國王的旗號的海盜，有人出海是為了一聽箱櫃裡那些西班牙銀幣噹啷作響，有人出海是則為了聽聽砲彈破浪而過，而你已經歷這諸般瑣事。最古老亦最強大的貨幣即是恐懼，正是你經手的生意。</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>戰鬥是我們的天職</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>每當1個單位參與戰鬥即+10 [ICON_Gold] 金幣。</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>餵鯊魚處決</Text>
+    </Replace>
+    <Replace Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>每個海軍船隻都擁有「餵鯊魚處決」的單位行動。可以對任何嚴重損壞的敵方船隻使用此行動，以將之擊沉海底，藉此換取5回合+3 [ICON_Movement] 移動力和+5 [Icon_Strength] 戰鬥力。「餵鯊魚處決」重新充能需要5回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO" Language="zh_Hant_HK">
+      <Text>皇家海軍覬覦著海洋——不僅要劫掠城市，還要捕獲船隊。但是皇家海軍有制度，有法紀，有條約，而且他們的軍官可都是配假髮的。所以他們才給了你私掠許可證，所以你才能去幹那些他們不能幹的活。去吧，將皇家的敵人推向火焰！</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>私掠許可證</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>遊戲會隨機為私掠船指派殖民勢力作為資助國。私掠船知道其資助國所有的港口位置，掠奪貿易路線時可獲得額外100點 [ICON_Gold] 金幣。</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>綁她回家</Text>
+    </Replace>
+    <Replace Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>每艘海軍船隻都有「綁她回家」的單位行動。其可用於嚴重毀損的敵方船隻，將其捕獲並獻給私掠船資助國。使用此行動後，除一般的海戰勝利獎勵之外，還賦予+5極惡海盜點數和+100 [ICON_Gold] 金幣。「綁她回家」重新充能需要5回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO" Language="zh_Hant_HK">
+      <Text>此次旅途或許會在絞刑台或是行刑甲板上結束，但現在，你自由了。你要航向地平線背後，去找尋並佔有那頭所有的一切，無論是財寶或是災厄。唉呀，願海風澄澄，你順風滿帆！</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>航向廣闊海洋</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>地圖上每顯示50個單元格位，俠盜便+1極惡海盜點數。</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>迎風換舷</Text>
+    </Replace>
+    <Replace Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>所有海軍單位可使用「迎風換舷」將 [ICON_Movement] 移動力加倍。效果持續1回合，重新充能需要6回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_HOARDER_SCENARIO" Language="zh_Hant_HK">
+      <Text>你老爺子的生意是做銀行的，那麼你也算是個銀行家之流了。你看管著那收有金條銀條的金庫，也盯著別人的等著收穫那刻的成熟。惡魔與劊子手也許都被說服了要多放你再活幾年，因你付出了正確的價錢。</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>我的！我的！都是我的！</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>單位維護費用-3。埋藏寶藏獲得的寶藏點數+10。囤貨者每回合可獲得金幣儲備的3%作為利息。</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>鏈鎖砲彈</Text>
+    </Replace>
+    <Replace Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>無須耗費行動點數，所有海軍單位可使用鏈鎖砲彈能力將1個單位困在原地1回合。重新充能需要5回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_KILLED" Language="zh_Hant_HK">
+      <Text>已擊殺海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_BUCCANEERS_FORTS" Language="zh_Hant_HK">
+      <Text>已掠奪海賊堡壘</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED" Language="zh_Hant_HK">
+      <Text>已擊殺海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS" Language="zh_Hant_HK">
+      <Text>已掠奪海賊堡壘</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RELICS" Language="zh_Hant_HK">
+      <Text>已找到遺物</Text>
+    </Replace>
+    <Replace Tag="LOC_BLANK_STRING" Language="zh_Hant_HK">
+      <Text></Text>
+    </Replace>
+  </LocalizedText>
+</GameData>
